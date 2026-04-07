@@ -1,0 +1,105 @@
+# =============================
+# OS / Editor
+# =============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =============================
+# Python
+# =============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# =============================
+# Jupyter / Kaggle artifacts
+# =============================
+.ipynb_checkpoints/
+
+# Keep notebooks in repo (for Kaggle), but ignore heavy outputs/checkpoints
+**/checkpoints/
+**/runs/
+**/wandb/
+**/mlruns/
+
+# =============================
+# ML models / large artifacts
+# =============================
+# Binary model files
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+*.tflite
+*.h5
+*.keras
+
+# Archives and large bundles
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Generated media / datasets
+*.mp4
+*.mov
+*.avi
+*.webm
+*.gif
+*.tif
+*.tiff
+
+# Common data/output dirs
+outputs/
+logs/
+artifacts/
+cache/
+.tmp/
+frontend/
+dataset/
+dataset_processed/
+# If you want to keep folder structure, place .gitkeep in them
+!outputs/.gitkeep
+
+# =============================
+# Frontend
+# =============================
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.cache/
+
+# =============================
+# Cursor / local tooling
+# =============================
+.cursor/
+
+# =============================
+# Optional: keep lightweight configs/examples
+# =============================
+!requirements.txt
+!frontend/package.json
+!frontend/package-lock.json
