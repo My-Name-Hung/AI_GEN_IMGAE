@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "QUANG THIÊN" bằng chữ cái màu trắng đậm trên nền xanh dương sáng. Phía trên tên công ty có một biểu tượng đối xứng gồm hai hình chữ X và các đường thẳng song song ở giữa, tạo thành một mô típ trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng đối xứng với hai chữ X và đường kẻ song song, bố cục chữ nhật dọc
+- Kiểu chữ: Font chữ in hoa, đậm, hiện đại, không chân
+- Bảng màu: Xanh dương sáng làm nền, chữ và biểu tượng màu trắng
+- Nền: Màu xanh dương đồng nhất
+- Phong cách: Tối giản, hiện đại, đối xứng
+- Tông điệu: Chuyên nghiệp, tin cậy, năng động
+
+---
+
+Visual Description:
+The logo displays "QUANG THIÊN" in bold white letters on a bright blue background. Above the company name is a symmetrical symbol consisting of two X shapes and parallel lines in the center, forming a decorative motif.
+
+Design Elements:
+- Shape: Symmetrical icon with two X's and parallel lines, vertical rectangular layout
+- Typography: Bold, modern, sans-serif uppercase letters
+- Color Palette: Bright blue background with white text and symbol
+- Background: Solid bright blue
+- Style: Minimalist, modern, symmetrical
+- Mood: Professional, trustworthy, dynamic

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh cốc bia cách điệu với bọt bia trắng ở trên và thân cốc có màu vàng cam gradient. Bên cạnh là chữ "Storage" màu nâu đậm và dòng chữ "BEER BAR" nhỏ hơn bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Cốc bia với quai cầm và bọt bia, thiết kế đơn giản hóa
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa cho "BEER BAR"
+- Bảng màu: Nâu đậm, vàng cam gradient, trắng cho bọt bia
+- Nền: Xanh dương nhạt
+- Phong cách: Hiện đại, tối giản, biểu tượng
+- Tông điệu: Thân thiện, ấm áp, hấp dẫn
+
+---
+
+Visual Description:
+The logo features a stylized beer mug icon with white foam on top and a yellow-orange gradient body. Next to it is the text "Storage" in dark brown and smaller "BEER BAR" text below.
+
+Design Elements:
+- Shape: Beer mug with handle and foam, simplified design
+- Typography: Modern sans-serif, uppercase for "BEER BAR"
+- Color Palette: Dark brown, yellow-orange gradient, white foam
+- Background: Light blue
+- Style: Modern, minimalist, iconic
+- Mood: Friendly, warm, inviting

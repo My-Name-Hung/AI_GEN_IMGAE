@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện số "3" được thiết kế với hai hình tròn chồng lên nhau tạo thành dạng khuyết. Hình tròn trên có màu cam/hồng gradient, hình tròn dưới có màu xanh cyan, tất cả được đặt trong khung chữ số 3 màu tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Số 3 được tạo từ hai hình tròn chồng lên nhau
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Tím gradient, cam/hồng gradient, xanh cyan, trắng
+- Nền: Trong suốt
+- Phong cách: Hiện đại, tối giản, gradient
+- Tông điệu: Sáng tạo, trẻ trung, năng động
+
+---
+
+Visual Description:
+The logo depicts the number "3" designed with two overlapping circles that create negative space. The upper circle has an orange/pink gradient, the lower circle is cyan blue, all contained within a purple number 3 frame.
+
+Design Elements:
+- Shape: Number 3 formed by two overlapping circles
+- Typography: None (icon only)
+- Color Palette: Purple gradient, orange/pink gradient, cyan blue, white
+- Background: Transparent
+- Style: Modern, minimalist, gradient
+- Mood: Creative, youthful, dynamic

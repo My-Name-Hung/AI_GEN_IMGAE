@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "In-Ex Architects" với một biểu tượng hình học đơn giản ở phía trên. Biểu tượng có dạng như một cấu trúc kiến trúc trừu tượng với các đường nét góc cạnh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học trừu tượng giống cấu trúc kiến trúc, chữ được sắp xếp theo chiều ngang
+- Kiểu chữ: Font chữ hiện đại, sans-serif, đơn giản và rõ ràng
+- Bảng màu: Màu vàng đồng/cam nhạt cho biểu tượng, chữ màu đen
+- Nền: Trong suốt/trắng
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sang trọng, đáng tin cậy, tinh tế
+
+---
+
+Visual Description:
+The logo displays "In-Ex Architects" with a simple geometric icon above it. The icon appears as an abstract architectural structure with angular lines and geometric forms.
+
+Design Elements:
+- Shape: Abstract geometric icon resembling architectural structure, horizontally arranged text
+- Typography: Modern, sans-serif font that is clean and legible
+- Color Palette: Golden/light orange for the icon, black text
+- Background: Transparent/white
+- Style: Minimalist, modern, professional
+- Mood: Sophisticated, trustworthy, refined

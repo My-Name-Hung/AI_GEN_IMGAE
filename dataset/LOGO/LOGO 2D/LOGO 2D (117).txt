@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả hai bàn tay stylized tạo thành hình dạng uốn lượn, với bàn tay trên có màu gradient từ xanh dương sang xanh lá cây và bàn tay dưới có màu gradient từ cam sang hồng. Bên dưới là tên thương hiệu "HelpingHand" được viết bằng font chữ đậm màu xanh navy, kèm theo tagline mô tả sứ mệnh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai bàn tay cách điệu, uốn lượn tạo cảm giác bảo vệ và hỗ trợ
+- Kiểu chữ: Font sans-serif đậm, hiện đại cho tên thương hiệu và font nhỏ hơn cho tagline
+- Bảng màu: Gradient xanh dương-xanh lá, gradient cam-hồng, xanh navy cho chữ
+- Nền: Trắng, sạch sẽ
+- Phong cách: Hiện đại, tối giản, biểu tượng
+- Tông điệu: Ấm áp, hỗ trợ, nhân văn, tích cực
+
+---
+
+Visual Description:
+The logo depicts two stylized hands forming curved, flowing shapes, with the upper hand featuring a blue-to-green gradient and the lower hand displaying an orange-to-pink gradient. Below the icon is the "HelpingHand" brand name in bold navy font, accompanied by a descriptive tagline.
+
+Design Elements:
+- Shape: Two stylized hands in curved, flowing forms suggesting protection and support
+- Typography: Bold, modern sans-serif font for brand name and smaller font for tagline
+- Color Palette: Blue-to-green gradient, orange-to-pink gradient, navy blue text
+- Background: Clean white background
+- Style: Modern, minimalist, symbolic
+- Mood: Warm, supportive, humanitarian, positive

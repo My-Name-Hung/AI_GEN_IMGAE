@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng bên trái với các mảnh màu cam và đỏ xếp thành hình tròn, giống như một bánh xe hoặc hoa hướng dương cách điệu. Bên phải là tên thương hiệu "solex" được viết bằng chữ thường màu trắng với font chữ hiện đại, sạch sẽ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon hình tròn với các phân đoạn góc cạnh, kiểu geometric
+- Kiểu chữ: Sans-serif hiện đại, chữ thường, đơn giản
+- Bảng màu: Cam, đỏ, trắng
+- Nền: Màu xám đen đậm
+- Phong cách: Hiện đại, tối giản, geometric
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon on the left consisting of orange and red angular segments arranged in a circular pattern, resembling a stylized wheel or sunflower. To the right is the brand name "solex" written in lowercase white letters with a clean, modern typeface.
+
+Design Elements:
+- Shape: Circular icon with angular segments, geometric style
+- Typography: Modern sans-serif, lowercase, clean
+- Color Palette: Orange, red, white
+- Background: Dark charcoal gray
+- Style: Modern, minimalist, geometric
+- Mood: Professional, dynamic, technological

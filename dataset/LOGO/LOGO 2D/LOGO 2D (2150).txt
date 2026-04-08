@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng đơn giản với các thanh ngang màu xanh lá cây ở nhiều tông độ khác nhau được sắp xếp thành hai cột. Bên dưới là tên thương hiệu "DUY MANH" bằng chữ in hoa màu đen đậm, kèm theo dòng chữ phụ "CHƯƠNG TRÌNH INTERNET" màu xanh lá nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Các thanh ngang bo tròn sắp xếp thành hai cột đối xứng
+- Kiểu chữ: Chữ sans-serif đậm cho tên chính, chữ nhỏ hơn cho slogan
+- Bảng màu: Xanh lá cây (nhiều tông độ), đen, xám nhạt
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, sạch sẽ, thân thiện
+
+---
+
+Visual Description:
+The logo features a simple icon with horizontal bars in various shades of green arranged in two columns. Below is the brand name "DUY MANH" in bold black uppercase letters, accompanied by the tagline "CHƯƠNG TRÌNH INTERNET" in lighter green text.
+
+Design Elements:
+- Shape: Rounded horizontal bars arranged in two symmetrical columns
+- Typography: Bold sans-serif for main name, smaller text for tagline
+- Color Palette: Green (multiple tones), black, light gray
+- Background: White/transparent
+- Style: Minimalist, modern, tech-oriented
+- Mood: Professional, clean, approachable

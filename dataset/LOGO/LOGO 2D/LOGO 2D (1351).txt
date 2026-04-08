@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình trái tim màu trắng được đặt trên nền đen. Phần dưới của trái tim có các đường ngang tạo hiệu ứng phản chiếu như trên mặt nước.
+
+Yếu tố Thiết kế:
+- Hình dạng: Trái tim với hiệu ứng phản chiếu sóng nước
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng và đen (tương phản cao)
+- Nền: Nền đen hoàn toàn
+- Phong cách: Tối giản, biểu tượng, hiện đại
+- Tông điệu: Lãng mạn, yên bình, tinh tế
+
+---
+
+Visual Description:
+The logo features a white heart shape positioned on a black background. The bottom portion of the heart displays horizontal lines creating a water reflection effect.
+
+Design Elements:
+- Shape: Heart with water ripple reflection effect
+- Typography: None (icon only)
+- Color Palette: White and black (high contrast)
+- Background: Solid black
+- Style: Minimalist, symbolic, modern
+- Mood: Romantic, peaceful, elegant

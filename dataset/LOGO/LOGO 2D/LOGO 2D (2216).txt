@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có chữ viết tắt "TL" được đặt trong một hình tròn trắng ở bên trái. Bên cạnh là dòng chữ "TÔ CHÚC VÌ TƯƠNG LAI" được sắp xếp thành hai hàng với font chữ sans-serif đơn giản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn chứa monogram và layout ngang
+- Kiểu chữ: Sans-serif đơn giản, in hoa, khoảng cách chữ rộng
+- Bảng màu: Đỏ đô và trắng
+- Nền: Màu đỏ đô đồng nhất
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Mạnh mẽ, tin cậy, chính thức
+
+---
+
+Visual Description:
+The logo features the letters "TL" enclosed in a white circle on the left side. Adjacent to it is the text "TÔ CHÚC VÌ TƯƠNG LAI" arranged in two lines with simple sans-serif typography.
+
+Design Elements:
+- Shape: Circular monogram with horizontal layout
+- Typography: Simple sans-serif, uppercase, wide letter spacing
+- Color Palette: Burgundy red and white
+- Background: Solid burgundy red
+- Style: Minimalist, modern, professional
+- Mood: Strong, trustworthy, formal

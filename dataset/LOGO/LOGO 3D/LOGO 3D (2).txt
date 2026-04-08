@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng máy bay giấy màu trắng được đặt trong một hình tròn xanh dương, toàn bộ được thiết kế dưới dạng 3D với khung viền trắng dày. Biểu tượng có hiệu ứng đổ bóng và được đặt trên nền xanh dương đồng nhất.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông bo góc 3D với tâm tròn, chứa biểu tượng máy bay giấy
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương chủ đạo, trắng cho khung và biểu tượng
+- Nền: Xanh dương gradient
+- Phong cách: 3D, hiện đại, minimalist, isometric
+- Tông điệu: Chuyên nghiệp, công nghệ, giao tiếp
+
+---
+
+Visual Description:
+The logo displays a white paper airplane icon placed within a blue circle, designed as a 3D element with a thick white frame. The icon features shadow effects and is positioned on a uniform blue background.
+
+Design Elements:
+- Shape: 3D rounded square with circular center, containing paper airplane symbol
+- Typography: None (icon only)
+- Color Palette: Dominant blue, white for frame and icon
+- Background: Blue gradient
+- Style: 3D, modern, minimalist, isometric
+- Mood: Professional, technological, communicative

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình chữ nhật màu đen với chữ "SONG PHI" lớn màu xanh dương nổi bật ở trung tâm. Bên dưới là dòng chữ nhỏ "PHỤ TÙNG XE HƠI" màu đen trên nền trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật ngang với khung đen
+- Kiểu chữ: Phông chữ sans-serif đậm, chữ in hoa
+- Bảng màu: Xanh dương, đen, trắng
+- Nền: Nền đen cho phần chính, nền trắng cho slogan
+- Phong cách: Hiện đại, đơn giản, tương phản cao
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a black rectangular frame with bold blue text "SONG PHI" prominently displayed in the center. Below is smaller black text reading "PHỤ TÙNG XE HƠI" on a white background.
+
+Design Elements:
+- Shape: Horizontal rectangular frame with black border
+- Typography: Bold sans-serif font, all caps
+- Color Palette: Blue, black, white
+- Background: Black background for main text, white for tagline
+- Style: Modern, minimalist, high contrast
+- Mood: Strong, professional, trustworthy

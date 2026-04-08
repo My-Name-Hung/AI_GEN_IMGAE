@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng ổ khóa màu hồng với lỗ khóa ở trung tâm, đặt bên trái văn bản "An Thinh" bằng màu xám. Phía dưới tên thương hiệu có dòng chữ phụ "Bảo mật trực tuyến" bằng font chữ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng ổ khóa hình chữ nhật bo tròn với móc khóa phía trên
+- Kiểu chữ: Font chữ sans-serif hiện đại, clean
+- Bảng màu: Hồng đậm cho icon, xám cho văn bản
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, flat design
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, bảo mật
+
+---
+
+Visual Description:
+The logo features a pink padlock icon with a keyhole in the center, positioned to the left of gray text reading "An Thinh". Below the brand name is smaller subtitle text "Bảo mật trực tuyến" in a lighter font weight.
+
+Design Elements:
+- Shape: Rounded rectangular padlock with curved shackle on top
+- Typography: Modern sans-serif font, clean and readable
+- Color Palette: Bright pink for icon, gray for text
+- Background: White/transparent
+- Style: Minimalist, modern, flat design
+- Mood: Professional, trustworthy, secure

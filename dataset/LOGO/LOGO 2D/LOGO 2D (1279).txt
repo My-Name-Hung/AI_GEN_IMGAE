@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng chiếc khiên bảo vệ với màu xanh dương gradient từ đậm đến nhạt. Ở trung tâm khiên có một hình kim cương màu trắng được tạo từ các đường cong và gradient tạo hiệu ứng 3D.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khiên bảo vệ với hình kim cương trung tâm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương gradient (từ đậm đến nhạt) và trắng
+- Nền: Trong suốt
+- Phong cách: Hiện đại, gradient 3D, tối giản
+- Tông điệu: Bảo mật, tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a shield shape with a blue gradient that transitions from dark to light blue. At the center of the shield is a white diamond shape created with curved lines and gradient effects that give it a 3D appearance.
+
+Design Elements:
+- Shape: Shield with central diamond
+- Typography: None (icon only)
+- Color Palette: Blue gradient (dark to light) and white
+- Background: Transparent
+- Style: Modern, 3D gradient, minimalist
+- Mood: Secure, trustworthy, professional

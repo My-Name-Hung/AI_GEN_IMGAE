@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "NHÀ THỜ CON GÀ" được sắp xếp thành hai hàng với kiểu chữ hiện đại, không serif. Hai đường cong trang trí màu vàng/cam nhạt được đặt ở phía trên và dưới dòng chữ, tạo thành khung bao quanh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ được sắp xếp theo khối chữ nhật với các đường cong trang trí
+- Kiểu chữ: Sans-serif hiện đại, đơn giản, chữ hoa
+- Bảng màu: Chữ màu xám đậm, đường trang trí màu vàng/cam nhạt
+- Nền: Màu xám nhạt/be
+- Phong cách: Tối giản, thanh lịch, cân đối
+- Tông điệu: Trang trọng, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the text "NHÀ THỜ CON GÀ" arranged in two lines with modern, sans-serif typography. Two decorative curved lines in light yellow/orange are positioned above and below the text, creating a framing effect.
+
+Design Elements:
+- Shape: Text arranged in rectangular block with decorative curved elements
+- Typography: Modern sans-serif, simple, uppercase letters
+- Color Palette: Dark gray text with light yellow/orange decorative elements
+- Background: Light gray/beige
+- Style: Minimalist, elegant, balanced
+- Mood: Dignified, refined, professional

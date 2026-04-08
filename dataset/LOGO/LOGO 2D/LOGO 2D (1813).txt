@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng ở bên trái với hai hình tam giác màu hồng và xanh dương được kết nối bởi một đường thẳng, kèm theo chữ "meetsync" bằng font chữ đậm màu đen. Thiết kế tạo cảm giác về sự kết nối và đồng bộ hóa thông qua các yếu tố hình học đơn giản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon hình học với hai tam giác và đường kết nối, chữ viết thường
+- Kiểu chữ: Font sans-serif đậm, hiện đại
+- Bảng màu: Xanh dương sáng, hồng magenta, đen
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon on the left consisting of two triangular shapes in pink and blue connected by a line, alongside the text "meetsync" in bold black typography. The design conveys connectivity and synchronization through simple geometric elements.
+
+Design Elements:
+- Shape: Geometric icon with two triangles and connecting line, lowercase text
+- Typography: Bold, modern sans-serif font
+- Color Palette: Bright blue, magenta pink, black
+- Background: White/transparent
+- Style: Minimalist, modern, geometric
+- Mood: Professional, dynamic, technological

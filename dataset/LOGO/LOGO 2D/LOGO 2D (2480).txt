@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình vuông bo góc với các đường cong và hình học bên trong tạo thành hoa văn đối xứng. Bên dưới là dòng chữ "Ký thuật số Khánh Thành" và slogan "Ngân hàng Thế hệ Tiếp theo".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông bo góc với các đường cong hình học bên trong
+- Kiểu chữ: Sans-serif hiện đại, in thường
+- Bảng màu: Gradient xanh dương và xanh cyan trên nền tím đậm
+- Nền: Gradient tím từ đậm đến nhạt
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sáng tạo
+
+---
+
+Visual Description:
+The logo features a rounded square icon with curved geometric patterns inside that form a symmetrical design. Below it is the text "Ký thuật số Khánh Thành" with the tagline "Ngân hàng Thế hệ Tiếp theo".
+
+Design Elements:
+- Shape: Rounded square with curved geometric patterns inside
+- Typography: Modern sans-serif, lowercase styling
+- Color Palette: Blue and cyan gradient on deep purple background
+- Background: Purple gradient from dark to light
+- Style: Modern, minimalist, technological
+- Mood: Professional, trustworthy, innovative

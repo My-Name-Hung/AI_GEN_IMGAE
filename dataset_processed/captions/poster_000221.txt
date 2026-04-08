@@ -1,0 +1,1 @@
+poster_style, Một green paint roller với một màu trắng nền. title: a green paint roller with a white background

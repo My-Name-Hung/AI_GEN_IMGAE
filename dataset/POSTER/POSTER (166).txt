@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo này hiển thị một poster quảng cáo tuyển dụng với gam màu đỏ chủ đạo. Hình ảnh chính là ba khung cửa mở ra, bên trong có những người mặc vest đang làm việc trong môi trường văn phòng chuyên nghiệp.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba khung cửa mở hình chữ nhật, bố cục đối xứng
+- Kiểu chữ: Font chữ thanh lịch, màu vàng kim, có chữ Việt và tiếng Anh
+- Bảng màu: Đỏ burgundy làm nền chính, vàng kim cho text, trắng cho khung nội dung
+- Nền: Màu đỏ đậm có texture gradient
+- Phong cách: Sang trọng, chuyên nghiệp, corporate
+- Tông điệu: Quyền lực, thành công, cơ hội nghề nghiệp
+
+---
+
+Visual Description:
+This logo displays a recruitment advertisement poster with a dominant red color scheme. The main image features three opened door frames containing people in professional suits working in an office environment.
+
+Design Elements:
+- Shape: Three rectangular opened door frames, symmetrical layout
+- Typography: Elegant font in gold color, featuring both Vietnamese and English text
+- Color Palette: Burgundy red background, gold for text, white for content frames
+- Background: Deep red with gradient texture
+- Style: Luxurious, professional, corporate
+- Mood: Powerful, successful, career opportunity

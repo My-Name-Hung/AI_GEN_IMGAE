@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng stylized gồm 5 thanh dọc màu đỏ với chiều cao khác nhau, tạo thành hình dạng giống như sóng âm thanh hoặc equalizer. Bên dưới là tên thương hiệu "VAMPBEAT" được viết bằng chữ in hoa màu đen đậm, kèm theo dòng chữ "RECORDING STUDIO" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: 5 thanh dọc tạo hình sóng âm thanh/equalizer
+- Kiểu chữ: Sans-serif đậm, chữ in hoa hiện đại
+- Bảng màu: Đỏ gạch và đen trên nền trắng
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, công nghiệp
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features a stylized icon of 5 vertical red bars of varying heights that form a waveform or equalizer pattern. Below this is the brand name "VAMPBEAT" in bold black uppercase letters, followed by smaller text reading "RECORDING STUDIO".
+
+Design Elements:
+- Shape: 5 vertical bars forming audio waveform/equalizer pattern
+- Typography: Bold sans-serif uppercase, modern styling
+- Color Palette: Brick red and black on white background
+- Background: White/transparent
+- Style: Modern, minimalist, industrial
+- Mood: Professional, dynamic, creative

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "HOÀNG DŨNG" với phông chữ in hoa màu trắng nổi bật. Bên trái có một thanh dọc màu cam/vàng, và dưới tên chính có dòng chữ "THỢ SỬA CHỮA" màu cam/vàng với kích thước nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật ngang với thanh dọc trang trí bên trái
+- Kiểu chữ: Sans-serif in hoa, đậm và hiện đại cho tên chính, thanh mảnh hơn cho slogan
+- Bảng màu: Trắng, cam/vàng đồng, xanh lam đậm
+- Nền: Xanh lam đậm/xanh mòng két
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Tin cậy, chuyên nghiệp, rõ ràng
+
+---
+
+Visual Description:
+The logo displays the brand name "HOÀNG DŨNG" in bold white uppercase letters. There's an orange/yellow vertical bar on the left side, and below the main name is the tagline "THỢ SỬA CHỮA" in smaller orange/yellow text.
+
+Design Elements:
+- Shape: Horizontal rectangular layout with decorative vertical bar on the left
+- Typography: Sans-serif uppercase, bold and modern for main name, thinner for tagline
+- Color Palette: White, orange/golden yellow, dark teal blue
+- Background: Dark teal blue/petrol blue
+- Style: Minimalist, professional, modern
+- Mood: Trustworthy, professional, clear

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình tròn với chữ "AS" viết tắt ở trung tâm bằng phông chữ thảo nghệ thuật. Xung quanh viền tròn có các chữ cái "RESORT" ở phía trên và "ANH SAO" ở phía dưới, được sắp xếp theo hình cung tròn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn hoàn hảo với đường viền mảnh
+- Kiểu chữ: Chữ viết tay thảo cho "AS", chữ in hoa đơn giản cho tên thương hiệu
+- Bảng màu: Màu nâu đen trên nền trắng/kem
+- Nền: Nền màu be/kem nhạt
+- Phong cách: Tối giản, cổ điển, thanh lịch
+- Tông điệu: Sang trọng, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a circular design with "AS" initials in the center written in an elegant script font. Around the circular border, "RESORT" appears at the top and "ANH SAO" at the bottom, arranged in a curved formation following the circle's edge.
+
+Design Elements:
+- Shape: Perfect circle with thin border lines
+- Typography: Script handwriting for "AS", simple sans-serif capitals for brand name
+- Color Palette: Dark brown/black on cream/white background
+- Background: Light beige/cream colored
+- Style: Minimalist, classic, elegant
+- Mood: Luxurious, sophisticated, professional

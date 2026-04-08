@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình vuông tròn góc màu trắng với hiệu ứng 3D nổi bật, chứa chữ "S" màu trắng bên trong vùng màu xanh dương. Toàn bộ logo được thiết kế theo phong cách ba chiều với bóng đổ tạo cảm giác nổi lên khỏi nền xanh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông tròn góc ba chiều với chữ "S" ở giữa
+- Kiểu chữ: Chữ "S" đơn giản, bo tròn, không chân
+- Bảng màu: Xanh dương chủ đạo, trắng, xám nhạt
+- Nền: Nền xanh dương đồng nhất
+- Phong cách: Ba chiều, hiện đại, tối giản
+- Tông điệu: Chuyên nghiệp, tin cậy, công nghệ
+
+---
+
+Visual Description:
+The logo displays a white rounded square with 3D effects, containing a white "S" letter inside a blue area. The entire logo is designed in a three-dimensional style with shadows that create the impression of floating above the blue background.
+
+Design Elements:
+- Shape: Three-dimensional rounded square with centered "S"
+- Typography: Simple, rounded, sans-serif "S"
+- Color Palette: Dominant blue, white, light gray
+- Background: Solid blue background
+- Style: Three-dimensional, modern, minimalist
+- Mood: Professional, trustworthy, technological

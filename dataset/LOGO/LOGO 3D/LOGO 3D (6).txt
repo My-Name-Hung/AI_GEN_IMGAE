@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng TikTok nổi tiếng được thiết kế dưới dạng khối 3D màu trắng với hiệu ứng đổ bóng. Ký hiệu âm nhạc stylized có màu đen với viền cyan và magenta tạo hiệu ứng glitch đặc trưng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông bo góc 3D với biểu tượng âm nhạc cách điệu
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Hồng neon, trắng, đen, cyan, magenta
+- Nền: Hồng neon gradient
+- Phong cách: 3D hiện đại, hiệu ứng glitch, isometric
+- Tông điệu: Năng động, trẻ trung, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo displays the iconic TikTok symbol designed as a white 3D block with shadow effects. The stylized musical note symbol features black coloring with cyan and magenta outlines creating the signature glitch effect.
+
+Design Elements:
+- Shape: 3D rounded square block with stylized musical note symbol
+- Typography: None (icon only)
+- Color Palette: Neon pink, white, black, cyan, magenta
+- Background: Neon pink gradient
+- Style: Modern 3D, glitch effect, isometric
+- Mood: Dynamic, youthful, creative, tech-savvy

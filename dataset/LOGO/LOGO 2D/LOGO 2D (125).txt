@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện hình dạng đầu người nhìn nghiêng với các đường tròn đồng tâm bên trong, tạo thành hình ảnh giống như não bộ hoặc sóng tư duy. Toàn bộ thiết kế được vẽ bằng đường nét trắng mảnh trên nền cam gradient.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette đầu người kết hợp với các vòng tròn đồng tâm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Cam gradient từ đậm đến nhạt, icon trắng
+- Nền: Gradient cam từ đậm sang nhạt
+- Phong cách: Minimalist, line art, hiện đại
+- Tông điệu: Sáng tạo, thông minh, năng động
+
+---
+
+Visual Description:
+The logo features a side-profile silhouette of a human head with concentric circles inside, creating an image resembling a brain or thought waves. The entire design is rendered in thin white lines against an orange gradient background.
+
+Design Elements:
+- Shape: Human head silhouette combined with concentric circles
+- Typography: None (icon only)
+- Color Palette: Orange gradient from dark to light, white icon
+- Background: Orange gradient from dark to light
+- Style: Minimalist, line art, modern
+- Mood: Creative, intelligent, dynamic

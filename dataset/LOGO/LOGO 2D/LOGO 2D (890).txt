@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một con thiên nga trắng thanh lịch với cổ cong duyên dáng. Bên dưới là tên thương hiệu "sevastel HOTEL" được sắp xếp thành hai dòng với phông chữ serif.
+
+Yếu tố Thiết kế:
+- Hình dạng: Con thiên nga cách điệu với đường cong mềm mại và tối giản
+- Kiểu chữ: Serif cổ điển với "sevastel" viết thường và "HOTEL" viết hoa
+- Bảng màu: Trắng trên nền gradient tím xanh
+- Nền: Gradient từ tím đậm đến xanh dương sáng
+- Phong cách: Tối giản, thanh lịch, cổ điển
+- Tông điệu: Sang trọng, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features an elegant white swan silhouette with a gracefully curved neck. Below it is the brand name "sevastel HOTEL" arranged in two lines with serif typography.
+
+Design Elements:
+- Shape: Stylized swan with soft, minimalist curves
+- Typography: Classic serif with lowercase "sevastel" and uppercase "HOTEL"
+- Color Palette: White on purple-blue gradient background
+- Background: Gradient from deep purple to bright blue
+- Style: Minimalist, elegant, classic
+- Mood: Luxurious, sophisticated, professional

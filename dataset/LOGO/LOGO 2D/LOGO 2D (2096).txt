@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Thiên Hương" được viết bằng chữ nghiêng thanh lịch màu trắng trên nền tím hồng. Bên dưới tên có một đường chấm trang trí màu vàng và dòng chữ nhỏ "TỪ NAM 2010 - SÀI GÒN".
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật đơn giản với typography làm điểm nhấn chính
+- Kiểu chữ: Chữ viết tay nghiêng thanh lịch cho tên chính, chữ in hoa đơn giản cho thông tin phụ
+- Bảng màu: Tím hồng, trắng, vàng
+- Nền: Gradient tím hồng đậm
+- Phong cách: Nữ tính, thanh lịch, hiện đại
+- Tông điệu: Sang trọng, tinh tế, ấm áp
+
+---
+
+Visual Description:
+The logo displays "Thiên Hương" written in elegant white italic script on a purple-pink background. Below the name is a decorative yellow dotted line and small text reading "TỪ NAM 2010 - SÀI GÒN".
+
+Design Elements:
+- Shape: Simple rectangular layout with typography as the main focal point
+- Typography: Elegant italic handwritten script for main name, simple capitals for supporting text
+- Color Palette: Purple-pink, white, yellow
+- Background: Deep purple-pink gradient
+- Style: Feminine, elegant, contemporary
+- Mood: Sophisticated, refined, warm

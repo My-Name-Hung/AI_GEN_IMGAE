@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học tạo thành từ các khối lập phương xếp chồng lên nhau với dấu thập màu đỏ nằm ở trung tâm. Bên cạnh biểu tượng là dòng chữ "BỆNH VIỆN ĐA KHOA THÀNH LONG" được sắp xếp thành ba dòng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối lập phương 3D với dấu thập y tế
+- Kiểu chữ: Font chữ in hoa, đậm, hiện đại
+- Bảng màu: Xanh navy, đỏ, trắng
+- Nền: Nền trắng/kem nhạt
+- Phong cách: Hiện đại, tối giản, y tế
+- Tông điệu: Chuyên nghiệp, tin cậy, sạch sẽ
+
+---
+
+Visual Description:
+The logo features a geometric symbol composed of stacked cubic blocks with a red medical cross at the center. Next to the symbol is the text "BỆNH VIỆN ĐA KHOA THÀNH LONG" arranged in three lines.
+
+Design Elements:
+- Shape: 3D cubic blocks with medical cross
+- Typography: Bold, uppercase, modern sans-serif font
+- Color Palette: Navy blue, red, white
+- Background: White/light cream background
+- Style: Modern, minimalist, medical
+- Mood: Professional, trustworthy, clean

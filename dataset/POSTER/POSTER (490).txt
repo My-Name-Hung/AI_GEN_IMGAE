@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "Made at home" được đặt bên trái của hình ảnh, với từ "home" được viết bằng font chữ nghiêng thanh thoát. Đây là một logo văn bản đơn giản không có biểu tượng đồ họa đi kèm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết ngang, không có khung hoặc hình dạng bao quanh
+- Kiểu chữ: Font sans-serif hiện đại, từ "home" được viết nghiêng
+- Bảng màu: Màu trắng
+- Nền: Trong suốt (đặt trên nền xanh xám)
+- Phong cách: Tối giản, hiện đại, sạch sẽ
+- Tông điệu: Thân thiện, ấm cúng, gần gũi
+
+---
+
+Visual Description:
+The logo displays the text "Made at home" positioned on the left side of the image, with the word "home" written in an elegant italic font. This is a simple text-based logo without accompanying graphic symbols.
+
+Design Elements:
+- Shape: Horizontal text layout with no frame or surrounding shape
+- Typography: Modern sans-serif font with "home" in italics
+- Color Palette: White
+- Background: Transparent (placed on blue-gray background)
+- Style: Minimalist, modern, clean
+- Mood: Friendly, cozy, approachable

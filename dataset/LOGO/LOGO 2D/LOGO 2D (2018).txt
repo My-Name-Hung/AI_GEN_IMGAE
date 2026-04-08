@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình thoi màu đen với một mũi tên cong bên trong chỉ hướng sang phải. Bên dưới là tên thương hiệu "GASOTY" được viết bằng chữ in hoa đậm màu đen, kèm theo dòng chữ phụ "KIẾN TẠO XANH" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình thoi bo góc với mũi tên cong bên trong
+- Kiểu chữ: Chữ sans-serif đậm, in hoa cho tên chính, chữ thường nhỏ cho slogan
+- Bảng màu: Đen trắng, đơn sắc
+- Nền: Trắng, trong suốt
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, năng động, tiến bộ
+
+---
+
+Visual Description:
+The logo features a black diamond-shaped icon with a curved arrow pointing right inside it. Below is the brand name "GASOTY" written in bold black capital letters, accompanied by smaller text "KIẾN TẠO XANH" underneath.
+
+Design Elements:
+- Shape: Rounded diamond icon with internal curved arrow
+- Typography: Bold sans-serif capitals for main name, smaller lowercase for tagline
+- Color Palette: Black and white, monochrome
+- Background: White, transparent
+- Style: Minimalist, modern, geometric
+- Mood: Professional, dynamic, progressive

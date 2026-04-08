@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng vuông được tạo thành từ bốn khối hình chữ nhật ba chiều màu cam/đỏ cam. Các khối này được sắp xếp theo kiểu xoắn ốc hoặc chữ S, tạo nên một biểu tượng động và có chiều sâu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bốn khối hình chữ nhật ba chiều xếp thành hình vuông
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Cam và đỏ cam với hiệu ứng gradient
+- Nền: Màu xanh navy đậm
+- Phong cách: Ba chiều, hiện đại, tối giản
+- Tông điệu: Năng động, chuyên nghiệp, sáng tạo
+
+---
+
+Visual Description:
+The logo features a square shape composed of four three-dimensional rectangular blocks in orange/red-orange colors. These blocks are arranged in a spiral or S-like pattern, creating a dynamic symbol with depth and dimension.
+
+Design Elements:
+- Shape: Four three-dimensional rectangular blocks arranged in a square formation
+- Typography: None (icon only)
+- Color Palette: Orange and red-orange with gradient effects
+- Background: Dark navy blue
+- Style: Three-dimensional, modern, minimalist
+- Mood: Dynamic, professional, creative

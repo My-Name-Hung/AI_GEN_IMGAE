@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng chim phượng hoàng cách điệu với các cánh được tạo thành từ những mảnh hình học trừu tượng, kết hợp với chữ "fenix" viết thường. Biểu tượng chim có màu gradient từ vàng, cam đến tím hồng, tạo hiệu ứng chuyển màu mượt mà và bắt mắt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chim phượng hoàng cách điệu với cánh được tạo từ các mảnh hình học
+- Kiểu chữ: Sans-serif hiện đại, chữ thường, phông chữ in đậm
+- Bảng màu: Gradient từ vàng, cam, đỏ đến tím hồng cho biểu tượng, chữ màu trắng
+- Nền: Màu đen/xanh đen tối
+- Phong cách: Hiện đại, tối giản, gradient, hình học
+- Tông điệu: Năng động, sáng tạo, chuyên nghiệp, ấm áp
+
+---
+
+Visual Description:
+The logo features a stylized phoenix bird icon with wings composed of abstract geometric fragments, combined with the lowercase text "fenix". The bird symbol displays a smooth gradient transition from yellow and orange to pink-purple, creating an eye-catching color flow effect.
+
+Design Elements:
+- Shape: Stylized phoenix with wings made from geometric fragments
+- Typography: Modern sans-serif, lowercase, bold font weight
+- Color Palette: Gradient from yellow, orange, red to pink-purple for icon, white text
+- Background: Dark black/navy blue
+- Style: Modern, minimalist, gradient, geometric
+- Mood: Dynamic, creative, professional, warm

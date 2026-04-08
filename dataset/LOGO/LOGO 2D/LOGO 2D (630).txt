@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng tròn với đường viền màu trắng vẽ tay, tạo cảm giác tự nhiên và thủ công. Bên trong vòng tròn là chữ "NHÂN TÙ" được viết bằng font chữ in hoa đơn giản, bên dưới có dòng chữ nhỏ hơn "CỘNG ĐỒNG CÁC TIN ĐỒ" với một đường kẻ ngang ngăn cách.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn với đường viền vẽ tay
+- Kiểu chữ: Font sans-serif đơn giản, in hoa
+- Bảng màu: Trắng trên nền xám
+- Nền: Màu xám nhạt
+- Phong cách: Tối giản, thủ công, hiện đại
+- Tông điệu: Thanh lịch, tinh tế, cộng đồng
+
+---
+
+Visual Description:
+The logo features a circular design with a white hand-drawn border that creates a natural, handcrafted feel. Inside the circle is the text "NHÂN TÙ" written in simple uppercase letters, with smaller text below reading "CỘNG ĐỒNG CÁC TIN ĐỒ" separated by a horizontal line.
+
+Design Elements:
+- Shape: Circle with hand-drawn border
+- Typography: Simple sans-serif font, uppercase
+- Color Palette: White on gray background
+- Background: Light gray
+- Style: Minimalist, handcrafted, modern
+- Mood: Elegant, refined, community-oriented

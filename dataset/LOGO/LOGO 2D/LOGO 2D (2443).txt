@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng hình thập tự được tạo từ bốn hình tròn, với hai hình tròn màu trắng và hai hình tròn màu xanh dương nhạt. Phần text "TƯƠNG LAI" được đặt bên dưới bằng font chữ màu trắng, kèm theo dòng chữ nhỏ "THƯ VIỆN TRẺ EM".
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng thập tự từ bốn hình tròn, layout dọc
+- Kiểu chữ: Font sans-serif đậm, chữ hoa cho tên chính
+- Bảng màu: Xanh dương đậm, trắng, xanh dương nhạt
+- Nền: Màu xanh dương đậm
+- Phong cách: Hiện đại, tối giản, thân thiện
+- Tông điệu: Chuyên nghiệp, tin cậy, gần gũi
+
+---
+
+Visual Description:
+The logo features a cross-shaped icon made of four circles, with two white circles and two light blue circles arranged symmetrically. Below the icon, "TƯƠNG LAI" appears in white typography, accompanied by smaller text reading "THƯ VIỆN TRẺ EM".
+
+Design Elements:
+- Shape: Cross formation from four circles, vertical layout
+- Typography: Bold sans-serif font, uppercase for main title
+- Color Palette: Deep blue, white, light blue
+- Background: Solid deep blue
+- Style: Modern, minimalist, friendly
+- Mood: Professional, trustworthy, approachable

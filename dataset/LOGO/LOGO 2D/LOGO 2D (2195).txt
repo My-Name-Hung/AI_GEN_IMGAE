@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tròn với các phần tử màu sắc rực rỡ bên trái và tên thương hiệu "Khang" bằng chữ màu xanh navy bên phải. Bên dưới tên thương hiệu có dòng slogan "XÂY DỰNG KỲ NĂNG CỦA BẠN" bằng chữ nhỏ màu xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon tròn với các yếu tố hình học bên trong, kết hợp với typography ngang
+- Kiểu chữ: Sans-serif hiện đại, đậm cho tên chính, nhẹ cho slogan
+- Bảng màu: Gradient từ cam đến tím hồng trong icon, chữ xanh navy và xám
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, gradient trendy
+- Tông điệu: Năng động, sáng tạo, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a circular icon with vibrant colorful elements on the left side and the brand name "Khang" in navy blue text on the right. Below the brand name is the tagline "XÂY DỰNG KỲ NĂNG CỦA BẠN" in smaller gray text.
+
+Design Elements:
+- Shape: Circular icon with geometric elements inside, combined with horizontal typography
+- Typography: Modern sans-serif, bold for main name, light for tagline
+- Color Palette: Orange to purple-pink gradient in icon, navy blue and gray text
+- Background: White/transparent
+- Style: Modern, minimalist, trendy gradient
+- Mood: Dynamic, creative, professional

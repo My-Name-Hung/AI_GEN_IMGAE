@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "GYM TRẺ" và "KHỎE ĐẸP" bằng chữ in hoa màu trắng và vàng trên nền xanh lá cây đậm. Bên phải có biểu tượng tạ gym stylized màu vàng với thiết kế đơn giản, và dưới cùng có dòng chữ phụ "TRUNG TÂM TẬP LUYỆN THỂ HÌNH" màu vàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ in hoa bold kết hợp với icon tạ gym đơn giản
+- Kiểu chữ: Sans-serif, in hoa, dày và rõ ràng
+- Bảng màu: Xanh lá cây đậm, trắng, và vàng
+- Nền: Màu xanh lá cây đậm đồng nhất
+- Phong cách: Hiện đại, thể thao, đơn giản
+- Tông điệu: Năng động, chuyên nghiệp, mạnh mẽ
+
+---
+
+Visual Description:
+The logo displays "GYM TRẺ" and "KHỎE ĐẸP" in bold white and yellow uppercase letters on a dark green background. On the right side is a stylized yellow dumbbell icon with a simple design, and below is the tagline "TRUNG TÂM TẬP LUYỆN THỂ HÌNH" in yellow text.
+
+Design Elements:
+- Shape: Bold uppercase lettering combined with simple dumbbell icon
+- Typography: Sans-serif, uppercase, bold and clear
+- Color Palette: Dark green, white, and yellow
+- Background: Solid dark green
+- Style: Modern, athletic, minimalist
+- Mood: Dynamic, professional, strong

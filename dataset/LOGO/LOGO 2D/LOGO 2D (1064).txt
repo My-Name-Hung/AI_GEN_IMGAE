@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ba hình khối hình học màu trắng được sắp xếp theo kiểu modular, tạo thành một biểu tượng trừu tượng. Bên dưới biểu tượng là tên thương hiệu "ONTECH" được viết bằng chữ in hoa màu trắng với font chữ hiện đại, sạch sẽ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba khối hình học được cắt góc, sắp xếp theo cấu trúc modular
+- Kiểu chữ: Font sans-serif hiện đại, chữ in hoa, đậm
+- Bảng màu: Trắng trên nền đen (monochrome)
+- Nền: Nền đen đặc
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, sạch sẽ, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features three white geometric blocks arranged in a modular pattern, creating an abstract symbol. Below the symbol is the brand name "ONTECH" written in white uppercase letters using a clean, modern font.
+
+Design Elements:
+- Shape: Three angular geometric blocks arranged in modular structure
+- Typography: Modern sans-serif, uppercase, bold weight
+- Color Palette: White on black (monochrome)
+- Background: Solid black
+- Style: Minimalist, modern, tech-focused
+- Mood: Professional, clean, reliable

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có ba hình tròn màu vàng được sắp xếp theo hình tam giác ở phía trên. Bên dưới là tên thương hiệu "Tân Tiến" được viết bằng chữ trắng đậm, kèm theo dòng chữ nhỏ "CÔNG TY NƯỚC NGỌT".
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình tròn vàng sắp xếp thành cụm tam giác
+- Kiểu chữ: Sans-serif đậm, chữ hoa cho tên chính, chữ thường cho slogan
+- Bảng màu: Xanh dương gradient, vàng, trắng
+- Nền: Gradient từ xanh dương đậm đến xanh dương nhạt
+- Phong cách: Hiện đại, đơn giản, thân thiện
+- Tông điệu: Tươi mới, năng động, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features three yellow circles arranged in a triangular cluster at the top. Below this is the brand name "Tân Tiến" written in bold white letters, accompanied by the smaller text "CÔNG TY NƯỚC NGỌT" (beverage company).
+
+Design Elements:
+- Shape: Three yellow circles arranged in triangular formation
+- Typography: Bold sans-serif, uppercase for main name, smaller text for tagline
+- Color Palette: Blue gradient, yellow, white
+- Background: Gradient from deep blue to lighter blue
+- Style: Modern, clean, approachable
+- Mood: Fresh, dynamic, trustworthy

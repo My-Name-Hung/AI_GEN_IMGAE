@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tròn màu xanh nhạt với các đường nét cong tạo thành hoa văn đối xứng bên trái. Bên phải là tên thương hiệu "OlgaZimm" được viết bằng chữ sans-serif màu xám nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn với các đường cong đối xứng, chữ viết thẳng hàng
+- Kiểu chữ: Sans-serif hiện đại, không có chân, font chữ mỏng
+- Bảng màu: Xanh da trời nhạt cho biểu tượng, xám nhạt cho chữ
+- Nền: Trắng trong suốt
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Chuyên nghiệp, nhẹ nhàng, tinh tế
+
+---
+
+Visual Description:
+The logo features a circular light blue icon with curved symmetrical lines forming an ornamental pattern on the left. To the right is the brand name "OlgaZimm" written in light gray sans-serif typography.
+
+Design Elements:
+- Shape: Circular icon with symmetrical curved lines, horizontal text alignment
+- Typography: Modern sans-serif, clean and thin font weight
+- Color Palette: Light blue for icon, light gray for text
+- Background: White/transparent
+- Style: Minimalist, modern, elegant
+- Mood: Professional, gentle, sophisticated

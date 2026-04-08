@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình huy hiệu tròn với các cạnh lượn sóng, màu đỏ cam nổi bật trên nền xanh lam. Văn bản "PHÒNG THU CŨ" được sắp xếp ở trung tâm với font chữ in hoa màu trắng, kèm dòng chữ nhỏ "Nhìn ảnh" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Huy hiệu tròn với viền lượn sóng
+- Kiểu chữ: Font sans-serif đậm, in hoa cho tiêu đề chính
+- Bảng màu: Đỏ cam, trắng, xanh lam
+- Nền: Xanh lam đậm
+- Phong cách: Cổ điển, huy hiệu truyền thống
+- Tông điệu: Ấm áp, hoài cổ, thân thiện
+
+---
+
+Visual Description:
+The logo features a circular badge-like shape with scalloped edges in warm orange-red color against a teal background. The text "PHÒNG THU CŨ" is arranged in the center with bold white typography, accompanied by smaller text "Nhìn ảnh" below.
+
+Design Elements:
+- Shape: Circular badge with scalloped/wavy edges
+- Typography: Bold sans-serif, uppercase for main title
+- Color Palette: Orange-red, white, teal blue
+- Background: Dark teal
+- Style: Classic, traditional badge design
+- Mood: Warm, nostalgic, friendly

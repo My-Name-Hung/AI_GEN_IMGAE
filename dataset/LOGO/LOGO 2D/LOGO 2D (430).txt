@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "NEAR" được viết bằng chữ in hoa màu đỏ cam trên nền be nhạt. Các chữ cái có hiệu ứng 3D với bóng đổ màu xám tạo độ sâu và chiều không gian.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái 3D với hiệu ứng chiều sâu
+- Kiểu chữ: Sans-serif đậm, in hoa, hiện đại
+- Bảng màu: Đỏ cam chính, nền be/kem, bóng đổ xám
+- Nền: Màu be/kem nhạt, đơn sắc
+- Phong cách: Hiện đại, tối giản, 3D
+- Tông điệu: Năng động, thu hút, ấm áp
+
+---
+
+Visual Description:
+The logo displays the word "NEAR" written in bold orange-red capital letters on a light beige background. The letters feature a 3D effect with gray drop shadows that create depth and spatial dimension.
+
+Design Elements:
+- Shape: 3D letters with dimensional depth effect
+- Typography: Bold sans-serif, uppercase, modern
+- Color Palette: Primary orange-red, beige/cream background, gray shadows
+- Background: Light beige/cream, solid color
+- Style: Modern, minimalist, 3D
+- Mood: Dynamic, engaging, warm

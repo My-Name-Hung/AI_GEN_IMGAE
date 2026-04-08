@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ký tự "8" được tạo thành từ các thanh ngang không đều với hiệu ứng sần sùi, gồ ghề. Bên dưới là dòng chữ "EIGHTH NOTE" được viết bằng font chữ đậm, có thiết kế hơi thô ráp phù hợp với phong cách tổng thể.
+
+Yếu tố Thiết kế:
+- Hình dạng: Số "8" được cấu thành từ các thanh ngang có cạnh răng cưa
+- Kiểu chữ: Font chữ đậm, góc cạnh với hiệu ứng sần sùi
+- Bảng màu: Đen trắng đơn sắc
+- Nền: Nền trắng sạch
+- Phong cách: Grunge, thô ráp, hiện đại
+- Tông điệu: Mạnh mẽ, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features the number "8" constructed from uneven horizontal bars with rough, jagged edges. Below it is the text "EIGHTH NOTE" in bold typography that matches the gritty aesthetic of the number above.
+
+Design Elements:
+- Shape: Number "8" formed by stacked horizontal bars with serrated edges
+- Typography: Bold, angular font with distressed texture effects
+- Color Palette: Monochromatic black and white
+- Background: Clean white background
+- Style: Grunge, rough, contemporary
+- Mood: Strong, dynamic, creative

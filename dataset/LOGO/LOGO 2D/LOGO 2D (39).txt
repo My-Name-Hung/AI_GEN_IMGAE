@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học gồm ba hình thoi chồng lên nhau với các màu gradient từ hồng, xanh lam đến xanh lá. Bên cạnh là dòng chữ "blocklet" màu xanh đậm với chỉ số "3" ở góc trên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình thoi/kim cương chồng lấp tạo hiệu ứng 3D
+- Kiểu chữ: Sans-serif hiện đại, đậm, chữ thường
+- Bảng màu: Gradient từ hồng magenta, xanh cyan đến xanh lá
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tech, minimalist, geometric
+- Tông điệu: Năng động, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo features a geometric icon composed of three overlapping diamond/rhombus shapes with gradient colors transitioning from pink to cyan to green. Next to it is the text "blocklet" in dark blue with a superscript "3".
+
+Design Elements:
+- Shape: Three overlapping diamond/rhombus shapes creating a 3D effect
+- Typography: Modern sans-serif, bold, lowercase lettering
+- Color Palette: Gradient from magenta pink to cyan to green
+- Background: White/transparent
+- Style: Modern, tech-focused, minimalist, geometric
+- Mood: Dynamic, innovative, technological

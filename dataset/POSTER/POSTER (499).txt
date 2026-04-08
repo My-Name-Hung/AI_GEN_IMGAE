@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "KOGU" được viết bằng chữ màu đen, kèm theo dòng chữ "coffee shop by" phía trên. Logo có một biểu tượng hình tròn nhỏ bên trái chữ "KOGU".
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo chữ ngang với biểu tượng tròn đơn giản
+- Kiểu chữ: Font chữ sans-serif hiện đại, dễ đọc
+- Bảng màu: Chủ yếu màu đen trên nền sáng
+- Nền: Nền sáng, trung tính
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Đơn giản, thanh lịch, dễ tiếp cận
+
+---
+
+Visual Description:
+The logo displays the brand name "KOGU" written in black text, accompanied by "coffee shop by" above it. There is a small circular icon to the left of the "KOGU" text.
+
+Design Elements:
+- Shape: Horizontal text-based logo with simple circular icon
+- Typography: Modern, clean sans-serif font that's highly readable
+- Color Palette: Primarily black text on light background
+- Background: Light, neutral background
+- Style: Minimalist, modern, professional
+- Mood: Simple, elegant, approachable

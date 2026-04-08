@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một khung hình vuông bo tròn góc với gradient màu xanh dương đến tím hồng. Bên trong có biểu tượng sóng âm thanh hoặc dạng sóng cách điệu với cùng bảng màu gradient.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung vuông bo tròn góc chứa biểu tượng sóng âm thanh
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ xanh cyan đến tím hồng với hiệu ứng neon
+- Nền: Màu tím đậm
+- Phong cách: Hiện đại, gradient, neon, tối giản
+- Tông điệu: Công nghệ, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo displays a rounded square frame with a blue to pink gradient. Inside contains a stylized sound wave or audio waveform icon using the same gradient color scheme.
+
+Design Elements:
+- Shape: Rounded square frame containing sound wave symbol
+- Typography: None (icon only)
+- Color Palette: Gradient from cyan blue to magenta pink with neon effects
+- Background: Deep purple
+- Style: Modern, gradient, neon, minimalist
+- Mood: Technological, creative, dynamic

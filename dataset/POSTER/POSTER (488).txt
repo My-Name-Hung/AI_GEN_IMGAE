@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "CHICKEN" bằng chữ in hoa đậm màu đen, với hình ảnh một chú gà trống cách điệu ở bên phải. Chú gà có thiết kế đơn giản với mào gà và đuôi gà được stylized, kèm theo từ "EMBLEM" nhỏ bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái khối vuông kết hợp với icon gà trống cách điệu
+- Kiểu chữ: Font chữ sans-serif đậm, in hoa
+- Bảng màu: Đen trắng tương phản
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, hiện đại, biểu tượng
+- Tông điệu: Mạnh mẽ, rõ ràng, thân thiện
+
+---
+
+Visual Description:
+The logo displays the word "CHICKEN" in bold black uppercase letters, with a stylized rooster illustration on the right side. The rooster features a simplified design with a distinctive comb and tail feathers, accompanied by the small word "EMBLEM" below.
+
+Design Elements:
+- Shape: Bold block letters combined with stylized rooster icon
+- Typography: Bold sans-serif font, all caps
+- Color Palette: Black and white contrast
+- Background: Clean white/transparent background
+- Style: Minimalist, modern, emblematic
+- Mood: Bold, clear, approachable

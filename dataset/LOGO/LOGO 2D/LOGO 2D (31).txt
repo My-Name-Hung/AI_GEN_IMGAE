@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một con chim cách điệu được tạo thành từ các hình khối hình học đơn giản. Con chim có thân hình bán nguyệt màu tím đậm, đầu tròn màu tím nhạt với mắt màu xanh dương, và cánh được tạo từ các tam giác màu cam và xanh ngọc.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chim cách điệu từ các khối hình học (bán nguyệt, hình tròn, tam giác)
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Tím gradient (đậm đến nhạt), cam, xanh ngọc, xanh dương
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hình học, gradient, hiện đại
+- Tông điệu: Năng động, sáng tạo, thân thiện
+
+---
+
+Visual Description:
+The logo depicts a stylized bird created from simple geometric shapes. The bird features a dark purple semicircular body, a light purple circular head with a blue eye, and wings formed by orange and teal triangular elements.
+
+Design Elements:
+- Shape: Stylized bird composed of geometric blocks (semicircle, circle, triangles)
+- Typography: None (icon only)
+- Color Palette: Purple gradient (dark to light), orange, teal, blue
+- Background: White/transparent
+- Style: Minimalist, geometric, gradient, modern
+- Mood: Dynamic, creative, friendly

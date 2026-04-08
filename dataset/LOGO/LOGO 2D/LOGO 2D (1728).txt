@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình ảnh chùm nho được cách điệu nằm ở trung tâm, được bao quanh bởi những chiếc lá nho uốn cong tạo thành khung trang trí. Phía trên và dưới có các dòng chữ được sắp xếp theo hình cung tròn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với chùm nho và lá nho cách điệu, bố cục đối xứng
+- Kiểu chữ: Font chữ in hoa đơn giản, không chân, được sắp xếp theo cung tròn
+- Bảng màu: Đỏ đậm trên nền be/kem
+- Nền: Màu be/kem nhạt
+- Phong cách: Cổ điển, trang trí, biểu tượng thương hiệu rượu vang
+- Tông điệu: Sang trọng, truyền thống, uy tín
+
+---
+
+Visual Description:
+The logo features a stylized grape cluster at the center, surrounded by curved grape leaves forming a decorative frame. Text appears above and below in an arched arrangement.
+
+Design Elements:
+- Shape: Circular with stylized grape cluster and leaves, symmetrical layout
+- Typography: Simple sans-serif uppercase letters arranged in curved lines
+- Color Palette: Deep red/burgundy on cream/beige background
+- Background: Light cream/beige
+- Style: Classic, ornamental, wine brand emblem
+- Mood: Elegant, traditional, prestigious

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo SWISH được thiết kế đơn giản với chữ "SWISH" màu trắng in hoa, kèm theo một dấu cộng nhỏ màu đỏ ở cuối. Logo được đặt trên nền xanh dương gradient tạo cảm giác chuyên nghiệp và sang trọng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng với dấu cộng hình vuông nhỏ
+- Kiểu chữ: Sans-serif hiện đại, in hoa, khoảng cách chữ rộng
+- Bảng màu: Trắng chủ đạo với điểm nhấn đỏ
+- Nền: Gradient xanh dương từ nhạt đến đậm
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Tin cậy, sạch sẽ, cao cấp
+
+---
+
+Visual Description:
+The SWISH logo features clean white uppercase lettering with a small red plus symbol at the end. The logo is positioned against a blue gradient background that transitions from light to dark blue, creating a professional and premium appearance.
+
+Design Elements:
+- Shape: Straight typography with small square plus sign
+- Typography: Modern sans-serif, uppercase, wide letter spacing
+- Color Palette: White primary with red accent
+- Background: Blue gradient from light to dark
+- Style: Minimalist, modern, professional
+- Mood: Trustworthy, clean, premium

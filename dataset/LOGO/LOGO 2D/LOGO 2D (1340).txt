@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả hình ảnh một bộ não được stylized thành hai nửa đối xứng với các đường nét cong mềm mại. Thiết kế sử dụng đường viền đơn giản tạo thành hình dạng não bộ với các nếp gấp và đường cong tự nhiên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình não bộ đối xứng với hai bán cầu, đường nét cong mềm mại
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Màu đỏ đậm đơn sắc trên nền trắng
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, hiện đại, icon dạng line art
+- Tông điệu: Chuyên nghiệp, khoa học, thông minh
+
+---
+
+Visual Description:
+The logo depicts a stylized brain rendered as two symmetrical halves with soft, curved lines. The design uses simple outline strokes to form the brain shape with natural folds and curves.
+
+Design Elements:
+- Shape: Symmetrical brain form with two hemispheres, soft curved lines
+- Typography: None (icon only)
+- Color Palette: Deep red monochrome on white background
+- Background: Transparent white background
+- Style: Minimalist, modern, line art icon
+- Mood: Professional, scientific, intelligent

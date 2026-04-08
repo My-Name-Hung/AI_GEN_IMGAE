@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "ДРУЖБА" bằng tiếng Nga với phần đầu chữ "Д" được trang trí bằng các lá cây xanh tạo thành hình tròn. Bên dưới có dòng chữ nhỏ hơn "ЗАГОРОДНЫЙ ЛАГЕРЬ" cùng màu xanh lá cây.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái được kết hợp với họa tiết lá cây tạo thành hình tròn
+- Kiểu chữ: Phông chữ sans-serif đơn giản, rõ ràng
+- Bảng màu: Xanh lá cây đậm trên nền be nhạt
+- Nền: Màu be/kem nhạt
+- Phong cách: Tự nhiên, thân thiện, hiện đại
+- Tông điệu: Gần gũi thiên nhiên, thư giãn, tươi mát
+
+---
+
+Visual Description:
+The logo displays the Russian text "ДРУЖБА" with the first letter "Д" decorated with green leaves forming a circular pattern. Below is smaller text "ЗАГОРОДНЫЙ ЛАГЕРЬ" in the same green color.
+
+Design Elements:
+- Shape: Typography combined with botanical leaf motifs forming circular elements
+- Typography: Clean, simple sans-serif font
+- Color Palette: Dark green on light beige background
+- Background: Light beige/cream color
+- Style: Natural, friendly, modern
+- Mood: Nature-focused, relaxing, fresh

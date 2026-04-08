@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình học phức tạp với các đường thẳng tạo thành cấu trúc đối xứng. Thiết kế sử dụng hiệu ứng 3D với các thanh vuông góc xen kẽ nhau tạo thành hình dạng giống như một nút thắt hoặc mê cung.
+
+Yếu tố Thiết kế:
+- Hình dạng: Cấu trúc hình học đối xứng, dạng isometric với các thanh vuông góc xen kẽ
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lá nhạt làm nền, xanh dương đậm và kem/vàng nhạt cho icon
+- Nền: Xanh lá mềm mại, đơn sắc
+- Phong cách: Tối giản, hình học, hiện đại, isometric
+- Tông điệu: Chuyên nghiệp, tinh tế, cân bằng
+
+---
+
+Visual Description:
+The logo features a complex geometric design with straight lines forming a symmetrical structure. The design uses 3D effects with interlocking rectangular bars creating a shape resembling a knot or maze pattern.
+
+Design Elements:
+- Shape: Symmetrical geometric structure, isometric style with interlocking rectangular bars
+- Typography: None (icon only)
+- Color Palette: Soft sage green background, dark teal and cream/light yellow for the icon
+- Background: Soft sage green, solid color
+- Style: Minimalist, geometric, modern, isometric
+- Mood: Professional, sophisticated, balanced

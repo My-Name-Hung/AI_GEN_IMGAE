@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo văn bản đơn giản với tên thương hiệu "LAISPA" được viết bằng chữ in hoa đậm, nổi bật. Bên dưới có dòng chữ nhỏ hơn "bodycare" viết bằng chữ thường với khoảng cách rộng giữa các ký tự.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo dạng văn bản hai tầng, bố cục đối xứng
+- Kiểu chữ: Chữ serif đậm cho tên chính, chữ sans-serif mỏng cho slogan
+- Bảng màu: Đen trên nền trắng, đơn sắc
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, thanh lịch, kinh điển
+- Tông điệu: Chuyên nghiệp, tinh tế, sang trọng
+
+---
+
+Visual Description:
+A simple text-based logo featuring the brand name "LAISPA" in bold uppercase letters. Below it is smaller text reading "bodycare" in lowercase with generous letter spacing.
+
+Design Elements:
+- Shape: Two-tier text layout with symmetrical composition
+- Typography: Bold serif for main name, thin sans-serif for tagline
+- Color Palette: Black text on white background, monochromatic
+- Background: Clean white background
+- Style: Minimalist, elegant, classic
+- Mood: Professional, refined, luxurious

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm biểu tượng hình học trừu tượng ở bên trái với các đường cong tạo thành hai hình tròn liên kết. Bên phải là chữ "enova" được viết bằng font chữ đậm, hiện đại với màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai vòng tròn liên kết với nhau tạo thành biểu tượng vô cực
+- Kiểu chữ: Font sans-serif đậm, chữ thường, hiện đại
+- Bảng màu: Gradient từ đỏ, cam, vàng sang xanh lá, xanh dương, tím; chữ màu đen
+- Nền: Nền trắng trong suốt
+- Phong cách: Hiện đại, tối giản, gradient màu sắc
+- Tông điệu: Năng động, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo features an abstract geometric symbol on the left consisting of curved lines forming two interconnected circles. To the right is the text "enova" written in bold, modern black typography.
+
+Design Elements:
+- Shape: Two interlocked circles creating an infinity-like symbol
+- Typography: Bold, lowercase, modern sans-serif font
+- Color Palette: Rainbow gradient from red, orange, yellow to green, blue, purple; black text
+- Background: Transparent white background
+- Style: Modern, minimalist, gradient color scheme
+- Mood: Dynamic, creative, technological

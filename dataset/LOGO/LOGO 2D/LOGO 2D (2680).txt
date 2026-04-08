@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế hình tròn với đường viền đen kép, tạo hiệu ứng khung. Bên trong có chữ "SỨC KHỎE" ở trên cùng, "PHÒNG KHÁM HOÀN MỸ" ở trung tâm với font chữ đậm, và "TƯƠNG LAI" ở dưới cùng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với đường viền kép
+- Kiểu chữ: Font sans-serif đậm, chữ hoa
+- Bảng màu: Đen trắng (đơn sắc)
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, chuyên nghiệp, y tế
+- Tông điệu: Tin cậy, nghiêm túc, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a circular design with double black borders creating a frame effect. Inside, it displays "SỨC KHỎE" at the top, "PHÒNG KHÁM HOÀN MỸ" in bold text at the center, and "TƯƠNG LAI" at the bottom.
+
+Design Elements:
+- Shape: Circle with double border frame
+- Typography: Bold sans-serif, uppercase letters
+- Color Palette: Black and white (monochrome)
+- Background: White/transparent
+- Style: Minimalist, professional, medical
+- Mood: Trustworthy, serious, professional

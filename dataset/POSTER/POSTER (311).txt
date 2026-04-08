@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "NAKOJA" ở góc trên bên trái với kiểu chữ hiện đại màu trắng. Hình ảnh chính là một ly cà phê trong suốt chứa đầy hạt cà phê và sữa, được bao quanh bởi các hạt cà phê bay lơ lửng và có nhãn "NEW PRODUCTS" màu đỏ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo chữ vuông góc, hình ảnh sản phẩm trung tâm với các yếu tố bay lơ lửng
+- Kiểu chữ: Sans-serif hiện đại, in hoa, màu trắng cho tên thương hiệu
+- Bảng màu: Nâu gradient, trắng, đen, đỏ cho nhãn sản phẩm
+- Nền: Gradient nâu từ nhạt đến đậm
+- Phong cách: Hiện đại, sản phẩm trung tâm, nhiếp ảnh quảng cáo
+- Tông điệu: Năng động, hấp dẫn, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the brand name "NAKOJA" in the upper left corner with modern white typography. The main image features a transparent coffee cup filled with coffee beans and milk, surrounded by floating coffee beans and a red "NEW PRODUCTS" label.
+
+Design Elements:
+- Shape: Square logo format, central product image with floating elements
+- Typography: Modern sans-serif, uppercase, white for brand name
+- Color Palette: Brown gradient, white, black, red for product label
+- Background: Brown gradient from light to dark
+- Style: Modern, product-centric, advertising photography
+- Mood: Dynamic, appetizing, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một ly cocktail martini được cách điệu với phần chân ly màu vàng kim và phần thân ly tạo thành hình tam giác đen. Bên dưới là tên thương hiệu "Hồng Hạc" và dòng mô tả "Quán bar cocktail" được viết bằng font chữ thanh mảnh màu vàng kim.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ly cocktail hình tam giác, tối giản và hiện đại
+- Kiểu chữ: Font sans-serif mảnh, thanh lịch với màu vàng kim
+- Bảng màu: Hồng san hô, đen, vàng kim
+- Nền: Màu hồng san hô đồng nhất
+- Phong cách: Tối giản, hiện đại, sang trọng
+- Tông điệu: Ấm áp, thân thiện, tinh tế
+
+---
+
+Visual Description:
+The logo features a stylized martini cocktail glass with a golden stem and a triangular black bowl. Below the icon is the brand name "Hồng Hạc" and the tagline "Quán bar cocktail" written in thin, elegant golden typography.
+
+Design Elements:
+- Shape: Triangular cocktail glass, minimalist and modern
+- Typography: Thin sans-serif font in golden color, elegant styling
+- Color Palette: Coral pink, black, gold
+- Background: Solid coral pink
+- Style: Minimalist, modern, sophisticated
+- Mood: Warm, friendly, refined

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng bia bắn màu trắng trên nền tím gradient. Thiết kế bao gồm ba vòng tròn đồng tâm với một mũi tên xuyên qua trung tâm, tạo thành hình ảnh bia đích cổ điển.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn đồng tâm với mũi tên xuyên qua
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng trên nền tím gradient
+- Nền: Gradient tím từ nhạt đến đậm
+- Phong cách: Tối giản, hiện đại, biểu tượng
+- Tông điệu: Chuyên nghiệp, mục tiêu, thành công
+
+---
+
+Visual Description:
+The logo displays a white target/bullseye icon on a purple gradient background. The design consists of three concentric circles with an arrow piercing through the center, forming a classic dartboard or target symbol.
+
+Design Elements:
+- Shape: Concentric circles with arrow piercing through
+- Typography: None (icon only)
+- Color Palette: White on purple gradient
+- Background: Purple gradient from light to dark
+- Style: Minimalist, modern, symbolic
+- Mood: Professional, goal-oriented, achievement

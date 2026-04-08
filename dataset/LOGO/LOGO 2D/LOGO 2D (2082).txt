@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị text "THIẾT BỊ ĐIỆN TỬ & KTS" bằng chữ trắng in hoa trên nền gradient tím từ đậm đến nhạt. Bên phải có hình ảnh một chiếc máy Game Boy màu xanh mint và bên dưới là một tay cầm chơi game màu xám với các nút bấm nhiều màu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Text chữ block kết hợp với icon gaming devices
+- Kiểu chữ: Sans-serif in hoa, đậm và rõ ràng
+- Bảng màu: Chủ đạo trắng với điểm nhấn xanh mint, xám và tím gradient
+- Nền: Gradient tím từ đậm đến nhạt
+- Phong cách: Gaming, hiện đại, công nghệ
+- Tông điệu: Năng động, thân thiện, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays "THIẾT BỊ ĐIỆN TỬ & KTS" text in white capital letters on a purple gradient background from dark to light. On the right side, there's an image of a mint-colored Game Boy and below it a gray gaming controller with colorful buttons.
+
+Design Elements:
+- Shape: Block text combined with gaming device icons
+- Typography: Sans-serif uppercase, bold and clear
+- Color Palette: Primarily white with mint green, gray accents and purple gradient
+- Background: Purple gradient from dark to light
+- Style: Gaming, modern, technological
+- Mood: Dynamic, friendly, professional

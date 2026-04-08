@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng oval với các đường viền màu vàng tạo thành những hình tròn và lá cây bên trong. Thiết kế mang tính đối xứng với một hình tròn trung tâm được bao quanh bởi các yếu tố lá và đường cong.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình oval với các đường cong hữu cơ và hình lá
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng kim trên nền tối xám/đen
+- Nền: Màu xám đen đơn giản
+- Phong cách: Tối giản, hữu cơ, nghệ thuật đường nét
+- Tông điệu: Sang trọng, tự nhiên, cân bằng
+
+---
+
+Visual Description:
+The logo features an oval shape with golden outlines forming circles and leaf elements inside. The design is symmetrical with a central circle surrounded by leaf motifs and flowing curves.
+
+Design Elements:
+- Shape: Oval with organic curves and leaf forms
+- Typography: None (icon only)
+- Color Palette: Golden yellow on dark gray/black background
+- Background: Simple dark gray/black
+- Style: Minimalist, organic, line art
+- Mood: Elegant, natural, balanced

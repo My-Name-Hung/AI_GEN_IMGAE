@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một thiết kế quảng cáo thức ăn với chữ "CHICKEN BIRYANI" được sắp xếp theo kiểu typography lớn và nổi bật. Ở giữa có hình ảnh một đĩa cơm biryani gà với màu sắc vàng óng và rau thơm xanh trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết lớn được xếp chồng, có hình tròn chứa món ăn ở trung tâm
+- Kiểu chữ: Font chữ sans-serif đậm, in hoa, có hiệu ứng màu gradient
+- Bảng màu: Cam, vàng, nâu, xanh lá, đỏ
+- Nền: Màu be/kem nhạt
+- Phong cách: Hiện đại, quảng cáo thực phẩm, typography nghệ thuật
+- Tông điệu: Hấp dẫn, thèm ăn, năng động
+
+---
+
+Visual Description:
+This is a food advertisement design featuring large "CHICKEN BIRYANI" typography as the main element. In the center, there's an image of a plate of chicken biryani with golden yellow rice and green herb garnishes.
+
+Design Elements:
+- Shape: Large stacked lettering with a circular food image in the center
+- Typography: Bold sans-serif font, uppercase, with gradient color effects
+- Color Palette: Orange, yellow, brown, green, red
+- Background: Light beige/cream
+- Style: Modern, food advertising, typographic art
+- Mood: Appetizing, enticing, energetic

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Kiếng" được viết bằng chữ thảo màu trắng trên nền xanh lá cây đậm. Phía trên bên phải có một biểu tượng nhỏ hình trái tim được bao quanh bởi các chấm tròn tạo thành hình tròn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ thảo uốn lượn, biểu tượng trái tim tròn với các chấm trang trí
+- Kiểu chữ: Chữ thảo thanh lịch cho tên chính, chữ in hoa nhỏ cho slogan
+- Bảng màu: Trắng trên nền xanh lá cây đậm (sage green)
+- Nền: Nền đồng nhất màu xanh lá cây
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Ấm áp, gần gũi, tự nhiên
+
+---
+
+Visual Description:
+The logo displays the brand name "Kiếng" written in white script lettering on a dark sage green background. Above and to the right is a small heart icon surrounded by dotted circles forming a decorative element.
+
+Design Elements:
+- Shape: Flowing script lettering, circular heart icon with dotted embellishments
+- Typography: Elegant script for main name, small caps for tagline
+- Color Palette: White on dark sage green background
+- Background: Solid sage green field
+- Style: Minimalist, modern, friendly
+- Mood: Warm, approachable, natural

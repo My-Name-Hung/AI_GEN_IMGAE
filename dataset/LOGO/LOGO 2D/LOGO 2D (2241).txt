@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "HIỀN BÁCH" được viết bằng chữ in hoa màu trắng trên nền xám đậm. Bên dưới tên chính có dòng chữ nhỏ hơn "CÔNG TY KẾ TOÁN" màu nâu/cam nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ ngang, đơn giản và thẳng hàng
+- Kiểu chữ: Sans-serif, in hoa, đậm, có dấu thanh điệu tiếng Việt
+- Bảng màu: Trắng cho tên chính, nâu/cam nhạt cho slogan
+- Nền: Xám đậm, đồng nhất
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Nghiêm túc, đáng tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the brand name "HIỀN BÁCH" in white capital letters on a dark gray background. Below the main name is a smaller line of text "CÔNG TY KẾ TOÁN" in a lighter brown/orange color.
+
+Design Elements:
+- Shape: Horizontal text layout, simple and aligned
+- Typography: Sans-serif, uppercase, bold, with Vietnamese diacritical marks
+- Color Palette: White for main name, light brown/orange for tagline
+- Background: Dark gray, solid
+- Style: Minimalist, modern, professional
+- Mood: Serious, trustworthy, professional

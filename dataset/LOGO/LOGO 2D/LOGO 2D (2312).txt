@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "PHÒNG TẬP CHÂU GIANG" bằng chữ in hoa màu trắng trên nền đen. Bên dưới có dòng chữ nhỏ hơn "TRUNG TÂM THỂ DỤC VÀ CHĂM SÓC SỨC KHỎE" làm slogan mô tả.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục văn bản đơn giản, chữ được sắp xếp theo khối chữ nhật
+- Kiểu chữ: Sans-serif đậm, in hoa, rõ ràng và dễ đọc
+- Bảng màu: Đơn sắc với chữ trắng trên nền đen
+- Nền: Nền đen hoàn toàn
+- Phong cách: Tối giản, trực tiếp, thiết kế văn bản thuần túy
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, nghiêm túc
+
+---
+
+Visual Description:
+The logo displays "PHÒNG TẬP CHÂU GIANG" in white capital letters on a black background. Below is smaller text "TRUNG TÂM THỂ DỤC VÀ CHĂM SÓC SỨC KHỎE" serving as a descriptive tagline.
+
+Design Elements:
+- Shape: Simple text layout arranged in rectangular blocks
+- Typography: Bold sans-serif, all caps, clean and legible
+- Color Palette: Monochromatic with white text on black background
+- Background: Solid black
+- Style: Minimalist, straightforward, pure text-based design
+- Mood: Professional, strong, serious

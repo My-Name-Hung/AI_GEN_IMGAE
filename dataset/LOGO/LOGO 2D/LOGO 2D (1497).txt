@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ cái "E" được cách điệu với các đường nét dày, tạo thành hình khối vuông góc. Thiết kế sử dụng màu tím đậm trên nền trắng với các khoảng trống tạo độ tương phản rõ nét.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái "E" hình học, vuông vức với các thanh ngang song song
+- Kiểu chữ: Sans-serif đậm, hiện đại, tối giản
+- Bảng màu: Tím navy đậm (#2D1B69) trên nền trắng
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hình học, hiện đại, đơn sắc
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, tin cậy, nghiêm túc
+
+---
+
+Visual Description:
+The logo displays a stylized letter "E" with thick, bold strokes forming a geometric, angular shape. The design uses a deep purple color against a white background with clean negative space creating sharp contrast.
+
+Design Elements:
+- Shape: Geometric letter "E" with angular, parallel horizontal bars
+- Typography: Bold, modern sans-serif, minimalist
+- Color Palette: Deep navy purple (#2D1B69) on white background
+- Background: Clean white background
+- Style: Minimalist, geometric, modern, monochromatic
+- Mood: Professional, strong, trustworthy, serious

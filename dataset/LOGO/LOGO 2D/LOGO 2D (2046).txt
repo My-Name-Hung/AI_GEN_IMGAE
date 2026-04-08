@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng phân tử hóa học với một hình tròn lớn màu xanh dương ở trung tâm, kết nối với ba hình tròn nhỏ hơn màu xanh lá, cam và đỏ. Bên dưới biểu tượng là chữ "OANH" được viết bằng font chữ hiện đại, đơn giản với màu xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Cấu trúc phân tử với các hình tròn kết nối, chữ cái thẳng
+- Kiểu chữ: Sans-serif hiện đại, đơn giản, in hoa
+- Bảng màu: Xanh dương, xanh lá, cam, đỏ, xám
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, khoa học, hiện đại
+- Tông điệu: Chuyên nghiệp, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo features a molecular structure icon with a large blue circle at the center connected to three smaller circles in green, orange, and red colors. Below the molecular symbol is the text "OANH" written in a modern, simple gray font.
+
+Design Elements:
+- Shape: Molecular structure with connected circles, clean letterforms
+- Typography: Modern sans-serif, simple, uppercase
+- Color Palette: Blue, green, orange, red, gray
+- Background: White/transparent
+- Style: Minimalist, scientific, modern
+- Mood: Professional, innovative, technological

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một chiếc nĩa màu xanh lá cây được cắm vào một hình tròn màu vàng, tạo thành hình ảnh giống như mặt trời. Bên dưới có một chiếc bát màu xanh lá với các yếu tố trang trí, kèm theo dòng chữ "PUT A FORK IN IT" được sắp xếp theo kiểu khối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn, nĩa, bát và các yếu tố trang trí hữu cơ
+- Kiểu chữ: Chữ in hoa đậm, kiểu sans-serif hiện đại
+- Bảng màu: Xanh lá cây, vàng, trắng
+- Nền: Nền trắng/trong suốt
+- Phong cách: Minh họa phẳng, hiện đại, thân thiện
+- Tông điệu: Tươi mới, tích cực, gần gũi
+
+---
+
+Visual Description:
+The logo features a green fork inserted into a yellow circular shape resembling a sun. Below it is a green bowl with decorative elements, accompanied by the text "PUT A FORK IN IT" arranged in a block format.
+
+Design Elements:
+- Shape: Circular, fork, bowl and organic decorative elements
+- Typography: Bold uppercase, modern sans-serif
+- Color Palette: Green, yellow, white
+- Background: White/transparent background
+- Style: Flat illustration, modern, friendly
+- Mood: Fresh, positive, approachable

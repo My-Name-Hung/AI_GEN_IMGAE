@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình cầu màu trắng với các đường lưới chia thành nhiều phần, tạo cảm giác như một quả địa cầu được cách điệu. Phía dưới là dòng chữ "Trò chơi Dân trận" bằng font chữ hiện đại và dòng chữ phụ "NHÀ LẬP TRÌNH TRÒ CHƠI" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình cầu với lưới chia ô vuông
+- Kiểu chữ: Font sans-serif hiện đại, chữ thường
+- Bảng màu: Đỏ san hô và trắng
+- Nền: Màu đỏ san hô đồng nhất
+- Phong cách: Tối giản, hiện đại, tech
+- Tông điệu: Năng động, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo features a white spherical icon with grid lines creating a segmented globe-like appearance. Below it is the text "Trò chơi Dân trận" in modern typography with a smaller subtitle "NHÀ LẬP TRÌNH TRÒ CHƠI".
+
+Design Elements:
+- Shape: Spherical globe with grid pattern
+- Typography: Modern sans-serif, lowercase styling
+- Color Palette: Coral red and white
+- Background: Solid coral red
+- Style: Minimalist, modern, tech-oriented
+- Mood: Dynamic, creative, technological

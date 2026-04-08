@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một hình khối 3D trừu tượng có dạng như một đường ống hoặc thanh vuông góc được uốn cong. Thiết kế sử dụng hiệu ứng gradient màu sắc tạo cảm giác chiều sâu và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình khối 3D isometric, dạng ống vuông có góc cong
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ cam đến hồng và tím
+- Nền: Tím đậm/navy
+- Phong cách: Hiện đại, tối giản, 3D isometric
+- Tông điệu: Công nghệ, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo displays an abstract 3D geometric form resembling a bent square tube or pipe with angular segments. The design uses gradient color effects to create depth and a modern dimensional appearance.
+
+Design Elements:
+- Shape: 3D isometric geometric form, bent square tube/pipe
+- Typography: None (icon only)
+- Color Palette: Gradient from orange to pink to purple
+- Background: Dark purple/navy
+- Style: Modern, minimalist, 3D isometric
+- Mood: Technological, dynamic, creative

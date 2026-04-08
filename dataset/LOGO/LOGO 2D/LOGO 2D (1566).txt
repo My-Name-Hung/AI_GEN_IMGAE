@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình tròn màu xanh dương với hai đường cong uốn lượn bên trong, tạo thành hình dạng giống như sóng hoặc mũi tên stylized. Bên cạnh biểu tượng là chữ "Swiftch" được viết bằng font chữ hiện đại, màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với các đường cong động, tạo cảm giác chuyển động
+- Kiểu chữ: Sans-serif hiện đại, in thường, màu trắng
+- Bảng màu: Xanh dương (cyan) và trắng
+- Nền: Xanh navy đậm
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, năng động, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a circular blue icon with two curved lines inside that create a wave-like or stylized arrow shape suggesting movement or flow. Next to the icon is the text "Swiftch" written in a clean, modern white typeface.
+
+Design Elements:
+- Shape: Circular with dynamic curved lines suggesting motion
+- Typography: Modern sans-serif, lowercase, white
+- Color Palette: Cyan blue and white
+- Background: Dark navy blue
+- Style: Minimalist, modern, tech-focused
+- Mood: Professional, dynamic, trustworthy

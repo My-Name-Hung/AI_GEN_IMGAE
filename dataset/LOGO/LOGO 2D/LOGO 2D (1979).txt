@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng quả địa cầu màu xanh lá cây với các đường kinh tuyến, đặt bên trái dòng chữ "Ngân hàng L" màu trắng. Phía dưới có dòng chữ nhỏ hơn "VÌ TƯƠNG LAI CỦA NHÂN LOẠI" cũng màu trắng, tất cả được đặt trên nền gradient tím với các hình khối hình học.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng quả địa cầu tròn với đường lưới kinh tuyến, kết hợp với chữ
+- Kiểu chữ: Font chữ sans-serif hiện đại, đậm và rõ ràng
+- Bảng màu: Tím gradient làm nền, xanh lá cây cho biểu tượng, trắng cho văn bản
+- Nền: Gradient tím với các yếu tố hình học mờ
+- Phong cách: Hiện đại, công nghệ, chuyên nghiệp
+- Tông điệu: Tin cậy, toàn cầu, tương lai
+
+---
+
+Visual Description:
+The logo features a green globe icon with meridian lines positioned to the left of white text reading "Ngân hàng L". Below is smaller white text stating "VÌ TƯƠNG LAI CỦA NHÂN LOẠI", all set against a purple gradient background with subtle geometric shapes.
+
+Design Elements:
+- Shape: Circular globe icon with grid lines combined with text layout
+- Typography: Modern sans-serif font, bold and clean
+- Color Palette: Purple gradient background, green for icon, white for text
+- Background: Purple gradient with blurred geometric elements
+- Style: Modern, technological, professional
+- Mood: Trustworthy, global, futuristic

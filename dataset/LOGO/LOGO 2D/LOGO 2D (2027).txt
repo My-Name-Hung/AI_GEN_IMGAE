@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hình chữ V được tạo thành từ các mảnh hình học màu xanh dương và xanh nhạt xếp chồng lên nhau. Bên dưới là dòng chữ "Viet Hospital" với slogan "HỆ THỐNG BỆNH VIỆN" màu xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ V stylized từ các khối hình học, mảnh cắt góc cạnh
+- Kiểu chữ: Sans-serif hiện đại, in hoa cho tên chính, in thường cho slogan
+- Bảng màu: Xanh dương đậm, xanh cyan, xám
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, geometric
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, y tế
+
+---
+
+Visual Description:
+The logo features a stylized "V" symbol created from overlapping geometric fragments in blue and cyan colors. Below is the text "Viet Hospital" with the tagline "HỆ THỐNG BỆNH VIỆN" in gray.
+
+Design Elements:
+- Shape: Stylized V made from angular geometric pieces, fragmented design
+- Typography: Modern sans-serif, uppercase for main name, lowercase for tagline
+- Color Palette: Deep blue, cyan blue, gray
+- Background: White/transparent
+- Style: Modern, minimalist, geometric
+- Mood: Professional, trustworthy, medical

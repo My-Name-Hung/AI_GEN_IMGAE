@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình cầu lưới màu đỏ cam được đặt trên một chân đế, tượng trưng cho quả địa cầu. Bên cạnh là tên thương hiệu "Minh Anh" bằng font chữ in hoa màu đỏ cam, kèm theo dòng slogan bằng tiếng Việt ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Quả địa cầu với pattern lưới caro, chân đế chữ nhật
+- Kiểu chữ: Font sans-serif đậm, in hoa cho tên chính, font nhỏ hơn cho slogan
+- Bảng màu: Đỏ cam/đỏ san hô chủ đạo
+- Nền: Trắng, trong suốt
+- Phong cách: Tối giản, hiện đại, biểu tượng rõ ràng
+- Tông điệu: Chuyên nghiệp, thân thiện, giáo dục
+
+---
+
+Visual Description:
+The logo features an orange-red globe icon with a crosshatch grid pattern sitting on a rectangular base, representing a world globe or atlas. Next to it is the brand name "Minh Anh" in bold orange-red typography, with a Vietnamese tagline positioned below.
+
+Design Elements:
+- Shape: Globe with crosshatch grid pattern, rectangular base stand
+- Typography: Bold sans-serif font in caps for main name, smaller font for tagline
+- Color Palette: Orange-red/coral red primary color
+- Background: White, transparent
+- Style: Minimalist, modern, clear iconography
+- Mood: Professional, friendly, educational

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm chữ "Minh Duyên" được viết bằng font chữ đậm màu đen, với từ "Duyên" được đặt trên nền hình chữ nhật màu vàng sáng. Bên dưới có dòng chữ nhỏ "Nghệ sĩ tự do" cũng màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật vàng làm nền cho một phần text
+- Kiểu chữ: Font sans-serif đậm, rõ ràng và hiện đại
+- Bảng màu: Vàng sáng và đen
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, typography-based
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features the text "Minh Duyên" in bold black font, with the word "Duyên" placed on a bright yellow rectangular background. Below is smaller text reading "Nghệ sĩ tự do" also in black.
+
+Design Elements:
+- Shape: Yellow rectangle serving as background for part of the text
+- Typography: Bold sans-serif font, clear and modern
+- Color Palette: Bright yellow and black
+- Background: White/transparent
+- Style: Minimalist, modern, typography-based
+- Mood: Professional, dynamic, creative

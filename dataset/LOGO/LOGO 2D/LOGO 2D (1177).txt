@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình tròn với đường viền trang trí, bên trong chứa hình ảnh một con bướm cách điệu ở trung tâm. Xung quanh bướm là các yếu tố trang trí dạng lá cây và hoa văn đối xứng tạo thành một hoa tiết trang trí tinh tế.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với đường viền kép, bướm cách điệu ở trung tâm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng trên nền xanh đen đậm
+- Nền: Nền xanh đen đậm, phẳng
+- Phong cách: Cổ điển, trang trí, đối xứng, tinh tế
+- Tông điệu: Thanh lịch, sang trọng, tĩnh lặng
+
+---
+
+Visual Description:
+The logo features a circular design with decorative borders containing a stylized butterfly at the center. Surrounding the butterfly are symmetrical leaf and floral decorative elements that create an elegant ornamental pattern within the circular frame.
+
+Design Elements:
+- Shape: Circular with double border, stylized butterfly centerpiece
+- Typography: None (icon only)
+- Color Palette: White on dark navy blue
+- Background: Solid dark navy blue
+- Style: Classic, decorative, symmetrical, ornate
+- Mood: Elegant, sophisticated, serene

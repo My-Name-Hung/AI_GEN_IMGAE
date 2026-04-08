@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Thiên Ân" bằng chữ đen in hoa trên nền vàng rực rỡ. Phía trên tên có một biểu tượng tia chớp màu trắng, và bên dưới có dòng chữ "Từ năm 2000" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tia chớp đơn giản, bố cục dọc
+- Kiểu chữ: Sans-serif đậm, rõ ràng, có dấu thanh tiếng Việt
+- Bảng màu: Vàng chủ đạo, chữ đen, biểu tượng trắng
+- Nền: Màu vàng đồng nhất
+- Phong cách: Tối giản, hiện đại, dễ nhận diện
+- Tông điệu: Năng động, tích cực, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays "Thiên Ân" in bold black text on a bright yellow background. Above the name is a white lightning bolt symbol, and below is smaller text reading "Từ năm 2000".
+
+Design Elements:
+- Shape: Simple lightning bolt icon, vertical layout
+- Typography: Bold sans-serif with Vietnamese diacritical marks
+- Color Palette: Dominant yellow with black text and white symbol
+- Background: Solid yellow
+- Style: Minimalist, modern, easily recognizable
+- Mood: Dynamic, positive, professional

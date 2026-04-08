@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một máy giặt màu đen với cửa tròn màu xanh dương phát sáng, có dòng nước màu xanh chảy ra từ trên xuống tạo thành hình cong động. Bên trên có hình ảnh một người phụ nữ mặc áo trắng đang cúi xuống, tạo cảm giác như đang sử dụng sản phẩm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật với máy giặt và dòng nước cong
+- Kiểu chữ: Có text "CAREER VIETNAM" và thông tin bổ sung
+- Bảng màu: Đen, xanh dương, trắng, xám
+- Nền: Nền trắng/xám nhạt
+- Phong cách: Hiện đại, sạch sẽ, công nghệ
+- Tông điệu: Chuyên nghiệp, tin cậy, hiệu quả
+
+---
+
+Visual Description:
+The logo shows a black washing machine with a glowing blue circular door, with a curved stream of blue water flowing from above. A woman in white clothing is positioned above, bending down as if using the appliance.
+
+Design Elements:
+- Shape: Rectangular composition with washing machine and curved water flow
+- Typography: "CAREER VIETNAM" text with additional information
+- Color Palette: Black, blue, white, gray
+- Background: White/light gray background
+- Style: Modern, clean, technological
+- Mood: Professional, reliable, efficient

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một chiếc thuyền buồm phong cách tối giản với hai cánh buồm tam giác màu đen. Thiết kế sử dụng các hình khối geometric đơn giản để tạo thành hình dáng của một con thuyền đang di chuyển trên mặt nước.
+
+Yếu tố Thiết kế:
+- Hình dạng: Thuyền buồm geometric với hai tam giác làm buồm và thân thuyền dạng hình thang
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trên nền vàng rực rỡ
+- Nền: Nền vàng đồng nhất, vuông
+- Phong cách: Tối giản, geometric, hiện đại
+- Tông điệu: Năng động, phiêu lưu, tự do
+
+---
+
+Visual Description:
+The logo displays a minimalist sailboat design featuring two black triangular sails. The design uses simple geometric shapes to form the silhouette of a boat moving across water.
+
+Design Elements:
+- Shape: Geometric sailboat with two triangular sails and trapezoidal hull
+- Typography: None (icon only)
+- Color Palette: Black on bright yellow
+- Background: Solid yellow, square format
+- Style: Minimalist, geometric, modern
+- Mood: Dynamic, adventurous, freedom

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một chiếc neo hàng hải được cách điệu với thiết kế đối xứng. Chiếc neo có thân dọc trung tâm với hai cánh tay neo uốn cong và một mũi nhọn ở phía dưới, tạo thành hình dạng mạnh mẽ và cân đối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Neo hàng hải cách điệu với cấu trúc đối xứng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trên nền trắng
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, biểu tượng, đối xứng
+- Tông điệu: Mạnh mẽ, ổn định, hàng hải
+
+---
+
+Visual Description:
+The logo displays a stylized nautical anchor with a symmetrical design. The anchor features a central vertical shaft with curved anchor arms and a pointed bottom, creating a strong and balanced shape.
+
+Design Elements:
+- Shape: Stylized nautical anchor with symmetrical structure
+- Typography: None (icon only)
+- Color Palette: Black on white
+- Background: Clean white background
+- Style: Minimalist, emblematic, symmetrical
+- Mood: Strong, stable, nautical

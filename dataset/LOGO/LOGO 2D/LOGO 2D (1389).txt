@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng ngọn lửa cách điệu được vẽ bằng đường nét màu cam/vàng trên nền xanh navy đậm. Bên dưới biểu tượng là tên thương hiệu "NightBlaze" được viết bằng font chữ sans-serif màu trắng, với "Night" và "Blaze" được viết liền không có khoảng cách.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng ngọn lửa trừu tượng với đường nét cong mềm mại
+- Kiểu chữ: Sans-serif hiện đại, đậm, viết hoa chữ cái đầu
+- Bảng màu: Cam/vàng cho biểu tượng, trắng cho chữ, nền xanh navy
+- Nền: Màu xanh navy đậm đơn sắc
+- Phong cách: Tối giản, hiện đại, clean
+- Tông điệu: Chuyên nghiệp, năng động, ấm áp
+
+---
+
+Visual Description:
+The logo features a stylized flame icon drawn with orange/yellow curved lines on a dark navy blue background. Below the icon is the brand name "NightBlaze" written in white sans-serif typography, with "Night" and "Blaze" combined as one word with capitalized first letters.
+
+Design Elements:
+- Shape: Abstract flame symbol with smooth curved lines
+- Typography: Modern sans-serif, bold, title case
+- Color Palette: Orange/yellow for icon, white for text, dark navy background
+- Background: Solid dark navy blue
+- Style: Minimalist, modern, clean
+- Mood: Professional, dynamic, warm

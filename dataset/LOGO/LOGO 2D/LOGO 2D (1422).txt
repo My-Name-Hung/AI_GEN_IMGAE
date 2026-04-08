@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng giọt nước hoặc ngọn lửa với màu xanh lá cây gradient. Bên trong có số "2" màu trắng được thiết kế uốn cong theo hình dạng của logo.
+
+Yếu tố Thiết kế:
+- Hình dạng: Giọt nước/ngọn lửa dọc với đường cong mềm mại
+- Kiểu chữ: Số "2" kiểu cách điệu, uốn cong, in đậm
+- Bảng màu: Gradient xanh lá cây từ nhạt đến đậm, số "2" màu trắng
+- Nền: Màu kem/be nhạt
+- Phong cách: Hiện đại, tối giản, organic
+- Tông điệu: Tự nhiên, tươi mới, năng động
+
+---
+
+Visual Description:
+The logo features a teardrop or flame-like shape in green gradient colors. Inside the shape is a white number "2" designed with curved lines that follow the contour of the logo.
+
+Design Elements:
+- Shape: Vertical teardrop/flame with smooth, flowing curves
+- Typography: Stylized number "2" with curved design, bold weight
+- Color Palette: Green gradient from light to dark, white number
+- Background: Light cream/beige
+- Style: Modern, minimalist, organic
+- Mood: Natural, fresh, dynamic

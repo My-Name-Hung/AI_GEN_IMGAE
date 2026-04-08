@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "TRS" được thiết kế theo kiểu typography hiện đại với màu xanh lá cây đậm. Chữ "S" được tích hợp một biểu tượng lá cây nhỏ màu xanh lá nhạt hơn, và bên dưới có dòng chữ "AGRI SOLUTIONS" màu xanh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái in hoa kết hợp với biểu tượng lá cây tròn
+- Kiểu chữ: Sans-serif hiện đại, đậm, có khoảng cách chữ rộng
+- Bảng màu: Xanh lá cây đậm, xanh lá nhạt, trắng
+- Nền: Xám nhạt gradient
+- Phong cách: Hiện đại, sạch sẽ, chuyên nghiệp
+- Tông điệu: Tự nhiên, thân thiện với môi trường, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays "TRS" designed in modern typography with dark green coloring. The "S" incorporates a small circular leaf icon in lighter green, with "AGRI SOLUTIONS" text below in matching green.
+
+Design Elements:
+- Shape: Uppercase letters combined with circular leaf symbol
+- Typography: Modern sans-serif, bold weight, wide letter spacing
+- Color Palette: Dark green, light green, white
+- Background: Light gray gradient
+- Style: Modern, clean, professional
+- Mood: Natural, eco-friendly, trustworthy

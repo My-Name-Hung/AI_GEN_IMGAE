@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hình sao màu cam ở bên trái, kết hợp với dòng chữ "sao việt" bằng font chữ hiện đại màu trắng. Bên dưới có tagline "đơn giản hóa việc học trực tuyến" cũng được viết bằng màu trắng với kích thước nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình sao đa cánh bằng màu cam/đỏ cam
+- Kiểu chữ: Font chữ không chân (sans-serif), đơn giản và hiện đại
+- Bảng màu: Cam/đỏ cam cho biểu tượng, trắng cho chữ, nền xanh đậm
+- Nền: Nền màu xanh navy đậm
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Chuyên nghiệp, năng động, giáo dục
+
+---
+
+Visual Description:
+The logo features an orange star-shaped icon on the left, paired with "sao việt" text in modern white typography. Below is the tagline "đơn giản hóa việc học trực tuyến" also in white text but smaller in size.
+
+Design Elements:
+- Shape: Multi-pointed star icon in orange/orange-red color
+- Typography: Clean, modern sans-serif font
+- Color Palette: Orange/orange-red for icon, white for text, dark navy background
+- Background: Dark navy blue background
+- Style: Minimalist, modern, friendly
+- Mood: Professional, dynamic, educational

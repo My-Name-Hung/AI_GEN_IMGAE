@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "SUNDAY" được thiết kế với kiểu chữ hiện đại, trong đó "SUN" được viết bằng màu xanh lá cây đậm và "DAY" bằng màu cam/vàng. Bên dưới có dòng chữ "Brunch" viết nghiêng bằng màu cam, kèm theo các ngôi sao trang trí nhỏ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Typography chữ cái với các ngôi sao trang trí
+- Kiểu chữ: Sans-serif hiện đại, dòng chữ phụ viết nghiêng
+- Bảng màu: Xanh lá cây đậm, cam/vàng
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, năng động, thanh lịch
+- Tông điệu: Tươi mới, năng lượng, thân thiện
+
+---
+
+Visual Description:
+The logo displays "SUNDAY" in modern typography with "SUN" rendered in dark green and "DAY" in orange/yellow. Below it, "Brunch" is written in italic orange text, accompanied by small decorative stars.
+
+Design Elements:
+- Shape: Typography-based with decorative star elements
+- Typography: Modern sans-serif with italic secondary text
+- Color Palette: Dark green, orange/yellow
+- Background: Transparent/white
+- Style: Modern, dynamic, elegant
+- Mood: Fresh, energetic, friendly

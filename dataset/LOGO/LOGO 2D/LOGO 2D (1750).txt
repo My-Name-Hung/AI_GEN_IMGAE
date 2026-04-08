@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một con ếch được đặt trong khung tam giác hình học với các đường kết nối tạo thành cấu trúc mạng. Ếch có đôi cánh và được vẽ theo phong cách chi tiết, cùng với các con số màu đỏ "33 34" ở phía trên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Tam giác hình học với mạng kết nối, ếch có cánh ở trung tâm
+- Kiểu chữ: Chữ sans-serif hiện đại, đậm
+- Bảng màu: Xanh lá cây cho ếch, đỏ cho số, đen cho chữ, nền hồng nhạt
+- Nền: Màu hồng/be nhạt
+- Phong cách: Kết hợp giữa hình học hiện đại và minh họa tự nhiên
+- Tông điệu: Thần bí, công nghệ, sáng tạo
+
+---
+
+Visual Description:
+The logo features a frog positioned within a geometric triangular framework with connecting lines forming a network structure. The frog has wings and is drawn in a detailed style, accompanied by red numbers "33 34" at the top.
+
+Design Elements:
+- Shape: Geometric triangle with network connections, winged frog at center
+- Typography: Modern sans-serif, bold weight
+- Color Palette: Green for frog, red for numbers, black for text, light pink background
+- Background: Light pink/beige
+- Style: Blend of modern geometric and natural illustration
+- Mood: Mystical, technological, creative

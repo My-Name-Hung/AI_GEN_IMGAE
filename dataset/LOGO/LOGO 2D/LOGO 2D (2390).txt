@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tròn màu xanh đậm chứa hình ảnh một tòa nhà cao tầng được stylized. Bên cạnh biểu tượng là dòng chữ "CÔNG TY TÂY NAM" được sắp xếp theo chiều ngang.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn chứa biểu tượng tòa nhà, bố cục ngang
+- Kiểu chữ: Sans-serif hiện đại, in hoa, khoảng cách đều
+- Bảng màu: Xanh navy đậm và cam san hô
+- Nền: Màu cam san hô đồng nhất
+- Phong cách: Tối giản, hiện đại, doanh nghiệp
+- Tông điệu: Chuyên nghiệp, tin cậy, năng động
+
+---
+
+Visual Description:
+The logo features a circular dark blue icon containing a stylized high-rise building symbol. Adjacent to the icon is the text "CÔNG TY TÂY NAM" arranged horizontally in the same dark blue color.
+
+Design Elements:
+- Shape: Circular icon with building symbol, horizontal layout
+- Typography: Modern sans-serif, uppercase, evenly spaced
+- Color Palette: Dark navy blue and coral orange
+- Background: Solid coral orange background
+- Style: Minimalist, modern, corporate
+- Mood: Professional, trustworthy, dynamic

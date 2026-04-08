@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình oval với đường viền mảnh, bên trong chứa hình ảnh cành hoa được vẽ theo phong cách line art tối giản. Xung quanh oval có dòng chữ "MỸ PHẨM ORGANIC" ở phía trên và dòng chữ tiếng Việt ở phía dưới, tất cả được sắp xếp theo hình cung.
+
+Yếu tố Thiết kế:
+- Hình dạng: Oval dọc với đường viền mảnh, chứa motif hoa lá
+- Kiểu chữ: Font chữ đơn giản, cân đối, sắp xếp theo đường cong
+- Bảng màu: Đơn sắc nâu nhạt trên nền hồng pastel
+- Nền: Nền màu hồng nude/be nhạt
+- Phong cách: Tối giản, line art, organic, feminine
+- Tông điệu: Nhẹ nhàng, tự nhiên, thanh lịch, thân thiện
+
+---
+
+Visual Description:
+The logo features a thin oval border containing minimalist line art of flowering stems. Text "MỸ PHẨM ORGANIC" curves above the oval while Vietnamese text curves below, creating a circular text arrangement around the central floral motif.
+
+Design Elements:
+- Shape: Vertical oval with thin border containing botanical illustration
+- Typography: Simple, balanced font arranged in curved formation
+- Color Palette: Monochromatic light brown on soft pink background
+- Background: Soft nude/beige pink
+- Style: Minimalist, line art, organic, feminine
+- Mood: Gentle, natural, elegant, approachable

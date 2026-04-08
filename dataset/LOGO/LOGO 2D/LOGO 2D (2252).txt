@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế tròn với text "CÔNG ĐỒNG" ở phía trên, "NHÂN TƯ" ở giữa làm điểm nhấn chính, và "CỦA CÁC TÍN ĐỒ" ở phía dưới. Các đường cong trang trí bao quanh text tạo thành hình tròn hoàn chỉnh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục tròn với các đường cong đối xứng
+- Kiểu chữ: Sans-serif đơn giản, rõ ràng, có dấu tiếng Việt
+- Bảng màu: Chữ trắng trên nền xanh pastel
+- Nền: Màu xanh dương nhạt, pastel
+- Phong cách: Tối giản, hiện đại, cân đối
+- Tông điệu: Thanh lịch, chuyên nghiệp, thân thiện
+
+---
+
+Visual Description:
+The logo features a circular design with "CÔNG ĐỒNG" at the top, "NHÂN TƯ" prominently displayed in the center, and "CỦA CÁC TÍN ĐỒ" at the bottom. Decorative curved lines frame the text to create a complete circular composition.
+
+Design Elements:
+- Shape: Circular layout with symmetrical curved lines
+- Typography: Clean sans-serif font with Vietnamese diacritics
+- Color Palette: White text on pastel blue background
+- Background: Light pastel blue
+- Style: Minimalist, modern, balanced
+- Mood: Elegant, professional, approachable

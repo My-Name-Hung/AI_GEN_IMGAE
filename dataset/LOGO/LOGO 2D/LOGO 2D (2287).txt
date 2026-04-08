@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "ĐÌNH THANH" bằng chữ in hoa màu trắng trên nền xanh navy. Bên dưới có hai đường kẻ ngang màu cam/đỏ và chữ "ĐẠI BIỂU" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật dọc với văn bản căn giữa
+- Kiểu chữ: Serif truyền thống, in hoa, đậm, trang trọng
+- Bảng màu: Xanh navy làm nền chính, trắng cho chữ, cam/đỏ cho đường kẻ
+- Nền: Xanh navy đồng nhất
+- Phong cách: Trang trọng, chính thức, cổ điển
+- Tông điệu: Uy tín, nghiêm túc, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays "ĐÌNH THANH" in white uppercase letters on a navy blue background. Below are two horizontal orange/red lines and smaller text reading "ĐẠI BIỂU".
+
+Design Elements:
+- Shape: Vertical rectangular layout with centered text alignment
+- Typography: Traditional serif, uppercase, bold, formal letterforms
+- Color Palette: Navy blue background, white text, orange/red accent lines
+- Background: Solid navy blue
+- Style: Formal, official, classic
+- Mood: Authoritative, serious, professional

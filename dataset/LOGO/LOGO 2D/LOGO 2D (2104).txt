@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng hình tròn chứa chữ "N" màu trắng ở phía trên. Bên dưới là tên thương hiệu "NHÂN TỪ" được viết bằng chữ in hoa màu trắng, kèm theo dòng slogan "CÔNG ĐỒNG CÁC TÍN ĐỒ" bằng chữ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn đơn giản chứa chữ cái N, bố cục dọc đối xứng
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa đậm và rõ ràng
+- Bảng màu: Màu trắng chủ đạo trên nền xanh đậm
+- Nền: Nền xanh đậm/xanh xám tối
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Chuyên nghiệp, uy tín, trang trọng
+
+---
+
+Visual Description:
+The logo features a circular icon containing a white letter "N" at the top. Below it is the brand name "NHÂN TỪ" displayed in white capital letters, followed by the tagline "CÔNG ĐỒNG CÁC TÍN ĐỒ" in smaller text.
+
+Design Elements:
+- Shape: Simple circular icon with letter N, vertically symmetrical layout
+- Typography: Modern sans-serif, bold and clear capital letters
+- Color Palette: Predominantly white on dark blue background
+- Background: Dark blue/dark blue-gray
+- Style: Minimalist, modern, elegant
+- Mood: Professional, trustworthy, dignified

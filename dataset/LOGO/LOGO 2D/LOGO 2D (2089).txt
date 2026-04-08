@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng hình học đơn giản với ba hình vuông chồng lên nhau tạo thành hiệu ứng lớp. Phần text "LONG NHẬT" được đặt bên dưới bằng font chữ in hoa, kèm theo dòng chữ nhỏ hơn "BẤT ĐỘNG SẢN".
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình vuông chồng lớp tạo hiệu ứng chiều sâu
+- Kiểu chữ: Font sans-serif hiện đại, in hoa cho tên chính, chữ thường cho slogan
+- Bảng màu: Tông màu hồng pastel nhạt
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Thanh lịch, tinh tế, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a simple geometric icon consisting of three overlapping squares creating a layered effect. Below the icon, "LONG NHẬT" is displayed in uppercase letters, followed by smaller text reading "BẤT ĐỘNG SẢN".
+
+Design Elements:
+- Shape: Three overlapping squares creating depth effect
+- Typography: Modern sans-serif font, uppercase for main name, lowercase for tagline
+- Color Palette: Soft pastel pink tones
+- Background: Clean white background
+- Style: Minimalist, modern, professional
+- Mood: Elegant, refined, trustworthy

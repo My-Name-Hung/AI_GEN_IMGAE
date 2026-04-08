@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học đơn giản mô tả hai hình vuông chồng lên nhau với màu vàng cam, tạo thành hình dạng giống như ngôi nhà hoặc tòa nhà. Bên dưới biểu tượng là dòng chữ "IMMO UNIT" được viết bằng font chữ đậm, màu trắng trên nền tím đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình vuông chồng lên nhau tạo thành hình khối kiến trúc
+- Kiểu chữ: Font sans-serif đậm, chữ hoa
+- Bảng màu: Vàng cam cho biểu tượng, trắng cho chữ
+- Nền: Tím đậm/navy
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, tin cậy, năng động
+
+---
+
+Visual Description:
+The logo features a simple geometric icon in orange/yellow depicting two overlapping squares that form a house or building-like shape. Below the icon is the text "IMMO UNIT" written in bold, white letters on a dark purple background.
+
+Design Elements:
+- Shape: Two overlapping squares forming an architectural block
+- Typography: Bold sans-serif, uppercase letters
+- Color Palette: Orange/yellow for icon, white for text
+- Background: Dark purple/navy
+- Style: Minimalist, modern, geometric
+- Mood: Professional, trustworthy, dynamic

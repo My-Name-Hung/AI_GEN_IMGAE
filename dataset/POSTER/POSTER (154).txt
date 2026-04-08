@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Hình ảnh hiển thị một chiếc lốp xe hiện đại với công nghệ thông minh, được bao quanh bởi các biểu tượng và text mô tả các tính năng kỹ thuật. Lốp xe có thiết kế futuristic với các chi tiết điện tử bên trong và được đặt trên một bề mặt phản chiếu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lốp xe 3D với các icon hình lục giác xung quanh
+- Kiểu chữ: Font sans-serif hiện đại, kích thước nhỏ cho các mô tả tính năng
+- Bảng màu: Xanh dương chủ đạo, trắng, xám và các điểm nhấn công nghệ
+- Nền: Gradient xanh dương với hiệu ứng ánh sáng
+- Phong cách: Công nghệ cao, futuristic, infographic
+- Tông điệu: Chuyên nghiệp, hiện đại, đổi mới
+
+---
+
+Visual Description:
+The image shows a modern smart tire surrounded by hexagonal icons and descriptive text highlighting technical features. The tire has a futuristic design with electronic details inside and is placed on a reflective surface.
+
+Design Elements:
+- Shape: 3D tire with hexagonal icons arranged around it
+- Typography: Modern sans-serif font, small size for feature descriptions
+- Color Palette: Dominant blue, white, gray with technological accents
+- Background: Blue gradient with lighting effects
+- Style: High-tech, futuristic, infographic
+- Mood: Professional, modern, innovative

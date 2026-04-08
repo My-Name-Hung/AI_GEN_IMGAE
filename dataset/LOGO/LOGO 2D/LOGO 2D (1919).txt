@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị cụm từ "HẢI ÂU" bằng chữ cái màu trắng có kiểu dáng tròn trịa, đặt trên nền đỏ san hô. Bên dưới có một thanh màu vàng chứa dòng chữ tiếng Việt "DINH DƯỠNG CHO TRẺ EM".
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái bo tròn với các góc mềm mại
+- Kiểu chữ: Font chữ sans-serif đậm, bo tròn, thân thiện
+- Bảng màu: Đỏ san hô, trắng, vàng
+- Nền: Màu đỏ san hô đồng nhất
+- Phong cách: Hiện đại, thân thiện, đơn giản
+- Tông điệu: Ấm áp, gần gũi, tin cậy
+
+---
+
+Visual Description:
+The logo displays "HẢI ÂU" in white rounded letters against a coral red background. Below the main text is a yellow banner containing Vietnamese text "DINH DƯỠNG CHO TRẺ EM" (nutrition for children).
+
+Design Elements:
+- Shape: Rounded letterforms with soft corners
+- Typography: Bold, rounded sans-serif font that appears friendly
+- Color Palette: Coral red, white, yellow
+- Background: Solid coral red
+- Style: Modern, friendly, minimalist
+- Mood: Warm, approachable, trustworthy

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng hình học bên trái và văn bản bên phải trên nền tím gradient. Biểu tượng là ba thanh ngang màu hồng có độ dài giảm dần từ trên xuống dưới, tạo thành hình dạng giống như danh sách hoặc menu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba thanh ngang bo góc, xếp chồng với độ dài giảm dần
+- Kiểu chữ: Sans-serif hiện đại, đậm, với text "Kỹ thuật số Anh Dũng" và "Phòng Thiết kế"
+- Bảng màu: Tím gradient làm nền, hồng coral cho icon và text
+- Nền: Gradient tím từ đậm đến nhạt
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Sáng tạo, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo features a geometric icon on the left and text on the right against a purple gradient background. The icon consists of three horizontal pink bars decreasing in length from top to bottom, creating a list or menu-like shape.
+
+Design Elements:
+- Shape: Three stacked horizontal rounded bars with decreasing lengths
+- Typography: Modern sans-serif, bold weight, featuring "Kỹ thuật số Anh Dũng" and "Phòng Thiết kế"
+- Color Palette: Purple gradient background with coral pink for icon and text
+- Background: Purple gradient from dark to light
+- Style: Minimalist, modern, tech-oriented
+- Mood: Creative, professional, dynamic

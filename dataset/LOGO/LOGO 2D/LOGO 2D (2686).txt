@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hình tròn với gradient màu tím và xanh dương ở bên trái, bên trong có hình chữ "e" màu trắng. Bên phải là chữ "excoin" được viết bằng font chữ đậm màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với chữ cái "e" âm bản bên trong
+- Kiểu chữ: Font sans-serif đậm, hiện đại
+- Bảng màu: Gradient tím-xanh dương, đen, trắng
+- Nền: Trắng trong suốt
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sáng tạo
+
+---
+
+Visual Description:
+The logo features a circular icon on the left with a purple-to-blue gradient, containing a white lowercase "e" as negative space. To the right is the text "excoin" written in bold black typography.
+
+Design Elements:
+- Shape: Circular icon with negative space letter "e"
+- Typography: Bold, modern sans-serif font
+- Color Palette: Purple-to-blue gradient, black, white
+- Background: Transparent white
+- Style: Minimalist, modern, tech-focused
+- Mood: Professional, trustworthy, innovative

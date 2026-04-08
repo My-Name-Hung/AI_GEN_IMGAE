@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình đám mây được tạo từ ba hình tròn chồng lên nhau với màu sắc gradient từ xanh dương đậm sang xanh lục nhạt. Bên dưới là tên thương hiệu "EchoCloud" được viết bằng font chữ sans-serif màu trắng trên nền xanh đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình tròn chồng lên nhau tạo thành hình đám mây
+- Kiểu chữ: Sans-serif hiện đại, không chân, font đậm
+- Bảng màu: Gradient từ xanh dương đậm sang xanh lục nhạt, chữ màu trắng
+- Nền: Xanh đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sáng tạo
+
+---
+
+Visual Description:
+The logo features a cloud shape formed by three overlapping circles with a gradient from dark blue to light green. Below is the brand name "EchoCloud" written in white sans-serif typography on a dark blue background.
+
+Design Elements:
+- Shape: Three overlapping circles forming a cloud shape
+- Typography: Modern sans-serif, bold weight
+- Color Palette: Gradient from dark blue to light green, white text
+- Background: Solid dark blue
+- Style: Modern, minimalist, tech-focused
+- Mood: Professional, reliable, innovative

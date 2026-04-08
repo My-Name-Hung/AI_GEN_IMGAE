@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình học trừu tượng gồm bốn hình khối được sắp xếp thành hình vuông, với các màu xanh lam, cam và xanh dương. Bên dưới biểu tượng là tên thương hiệu "TutiFruti" được viết bằng font chữ màu xanh lam đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình vuông gồm 4 khối hình học cong, kiểu dáng hiện đại
+- Kiểu chữ: Font chữ tròn, thân thiện, dễ đọc
+- Bảng màu: Xanh lam đậm, cam, xanh dương nhạt
+- Nền: Trắng sạch
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Vui tươi, thân thiện, năng động
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon composed of four curved blocks arranged in a square formation, using blue, orange, and light blue colors. Below the icon is the brand name "TutiFruti" written in a bold blue font.
+
+Design Elements:
+- Shape: Square icon with 4 curved geometric blocks, modern styling
+- Typography: Rounded, friendly, readable font
+- Color Palette: Deep blue, orange, light blue
+- Background: Clean white
+- Style: Modern, minimalist, geometric
+- Mood: Playful, friendly, dynamic

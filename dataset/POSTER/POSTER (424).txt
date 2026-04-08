@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "SPRINT" được đặt ở cuối một bức ảnh collage về xe máy vespa trắng. Chữ "SPRINT" có màu trắng đậm nét với một đường gạch dưới màu cam/đỏ tạo điểm nhấn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết hoa đơn giản với đường gạch dưới
+- Kiểu chữ: Font chữ sans-serif đậm, hiện đại
+- Bảng màu: Trắng chủ đạo với điểm nhấn cam/đỏ
+- Nền: Trong suốt, đặt trên ảnh xe máy
+- Phong cách: Tối giản, hiện đại, thể thao
+- Tông điệu: Năng động, tốc độ, trẻ trung
+
+---
+
+Visual Description:
+The logo displays the word "SPRINT" positioned at the bottom of a collage photo featuring a white Vespa scooter. The text "SPRINT" appears in bold white letters with an orange/red underline accent.
+
+Design Elements:
+- Shape: Simple uppercase text with underline accent
+- Typography: Bold, modern sans-serif font
+- Color Palette: Primary white with orange/red accent
+- Background: Transparent, overlaid on scooter imagery
+- Style: Minimalist, modern, sporty
+- Mood: Dynamic, speed, youthful

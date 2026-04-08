@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một banner quảng cáo Cyber Monday với chữ "CYBER MONDAY" được thiết kế nổi bật bằng font chữ đậm màu trắng. Bên dưới có dòng chữ "Sale" viết tay màu vàng và "50% OFF" với số "50" được làm nổi bật đặc biệt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Layout dọc với các yếu tố text xếp tầng
+- Kiểu chữ: Font sans-serif đậm cho tiêu đề chính, chữ viết tay cho "Sale"
+- Bảng màu: Nền xanh navy, chữ trắng, điểm nhấn vàng và hồng
+- Nền: Gradient xanh navy với các hình cầu trang trí màu hồng
+- Phong cách: Hiện đại, thương mại điện tử, khuyến mãi
+- Tông điệu: Hấp dẫn, năng động, thu hút
+
+---
+
+Visual Description:
+This is a Cyber Monday promotional banner featuring "CYBER MONDAY" in bold white typography as the main headline. Below it displays "Sale" in yellow handwritten script and "50% OFF" with the "50" prominently emphasized.
+
+Design Elements:
+- Shape: Vertical layout with stacked text elements
+- Typography: Bold sans-serif for main headline, handwritten script for "Sale"
+- Color Palette: Navy blue background, white text, yellow and pink accents
+- Background: Navy gradient with decorative pink spherical elements
+- Style: Modern, e-commerce, promotional
+- Mood: Attractive, dynamic, eye-catching

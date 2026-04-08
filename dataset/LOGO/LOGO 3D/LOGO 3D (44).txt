@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một khối vuông bo góc 3D màu trắng với phần trung tâm màu đỏ chứa biểu tượng hình kim cương hoặc chữ "W" stylized màu trắng. Toàn bộ logo được trình bày với hiệu ứng đổ bóng và độ sâu 3D trên nền màu đỏ cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông bo góc 3D với hiệu ứng isometric
+- Kiểu chữ: Không có (chỉ icon chữ W stylized)
+- Bảng màu: Đỏ cam, trắng
+- Nền: Nền đồng nhất màu đỏ cam
+- Phong cách: 3D, isometric, hiện đại, tối giản
+- Tông điệu: Năng động, công nghệ, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays a 3D white rounded square block with a red center containing a white diamond-shaped or stylized "W" icon. The entire logo is presented with shadow effects and 3D depth against a coral-red background.
+
+Design Elements:
+- Shape: 3D rounded square block with isometric effects
+- Typography: None (icon only with stylized W)
+- Color Palette: Coral red, white
+- Background: Solid coral-red background
+- Style: 3D, isometric, modern, minimalist
+- Mood: Dynamic, technological, professional

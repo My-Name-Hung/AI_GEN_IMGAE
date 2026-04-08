@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng hình học với các tam giác nhỏ ghép lại tạo thành một hình lục giác, với hai yếu tố trang trí giống như lá cây hoặc cánh chim ở hai bên. Văn bản "COFFEE BOUTIQUE" được bố trí theo hình cung ở phía trên, và "FISHGRID" được viết bằng chữ in hoa ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình lục giác trung tâm được tạo từ các tam giác ghép, có hai yếu tố trang trí đối xứng ở hai bên
+- Kiểu chữ: Chữ sans-serif in hoa, "COFFEE BOUTIQUE" nhỏ hơn và cong, "FISHGRID" lớn và thẳng
+- Bảng màu: Nền hồng rực rỡ với logo màu trắng và chi tiết màu xanh lá cây/đen
+- Nền: Màu hồng đậm đồng nhất
+- Phong cách: Hiện đại, hình học, tối giản
+- Tông điệu: Năng động, sáng tạo, thân thiện
+
+---
+
+Visual Description:
+The logo features a geometric hexagonal shape made up of small triangles at the center, flanked by two decorative elements resembling leaves or bird wings. The text "COFFEE BOUTIQUE" curves above in an arc formation, while "FISHGRID" appears below in bold capital letters.
+
+Design Elements:
+- Shape: Central hexagon composed of triangular segments with symmetrical decorative elements on either side
+- Typography: Sans-serif capitals, with "COFFEE BOUTIQUE" smaller and curved, "FISHGRID" larger and straight
+- Color Palette: Bright pink background with white logo and dark green/black accents
+- Background: Solid vibrant pink
+- Style: Modern, geometric, minimalist
+- Mood: Energetic, creative, approachable

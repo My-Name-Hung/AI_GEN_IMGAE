@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế tối giản với biểu tượng hình học ở trung tâm bao gồm hai hình vuông lồng ghép và một hình tròn bên trong. Bên dưới là tên thương hiệu "HOÀNG DIỄN" được viết bằng chữ in hoa và dòng chữ phụ "TỪ NĂM 2010".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình vuông xoay 45 độ tạo thành khung và một hình tròn ở giữa
+- Kiểu chữ: Sans-serif hiện đại, in hoa, có khoảng cách giữa các chữ cái
+- Bảng màu: Đỏ đậm (burgundy) cho biểu tượng và tên thương hiệu, xám nhạt cho dòng chữ phụ
+- Nền: Trắng sạch
+- Phong cách: Tối giản, hiện đại, sang trọng
+- Tông điệu: Chuyên nghiệp, tinh tế, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a minimalist geometric symbol at the center consisting of two overlapping squares and a circle inside. Below it is the brand name "HOÀNG DIỄN" in capital letters followed by the tagline "TỪ NĂM 2010".
+
+Design Elements:
+- Shape: Two squares rotated 45 degrees creating a frame with a circle in the center
+- Typography: Modern sans-serif, uppercase, with letter spacing
+- Color Palette: Deep red (burgundy) for symbol and brand name, light gray for tagline
+- Background: Clean white
+- Style: Minimalist, modern, elegant
+- Mood: Professional, sophisticated, trustworthy

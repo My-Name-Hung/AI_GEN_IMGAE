@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng ngôi nhà đơn giản với đường viền đen trên nền màu vàng tươi. Bên trong có dòng chữ "DŨNG VÀ ANH" được sắp xếp theo chiều dọc, cùng với dòng chữ nhỏ hơn "Nhà & Trang trí" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette ngôi nhà hình học đơn giản với mái nhọn
+- Kiểu chữ: Sans-serif đậm, in hoa cho tên chính, chữ nhỏ thanh mảnh cho slogan
+- Bảng màu: Vàng tươi làm nền, đen cho đường viền và chữ
+- Nền: Màu vàng đồng nhất
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Tươi sáng, thân thiện, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a simple house shape with black outline on a bright yellow background. Inside the house silhouette is the text "DŨNG VÀ ANH" arranged vertically, with smaller text "Nhà & Trang trí" below.
+
+Design Elements:
+- Shape: Simple geometric house silhouette with pointed roof
+- Typography: Bold sans-serif uppercase for main name, thin smaller text for tagline
+- Color Palette: Bright yellow background with black outline and text
+- Background: Solid yellow
+- Style: Minimalist, modern, geometric
+- Mood: Bright, friendly, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng máy bay giấy màu trắng đơn giản ở phía trên. Bên dưới là tên thương hiệu "PHẦN MỀM BẢO AN" được viết bằng font chữ in hoa màu trắng, kèm theo dòng slogan "GIẢI PHÁP CÔNG NGHỆ" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Máy bay giấy stylized đơn giản, chữ cái được sắp xếp theo dạng khối
+- Kiểu chữ: Sans-serif in hoa, đậm, rõ ràng
+- Bảng màu: Đỏ chủ đạo với chữ và icon màu trắng
+- Nền: Màu đỏ đồng nhất
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Mạnh mẽ, tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a simple white paper airplane icon at the top. Below it is the brand name "PHẦN MỀM BẢO AN" written in white uppercase letters, accompanied by a smaller tagline "GIẢI PHÁP CÔNG NGHỆ" underneath.
+
+Design Elements:
+- Shape: Stylized simple paper airplane, block-arranged typography
+- Typography: Sans-serif uppercase, bold, clear lettering
+- Color Palette: Dominant red with white text and icon
+- Background: Solid red color
+- Style: Minimalist, modern, tech-oriented
+- Mood: Strong, trustworthy, professional

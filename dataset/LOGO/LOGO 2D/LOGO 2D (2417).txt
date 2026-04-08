@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có một biểu tượng lá nhỏ màu trắng ở trên cùng. Bên dưới là dòng chữ "SUỐI NGUỒN" in hoa bằng font chữ sans-serif đậm màu trắng, có gạch dưới, và phía dưới cùng là text "CAYXANH.ORG" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình lá đơn giản, thiết kế chữ thẳng hàng theo chiều dọc
+- Kiểu chữ: Sans-serif đậm, in hoa cho tên chính, chữ thường cho domain
+- Bảng màu: Nền vàng olive/vàng nâu, chữ và icon màu trắng
+- Nền: Màu vàng olive đồng nhất
+- Phong cách: Tối giản, hiện đại, thân thiện với môi trường
+- Tông điệu: Tự nhiên, bền vững, thân thiện
+
+---
+
+Visual Description:
+The logo features a small white leaf icon at the top. Below it is the text "SUỐI NGUỒN" in bold white sans-serif capital letters with an underline, followed by smaller text reading "CAYXANH.ORG" at the bottom.
+
+Design Elements:
+- Shape: Simple leaf symbol, vertically aligned text layout
+- Typography: Bold sans-serif in capitals for main text, lowercase for domain
+- Color Palette: Olive/golden brown background with white text and icon
+- Background: Solid olive yellow
+- Style: Minimalist, modern, eco-friendly
+- Mood: Natural, sustainable, approachable

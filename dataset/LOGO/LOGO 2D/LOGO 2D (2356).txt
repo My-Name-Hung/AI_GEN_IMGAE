@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một hình vuông màu xanh navy với các hình khối hình học trắng bên trong tạo thành hình ảnh stylized của các tòa nhà hoặc cột trụ. Bên cạnh là dòng chữ "INGOUDE COMPANY" được sắp xếp thành hai hàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông chứa các khối hình học angular tạo thành silhouette kiến trúc
+- Kiểu chữ: Sans-serif đậm, chữ in hoa, font hiện đại và rõ ràng
+- Bảng màu: Xanh navy đậm và trắng
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, geometric, kiến trúc
+- Tông điệu: Chuyên nghiệp, vững chãi, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a navy blue square containing white geometric shapes that form a stylized representation of buildings or pillars. Adjacent to the icon is the text "INGOUDE COMPANY" arranged in two lines.
+
+Design Elements:
+- Shape: Square containing angular geometric blocks forming an architectural silhouette
+- Typography: Bold sans-serif, uppercase letters, modern and clean font
+- Color Palette: Deep navy blue and white
+- Background: White/transparent
+- Style: Minimalist, modern, geometric, architectural
+- Mood: Professional, solid, trustworthy

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị silhouette một người phụ nữ mang thai được vẽ bằng đường nét mềm mại màu hồng pastel. Hình ảnh được đặt trong khung oval với đường viền màu vàng nhạt và có text tiếng Việt bao quanh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung oval dọc với silhouette phụ nữ mang thai ở trung tâm
+- Kiểu chữ: Font chữ thanh mảnh, viết hoa, bố trí cong theo hình oval
+- Bảng màu: Hồng pastel, vàng nhạt/be, trắng kem
+- Nền: Màu be/hồng nhạt với texture mềm
+- Phong cách: Tối giản, nữ tính, thanh lịch
+- Tông điệu: Dịu dàng, ấm áp, chăm sóc sức khỏe
+
+---
+
+Visual Description:
+The logo features a soft, minimalist silhouette of a pregnant woman drawn in pastel pink lines. The figure is centered within an oval frame with golden borders and Vietnamese text curved around the perimeter.
+
+Design Elements:
+- Shape: Vertical oval frame with centered pregnant woman silhouette
+- Typography: Thin, uppercase font arranged in curved formation following the oval
+- Color Palette: Pastel pink, soft gold/beige, cream white
+- Background: Light beige/pink with soft texture
+- Style: Minimalist, feminine, elegant
+- Mood: Gentle, warm, healthcare-focused

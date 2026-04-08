@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một con cua phong cách hoạt hình với màu sắc rực rỡ và thiết kế đối xứng. Con cua có thân màu cam đỏ, càng cua màu vàng cam, và được trang trí bằng các chi tiết màu xanh dương ở phần dưới cùng với những viên kim cương nhỏ màu vàng xung quanh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Con cua đối xứng với càng cua duỗi ra hai bên, có các chi tiết trang trí hình kim cương
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Cam đỏ, vàng, xanh dương, với đường viền đen đậm
+- Nền: Trắng trong suốt
+- Phong cách: Hoạt hình, biểu tượng game, nghệ thuật vector
+- Tông điệu: Vui tươi, năng động, thân thiện
+
+---
+
+Visual Description:
+The logo depicts a cartoon-style crab with vibrant colors and symmetrical design. The crab features an orange-red body, yellow-orange claws, and is decorated with blue details at the bottom along with small yellow diamond shapes scattered around it.
+
+Design Elements:
+- Shape: Symmetrical crab with extended claws, decorated with diamond-shaped accents
+- Typography: None (icon only)
+- Color Palette: Orange-red, yellow, blue, with bold black outlines
+- Background: Transparent white
+- Style: Cartoon, gaming icon, vector art
+- Mood: Playful, energetic, friendly

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hai hình tròn màu đỏ cam được kết nối với nhau, mỗi tròn có một mũi tên chỉ theo hướng ngược nhau. Bên dưới là chữ "THRU" được viết bằng font chữ in hoa màu trắng, tất cả được đặt trên nền đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai vòng tròn liên kết với mũi tên đối xứng
+- Kiểu chữ: Font chữ in hoa đơn giản, hiện đại
+- Bảng màu: Đỏ cam/cam đất và trắng
+- Nền: Đen
+- Phong cách: Tối giản, geometric, hiện đại
+- Tông điệu: Chuyên nghiệp, năng động, kết nối
+
+---
+
+Visual Description:
+The logo features two orange-red circles connected together, each with an arrow pointing in opposite directions. Below is the text "THRU" written in white uppercase letters, all set against a black background.
+
+Design Elements:
+- Shape: Two interconnected circles with symmetrical arrows
+- Typography: Simple, modern uppercase font
+- Color Palette: Orange-red/burnt orange and white
+- Background: Black
+- Style: Minimalist, geometric, modern
+- Mood: Professional, dynamic, connectivity

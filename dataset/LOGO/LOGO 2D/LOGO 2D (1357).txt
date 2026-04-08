@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "edge" bằng chữ màu trắng trên nền xanh lá cây. Bên trái của từ "edge" có một biểu tượng hình mũi tên hoặc con trỏ cách điệu màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ thường kết hợp với biểu tượng mũi tên đơn giản
+- Kiểu chữ: Sans-serif hiện đại, bo tròn, dễ đọc
+- Bảng màu: Xanh lá cây và trắng
+- Nền: Xanh lá cây đồng nhất
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, năng động, tiến bộ
+
+---
+
+Visual Description:
+The logo displays the word "edge" in white lowercase letters on a green background. To the left of the text is a stylized white arrow or cursor icon.
+
+Design Elements:
+- Shape: Lowercase text combined with simple arrow symbol
+- Typography: Modern sans-serif, rounded, readable
+- Color Palette: Green and white
+- Background: Solid green
+- Style: Minimalist, modern, tech-focused
+- Mood: Professional, dynamic, progressive

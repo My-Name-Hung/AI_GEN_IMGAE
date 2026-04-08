@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có nền xanh dương đậm với văn bản màu trắng ở trung tâm. Phía trên và dưới văn bản là những hình trang trí tia sáng tỏa ra từ một điểm trung tâm nhỏ, tạo hiệu ứng như mặt trời chiếu sáng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ nhật với các yếu tố trang trí tia sáng đối xứng
+- Kiểu chữ: Sans-serif in hoa, đậm, có dấu tiếng Việt
+- Bảng màu: Xanh dương đậm và trắng
+- Nền: Xanh dương đồng nhất
+- Phong cách: Trang trọng, đối xứng, tối giản
+- Tông điệu: Chuyên nghiệp, uy tín, năng động
+
+---
+
+Visual Description:
+The logo features white text centered on a deep blue background. Above and below the text are decorative sunburst elements with rays emanating from small central points, creating a radiant sun-like effect.
+
+Design Elements:
+- Shape: Rectangular with symmetrical radiating decorative elements
+- Typography: Bold, uppercase sans-serif with Vietnamese diacritical marks
+- Color Palette: Deep blue and white
+- Background: Solid blue
+- Style: Formal, symmetrical, minimalist
+- Mood: Professional, authoritative, dynamic

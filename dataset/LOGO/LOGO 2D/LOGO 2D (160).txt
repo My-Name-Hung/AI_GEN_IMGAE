@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình đầu một con khỉ đột màu đen với biểu cảm nghiêm túc, nhìn về phía bên. Phía sau con khỉ có các hình tam giác màu cam tạo hiệu ứng động năng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette đầu khỉ đột stylized kết hợp với các tam giác góc cạnh
+- Kiểu chữ: Font chữ in hoa đậm, hiện đại cho "CRAZY APE" và font nhỏ hơn cho "IT SOLUTIONS"
+- Bảng màu: Đen, cam/đỏ cam, trắng
+- Nền: Nền trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, mascot
+- Tông điệu: Mạnh mẽ, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo features a black gorilla head in profile with a serious expression, looking to the side. Behind the gorilla are orange triangular shapes that create a dynamic energy effect.
+
+Design Elements:
+- Shape: Stylized gorilla head silhouette combined with angular triangular elements
+- Typography: Bold, modern uppercase font for "CRAZY APE" and smaller font for "IT SOLUTIONS"
+- Color Palette: Black, orange/red-orange, white
+- Background: White/transparent background
+- Style: Modern, minimalist, mascot-based
+- Mood: Strong, dynamic, tech-oriented

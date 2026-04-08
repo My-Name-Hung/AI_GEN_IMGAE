@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "HẢI PHÒNG" bằng chữ in hoa màu trắng nổi bật trên nền tối. Hai yếu tố hình cánh chim hoặc sóng nước màu xanh dương được đặt ở góc trên bên trái và góc dưới bên phải, tạo cảm giác chuyển động và năng động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai đường cong dạng cánh chim/sóng nước đối xứng
+- Kiểu chữ: Chữ sans-serif in hoa, đậm, rõ ràng với từ phụ "ĐỘI BÓNG" nhỏ hơn
+- Bảng màu: Xanh dương gradient, trắng và nền tối xanh đen
+- Nền: Nền tối màu xanh đen/navy
+- Phong cách: Hiện đại, thể thao, tối giản
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo displays "HẢI PHÒNG" in bold white uppercase letters against a dark background. Two blue gradient wing-like or wave elements are positioned at the upper left and lower right corners, creating a sense of movement and dynamism.
+
+Design Elements:
+- Shape: Two symmetrical curved wing/wave elements
+- Typography: Bold, clean sans-serif uppercase lettering with smaller subtitle "ĐỘI BÓNG"
+- Color Palette: Blue gradient, white text, and dark navy background
+- Background: Dark navy/teal background
+- Style: Modern, sporty, minimalist
+- Mood: Strong, professional, dynamic

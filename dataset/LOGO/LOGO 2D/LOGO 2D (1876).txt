@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn với hai cây gậy cricket màu vàng chéo nhau tạo thành hình chữ X, bên trên có một quả bóng cricket màu vàng. Phía dưới là chữ "IPL 2020" màu vàng nổi bật trên nền xanh dương đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với các đường viền đồng tâm, hai gậy cricket chéo và quả bóng
+- Kiểu chữ: Chữ sans-serif đậm, hiện đại cho "IPL 2020"
+- Bảng màu: Xanh dương đậm, vàng, hồng/tím
+- Nền: Xanh dương đậm đồng nhất
+- Phong cách: Thể thao, hiện đại, năng động
+- Tông điệu: Mạnh mẽ, hứng khởi, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a circular design with two yellow cricket bats crossed in an X formation, topped with a yellow cricket ball. Below is "IPL 2020" text in bright yellow against a deep blue background.
+
+Design Elements:
+- Shape: Circular with concentric borders, crossed cricket bats and ball
+- Typography: Bold, modern sans-serif for "IPL 2020"
+- Color Palette: Deep blue, yellow, pink/purple
+- Background: Solid deep blue
+- Style: Sporty, modern, dynamic
+- Mood: Energetic, exciting, professional

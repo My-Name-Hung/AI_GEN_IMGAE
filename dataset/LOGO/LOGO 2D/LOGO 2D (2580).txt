@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có tên thương hiệu "MÁYẢNH" được viết bằng chữ in hoa màu trắng, đặt giữa hai đường kẻ ngang màu trắng. Nền là hình ảnh mờ ảo với tông màu xanh dương và trắng, tạo cảm giác như là hiệu ứng bokeh hoặc ánh sáng mờ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ chính giữa được đóng khung bởi hai đường thẳng ngang
+- Kiểu chữ: Sans-serif hiện đại, in hoa, có khoảng cách rộng giữa các ký tự
+- Bảng màu: Trắng cho text và đường kẻ, nền xanh dương và trắng mờ ảo
+- Nền: Hiệu ứng bokeh/mờ ảo với ánh sáng
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sáng sủa, công nghệ, tinh tế
+
+---
+
+Visual Description:
+The logo features the brand name "MÁYẢNH" in white capital letters, positioned between two white horizontal lines. The background is a blurred, atmospheric image with blue and white tones, creating a bokeh or soft light effect.
+
+Design Elements:
+- Shape: Central text framed by two horizontal lines
+- Typography: Modern sans-serif, uppercase, with wide letter spacing
+- Color Palette: White text and lines against a blurred blue and white background
+- Background: Bokeh/blur effect with atmospheric lighting
+- Style: Minimalist, modern, professional
+- Mood: Bright, technological, sophisticated

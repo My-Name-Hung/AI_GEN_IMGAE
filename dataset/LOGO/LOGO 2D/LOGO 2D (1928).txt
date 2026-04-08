@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "PHÒNG TẬP KHỎE ĐẸP" bằng chữ in hoa màu trắng nổi bật trên nền gradient xanh dương. Bên dưới có dòng chữ nhỏ hơn "TRUNG TÂM TẬP LUYỆN VÀ THỂ HÌNH" làm slogan mô tả dịch vụ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật với typography làm trọng tâm
+- Kiểu chữ: Sans-serif đậm, in hoa, khoảng cách chữ rộng, có thêm font nhỏ hơn cho slogan
+- Bảng màu: Chữ trắng trên nền gradient xanh dương đậm
+- Nền: Gradient từ xanh dương sáng sang tím xanh
+- Phong cách: Hiện đại, tối giản, typography-driven
+- Tông điệu: Năng động, chuyên nghiệp, mạnh mẽ
+
+---
+
+Visual Description:
+The logo displays the brand name "PHÒNG TẬP KHỎE ĐẸP" in bold white uppercase letters against a blue gradient background. Below is smaller text "TRUNG TÂM TẬP LUYỆN VÀ THỂ HÌNH" serving as a descriptive tagline.
+
+Design Elements:
+- Shape: Rectangular layout with typography as the focal point
+- Typography: Bold sans-serif uppercase with wide letter spacing, plus smaller font for tagline
+- Color Palette: White text on deep blue gradient background
+- Background: Gradient from bright blue to blue-purple
+- Style: Modern, minimalist, typography-driven
+- Mood: Dynamic, professional, strong

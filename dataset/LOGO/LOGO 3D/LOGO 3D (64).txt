@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình học trừu tượng trên nền trắng, được trình bày dưới dạng một khối 3D tròn góc. Biểu tượng chính là một hình sao hoặc kim cương cách điệu với các đường nét sắc sảo, tạo thành một mẫu đối xứng phức tạp.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình sao/kim cương đa giác với các cạnh góc cạnh và mẫu đối xứng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lục đậm/xanh teal trên nền trắng
+- Nền: Nền trắng trong khối 3D, bối cảnh xanh teal
+- Phong cách: Tối giản, hình học, hiện đại, 3D
+- Tông điệu: Chuyên nghiệp, sạch sẽ, tinh tế
+
+---
+
+Visual Description:
+The logo features an abstract geometric symbol on a white background, presented as a rounded 3D cube. The main symbol is a stylized star or diamond shape with sharp angular lines forming a complex symmetrical pattern.
+
+Design Elements:
+- Shape: Star/diamond polygon icon with angular edges and symmetrical pattern
+- Typography: None (icon only)
+- Color Palette: Dark teal/turquoise on white
+- Background: White within 3D cube, teal environment backdrop
+- Style: Minimalist, geometric, modern, 3D rendered
+- Mood: Professional, clean, sophisticated

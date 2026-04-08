@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả hai khẩu súng cũ kiểu hải tặc được bắt chéo nhau tạo thành hình chữ X. Những khẩu súng có khuôn mặt hoạt hình với đôi mắt và miệng cười, được trang trí bằng màu xám và nâu với các chi tiết kim loại và gỗ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai khẩu súng bắt chéo tạo thành hình X đối xứng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xám bạc cho kim loại, nâu cho cán súng, đỏ cho miệng
+- Nền: Nền trắng trong suốt
+- Phong cách: Hoạt hình, phong cách game, hải tặc
+- Tông điệu: Vui tươi, thân thiện, phiêu lưu
+
+---
+
+Visual Description:
+The logo depicts two cartoon-style pirate pistols crossed in an X formation. The guns feature animated faces with eyes and smiling mouths, rendered in gray and brown colors with metallic and wooden details.
+
+Design Elements:
+- Shape: Two crossed pistols forming a symmetrical X pattern
+- Typography: None (icon only)
+- Color Palette: Silver gray for metal parts, brown for handles, red for mouths
+- Background: Transparent white background
+- Style: Cartoon, gaming style, pirate theme
+- Mood: Playful, friendly, adventurous

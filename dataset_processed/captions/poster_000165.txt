@@ -1,0 +1,1 @@
+poster_style, The áp phích for the event. title: the poster for the event

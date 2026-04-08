@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "HỘI ĐỒNG GIÁO MỤC" được sắp xếp theo hai dòng với font chữ thanh lịch màu trắng. Phía dưới có dòng chữ nhỏ hơn "THÀNH LẬP NÀM 1980" và một đường trang trí mỏng ở phía trên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật đơn giản, đối xứng
+- Kiểu chữ: Font chữ serif thanh lịch, chính thức với kích thước phân cấp rõ ràng
+- Bảng màu: Chủ yếu trắng trên nền đỏ gạch/nâu đỏ
+- Nền: Nền màu đỏ gạch/nâu đỏ đồng nhất
+- Phong cách: Tối giản, chính thức, truyền thống
+- Tông điệu: Trang trọng, uy tín, tôn giáo
+
+---
+
+Visual Description:
+The logo displays the text "HỘI ĐỒNG GIÁO MỤC" arranged in two lines with elegant white typography. Below is smaller text reading "THÀNH LẬP NÀM 1980" and a thin decorative line element above the main text.
+
+Design Elements:
+- Shape: Simple rectangular layout, symmetrical arrangement
+- Typography: Elegant serif font, formal with clear hierarchical sizing
+- Color Palette: Primarily white text on brick red/reddish-brown background
+- Background: Solid brick red/reddish-brown background
+- Style: Minimalist, formal, traditional
+- Mood: Dignified, authoritative, religious

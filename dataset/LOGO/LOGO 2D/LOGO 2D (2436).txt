@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với hai thanh màu cam nằm ngang ở trên và dưới. Ở giữa là dòng chữ "SA HUYNH" màu xanh dương đậm với font chữ in hoa rõ ràng, bên dưới có dòng chữ nhỏ "ĐỘI BÓNG RỔ" màu trắng trên nền cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật với các thanh ngang đối xứng
+- Kiểu chữ: Font sans-serif in hoa, đậm và rõ ràng
+- Bảng màu: Cam, xanh dương đậm, trắng
+- Nền: Trắng với các thanh cam ở trên và dưới
+- Phong cách: Tối giản, thể thao, hiện đại
+- Tông điệu: Năng động, chuyên nghiệp, rõ ràng
+
+---
+
+Visual Description:
+The logo features a simple design with two horizontal orange bars at the top and bottom. In the center is "SA HUYNH" text in bold blue capital letters, with smaller white text "ĐỘI BÓNG RỔ" below it on the orange background.
+
+Design Elements:
+- Shape: Rectangular format with symmetrical horizontal bars
+- Typography: Bold, clean sans-serif capitals
+- Color Palette: Orange, deep blue, white
+- Background: White with orange bars top and bottom
+- Style: Minimalist, athletic, modern
+- Mood: Dynamic, professional, clear

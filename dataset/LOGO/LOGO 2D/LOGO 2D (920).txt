@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một cái nĩa màu xanh lá cây đâm vào một hình tròn màu vàng, với văn bản "PUT A FORK IN IT" được đặt ở giữa. Bên dưới có một cái bát màu xanh lá với khuôn mặt cười và dòng chữ "Comedy night supporting South Michigan Food Bank".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn vàng kết hợp với cái nĩa và bát có mặt cười
+- Kiểu chữ: Font chữ in hoa đậm màu xanh lá cây, font phụ nhỏ hơn cho dòng mô tả
+- Bảng màu: Vàng, xanh lá cây đậm và nhạt
+- Nền: Trắng/trong suốt
+- Phong cách: Hoạt hình, thân thiện, vui tươi
+- Tông điệu: Hài hước, từ thiện, ấm áp
+
+---
+
+Visual Description:
+The logo features a green fork piercing through a yellow circular shape, with "PUT A FORK IN IT" text prominently displayed in the center. Below is a green bowl with a smiling face and the tagline "Comedy night supporting South Michigan Food Bank".
+
+Design Elements:
+- Shape: Yellow circle combined with fork utensil and smiling bowl character
+- Typography: Bold green uppercase font for main text, smaller subtitle font
+- Color Palette: Yellow, dark and light green
+- Background: White/transparent
+- Style: Cartoon-like, friendly, playful
+- Mood: Humorous, charitable, warm

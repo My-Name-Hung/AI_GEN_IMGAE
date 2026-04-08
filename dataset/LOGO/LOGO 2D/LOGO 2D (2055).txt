@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm biểu tượng chuỗi DNA màu xanh lá cây ở bên trái và tên thương hiệu "An Bình" bằng chữ màu trắng ở bên phải. Dưới tên thương hiệu có dòng slogan "Chăm sóc Sức khỏe Kiều mới" màu xanh lá cây.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng DNA xoắn kép dạng helical, phân tách bằng đường thẳng dọc
+- Kiểu chữ: Font chữ hiện đại, đơn giản cho tên thương hiệu và slogan nhỏ hơn
+- Bảng màu: Xanh lá cây cho DNA và slogan, trắng cho tên chính
+- Nền: Màu xanh đậm (navy blue)
+- Phong cách: Y tế, khoa học, hiện đại, chuyên nghiệp
+- Tông điệu: Tin cậy, chăm sóc sức khỏe, khoa học
+
+---
+
+Visual Description:
+The logo features a green DNA double helix icon on the left side and the brand name "An Bình" in white text on the right. Below the brand name is the tagline "Chăm sóc Sức khỏe Kiều mới" in green text.
+
+Design Elements:
+- Shape: DNA double helix spiral structure, separated by vertical line
+- Typography: Modern, clean font for main brand name with smaller tagline text
+- Color Palette: Green for DNA and tagline, white for main text
+- Background: Dark navy blue
+- Style: Medical, scientific, modern, professional
+- Mood: Trustworthy, healthcare-focused, scientific

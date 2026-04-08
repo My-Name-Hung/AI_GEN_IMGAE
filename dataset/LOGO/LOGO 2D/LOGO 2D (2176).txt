@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình một nhân vật anime/manga với làn da màu tím, đeo tai nghe, được bao quanh bởi vòng tròn phát sáng màu xanh cyan. Bên dưới là text "DUY.MIXI" và dòng slogan tiếng Việt với hiệu ứng gradient tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn chứa avatar nhân vật anime phong cách
+- Kiểu chữ: Font sans-serif đậm cho tên chính, font mảnh hơn cho slogan
+- Bảng màu: Tím chủ đạo, xanh cyan, trắng, đen
+- Nền: Nền đen hoàn toàn
+- Phong cách: Gaming, anime, neon, hiện đại
+- Tông điệu: Năng động, công nghệ, sáng tạo
+
+---
+
+Visual Description:
+The logo features an anime/manga-style character with purple skin wearing headphones, surrounded by a glowing cyan circular border. Below is the text "DUY.MIXI" with a Vietnamese tagline that has a purple gradient effect.
+
+Design Elements:
+- Shape: Circular frame containing anime-style character avatar
+- Typography: Bold sans-serif font for main name, thinner font for tagline
+- Color Palette: Purple dominant, cyan, white, black
+- Background: Solid black background
+- Style: Gaming, anime, neon, modern
+- Mood: Dynamic, tech-savvy, creative

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng sạc điện kết hợp với hình lá cây xanh, tạo thành chữ "A" cách điệu. Thiết kế sử dụng tông màu xanh lá cây chủ đạo với các chi tiết gradient từ xanh lá đến xanh lục nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ "A" được tạo từ biểu tượng sạc điện và lá cây
+- Kiểu chữ: Font chữ thường hiện đại, bo tròn
+- Bảng màu: Xanh lá cây, xanh lục với gradient
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, biểu tượng, thân thiện môi trường
+- Tông điệu: Sinh thái, công nghệ xanh, bền vững
+
+---
+
+Visual Description:
+The logo features a charging plug icon combined with green leaf shapes that form a stylized letter "A". The design uses a predominantly green color palette with gradient effects from dark to light green tones.
+
+Design Elements:
+- Shape: Letter "A" formed by charging plug and leaf elements
+- Typography: Modern lowercase sans-serif font with rounded characters
+- Color Palette: Green, emerald with gradients
+- Background: White/transparent background
+- Style: Minimalist, symbolic, eco-friendly
+- Mood: Ecological, green technology, sustainable

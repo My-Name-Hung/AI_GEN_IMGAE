@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình tròn với chiếc lá xanh ở trung tâm, được bao quanh bởi các vòng tròn đồng tâm có màu gradient từ xanh lam đến xanh lục. Bên dưới là text "SUSTAINABLE WORLD" với slogan "PROMOTE A SUSTAINABLE WORLD".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn đồng tâm với biểu tượng lá ở giữa, có các chấm tròn nhỏ làm điểm nhấn
+- Kiểu chữ: Sans-serif đậm cho tiêu đề chính, font nhỏ hơn cho slogan
+- Bảng màu: Gradient xanh từ xanh lam đến xanh lục, xanh đậm cho text
+- Nền: Nền trắng sáng
+- Phong cách: Hiện đại, tối giản, biểu tượng môi trường
+- Tông điệu: Thân thiện với môi trường, tươi mới, bền vững
+
+---
+
+Visual Description:
+The logo features a circular design with a green leaf at the center, surrounded by concentric circles in a gradient from blue to green tones. Below is the text "SUSTAINABLE WORLD" with the tagline "PROMOTE A SUSTAINABLE WORLD".
+
+Design Elements:
+- Shape: Concentric circles with central leaf symbol, accented by small circular dots
+- Typography: Bold sans-serif for main title, smaller font for tagline
+- Color Palette: Blue to green gradient, dark blue for text
+- Background: Clean white background
+- Style: Modern, minimalist, environmental symbolism
+- Mood: Eco-friendly, fresh, sustainable

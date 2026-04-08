@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện hình dạng oval màu xanh dương với một khoảng trống hình oval bên trong màu trắng. Bên trong khoảng trống trắng có một hình dạng giống như chiếc nơ hoặc xương chó màu xanh dương, và phía dưới có một chiếc nơ nhỏ cùng màu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Oval lồng nhau với hình nơ/xương chó ở trung tâm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương và trắng
+- Nền: Trong suốt/trắng
+- Phong cách: Tối giản, hiện đại, biểu tượng
+- Tông điệu: Chuyên nghiệp, thân thiện, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a blue oval shape with a white oval cutout in the center. Inside the white space is a blue bow-tie or bone-shaped form, with a small blue bow element positioned below the main oval.
+
+Design Elements:
+- Shape: Nested ovals with central bow-tie/bone form
+- Typography: None (icon only)
+- Color Palette: Blue and white
+- Background: Transparent/white
+- Style: Minimalist, modern, symbolic
+- Mood: Professional, friendly, trustworthy

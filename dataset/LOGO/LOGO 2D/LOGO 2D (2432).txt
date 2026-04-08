@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm hai dòng chữ tiếng Việt "Khởi" và "Hoàn Môn" được sắp xếp theo chiều dọc với font chữ đậm, hiện đại. Bên dưới có dòng chữ nhỏ "CÔNG TY XÂY DỰNG" và ba chấm tròn màu cam/đỏ làm điểm nhấn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ thẳng hàng, ba chấm tròn nhỏ
+- Kiểu chữ: Font sans-serif đậm, hiện đại cho tên chính; font mảnh cho slogan
+- Bảng màu: Xanh navy đậm cho chữ chính, cam/đỏ cho các chấm nhấn
+- Nền: Màu be/kem nhạt
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Tin cậy, uy tín, chắc chắn
+
+---
+
+Visual Description:
+The logo features two lines of Vietnamese text "Khởi" and "Hoàn Môn" arranged vertically in bold, modern typography. Below is smaller text reading "CÔNG TY XÂY DỰNG" with three small orange/red dots as accent elements.
+
+Design Elements:
+- Shape: Aligned text layout with three small circular dots
+- Typography: Bold, modern sans-serif for main text; thin font for tagline
+- Color Palette: Deep navy blue for main text, orange/red for accent dots
+- Background: Light beige/cream color
+- Style: Minimalist, professional, contemporary
+- Mood: Trustworthy, authoritative, solid

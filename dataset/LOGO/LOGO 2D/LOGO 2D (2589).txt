@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình đầu sói màu xanh lam với đôi mắt đỏ và răng nanh sắc nhọn được đặt trong khung hình lá chắn màu trắng. Phần text "BÁO ĐÊM" được hiển thị bằng font chữ to, đậm màu trắng phía dưới biểu tượng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình lá chắn chứa đầu sói phong cách mascot gaming
+- Kiểu chữ: Font sans-serif đậm, viết hoa, màu trắng
+- Bảng màu: Xanh lam chủ đạo, đỏ cho mắt, trắng cho khung và text
+- Nền: Nền xanh lam với họa tiết sóng/lửa stylized
+- Phong cách: Gaming mascot, esports, hiện đại, aggressive
+- Tông điệu: Mạnh mẽ, bí ẩn, đầy năng lượng
+
+---
+
+Visual Description:
+The logo features a blue wolf head with red glowing eyes and sharp fangs enclosed within a white shield frame. The text "BÁO ĐÊM" is displayed in bold white letters below the icon.
+
+Design Elements:
+- Shape: Shield-shaped frame containing a gaming mascot-style wolf head
+- Typography: Bold sans-serif font, uppercase, white color
+- Color Palette: Dominant blue, red accents for eyes, white for frame and text
+- Background: Blue background with stylized wave/flame patterns
+- Style: Gaming mascot, esports, modern, aggressive
+- Mood: Powerful, mysterious, energetic

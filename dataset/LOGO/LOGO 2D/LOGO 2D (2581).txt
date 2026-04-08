@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng nửa tròn với phần trên cong và phần dưới thẳng, chứa biểu tượng quả táo và thước kẻ ở trung tâm. Văn bản tiếng Việt được sắp xếp theo hình cung ở phần trên và trong hai ô vuông ở phần dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình nửa tròn với cơ sở vuông góc, chia thành ba khu vực
+- Kiểu chữ: Chữ in hoa đơn giản, phong cách sans-serif, màu đen
+- Bảng màu: Đen trắng trên nền kem/be nhạt
+- Nền: Màu xanh mint/aqua nhẹ nhàng
+- Phong cách: Tối giản, giáo dục, retro
+- Tông điệu: Chuyên nghiệp, thân thiện, học thuật
+
+---
+
+Visual Description:
+The logo features a semicircular shape with curved top and straight bottom, containing an apple and ruler icon at the center. Vietnamese text is arranged in an arc at the top and within two square sections at the bottom.
+
+Design Elements:
+- Shape: Semicircle with rectangular base, divided into three sections
+- Typography: Simple uppercase letters, sans-serif style, black color
+- Color Palette: Black and white on cream/off-white background
+- Background: Soft mint/aqua color
+- Style: Minimalist, educational, retro
+- Mood: Professional, friendly, academic

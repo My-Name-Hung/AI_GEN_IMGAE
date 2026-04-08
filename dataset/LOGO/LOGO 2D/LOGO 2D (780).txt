@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một monogram chữ "AN" được thiết kế với kiểu chữ serif cổ điển, được trình bày trong nhiều biến thể khác nhau. Các phiên bản bao gồm logo chính với text "MONOGRAM EST. 2026", phiên bản tròn với typography bao quanh, và các icon nhỏ trong hình vuông và tròn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Monogram chữ AN với các biến thể hình chữ nhật, tròn và vuông
+- Kiểu chữ: Serif cổ điển, chữ hoa, font chữ phụ sans-serif cho text mô tả
+- Bảng màu: Đen trắng (monochrome)
+- Nền: Trắng với lưới hướng dẫn màu cam nhạt
+- Phong cách: Cổ điển, thanh lịch, tối giản, typography
+- Tông điệu: Chuyên nghiệp, sang trọng, tinh tế
+
+---
+
+Visual Description:
+The logo displays an "AN" monogram designed with classical serif typography, presented in multiple variations. The versions include a main logo with "MONOGRAM EST. 2026" text, a circular version with surrounding typography, and small icons in square and circular formats.
+
+Design Elements:
+- Shape: AN monogram with rectangular, circular, and square variations
+- Typography: Classical serif, uppercase letters, sans-serif supporting text for descriptions
+- Color Palette: Black and white (monochrome)
+- Background: White with light orange grid guidelines
+- Style: Classical, elegant, minimalist, typography-focused
+- Mood: Professional, sophisticated, refined

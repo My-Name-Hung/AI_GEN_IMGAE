@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có ba hình tròn chồng lên nhau với màu sắc chuyển dần từ hồng nhạt sang đỏ cam rồi đỏ đậm, tạo hiệu ứng gradient. Phần text "Minh Hải" được viết bằng font chữ nghiêng mềm mại, kèm dòng chữ "NHIẾP ẢNH GIA" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba vòng tròn chồng nhau tạo hiệu ứng chuyển màu
+- Kiểu chữ: Font chữ viết tay nghiêng cho tên chính, font sans-serif cho tagline
+- Bảng màu: Gradient từ hồng pastel đến đỏ cam và đỏ đậm
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, sáng tạo
+- Tông điệu: Ấm áp, nghệ thuật, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features three overlapping circles in a gradient progression from soft pink to orange-red to deep red, creating a smooth color transition effect. The text "Minh Hải" is written in an elegant cursive script, with "NHIẾP ẢNH GIA" (photographer) displayed below in smaller text.
+
+Design Elements:
+- Shape: Three overlapping circles creating a gradient effect
+- Typography: Handwritten script for main name, sans-serif for tagline
+- Color Palette: Gradient from pastel pink to orange-red to deep red
+- Background: White/transparent
+- Style: Modern, minimalist, creative
+- Mood: Warm, artistic, professional

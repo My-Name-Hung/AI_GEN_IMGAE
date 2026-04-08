@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "SPACE" được stylized với phong cách gothic hoặc medieval, có các đường viền màu trắng nổi bật. Chữ cái trung tâm "A" được thiết kế đặc biệt với hình dạng giống như một tòa tháp hoặc rocket với các chấm tròn bên trong.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái góc cạnh, kiến trúc gothic với chữ A có dạng tháp nhọn
+- Kiểu chữ: Font chữ tùy chỉnh phong cách gothic/medieval với đường viền dày
+- Bảng màu: Trắng chủ đạo với hiệu ứng gradient nhẹ
+- Nền: Đen tuyền với các chấm sáng nhỏ như sao
+- Phong cách: Gothic, futuristic, gaming
+- Tông điệu: Mạnh mẽ, bí ẩn, không gian
+
+---
+
+Visual Description:
+The logo displays the text "SPACE" stylized in a gothic or medieval fashion with prominent white outlines. The central letter "A" is specially designed to resemble a tower or rocket shape with circular dots inside it.
+
+Design Elements:
+- Shape: Angular lettering with gothic architecture, "A" designed as pointed tower
+- Typography: Custom gothic/medieval style font with thick outlines
+- Color Palette: Primarily white with subtle gradient effects
+- Background: Pure black with small bright dots like stars
+- Style: Gothic, futuristic, gaming
+- Mood: Bold, mysterious, cosmic

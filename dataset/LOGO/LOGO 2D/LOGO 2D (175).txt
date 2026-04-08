@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "PRO BUR" được sắp xếp thành hai hàng với phông chữ tròn trịa, có màu cam sáng. Bên phải có một yếu tố trang trí hình tròn nhỏ với các chấm đen tạo thành một vòng cung.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái có các góc tròn mềm mại, yếu tố trang trí tròn
+- Kiểu chữ: Phông chữ sans-serif tròn trịa, đậm
+- Bảng màu: Cam sáng chủ đạo, đen cho chi tiết trang trí
+- Nền: Màu be/kem nhạt
+- Phong cách: Hiện đại, tối giản, thân thiện
+- Tông điệu: Năng động, vui tươi, sáng tạo
+
+---
+
+Visual Description:
+The logo displays the text "PRO BUR" arranged in two rows with rounded, bubble-like typography in bright orange. To the right is a small decorative circular element made of black dots forming an arc.
+
+Design Elements:
+- Shape: Rounded letter forms with soft corners, circular decorative element
+- Typography: Bold, rounded sans-serif typeface
+- Color Palette: Bright orange primary, black accent details
+- Background: Light beige/cream
+- Style: Modern, minimalist, friendly
+- Mood: Dynamic, playful, creative

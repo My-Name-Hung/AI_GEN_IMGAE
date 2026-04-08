@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hai chữ cái "LC" được sắp xếp theo kiểu monogram màu trắng, được đặt bên trong một khung hình oval có viền kép. Bên dưới monogram là dòng chữ "Long Châu" được in bằng font chữ hiện đại, sạch sẽ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Monogram chữ LC trong khung oval có viền kép
+- Kiểu chữ: Font sans-serif hiện đại, đơn giản cho text "Long Châu"
+- Bảng màu: Trắng trên nền xanh sage/xanh lá nhạt
+- Nền: Màu xanh sage/xanh lá nhạt mờ
+- Phong cách: Tối giản, hiện đại, tinh tế
+- Tông điệu: Chuyên nghiệp, thanh lịch, tin cậy
+
+---
+
+Visual Description:
+The logo features a white monogram of the letters "LC" arranged in an overlapping style, enclosed within a double-bordered oval frame. Below the monogram is the text "Long Châu" displayed in clean, modern typography.
+
+Design Elements:
+- Shape: LC monogram within double-bordered oval frame
+- Typography: Modern sans-serif font for "Long Châu" text
+- Color Palette: White on sage green/muted green background
+- Background: Muted sage green/soft green tone
+- Style: Minimalist, modern, refined
+- Mood: Professional, elegant, trustworthy

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình oval với thiết kế hai tầng màu xanh dương và xanh lá cây tạo hiệu ứng gradient. Bên trong oval có đường cong màu trắng tạo cảm giác chuyển động và năng động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Oval với đường cong nội bộ
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương, xanh lá cây, trắng
+- Nền: Trong suốt
+- Phong cách: Hiện đại, tối giản, gradient
+- Tông điệu: Chuyên nghiệp, năng động, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features an oval shape with a two-tone design in blue and green creating a gradient effect. Inside the oval is a white curved swoosh that creates a sense of movement and dynamism.
+
+Design Elements:
+- Shape: Oval with internal curved swoosh
+- Typography: None (icon only)
+- Color Palette: Blue, green, white
+- Background: Transparent
+- Style: Modern, minimalist, gradient
+- Mood: Professional, dynamic, trustworthy

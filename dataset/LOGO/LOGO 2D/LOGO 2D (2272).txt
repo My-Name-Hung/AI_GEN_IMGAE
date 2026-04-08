@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn chính giữa với biểu tượng người máy hoặc robot chiến đấu màu trắng, được bao quanh bởi các vòng tròn và chi tiết trang trí màu vàng. Bên dưới là tên thương hiệu "ALIENRESIS" bằng chữ in hoa màu vàng nổi bật, kèm theo dòng chữ phụ "GIA NHẬP QUÂN KHĂNG CHIẾN" bằng tiếng Việt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn chính trung tâm với robot, hai vòng tròn nhỏ hai bên
+- Kiểu chữ: Sans-serif in hoa, đậm và góc cạnh cho tên chính, nhỏ hơn cho slogan
+- Bảng màu: Vàng chủ đạo, trắng cho biểu tượng robot, nền đen
+- Nền: Nền đen tối
+- Phong cách: Game, khoa học viễn tưởng, chiến tranh, robot
+- Tông điệu: Mạnh mẽ, tương lai, bí ẩn, chiến đấu
+
+---
+
+Visual Description:
+The logo features a central circular emblem containing a white robot or mech warrior figure, surrounded by yellow decorative circular elements and details. Below is the brand name "ALIENRESIS" in bold yellow uppercase letters, accompanied by Vietnamese subtitle text "GIA NHẬP QUÂN KHĂNG CHIẾN".
+
+Design Elements:
+- Shape: Central circular emblem with robot, flanked by two smaller circles
+- Typography: Bold, angular sans-serif uppercase for main title, smaller text for tagline
+- Color Palette: Dominant yellow, white for robot icon, black background
+- Background: Dark black background
+- Style: Gaming, sci-fi, warfare, robotic
+- Mood: Powerful, futuristic, mysterious, combat-ready

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hai hình tròn đen có lỗ trống ở giữa (giống đĩa vinyl) được sắp xếp chéo nhau, một có lỗ trống màu vàng và một có lỗ trống màu trắng. Bên dưới là tên thương hiệu "KHOẢNH KHẮC" bằng chữ in hoa màu đen và dòng chữ phụ "NHIẾP ẢNH" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình tròn đồng tâm chéo nhau, biểu tượng đĩa vinyl hoặc ống kính máy ảnh
+- Kiểu chữ: Chữ sans-serif đậm, in hoa cho tên chính, chữ nhỏ cho slogan
+- Bảng màu: Vàng chanh, đen, trắng
+- Nền: Màu vàng chanh tươi sáng
+- Phong cách: Tối giản, hiện đại, biểu tượng hóa
+- Tông điệu: Sáng tạo, năng động, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features two black circular shapes with hollow centers (resembling vinyl records) arranged diagonally, one with a yellow center hole and one with a white center hole. Below is the brand name "KHOẢNH KHẮC" in black uppercase letters with smaller subtitle text "NHIẾP ẢNH".
+
+Design Elements:
+- Shape: Two overlapping concentric circles, vinyl record or camera lens symbol
+- Typography: Bold sans-serif uppercase for main name, smaller text for tagline
+- Color Palette: Bright yellow, black, white
+- Background: Bright lime yellow
+- Style: Minimalist, modern, symbolic
+- Mood: Creative, dynamic, professional

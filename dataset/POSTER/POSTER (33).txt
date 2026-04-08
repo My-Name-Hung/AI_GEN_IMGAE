@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình ngọn hải đăng trắng được bao quanh bởi các tia sáng phát ra từ đỉnh. Phía dưới có dòng chữ "Lighthouse" với font chữ serif thanh lịch, kèm theo từ "STUDIO" nhỏ hơn bên dưới và năm "2010" ở hai bên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ngọn hải đăng đứng thẳng với các tia sáng tỏa ra xung quanh
+- Kiểu chữ: Font serif cổ điển, thanh lịch cho "Lighthouse", font sans-serif nhỏ cho "STUDIO"
+- Bảng màu: Màu trắng trên nền vàng olive
+- Nền: Màu vàng olive/xanh vàng gradient
+- Phong cách: Cổ điển, vintage, tối giản
+- Tông điệu: Chuyên nghiệp, ấm áp, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a white lighthouse silhouette surrounded by radiating light rays emanating from its top. Below is the text "Lighthouse" in elegant serif typography, with "STUDIO" in smaller text underneath and "2010" flanking the sides.
+
+Design Elements:
+- Shape: Upright lighthouse tower with radiating light beams around it
+- Typography: Classic serif font for "Lighthouse", smaller sans-serif for "STUDIO"  
+- Color Palette: White on olive yellow/golden background
+- Background: Olive yellow/golden gradient
+- Style: Classic, vintage, minimalist
+- Mood: Professional, warm, trustworthy

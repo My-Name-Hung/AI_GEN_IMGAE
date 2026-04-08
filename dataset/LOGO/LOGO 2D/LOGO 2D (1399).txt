@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng giống chữ "L" hoặc ống nước cong được tạo từ hai khối hình chữ nhật bo tròn góc. Hai khối này được nối với nhau tạo thành một hình khối liền mạch với hiệu ứng gradient màu từ xanh lam sang tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ L cong, gồm hai khối chữ nhật bo góc nối liền
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ xanh lục sang xanh dương và tím
+- Nền: Nền trắng/trong suốt
+- Phong cách: Minimalist, hiện đại, 3D nhẹ
+- Tông điệu: Năng động, công nghệ, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features an L-shaped or curved pipe-like form created from two rounded rectangular blocks. These blocks are connected to form a seamless shape with a gradient color effect transitioning from cyan to purple.
+
+Design Elements:
+- Shape: Curved L-shape composed of two connected rounded rectangular blocks
+- Typography: None (icon only)
+- Color Palette: Gradient from cyan through blue to purple
+- Background: White/transparent
+- Style: Minimalist, modern, subtle 3D effect
+- Mood: Dynamic, technological, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một dấu kiểm (checkmark) được stylized thành hình con chim đang bay. Thiết kế sử dụng đường nét đơn giản, tạo thành hình dáng kết hợp giữa dấu tick và cánh chim với một số đường kẻ nhỏ ở phần đuôi.
+
+Yếu tố Thiết kế:
+- Hình dạng: Dấu kiểm kết hợp với hình con chim, có đường cong mềm mại
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lá cây (green)
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, line art
+- Tông điệu: Tích cực, năng động, tự do
+
+---
+
+Visual Description:
+The logo displays a checkmark that has been stylized to resemble a flying bird. The design uses simple line work to create a shape that combines a check mark with bird wings and small lines at the tail section.
+
+Design Elements:
+- Shape: Checkmark combined with bird form, featuring smooth curves
+- Typography: None (icon only)
+- Color Palette: Green
+- Background: White/transparent
+- Style: Minimalist, modern, line art
+- Mood: Positive, dynamic, freedom

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng oval với các lớp màu chồng lên nhau tạo hiệu ứng 3D. Chữ "Fresh" được viết bằng font chữ thảo màu trắng nổi bật trên nền đỏ, kèm theo chữ "FOOD" nhỏ hơn bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Oval nhiều lớp với hiệu ứng gradient và đổ bóng
+- Kiểu chữ: Font chữ thảo cong mềm mại cho "Fresh", font in hoa đơn giản cho "FOOD"
+- Bảng màu: Đỏ cam chủ đạo, xanh lá cây, vàng cam, trắng
+- Nền: Trong suốt với đổ bóng nhẹ
+- Phong cách: Hiện đại, 3D, gradient, năng động
+- Tông điệu: Tươi mới, thân thiện, năng lượng, hấp dẫn
+
+---
+
+Visual Description:
+The logo features an oval shape with layered colors creating a 3D effect. The word "Fresh" is written in white script lettering prominently displayed on a red background, with smaller "FOOD" text below.
+
+Design Elements:
+- Shape: Multi-layered oval with gradient effects and drop shadow
+- Typography: Flowing script font for "Fresh", simple uppercase font for "FOOD"
+- Color Palette: Dominant red-orange, green, yellow-orange, white
+- Background: Transparent with subtle drop shadow
+- Style: Modern, 3D, gradient, dynamic
+- Mood: Fresh, friendly, energetic, appetizing

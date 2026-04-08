@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "NUZEI" được viết bằng chữ in hoa màu trắng với phong cách năng động và hiện đại. Phía trên chữ "I" có một chiếc vương miện nhỏ màu đỏ cam, và bên dưới có dòng chữ nhỏ "BURGUER PAMPULHA" màu cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái nghiêng với góc cạnh, vương miện đơn giản
+- Kiểu chữ: Sans-serif đậm, in hoa, có độ nghiêng
+- Bảng màu: Trắng chủ đạo, cam đỏ cho điểm nhấn
+- Nền: Đen với họa tiết mờ
+- Phong cách: Hiện đại, năng động, đường phố
+- Tông điệu: Mạnh mẽ, tự tin, trẻ trung
+
+---
+
+Visual Description:
+The logo features the brand name "NUZEI" written in white capital letters with a dynamic, modern style. Above the letter "I" sits a small red-orange crown, and below the main text is smaller orange text reading "BURGUER PAMPULHA".
+
+Design Elements:
+- Shape: Slanted angular lettering with simple crown icon
+- Typography: Bold sans-serif, all caps, italicized
+- Color Palette: Dominant white with red-orange accents
+- Background: Black with subtle pattern overlay
+- Style: Modern, dynamic, street-style
+- Mood: Bold, confident, youthful

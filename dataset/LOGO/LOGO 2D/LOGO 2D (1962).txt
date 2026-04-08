@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm hai hình khối màu vàng cam được sắp xếp tạo thành hình dạng giống như mũi tên hoặc chữ V cách điệu. Bên dưới là dòng chữ "VinaTech" viết bằng font chữ đậm màu đen, kèm theo slogan "Dẫn đầu xu thế" bằng chữ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai khối hình chữ nhật cong và tam giác tạo thành ký hiệu V/mũi tên
+- Kiểu chữ: Sans-serif đậm, hiện đại cho tên thương hiệu
+- Bảng màu: Vàng cam gradient, đen
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Năng động, công nghệ, tiến bộ
+
+---
+
+Visual Description:
+The logo features two orange-yellow geometric shapes arranged to form an arrow-like or stylized "V" symbol. Below is the text "VinaTech" in bold black letters, accompanied by the Vietnamese tagline "Dẫn đầu xu thế" in smaller text.
+
+Design Elements:
+- Shape: Two curved rectangular blocks and triangle forming V/arrow symbol
+- Typography: Bold, modern sans-serif for brand name
+- Color Palette: Orange-yellow gradient, black
+- Background: White/transparent
+- Style: Minimalist, modern, geometric
+- Mood: Dynamic, technological, progressive

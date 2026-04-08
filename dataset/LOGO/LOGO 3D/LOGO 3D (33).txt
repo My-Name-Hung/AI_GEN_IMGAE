@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một khối 3D màu trắng có hình dạng vuông bo góc với một mặt lõm chứa chữ "D" màu trắng trên nền xanh lá cây. Toàn bộ khối được đặt nghiêng tạo hiệu ứng chiều sâu và có đổ bóng tự nhiên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông 3D bo góc với mặt lõm trung tâm
+- Kiểu chữ: Chữ "D" sans-serif đơn giản, dày dặn
+- Bảng màu: Trắng, xanh lá cây đậm
+- Nền: Xanh lá cây gradient từ đậm đến nhạt
+- Phong cách: 3D hiện đại, tối giản, isometric
+- Tông điệu: Chuyên nghiệp, sạch sẽ, công nghệ
+
+---
+
+Visual Description:
+The logo displays a white 3D rounded square block with a recessed center containing a white "D" letter on a green background. The entire block is positioned at an angle creating depth effects with natural shadow casting.
+
+Design Elements:
+- Shape: 3D rounded square block with central recess
+- Typography: Simple, bold sans-serif "D" letter
+- Color Palette: White, dark green
+- Background: Green gradient from dark to light
+- Style: Modern 3D, minimalist, isometric
+- Mood: Professional, clean, technological

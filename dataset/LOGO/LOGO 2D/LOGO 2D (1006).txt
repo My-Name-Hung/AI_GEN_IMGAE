@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một chú heo màu hồng đáng yêu với khuôn mặt vui vẻ, đeo chiếc nơ đỏ quanh cổ. Chú heo được vẽ theo phong cách hoạt hình đơn giản với đường nét đen bao quanh, đặt trên nền hình tròn màu vàng cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với nhân vật heo hoạt hình ở trung tâm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Màu hồng (heo), đỏ (nơ), vàng cam (nền), đen (đường viền)
+- Nền: Hình tròn màu vàng cam
+- Phong cách: Hoạt hình, đơn giản, thân thiện
+- Tông điệu: Vui tươi, đáng yêu, ấm áp
+
+---
+
+Visual Description:
+The logo features a cute pink pig character with a cheerful face, wearing a red bow tie around its neck. The pig is drawn in a simple cartoon style with black outlines, set against a circular orange-yellow background.
+
+Design Elements:
+- Shape: Circular with cartoon pig character centered
+- Typography: None (icon only)
+- Color Palette: Pink (pig), red (bow tie), orange-yellow (background), black (outlines)
+- Background: Circular orange-yellow background
+- Style: Cartoon, simple, friendly
+- Mood: Cheerful, cute, warm

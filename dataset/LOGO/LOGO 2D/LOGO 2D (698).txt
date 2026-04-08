@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hai dòng chữ "THỜI BÁO" và "SÀI GÒN" được sắp xếp theo chiều dọc với một đường kẻ ngang ngăn cách ở giữa. Thiết kế sử dụng kiểu chữ in hoa đơn giản, rõ ràng với các dấu thanh tiếng Việt được hiển thị chính xác.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật dọc với đường phân cách ngang
+- Kiểu chữ: Serif cổ điển, in hoa, đậm, có dấu thanh tiếng Việt
+- Bảng màu: Chữ màu xanh đen đậm trên nền trắng xám nhạt
+- Nền: Nền trắng xám với họa tiết hình học mờ nhạt
+- Phong cách: Cổ điển, trang trọng, báo chí truyền thống
+- Tông điệu: Nghiêm túc, uy tín, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays two lines of text "THỜI BÁO" and "SÀI GÒN" arranged vertically with a horizontal dividing line in between. The design uses simple, clear uppercase lettering with Vietnamese diacritical marks properly displayed.
+
+Design Elements:
+- Shape: Vertical rectangular layout with horizontal separator line
+- Typography: Classic serif, uppercase, bold, with Vietnamese diacritics
+- Color Palette: Dark navy blue text on light gray-white background
+- Background: Off-white with subtle geometric pattern overlay
+- Style: Classic, formal, traditional newspaper
+- Mood: Serious, authoritative, professional

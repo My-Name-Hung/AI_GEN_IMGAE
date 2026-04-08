@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hình tròn với biểu tượng hai con rái cá được thiết kế theo phong cách yin-yang, một con màu nâu và một con màu trắng đối xứng với nhau. Xung quanh viền tròn có dòng chữ "OTTERGAMER" được sắp xếp theo hình cung.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với biểu tượng yin-yang ở trung tâm
+- Kiểu chữ: Font chữ in hoa, đậm, kiểu sans-serif
+- Bảng màu: Nâu, trắng, vàng be làm nền
+- Nền: Màu vàng be/nâu nhạt
+- Phong cách: Tối giản, biểu tượng, đối xứng
+- Tông điệu: Thân thiện, vui tươi, cân bằng
+
+---
+
+Visual Description:
+A circular logo featuring two otters designed in a yin-yang style, with one brown otter and one white otter symmetrically positioned. The text "OTTERGAMER" curves around the circular border.
+
+Design Elements:
+- Shape: Circular with yin-yang symbol at center
+- Typography: Bold, uppercase sans-serif font
+- Color Palette: Brown, white, beige background
+- Background: Warm beige/light brown
+- Style: Minimalist, symbolic, symmetrical
+- Mood: Friendly, playful, balanced

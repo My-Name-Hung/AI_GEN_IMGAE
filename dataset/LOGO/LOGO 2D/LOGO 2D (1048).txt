@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng tròn với hình máy bay màu trắng bay qua các đường kẻ dọc trên nền xanh dương gradient. Phía dưới là tên thương hiệu "CEBER" bằng chữ in hoa màu trắng cùng dòng chữ Cyrillic nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn với máy bay và các đường kẻ dọc, chữ sans-serif đơn giản
+- Kiểu chữ: Chữ sans-serif đậm, in hoa cho tên chính, chữ nhỏ hơn cho tagline
+- Bảng màu: Xanh dương gradient chuyển sang đen, trắng cho chữ và icon
+- Nền: Gradient từ xanh dương sang đen
+- Phong cách: Hiện đại, công nghệ, tối giản
+- Tông điệu: Chuyên nghiệp, tin cậy, năng động
+
+---
+
+Visual Description:
+The logo features a circular emblem with a white airplane silhouette flying through vertical lines against a blue gradient background. Below is the brand name "CEBER" in white capital letters with smaller Cyrillic text underneath.
+
+Design Elements:
+- Shape: Circular emblem with airplane and vertical lines, clean sans-serif typography
+- Typography: Bold sans-serif capitals for main name, smaller text for tagline
+- Color Palette: Blue gradient transitioning to black, white for text and icon
+- Background: Gradient from blue to black
+- Style: Modern, technological, minimalist
+- Mood: Professional, trustworthy, dynamic

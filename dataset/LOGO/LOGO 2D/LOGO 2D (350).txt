@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "FReSH in HaVeN" với kiểu chữ đậm và vui tươi. Chữ "o" trong "FReSH" được thay thế bằng hình lát cam màu vàng, và có lá xanh trang trí xung quanh chữ cái.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái đậm với hình lát cam tròn và lá xanh nhỏ
+- Kiểu chữ: Font chữ không serif, đậm, vui tươi với các chữ cái có kích thước khác nhau
+- Bảng màu: Cam, vàng, xanh lá cây
+- Nền: Màu kem nhạt
+- Phong cách: Tươi mới, tự nhiên, thân thiện
+- Tông điệu: Vui tươi, tươi mát, năng động
+
+---
+
+Visual Description:
+The logo displays the text "FReSH in HaVeN" in bold, playful typography. The "o" in "FReSH" is replaced with a yellow orange slice, and green leaves are decoratively placed around the letters.
+
+Design Elements:
+- Shape: Bold letters with circular orange slice and small green leaves
+- Typography: Sans-serif, bold, playful font with varying letter sizes
+- Color Palette: Orange, yellow, green
+- Background: Light cream color
+- Style: Fresh, natural, friendly
+- Mood: Cheerful, fresh, energetic

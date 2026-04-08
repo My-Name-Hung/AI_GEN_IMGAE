@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm biểu tượng hình học màu xanh dương ở bên trái và văn bản "Hung & Phong" màu trắng ở bên phải. Biểu tượng được tạo thành từ ba hình tam giác xếp chồng lên nhau tạo thành hình dạng giống như núi hoặc mũi tên hướng lên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba tam giác xếp chồng tạo hình núi/mũi tên hướng lên
+- Kiểu chữ: Sans-serif hiện đại, clean với text "Dung cu da ngoai" nhỏ hơn bên dưới
+- Bảng màu: Xanh dương gradient và trắng
+- Nền: Xanh navy đậm
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, tin cậy, năng động
+
+---
+
+Visual Description:
+The logo features a blue geometric icon on the left and white text "Hung & Phong" on the right. The icon consists of three overlapping triangular shapes that form a mountain-like or upward-pointing arrow formation.
+
+Design Elements:
+- Shape: Three overlapping triangles forming mountain/upward arrow
+- Typography: Modern sans-serif, clean with smaller "Dung cu da ngoai" text below
+- Color Palette: Blue gradient and white
+- Background: Dark navy blue
+- Style: Minimalist, modern, geometric
+- Mood: Professional, trustworthy, dynamic

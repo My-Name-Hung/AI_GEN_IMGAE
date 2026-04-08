@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn với văn bản tiếng Việt được sắp xếp theo các tầng khác nhau. Chữ "CHIỀU TƯỚNG!" nổi bật ở trung tâm với font chữ đậm, được bao quanh bởi các dòng chữ nhỏ hơn "GIAI VÔ ĐỊCH" và "CÓ VUA" tạo thành một thiết kế tròn hoàn chỉnh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với các đường viền đồng tâm
+- Kiểu chữ: Font sans-serif đậm cho chữ chính, font mảnh hơn cho chữ phụ
+- Bảng màu: Trắng trên nền xám đen
+- Nền: Nền xám đậm/đen
+- Phong cách: Vintage, kiểu huy hiệu cổ điển
+- Tông điệu: Truyền thống, uy quyền, tự hào
+
+---
+
+Visual Description:
+The logo features a circular design with Vietnamese text arranged in different tiers. The text "CHIỀU TƯỚNG!" stands prominently in the center with bold typography, surrounded by smaller text "GIAI VÔ ĐỊCH" and "CÓ VUA" forming a complete circular badge design.
+
+Design Elements:
+- Shape: Circular with concentric border lines
+- Typography: Bold sans-serif for main text, thinner font for supporting text
+- Color Palette: White on dark gray/black
+- Background: Dark gray/black background
+- Style: Vintage, classic badge design
+- Mood: Traditional, authoritative, prideful

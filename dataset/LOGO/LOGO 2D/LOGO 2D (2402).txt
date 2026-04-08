@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình học trắng với các đường cong và góc cạnh tạo thành hình dạng tương tự như một bông hoa hoặc biểu tượng y tế cách điệu. Bên dưới biểu tượng là dòng chữ "THÔNG ĐIỆP NHÂN VĂN" bằng tiếng Việt với font chữ in hoa màu trắng, và một dòng chữ nhỏ hơn ở cuối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học đối xứng với các đường cong mềm mại
+- Kiểu chữ: Font sans-serif in hoa, rõ ràng và hiện đại
+- Bảng màu: Trắng trên nền xanh đậm
+- Nền: Màu xanh đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Tin cậy, nhân văn, y tế
+
+---
+
+Visual Description:
+The logo features a white geometric icon with curved and angular lines forming a stylized flower-like or medical symbol. Below the icon is the Vietnamese text "THÔNG ĐIỆP NHÂN VĂN" in white capital letters, followed by smaller text at the bottom.
+
+Design Elements:
+- Shape: Symmetrical geometric symbol with soft curved lines
+- Typography: Clean, modern sans-serif in capital letters
+- Color Palette: White on dark blue background
+- Background: Solid dark blue
+- Style: Minimalist, modern, professional
+- Mood: Trustworthy, humanitarian, medical

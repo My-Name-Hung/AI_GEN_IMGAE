@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một thiết kế banner quảng cáo với chủ đề "Urban Lifestyle" có hình ảnh một người phụ nữ ngồi trong xe hơi. Logo chính xuất hiện ở góc trên bên trái với biểu tượng hình vuông nhỏ màu vàng và chữ "LOGO HERE".
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo vuông nhỏ với 4 ô vuông con bên trong
+- Kiểu chữ: Sans-serif đơn giản, chữ in hoa
+- Bảng màu: Vàng/cam cho logo, nền xanh lá đậm
+- Nền: Màu xanh lá cây đậm với texture lá cây
+- Phong cách: Hiện đại, tối giản, geometric
+- Tông điệu: Chuyên nghiệp, năng động, thời trang
+
+---
+
+Visual Description:
+This is an advertising banner design with "Urban Lifestyle" theme featuring an image of a woman sitting in a car. The main logo appears in the top left corner with a small yellow square icon and "LOGO HERE" text.
+
+Design Elements:
+- Shape: Small square logo with 4 sub-squares inside
+- Typography: Simple sans-serif, uppercase letters
+- Color Palette: Yellow/orange for logo, dark green background
+- Background: Dark green with leaf texture
+- Style: Modern, minimalist, geometric
+- Mood: Professional, dynamic, trendy

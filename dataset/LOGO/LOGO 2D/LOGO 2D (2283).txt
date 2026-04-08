@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một hình vuông màu cam đặt bên trái, kết hợp với dòng chữ "Nghệ thuật Châu Sa" được viết bằng font chữ đậm màu đen. Bên dưới có dòng chữ nhỏ hơn "CÔNG TY THIẾT KẾ" cùng màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông đơn giản kết hợp với layout ngang
+- Kiểu chữ: Font sans-serif đậm, rõ ràng cho tên công ty
+- Bảng màu: Cam sáng và đen
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Năng động, sáng tạo, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a bright orange square positioned on the left, paired with the text "Nghệ thuật Châu Sa" written in bold black font. Below is smaller text reading "CÔNG TY THIẾT KẾ" in the same black color.
+
+Design Elements:
+- Shape: Simple square combined with horizontal layout
+- Typography: Bold, clear sans-serif font for company name
+- Color Palette: Bright orange and black
+- Background: White/transparent background
+- Style: Minimalist, modern, professional
+- Mood: Dynamic, creative, trustworthy

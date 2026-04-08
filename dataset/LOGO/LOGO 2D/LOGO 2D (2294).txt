@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "MỸ PHẨM HÀN QUỐC" được viết bằng font chữ thanh mảnh, hiện đại trên nền gradient xanh dương. Bên dưới có dòng chữ nhỏ hơn "TRANG ĐIỂM TIÊN" cùng màu trắng, tạo thành một thiết kế đơn giản và tinh tế.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng hàng, bố cục đối xứng
+- Kiểu chữ: Font sans-serif mảnh, hiện đại, các chữ cái có khoảng cách rộng
+- Bảng màu: Chữ trắng trên nền gradient xanh dương đậm đến tím nhạt
+- Nền: Gradient từ xanh dương đậm sang tím nhạt
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Sang trọng, chuyên nghiệp, tinh tế
+
+---
+
+Visual Description:
+The logo displays "MỸ PHẨM HÀN QUỐC" written in thin, modern font on a blue gradient background. Below it features smaller text "TRANG ĐIỂM TIÊN" in the same white color, creating a simple and elegant design.
+
+Design Elements:
+- Shape: Straight text alignment, symmetrical layout
+- Typography: Thin sans-serif font, modern, widely spaced letters
+- Color Palette: White text on blue to purple gradient background
+- Background: Gradient from deep blue to light purple
+- Style: Minimalist, modern, elegant
+- Mood: Luxurious, professional, sophisticated

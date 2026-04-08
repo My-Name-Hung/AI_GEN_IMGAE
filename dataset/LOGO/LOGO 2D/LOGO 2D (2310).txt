@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh bàn tay cầm cờ lê trên nền hình lục giác màu trắng. Văn bản "DỊCH VỤ SỬA CHỮA" xuất hiện phía trên, "KHÉO LÉO" ở giữa và "LUÔN SẴN SÀNG GIÚP ĐỠ" ở dưới cùng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình lục giác chứa biểu tượng bàn tay và cờ lê
+- Kiểu chữ: Font chữ in hoa, đậm, dễ đọc
+- Bảng màu: Xanh lá cây đậm và trắng
+- Nền: Xanh lá cây đậm
+- Phong cách: Tối giản, công nghiệp, chuyên nghiệp
+- Tông điệu: Đáng tin cậy, thực tế, mạnh mẽ
+
+---
+
+Visual Description:
+The logo displays an image of a hand holding a wrench on a white hexagonal background. The text "DỊCH VỤ SỬA CHỮA" appears at the top, "KHÉO LÉO" in the middle, and "LUÔN SẴN SÀNG GIÚP ĐỠ" at the bottom.
+
+Design Elements:
+- Shape: Hexagon containing hand and wrench symbol
+- Typography: Bold, uppercase, sans-serif font
+- Color Palette: Dark green and white
+- Background: Dark green
+- Style: Minimalist, industrial, professional
+- Mood: Reliable, practical, strong

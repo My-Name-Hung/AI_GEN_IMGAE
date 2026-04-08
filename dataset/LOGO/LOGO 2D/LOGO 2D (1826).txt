@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm chữ cái "K" được cách điệu với các hình khối ba chiều. Phần bên trái là một thanh đứng màu đỏ, trong khi phần bên phải được tạo thành từ các hình khối góc cạnh màu xanh navy và đỏ tạo hiệu ứng không gian.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ K được cách điệu với các khối hình học ba chiều, góc cạnh
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đỏ và xanh navy trên nền trắng
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, công nghệ
+
+---
+
+Visual Description:
+The logo consists of a stylized letter "K" created with three-dimensional geometric blocks. The left portion features a vertical red bar, while the right side is composed of angular navy blue and red geometric shapes that create a spatial effect.
+
+Design Elements:
+- Shape: Stylized letter K with three-dimensional geometric blocks, angular design
+- Typography: None (icon only)
+- Color Palette: Red and navy blue on white background
+- Background: Transparent/white
+- Style: Modern, minimalist, geometric
+- Mood: Professional, strong, technological

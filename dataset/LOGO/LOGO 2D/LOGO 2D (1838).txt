@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình lục giác stylized với các tòa nhà cao tầng bên trong, tạo thành một skyline đô thị. Bên dưới là dòng chữ "HEXAGON" với font chữ đậm và dòng phụ "CÔNG TY XÂY DỰNG" bằng font nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác với các tòa nhà cao tầng tích hợp bên trong
+- Kiểu chữ: Font chữ in hoa đậm, rõ ràng cho tên công ty
+- Bảng màu: Vàng đồng gradient trên nền đen
+- Nền: Nền đen đồng nhất
+- Phong cách: Hiện đại, tối giản, công nghiệp
+- Tông điệu: Chuyên nghiệp, sang trọng, uy tín
+
+---
+
+Visual Description:
+The logo features a stylized hexagonal icon containing silhouettes of tall buildings that form an urban skyline. Below the icon is the text "HEXAGON" in bold lettering with a smaller subtitle "CÔNG TY XÂY DỰNG" underneath.
+
+Design Elements:
+- Shape: Hexagon with integrated skyscraper silhouettes
+- Typography: Bold, uppercase sans-serif font for company name
+- Color Palette: Golden/bronze gradient on black background
+- Background: Solid black background
+- Style: Modern, minimalist, industrial
+- Mood: Professional, luxurious, authoritative

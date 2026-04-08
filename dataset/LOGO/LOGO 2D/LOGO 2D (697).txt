@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn với vòng trang trí bằng lá cây màu trắng bao quanh. Ở trung tâm có dòng chữ "Tiệm hoa" viết bằng font chữ nghệ thuật, cùng với các dòng text phụ "THIẾT KẾ RO HOA" ở trên và "CỦA THU ANH" ở dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với vòng lá trang trí
+- Kiểu chữ: Font chữ viết tay nghệ thuật cho tên chính, font sans-serif cho text phụ
+- Bảng màu: Trắng và be nhạt trên nền xám
+- Nền: Nền xám đều
+- Phong cách: Tối giản, tự nhiên, vintage
+- Tông điệu: Nhẹ nhàng, thanh lịch, thân thiện
+
+---
+
+Visual Description:
+The logo features a circular design with a decorative white leaf wreath border. In the center, "Tiệm hoa" is written in an artistic script font, accompanied by supporting text "THIẾT KẾ RO HOA" above and "CỦA THU ANH" below.
+
+Design Elements:
+- Shape: Circular with decorative leaf wreath border
+- Typography: Handwritten script font for main text, sans-serif for supporting text
+- Color Palette: White and light beige on gray background
+- Background: Solid gray background
+- Style: Minimalist, natural, vintage
+- Mood: Gentle, elegant, friendly

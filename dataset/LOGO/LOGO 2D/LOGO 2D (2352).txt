@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ba bánh răng cơ khí được sắp xếp theo hình tam giác, với bánh răng trên cùng có màu vàng và hai bánh răng dưới có màu trắng. Phần text "CHIẾN CHINH" được đặt bên dưới với font chữ in hoa rõ ràng, kèm theo dòng phụ "CỬA HÀNG XE ĐẠP" bằng chữ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba bánh răng cơ khí xếp hình tam giác
+- Kiểu chữ: Sans-serif in hoa, rõ ràng và hiện đại
+- Bảng màu: Vàng, trắng trên nền đen
+- Nền: Đen hoàn toàn
+- Phong cách: Tối giản, công nghiệp, hiện đại
+- Tông điệu: Chuyên nghiệp, kỹ thuật, mạnh mẽ
+
+---
+
+Visual Description:
+The logo features three mechanical gears arranged in a triangular formation, with the top gear in yellow and the two bottom gears in white. The text "CHIẾN CHINH" is positioned below with clear uppercase lettering, accompanied by the smaller subtitle "CỬA HÀNG XE ĐẠP".
+
+Design Elements:
+- Shape: Three mechanical gears in triangular arrangement
+- Typography: Clean, modern sans-serif uppercase lettering
+- Color Palette: Yellow, white on black background
+- Background: Solid black
+- Style: Minimalist, industrial, modern
+- Mood: Professional, technical, strong

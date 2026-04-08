@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tròn với các phân đoạn màu sắc rực rỡ và một hình não màu tím ở trung tâm, tạo nên cảm giác về trí tuệ và công nghệ. Phần chữ "GlobeBrain" được đặt bên dưới với font chữ hiện đại và đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn phân đoạn kết hợp với hình não stylized
+- Kiểu chữ: Sans-serif đậm, hiện đại với chữ "Globe" và "Brain" liền nhau
+- Bảng màu: Gradient từ vàng cam sang xanh dương cyan với não màu tím hồng
+- Nền: Nền trắng sạch với bóng đổ nhẹ
+- Phong cách: Hiện đại, công nghệ, gradient
+- Tông điệu: Sáng tạo, thông minh, năng động
+
+---
+
+Visual Description:
+The logo features a circular icon with vibrant colored segments and a purple brain shape in the center, creating a sense of intelligence and technology. The text "GlobeBrain" is positioned below in a modern, bold typeface.
+
+Design Elements:
+- Shape: Segmented circular icon combined with stylized brain form
+- Typography: Bold, modern sans-serif with "Globe" and "Brain" connected
+- Color Palette: Gradient from yellow-orange to cyan blue with purple-pink brain
+- Background: Clean white background with subtle drop shadow
+- Style: Modern, tech-focused, gradient-based
+- Mood: Creative, intelligent, dynamic

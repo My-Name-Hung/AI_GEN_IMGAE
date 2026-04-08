@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hai hình cung màu xanh lá cây nhạt bao quanh dòng chữ "CHI LAN" màu đen đậm. Bên dưới tên thương hiệu có dòng chữ nhỏ "DỊCH VỤ KẾ TOÁN" thể hiện lĩnh vực hoạt động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình cung đối xứng tạo thành khung tròn không hoàn chỉnh
+- Kiểu chữ: Font chữ in hoa, đậm, hiện đại cho tên chính và font nhỏ hơn cho slogan
+- Bảng màu: Xanh lá cây nhạt và đen
+- Nền: Trắng, tối giản
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Tin cậy, chuyên nghiệp, thân thiện
+
+---
+
+Visual Description:
+The logo features two light green arcs surrounding the black text "CHI LAN". Below the main brand name is smaller text reading "DỊCH VỤ KẾ TOÁN" indicating the business sector.
+
+Design Elements:
+- Shape: Two symmetrical arcs forming an incomplete circular frame
+- Typography: Bold, uppercase modern font for main name and smaller font for tagline
+- Color Palette: Light green and black
+- Background: White, minimalist
+- Style: Minimalist, modern, professional
+- Mood: Trustworthy, professional, approachable

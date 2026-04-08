@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng bên trái với các đường zigzag xen kẽ tạo thành hình vuông. Bên phải là tên thương hiệu "MARITIME MUSEUM" viết bằng chữ in hoa màu xanh navy đậm, với dòng chữ phụ "of Montenegro" bằng font chữ nghiêng nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình vuông với các đường zigzag đan xen, bố cục ngang
+- Kiểu chữ: Chữ sans-serif in hoa đậm cho tên chính, chữ serif nghiêng cho dòng phụ
+- Bảng màu: Xanh navy đậm trên nền trắng
+- Nền: Nền trắng sạch
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Chuyên nghiệp, uy tín, biển cả
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon on the left with interlocking zigzag patterns forming a square shape. To the right is the brand name "MARITIME MUSEUM" in bold navy blue capital letters, with "of Montenegro" in smaller italic text below.
+
+Design Elements:
+- Shape: Square icon with interwoven zigzag patterns, horizontal layout
+- Typography: Bold sans-serif capitals for main text, italic serif for subtitle
+- Color Palette: Deep navy blue on white
+- Background: Clean white background
+- Style: Modern, minimalist, geometric
+- Mood: Professional, authoritative, maritime

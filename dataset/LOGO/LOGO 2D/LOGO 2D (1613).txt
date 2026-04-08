@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình tam giác được tạo thành từ ba dải cong uốn lượn, tạo hiệu ứng ba chiều với gradient màu xanh dương và xanh lam. Bên dưới biểu tượng là tên thương hiệu "aocohill" được viết bằng chữ thường màu xanh navy đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Tam giác được tạo từ ba dải cong uốn lượn, có chiều sâu 3D
+- Kiểu chữ: Chữ sans-serif đơn giản, hiện đại, viết thường
+- Bảng màu: Gradient xanh cyan chuyển sang xanh dương đậm, chữ màu xanh navy
+- Nền: Nền trắng sạch
+- Phong cách: Hiện đại, tối giản, gradient 3D
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo features a triangular icon composed of three curved, flowing ribbons that create a three-dimensional effect with a blue-to-cyan gradient. Below the symbol is the brand name "aocohill" written in lowercase dark navy letters.
+
+Design Elements:
+- Shape: Triangle formed by three curved, flowing ribbons with 3D depth
+- Typography: Simple, modern sans-serif lowercase lettering
+- Color Palette: Cyan to deep blue gradient, dark navy text
+- Background: Clean white background
+- Style: Modern, minimalist, 3D gradient
+- Mood: Professional, dynamic, technological

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng hình tròn với các đường cong chồng lấp tạo thành hình xoắn ốc màu sắc và chữ "SynthCore" bên cạnh. Biểu tượng sử dụng gradient từ màu xanh dương, tím, hồng đến vàng cam tạo hiệu ứng chuyển màu mượt mà.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với các đường cong xoắn ốc chồng lấp
+- Kiểu chữ: Sans-serif hiện đại, chữ hoa cho "S" và "C", phần còn lại viết thường
+- Bảng màu: Gradient từ xanh dương, tím, hồng đến vàng cam; chữ trắng
+- Nền: Màu tím đậm
+- Phong cách: Hiện đại, tối giản, gradient, công nghệ
+- Tông điệu: Sáng tạo, năng động, chuyên nghiệp, đổi mới
+
+---
+
+Visual Description:
+The logo features a circular icon with overlapping curved lines forming a spiral pattern in gradient colors, paired with "SynthCore" text. The icon displays a smooth gradient transition from blue through purple and pink to orange-yellow.
+
+Design Elements:
+- Shape: Circular with overlapping spiral curves
+- Typography: Modern sans-serif, capitalized "S" and "C", lowercase for remaining letters
+- Color Palette: Gradient from blue, purple, pink to orange-yellow; white text
+- Background: Dark purple
+- Style: Modern, minimal, gradient, tech-focused
+- Mood: Creative, dynamic, professional, innovative

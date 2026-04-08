@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng bên trái với các mảng màu gradient rực rỡ tạo thành hình dạng giống như viên kim cương hoặc đá quý đa diện. Bên phải là tên thương hiệu "auracat" được viết bằng chữ thường với font chữ đơn giản, hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng đa diện trừu tượng với các mặt phẳng và chữ viết thẳng
+- Kiểu chữ: Font sans-serif đơn giản, chữ thường, hiện đại
+- Bảng màu: Gradient nhiều màu từ xanh lam, tím, hồng đến vàng cam; chữ đen
+- Nền: Trắng trong suốt
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Sáng tạo, năng động, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon on the left with vibrant gradient colors forming a diamond or crystal-like multifaceted shape. To the right is the brand name "auracat" written in lowercase letters using a clean, modern typeface.
+
+Design Elements:
+- Shape: Abstract multifaceted geometric icon with angular planes and horizontal text
+- Typography: Simple sans-serif font, lowercase, modern
+- Color Palette: Multi-color gradient from blue, purple, pink to yellow-orange; black text
+- Background: White/transparent
+- Style: Modern, minimalist, tech-oriented
+- Mood: Creative, dynamic, professional

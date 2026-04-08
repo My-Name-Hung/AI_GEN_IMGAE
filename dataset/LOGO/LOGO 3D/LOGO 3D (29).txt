@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo được thiết kế dạng icon ứng dụng 3D với hình vuông bo góc màu trắng. Trung tâm là biểu tượng túi mua sắm màu vàng có chữ "f" xanh dương và tên thương hiệu "Flipkart" màu xanh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông bo góc 3D, túi mua sắm với tay cầm
+- Kiểu chữ: Sans-serif hiện đại, in thường cho "Flipkart"
+- Bảng màu: Xanh dương, vàng, trắng
+- Nền: Nền xanh dương gradient
+- Phong cách: Hiện đại, tối giản, 3D, icon ứng dụng
+- Tông điệu: Thân thiện, tin cậy, năng động
+
+---
+
+Visual Description:
+The logo is designed as a 3D app icon with a white rounded square shape. The center features a yellow shopping bag with a blue "f" letter and the "Flipkart" brand name in blue text below.
+
+Design Elements:
+- Shape: 3D rounded square, shopping bag with handle
+- Typography: Modern sans-serif, lowercase "Flipkart"
+- Color Palette: Blue, yellow, white
+- Background: Blue gradient background
+- Style: Modern, minimalist, 3D, app icon
+- Mood: Friendly, trustworthy, dynamic

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng đối xứng với hai phần giống hệt nhau ở hai bên, mỗi bên gồm hai hình tròn được nối với nhau bằng một dải cong. Ở giữa hai phần đối xứng này là một hình thoi màu tím làm điểm nhấn trung tâm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai cấu trúc đối xứng gồm các hình tròn và dải cong, với hình thoi ở trung tâm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ xanh dương đến xanh lá cây, với điểm nhấn tím
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, tối giản, gradient mượt mà
+- Tông điệu: Năng động, chuyên nghiệp, sáng tạo
+
+---
+
+Visual Description:
+The logo features a symmetrical design with two identical mirrored sections, each consisting of two circles connected by curved bands. At the center between these symmetrical elements is a purple diamond shape that serves as a focal point.
+
+Design Elements:
+- Shape: Two symmetrical structures of circles and curved bands with central diamond
+- Typography: None (icon only)
+- Color Palette: Blue to green gradient with purple accent
+- Background: Transparent/white
+- Style: Modern, minimalist, smooth gradients
+- Mood: Dynamic, professional, innovative

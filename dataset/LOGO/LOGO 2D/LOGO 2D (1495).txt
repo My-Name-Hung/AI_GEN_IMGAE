@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị bốn hình dạng cong màu trắng được sắp xếp theo hình vuông trên nền xanh dương đậm. Các đường cong mềm mại tạo thành những hình dạng giống như chữ cái hoặc ký hiệu trừu tượng với các đầu bo tròn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bốn phần tử cong đối xứng, bo tròn, sắp xếp thành lưới 2x2
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng và xanh dương đậm
+- Nền: Xanh dương đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, hình học, trừu tượng
+- Tông điệu: Chuyên nghiệp, tin cậy, năng động
+
+---
+
+Visual Description:
+The logo displays four white curved shapes arranged in a square formation against a deep blue background. The soft, flowing curves create letter-like or abstract symbol forms with rounded terminals.
+
+Design Elements:
+- Shape: Four symmetrical curved elements with rounded ends, arranged in a 2x2 grid
+- Typography: None (icon only)
+- Color Palette: White and deep blue
+- Background: Solid deep blue
+- Style: Minimalist, modern, geometric, abstract
+- Mood: Professional, trustworthy, dynamic

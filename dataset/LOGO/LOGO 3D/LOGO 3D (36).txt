@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo được thiết kế dưới dạng một khối 3D màu trắng có các góc bo tròn, nghiêng một góc trên nền màu hồng. Trên bề mặt khối có ba chấm tròn nhỏ màu hồng-cam gradient và dòng chữ "asana" màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối hình vuông bo tròn 3D nghiêng, ba chấm tròn làm biểu tượng
+- Kiểu chữ: Sans-serif hiện đại, chữ thường, bo tròn nhẹ
+- Bảng màu: Trắng chủ đạo, hồng-cam gradient cho icon, đen cho chữ, nền hồng
+- Nền: Màu hồng rực rỡ có gradient
+- Phong cách: 3D, hiện đại, tối giản, tech
+- Tông điệu: Năng động, sáng tạo, thân thiện, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a white 3D rounded square block tilted at an angle against a vibrant pink background. The surface displays three small gradient pink-orange dots and the word "asana" in black text.
+
+Design Elements:
+- Shape: 3D rounded square block tilted at angle, three circular dots as icon
+- Typography: Modern sans-serif, lowercase, slightly rounded
+- Color Palette: Dominant white, pink-orange gradient for icon, black text, vibrant pink background
+- Background: Bright pink with gradient
+- Style: 3D, modern, minimalist, tech
+- Mood: Dynamic, creative, friendly, professional

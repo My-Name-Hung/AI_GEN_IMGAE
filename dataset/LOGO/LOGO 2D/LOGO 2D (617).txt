@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn với đường viền màu xanh teal, bên trong chứa tên thương hiệu "An Bùi" được viết bằng kiểu chữ nghệ thuật. Bên dưới tên chính có dòng chữ phụ "Trang điểm & Dịch vụ khác" bằng font chữ đơn giản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với đường viền kép
+- Kiểu chữ: Chữ viết tay nghệ thuật cho tên chính, font sans-serif cho slogan
+- Bảng màu: Xanh teal chủ đạo trên nền trắng
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, thanh lịch, hiện đại
+- Tông điệu: Chuyên nghiệp, thân thiện, nữ tính
+
+---
+
+Visual Description:
+The logo features a circular design with a teal-colored border, containing the brand name "An Bùi" written in artistic script lettering. Below the main name is the tagline "Trang điểm & Dịch vụ khác" in simple typography.
+
+Design Elements:
+- Shape: Circle with double border outline
+- Typography: Handwritten script for main name, sans-serif for tagline
+- Color Palette: Teal dominant on white background
+- Background: Clean white/transparent
+- Style: Minimalist, elegant, modern
+- Mood: Professional, friendly, feminine

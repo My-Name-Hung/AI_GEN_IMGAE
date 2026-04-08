@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm văn bản "TRẦN MAI" được đặt ở hai bên của một hình tròn màu trắng. Bên trong hình tròn là biểu tượng của một tòa nhà cổ điển với các cột trụ, tương tự như một ngôi đền hoặc tòa nhà chính phủ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn trắng trung tâm chứa biểu tượng kiến trúc cổ điển với cột trụ
+- Kiểu chữ: Chữ serif thanh lịch, in hoa, màu trắng
+- Bảng màu: Màu đỏ burgundy làm nền, màu trắng cho văn bản và biểu tượng
+- Nền: Màu đỏ burgundy đậm, đồng nhất
+- Phong cách: Cổ điển, trang trọng, chuyên nghiệp
+- Tông điệu: Uy tín, sang trọng, tin cậy
+
+---
+
+Visual Description:
+The logo features the text "TRẦN MAI" positioned on either side of a white circular emblem. Inside the circle is an icon of a classical building with columns, resembling a temple or government building structure.
+
+Design Elements:
+- Shape: Central white circle containing a classical architectural icon with columns
+- Typography: Elegant serif typeface, uppercase letters in white
+- Color Palette: Deep burgundy red background with white text and emblem
+- Background: Solid deep burgundy red
+- Style: Classical, formal, professional
+- Mood: Prestigious, elegant, trustworthy

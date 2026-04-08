@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình bản đồ Việt Nam màu trắng đặt trên nền vàng rực rỡ. Dòng chữ "TOÀN QUỐC" được in đậm màu đen nằm ở trung tâm bản đồ, với dòng chữ phụ "DỊCH VỤ AN NINH" nhỏ hơn bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette bản đồ Việt Nam với đường viền không đều, tự nhiên
+- Kiểu chữ: Font sans-serif đậm và hiện đại cho chữ chính, font nhỏ hơn cho chữ phụ
+- Bảng màu: Vàng chủ đạo, trắng và đen
+- Nền: Màu vàng đồng nhất
+- Phong cách: Tối giản, hiện đại, quốc gia
+- Tông điệu: Chuyên nghiệp, rõ ràng, uy tín
+
+---
+
+Visual Description:
+The logo features a white silhouette of Vietnam's map positioned on a bright yellow background. The text "TOÀN QUỐC" appears in bold black letters centered on the map, with smaller text "DỊCH VỤ AN NINH" underneath.
+
+Design Elements:
+- Shape: Vietnam map silhouette with natural, irregular coastline borders
+- Typography: Bold, modern sans-serif font for main text, smaller font for subtitle
+- Color Palette: Dominant yellow, white, and black
+- Background: Solid yellow
+- Style: Minimalist, modern, patriotic
+- Mood: Professional, clear, authoritative

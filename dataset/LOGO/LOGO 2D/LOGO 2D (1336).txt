@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học ba chiều ở bên trái với các mặt được tô màu xanh dương, đỏ và cam tạo thành hình khối lập phương. Bên phải là chữ "Looping" được viết bằng font chữ sans-serif màu xanh navy đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình khối lập phương ba chiều với góc nhìn isometric
+- Kiểu chữ: Sans-serif hiện đại, đậm, chữ thường
+- Bảng màu: Xanh dương, đỏ, cam, xanh navy
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, geometric
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo features a three-dimensional geometric icon on the left with faces colored in blue, red, and orange forming a cubic shape. To the right is the word "Looping" written in a bold navy blue sans-serif font.
+
+Design Elements:
+- Shape: Three-dimensional cube with isometric perspective
+- Typography: Modern sans-serif, bold, lowercase
+- Color Palette: Blue, red, orange, navy blue
+- Background: White/transparent
+- Style: Modern, minimalist, geometric
+- Mood: Professional, dynamic, tech-oriented

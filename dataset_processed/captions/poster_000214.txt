@@ -1,0 +1,1 @@
+poster_style, The cover của the album, ' sox20mm '. title: the cover of the album, ' sox20mm '

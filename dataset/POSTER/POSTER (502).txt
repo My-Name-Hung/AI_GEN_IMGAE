@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình đại bàng cách điệu với đôi cánh mở rộng được vẽ bằng các đường nét màu vàng trên nền xanh đậm. Phần chữ "AQUILA" được đặt bên dưới hình đại bàng với kiểu chữ serif cổ điển màu vàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Đại bàng cách điệu với cánh mở, các đường geometric đối xứng
+- Kiểu chữ: Serif cổ điển, in hoa, có các chi tiết trang trí nhỏ
+- Bảng màu: Vàng/kem và xanh lục đậm
+- Nền: Màu xanh lục đậm đồng nhất
+- Phong cách: Cổ điển, heraldic, geometric, minimal
+- Tông điệu: Cao quý, mạnh mẽ, uy quyền, thanh lịch
+
+---
+
+Visual Description:
+The logo features a stylized eagle with outstretched wings rendered in yellow/cream lines on a dark teal background. The word "AQUILA" appears below the eagle in a classic serif typeface in the same yellow color.
+
+Design Elements:
+- Shape: Stylized eagle with spread wings, geometric symmetrical lines
+- Typography: Classical serif, uppercase, with small decorative details
+- Color Palette: Yellow/cream and dark teal
+- Background: Solid dark teal
+- Style: Classical, heraldic, geometric, minimal
+- Mood: Noble, powerful, authoritative, elegant

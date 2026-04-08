@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế vuông với nền màu hồng tím gradient, hiển thị tên thương hiệu "TIỆM QUẦN ÁO" bằng chữ in hoa màu trắng ở trung tâm. Dòng chữ nhỏ hơn "PHONG CÁCH VIỆT NAM" được đặt bên dưới, với hai đường kẻ ngang trang trí ở hai bên chữ "TIỆM".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với bố cục đối xứng, có đường kẻ trang trí
+- Kiểu chữ: Sans-serif in hoa, đậm và rõ nét
+- Bảng màu: Nền gradient hồng-tím, chữ màu trắng
+- Nền: Gradient từ hồng nhạt đến tím hồng
+- Phong cách: Hiện đại, tối giản, thanh lịch
+- Tông điệu: Nữ tính, thời trang, tinh tế
+
+---
+
+Visual Description:
+The logo features a square design with a pink-purple gradient background, displaying the brand name "TIỆM QUẦN ÁO" in white capital letters at the center. A smaller line reading "PHONG CÁCH VIỆT NAM" appears below, with decorative horizontal lines flanking the word "TIỆM".
+
+Design Elements:
+- Shape: Square format with symmetrical layout and decorative lines
+- Typography: Sans-serif capitals, bold and clean
+- Color Palette: Pink-purple gradient background with white text
+- Background: Gradient from light pink to purple-pink
+- Style: Modern, minimalist, elegant
+- Mood: Feminine, fashionable, sophisticated

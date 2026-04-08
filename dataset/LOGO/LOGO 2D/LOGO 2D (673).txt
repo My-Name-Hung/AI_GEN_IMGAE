@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "MICHOI" được viết bằng chữ in hoa với phong cách serif thanh lịch. Bên dưới có dòng chữ nhỏ "COSMETIC" được sắp xếp với khoảng cách đều đặn giữa các ký tự.
+
+Yếu tố Thiết kế:
+- Hình dạng: Kiểu chữ thẳng hàng ngang, bố cục đối xứng
+- Kiểu chữ: Serif cổ điển, in hoa, có độ tương phản cao giữa nét đậm và nhạt
+- Bảng màu: Đen trên nền trắng (đơn sắc)
+- Nền: Trắng sạch, tối giản
+- Phong cách: Cổ điển, thanh lịch, tối giản
+- Tông điệu: Sang trọng, chuyên nghiệp, tinh tế
+
+---
+
+Visual Description:
+The logo displays the brand name "MICHOI" written in elegant uppercase serif letters. Below it, the word "COSMETIC" appears in smaller text with even letter spacing.
+
+Design Elements:
+- Shape: Horizontal text alignment with symmetrical layout
+- Typography: Classic serif typeface in uppercase with high contrast between thick and thin strokes
+- Color Palette: Black on white (monochrome)
+- Background: Clean white, minimalist
+- Style: Classic, elegant, minimalist
+- Mood: Luxurious, professional, sophisticated

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "nhà sĩ" được viết bằng font chữ hiện đại, đơn giản trên nền xanh dương. Bên dưới có dòng chữ nhỏ hơn "PHÒNG KHÁM NHA KHOA" làm rõ nghĩa của thương hiệu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ ngang, đơn giản, tối giản
+- Kiểu chữ: Font sans-serif hiện đại, chữ thường, khoảng cách rộng
+- Bảng màu: Chữ trắng trên nền xanh teal/xanh dương nhạt
+- Nền: Màu xanh teal đồng nhất, phẳng
+- Phong cách: Tối giản, hiện đại, y tế
+- Tông điệu: Chuyên nghiệp, tin cậy, sạch sẽ
+
+---
+
+Visual Description:
+The logo displays "nhà sĩ" written in modern, simple typography on a teal blue background. Below it is smaller text reading "PHÒNG KHÁM NHA KHOA" that clarifies the brand's meaning.
+
+Design Elements:
+- Shape: Horizontal text layout, simple, minimalist
+- Typography: Modern sans-serif font, lowercase, wide letter spacing
+- Color Palette: White text on teal/light blue background
+- Background: Solid teal color, flat
+- Style: Minimalist, modern, medical
+- Mood: Professional, trustworthy, clean

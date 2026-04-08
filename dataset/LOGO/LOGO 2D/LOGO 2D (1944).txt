@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn màu trắng nổi bật trên nền cam đất. Bên trong vòng tròn là hình vẽ đơn giản của một chú chó ngồi với đường nét tối giản. Xung quanh vòng tròn có văn bản cong "Gửi hàng thú cưng" ở phía trên và "Thynk Shop" ở phía dưới, cùng với hai dấu cộng nhỏ ở hai bên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn trắng chứa icon chó, bố cục đối xứng
+- Kiểu chữ: Sans-serif đơn giản, cong theo hình tròn
+- Bảng màu: Cam đất/nâu cam và trắng
+- Nền: Màu cam đất đồng nhất
+- Phong cách: Tối giản, hiện đại, đường nét đơn giản
+- Tông điệu: Ấm áp, thân thiện, dễ gần
+
+---
+
+Visual Description:
+The logo features a white circular badge set against a warm terracotta background. Inside the circle is a minimalist line drawing of a sitting dog rendered in simple strokes. The circular design is framed by curved text reading "Gửi hàng thú cưng" above and "Thynk Shop" below, with small plus symbols flanking the sides.
+
+Design Elements:
+- Shape: Circular white badge with centered dog icon, symmetrical layout
+- Typography: Simple sans-serif font curved around the circle
+- Color Palette: Terracotta orange and white
+- Background: Solid terracotta orange
+- Style: Minimalist, modern, clean line art
+- Mood: Warm, friendly, approachable

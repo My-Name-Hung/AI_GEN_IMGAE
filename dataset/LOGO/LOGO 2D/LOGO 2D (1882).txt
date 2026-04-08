@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình quạt hoặc một phần tư hình tròn với đường viền màu tím. Bên trong có dòng chữ "MẠNG LƯỚI CÔNG NGHỆ" cong theo hình dáng của logo, kèm theo text "SG/HN" ở góc dưới và một biểu tượng mũi tên bậc thang màu xanh dương.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình quạt/một phần tư hình tròn với đường viền cong
+- Kiểu chữ: Font sans-serif đơn giản, chữ cong theo đường viền
+- Bảng màu: Tím, xanh dương, xanh lá nhạt
+- Nền: Nền trắng với hiệu ứng gradient xanh nhạt
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, sạch sẽ, năng động
+
+---
+
+Visual Description:
+The logo features a fan or quarter-circle shape with a purple outline. Inside, there's curved text reading "MẠNG LƯỚI CÔNG NGHỆ" following the shape's contour, along with "SG/HN" text at the bottom and a blue stepped arrow symbol.
+
+Design Elements:
+- Shape: Fan/quarter-circle with curved border
+- Typography: Simple sans-serif font, text curved along the border
+- Color Palette: Purple, blue, light green
+- Background: White background with subtle light green gradient effect
+- Style: Modern, minimalist, tech-oriented
+- Mood: Professional, clean, dynamic

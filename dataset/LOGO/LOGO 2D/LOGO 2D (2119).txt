@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng oval màu kem nhạt với viền màu xanh rêu, nổi bật trên nền xanh đậm. Tên thương hiệu "VƯỜN NHÍM" được đặt ở trung tâm với font chữ in hoa thanh lịch, bên dưới có dòng slogan nhỏ bằng tiếng Việt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Oval bo tròn mềm mại
+- Kiểu chữ: Font serif thanh lịch, chữ in hoa cho tên chính, chữ nghiêng nhỏ cho slogan
+- Bảng màu: Xanh rêu đậm, kem nhạt
+- Nền: Xanh rêu đậm đồng nhất
+- Phong cách: Tối giản, vintage, tự nhiên
+- Tông điệu: Thanh lịch, ấm áp, thân thiện
+
+---
+
+Visual Description:
+The logo features a cream-colored oval shape with a dark green border, prominently displayed against a deep green background. The brand name "VƯỜN NHÍM" is centered within the oval using an elegant uppercase font, with a smaller Vietnamese tagline positioned below.
+
+Design Elements:
+- Shape: Soft rounded oval
+- Typography: Elegant serif font, uppercase for main name, smaller italic for tagline
+- Color Palette: Deep forest green, cream/beige
+- Background: Solid deep green
+- Style: Minimalist, vintage, natural
+- Mood: Elegant, warm, friendly

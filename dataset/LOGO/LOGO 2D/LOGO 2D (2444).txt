@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng hình vuông màu trắng với ba đường sóng nằm ngang bên trong, đặt bên trái chữ "ÁNH" viết in hoa màu trắng. Phía dưới có dòng chữ nhỏ "HƯỚNG DẪN DU LỊCH" cũng màu trắng trên nền tím gradient.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với đường sóng cong và typography hiện đại
+- Kiểu chữ: Sans-serif in hoa cho tên chính, chữ nhỏ cho slogan
+- Bảng màu: Trắng và tím gradient
+- Nền: Tím gradient từ đậm đến nhạt
+- Phong cách: Tối giản, hiện đại, clean
+- Tông điệu: Chuyên nghiệp, thân thiện, năng động
+
+---
+
+Visual Description:
+The logo features a white square icon with three horizontal wavy lines inside, positioned to the left of "ÁNH" in white capital letters. Below is smaller text "HƯỚNG DẪN DU LỊCH" also in white, all set against a purple gradient background.
+
+Design Elements:
+- Shape: Square icon with curved wave lines and modern typography
+- Typography: Sans-serif capitals for main name, smaller text for tagline
+- Color Palette: White and purple gradient
+- Background: Purple gradient from dark to light
+- Style: Minimalist, modern, clean
+- Mood: Professional, friendly, dynamic

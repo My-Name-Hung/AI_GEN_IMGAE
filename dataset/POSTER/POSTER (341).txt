@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình học được tạo thành từ năm vòng tròn màu vàng cam được liên kết với nhau tạo thành một hoa văn đối xứng. Bên dưới biểu tượng là dòng chữ "VILLAGE OLYMPICS" được sắp xếp thành hai hàng bằng font chữ đen, đơn giản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Năm vòng tròn liên kết tạo thành hoa văn đối xứng hình kim cương
+- Kiểu chữ: Sans-serif đơn giản, in hoa, màu đen
+- Bảng màu: Vàng cam cho biểu tượng, đen cho chữ
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Năng động, thể thao, cộng đồng
+
+---
+
+Visual Description:
+The logo features a geometric symbol composed of five orange-yellow circles connected together to form a symmetrical pattern. Below the symbol is the text "VILLAGE OLYMPICS" arranged in two lines using simple black typography.
+
+Design Elements:
+- Shape: Five interconnected circles forming a symmetrical diamond-like pattern
+- Typography: Simple sans-serif, uppercase, black text
+- Color Palette: Orange-yellow for symbol, black for text
+- Background: White/transparent
+- Style: Modern, minimalist, geometric
+- Mood: Dynamic, athletic, community-oriented

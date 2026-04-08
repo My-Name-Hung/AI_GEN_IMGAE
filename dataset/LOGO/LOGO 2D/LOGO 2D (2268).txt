@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình cầu với các đường kinh tuyến và vĩ tuyến màu xanh dương gradient. Bên cạnh là dòng chữ "Tư vấn Nam Khánh" màu trắng và dòng phụ "CỐ VẤN TÀI CHÍNH CỦA BẠN" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình cầu với lưới kinh vĩ tuyến, bố cục ngang
+- Kiểu chữ: Sans-serif hiện đại, chữ chính đậm, chữ phụ mỏng
+- Bảng màu: Xanh dương gradient, trắng, đen
+- Nền: Đen với hiệu ứng gradient tròn
+- Phong cách: Hiện đại, công nghệ, chuyên nghiệp
+- Tông điệu: Tin cậy, toàn cầu, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a spherical globe icon with meridian and latitude lines in blue gradient. Next to it is white text reading "Tư vấn Nam Khánh" with a smaller subtitle "CỐ VẤN TÀI CHÍNH CỦA BẠN" below.
+
+Design Elements:
+- Shape: Spherical globe with grid lines, horizontal layout
+- Typography: Modern sans-serif, bold main text, thin subtitle
+- Color Palette: Blue gradient, white, black
+- Background: Black with circular gradient effect
+- Style: Modern, technological, professional
+- Mood: Trustworthy, global, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "e" màu xanh dương được đặt trong một khung hình vuông góc tròn màu trắng, với một vòng tròn màu vàng bao quanh chữ "e". Toàn bộ logo có hiệu ứng 3D và được đặt nghiêng trên nền xanh dương gradient.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông 3D góc tròn chứa chữ "e" và vòng tròn màu vàng
+- Kiểu chữ: Chữ thường "e" in đậm, bo tròn
+- Bảng màu: Xanh dương chính, vàng nhấn, trắng và xám cho khối 3D
+- Nền: Xanh dương gradient có bóng đổ
+- Phong cách: 3D hiện đại, công nghệ, tối giản
+- Tông điệu: Chuyên nghiệp, công nghệ, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a blue lowercase "e" positioned within a white rounded square frame, surrounded by a yellow ring. The entire logo has a 3D effect and is positioned at an angle on a blue gradient background.
+
+Design Elements:
+- Shape: 3D rounded square block containing lowercase "e" and yellow ring
+- Typography: Bold, rounded lowercase "e"
+- Color Palette: Primary blue, accent yellow, white and gray for 3D block
+- Background: Blue gradient with drop shadow
+- Style: 3D modern, tech, minimalist
+- Mood: Professional, technological, trustworthy

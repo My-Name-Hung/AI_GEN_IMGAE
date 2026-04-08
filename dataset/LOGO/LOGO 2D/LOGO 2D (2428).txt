@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm ba thanh vàng được sắp xếp theo hình dạng giống như biểu đồ cột, với thanh giữa cao nhất. Bên dưới là tên thương hiệu "TRANG SỨ VÀNG" được viết bằng font chữ thanh lịch màu trắng, kèm theo dòng slogan nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba thanh hình chữ nhật dọc màu vàng, tạo thành biểu tượng giống tòa nhà hoặc biểu đồ
+- Kiểu chữ: Font serif cổ điển, thanh lịch với chữ in hoa cho tên chính
+- Bảng màu: Vàng kim cho biểu tượng, trắng cho chữ, nền xanh navy đậm
+- Nền: Xanh navy đậm, tạo độ tương phản cao
+- Phong cách: Cổ điển, sang trọng, tối giản
+- Tông điệu: Đẳng cấp, chuyên nghiệp, tin cậy
+
+---
+
+Visual Description:
+The logo features three golden vertical bars arranged like a bar chart, with the middle bar being the tallest. Below is the brand name "TRANG SỨ VÀNG" written in elegant white typography, accompanied by a smaller tagline.
+
+Design Elements:
+- Shape: Three vertical golden rectangles forming a building or chart-like symbol
+- Typography: Classic serif font, elegant with uppercase letters for main name
+- Color Palette: Golden yellow for icon, white for text, deep navy blue background
+- Background: Deep navy blue creating high contrast
+- Style: Classic, luxurious, minimalist
+- Mood: Premium, professional, trustworthy

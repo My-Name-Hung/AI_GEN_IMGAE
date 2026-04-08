@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình lục giác màu trắng với biểu tượng bốn mũi tên chỉ vào trong ở trung tâm. Bên dưới là dòng chữ "MAY CHOI GAME" viết bằng font chữ đơn giản, màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác với biểu tượng mũi tên trung tâm
+- Kiểu chữ: Sans-serif đơn giản, in hoa
+- Bảng màu: Xanh dương chủ đạo và trắng
+- Nền: Xanh dương đậm
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo features a white hexagonal shape with a four-arrow symbol pointing inward at its center. Below the hexagon is the text "MAY CHOI GAME" in simple white typography.
+
+Design Elements:
+- Shape: Hexagon with central directional arrow symbol
+- Typography: Simple sans-serif, all caps
+- Color Palette: Dominant blue and white
+- Background: Deep blue
+- Style: Minimalist, modern, geometric
+- Mood: Professional, dynamic, tech-oriented

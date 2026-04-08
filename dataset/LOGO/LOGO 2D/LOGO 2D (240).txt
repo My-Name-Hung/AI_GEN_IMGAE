@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện hai hình ngôi sao màu vàng giao nhau tạo thành một hình ngôi sao lớn. Ở trung tâm có một hình trái tim màu đỏ cam nổi bật trên nền ngôi sao vàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai ngôi sao 6 cánh giao nhau với trái tim ở giữa
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng, đỏ cam, cam đậm
+- Nền: Nền cam đậm/đỏ cam đồng nhất
+- Phong cách: Phẳng, tối giản, hình học
+- Tông điệu: Ấm áp, tích cực, yêu thương
+
+---
+
+Visual Description:
+The logo features two overlapping yellow six-pointed stars that form a larger star shape. At the center is a prominent orange-red heart positioned on top of the yellow star background.
+
+Design Elements:
+- Shape: Two intersecting six-pointed stars with central heart
+- Typography: None (icon only)
+- Color Palette: Yellow, orange-red, deep orange
+- Background: Solid deep orange/red-orange
+- Style: Flat, minimalist, geometric
+- Mood: Warm, positive, loving

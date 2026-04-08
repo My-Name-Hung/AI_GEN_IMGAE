@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm bốn hình vuông được sắp xếp thành lưới 2x2, với hai hình vuông phía trên có màu xanh dương đậm và hai hình vuông phía dưới có màu xanh dương nhạt hơn. Phía dưới là tên thương hiệu "Trí & Trung" được viết bằng chữ sans-serif màu đen, kèm theo dòng chữ nhỏ "TRANG TRÍ NỘI THẤT" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bốn hình vuông sắp xếp thành ma trận 2x2
+- Kiểu chữ: Sans-serif hiện đại, sạch sẽ
+- Bảng màu: Xanh dương với hai tông khác nhau (đậm và nhạt), chữ màu đen
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sạch sẽ
+
+---
+
+Visual Description:
+The logo features four squares arranged in a 2x2 grid pattern, with the top two squares in a darker blue shade and the bottom two in a lighter blue tone. Below this geometric element is the brand name "Trí & Trung" in black sans-serif typography, accompanied by smaller text reading "TRANG TRÍ NỘI THẤT" underneath.
+
+Design Elements:
+- Shape: Four squares arranged in a 2x2 matrix formation
+- Typography: Modern, clean sans-serif font
+- Color Palette: Blue gradient with two tones (dark and light blue), black text
+- Background: White/transparent
+- Style: Minimalist, modern, geometric
+- Mood: Professional, trustworthy, clean

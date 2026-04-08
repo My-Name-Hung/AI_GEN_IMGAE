@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên công ty "DŨNG & CHÂU" được viết bằng chữ in hoa màu trắng trên nền xanh navy đậm. Phía dưới có dòng chữ "HỖ TRỢ PHÁP LÝ" cũng màu trắng, và toàn bộ được bao quanh bởi hai đường viền vàng nằm ngang ở trên và dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ nhật với các đường viền ngang
+- Kiểu chữ: Sans-serif in hoa, khoảng cách chữ rộng
+- Bảng màu: Xanh navy, trắng, vàng
+- Nền: Xanh navy đậm
+- Phong cách: Tối giản, cổ điển, chuyên nghiệp
+- Tông điệu: Trang trọng, đáng tin cậy, uy tín
+
+---
+
+Visual Description:
+The logo displays the company name "DŨNG & CHÂU" in white capital letters on a dark navy blue background. Below it is the text "HỖ TRỢ PHÁP LÝ" also in white, with two horizontal golden lines framing the text above and below.
+
+Design Elements:
+- Shape: Rectangular format with horizontal border lines
+- Typography: Sans-serif uppercase lettering with wide letter spacing
+- Color Palette: Navy blue, white, gold
+- Background: Deep navy blue
+- Style: Minimalist, classic, professional
+- Mood: Formal, trustworthy, authoritative

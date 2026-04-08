@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn màu trắng nằm ở trung tâm với hai chữ cái "MM" màu xanh đậm bên trong. Phía dưới có dòng text "Công ty Kế toán Minh & Mẫn" màu trắng trên nền cam sáng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn trắng chứa monogram
+- Kiểu chữ: Sans-serif đậm cho monogram, font mảnh cho text công ty
+- Bảng màu: Cam sáng, trắng, xanh navy
+- Nền: Cam gradient nhẹ
+- Phong cách: Tối giản, hiện đại, monogram
+- Tông điệu: Chuyên nghiệp, thân thiện, năng động
+
+---
+
+Visual Description:
+The logo features a white circular badge in the center containing dark blue "MM" letters. Below the circle is white text reading "Công ty Kế toán Minh & Mẫn" against a bright orange background.
+
+Design Elements:
+- Shape: Circular white badge containing monogram
+- Typography: Bold sans-serif for monogram, thin font for company text
+- Color Palette: Bright orange, white, navy blue
+- Background: Light orange gradient
+- Style: Minimalist, modern, monogram-based
+- Mood: Professional, friendly, dynamic

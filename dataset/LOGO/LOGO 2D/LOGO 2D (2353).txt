@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng khối 3D isometric với các mặt màu cam, tím và hồng tạo thành cấu trúc hình học góc cạnh. Phần text "Hệ thống VinGame" được đặt bên dưới với màu tím đậm, kèm theo dòng tagline nhỏ màu hồng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối 3D isometric góc cạnh, cấu trúc hình học
+- Kiểu chữ: Sans-serif đậm, hiện đại, rõ ràng
+- Bảng màu: Cam, tím, hồng với hiệu ứng gradient
+- Nền: Trắng, sạch sẽ
+- Phong cách: Hiện đại, tối giản, 3D isometric
+- Tông điệu: Năng động, công nghệ, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a 3D isometric geometric block with orange, purple, and pink faces creating an angular architectural structure. Below the icon, "Hệ thống VinGame" text appears in dark purple with a smaller pink tagline underneath.
+
+Design Elements:
+- Shape: 3D isometric angular block, geometric structure
+- Typography: Bold sans-serif, modern, clean
+- Color Palette: Orange, purple, pink with gradient effects
+- Background: Clean white
+- Style: Modern, minimalist, 3D isometric
+- Mood: Dynamic, technological, professional

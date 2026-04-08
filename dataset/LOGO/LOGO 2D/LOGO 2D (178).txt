@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một quả bóng golf với các chấm tròn đặc trưng, được bao quanh bởi các vệt nước hoặc bùn văng tung tóe. Có dòng chữ "MARSHAL" được đặt dọc theo cạnh dưới của quả bóng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Quả bóng golf tròn với các chấm dimple và hiệu ứng văng tóe động
+- Kiểu chữ: Sans-serif đậm, chữ in hoa dọc theo đường cong
+- Bảng màu: Đơn sắc xanh navy đậm
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, năng động, biểu tượng thể thao
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, năng lượng
+
+---
+
+Visual Description:
+The logo shows a golf ball with characteristic dimples, surrounded by splashing water or mud effects radiating outward. The text "MARSHAL" is positioned along the bottom curve of the ball.
+
+Design Elements:
+- Shape: Circular golf ball with dimples and dynamic splash effects
+- Typography: Bold sans-serif, uppercase letters following a curved path
+- Color Palette: Monochromatic dark navy blue
+- Background: White/transparent
+- Style: Modern, dynamic, sports emblem
+- Mood: Powerful, professional, energetic

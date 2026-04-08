@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng trừu tượng màu xanh cyan ở phía trên, bao gồm các hình khối có đường viền đứt quãng tạo thành cấu trúc ba chiều. Bên dưới là tên thương hiệu "ELECTRO BLOG" được viết bằng chữ in hoa màu xanh cyan trên nền đen, kèm theo tagline "HIGH VOLTAGE" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học trừu tượng với các khối có đường viền đứt quãng, tạo hiệu ứng ba chiều
+- Kiểu chữ: Sans-serif in hoa, đậm và hiện đại
+- Bảng màu: Xanh cyan sáng trên nền đen
+- Nền: Đen thuần
+- Phong cách: Hiện đại, công nghệ, minimalist
+- Tông điệu: Năng động, chuyên nghiệp, công nghệ cao
+
+---
+
+Visual Description:
+The logo features an abstract cyan-colored icon at the top, consisting of geometric blocks with dashed outlines forming a three-dimensional structure. Below is the brand name "ELECTRO BLOG" written in cyan uppercase letters on a black background, accompanied by a smaller "HIGH VOLTAGE" tagline.
+
+Design Elements:
+- Shape: Abstract geometric icon with dashed-outline blocks creating a 3D effect
+- Typography: Bold, modern sans-serif uppercase lettering
+- Color Palette: Bright cyan on pure black background
+- Background: Solid black
+- Style: Modern, tech-focused, minimalist
+- Mood: Dynamic, professional, high-tech

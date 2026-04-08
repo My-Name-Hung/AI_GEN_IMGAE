@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình quân mã (knight) trong cờ vua được vẽ bằng đường nét trắng tinh tế trên nền cam đất. Xung quanh quân cờ có các dòng chữ tiếng Việt được sắp xếp theo hình cung tròn và đường thẳng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Quân mã cờ vua cách điệu, bố cục tròn đối xứng
+- Kiểu chữ: Chữ in hoa và thường, font chữ hiện đại, đơn giản
+- Bảng màu: Trắng trên nền cam đất/cam nâu
+- Nền: Nền đặc màu cam đất
+- Phong cách: Tối giản, cổ điển, elegant
+- Tông điệu: Thông minh, chiến lược, truyền thống
+
+---
+
+Visual Description:
+The logo features a chess knight piece drawn in clean white lines on a terracotta orange background. Vietnamese text is arranged in curved and straight lines around the chess piece in an organized, symmetrical layout.
+
+Design Elements:
+- Shape: Stylized chess knight, circular symmetrical layout
+- Typography: Mix of uppercase and lowercase, modern simple font
+- Color Palette: White on terracotta/burnt orange background
+- Background: Solid terracotta orange
+- Style: Minimalist, classic, elegant
+- Mood: Intelligent, strategic, traditional

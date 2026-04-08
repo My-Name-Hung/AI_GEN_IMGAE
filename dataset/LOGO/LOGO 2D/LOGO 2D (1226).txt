@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình tròn với đường sét zigzag bên trong và một ngôi sao nhỏ ở góc trên bên phải. Bên dưới biểu tượng là chữ "COSMOS" được viết bằng font chữ không chân đơn giản và rõ ràng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn chứa biểu tượng sét và ngôi sao trang trí
+- Kiểu chữ: Font sans-serif hiện đại, chữ hoa
+- Bảng màu: Tím gradient và vàng cam/hồng
+- Nền: Gradient tím từ đậm đến nhạt
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Năng động, sáng tạo, vũ trụ
+
+---
+
+Visual Description:
+The logo features a circular icon with a zigzag lightning bolt inside and a small star accent in the upper right corner. Below the icon is the text "COSMOS" written in clean, simple sans-serif typography.
+
+Design Elements:
+- Shape: Circle containing lightning symbol and decorative star
+- Typography: Modern sans-serif, uppercase lettering
+- Color Palette: Purple gradient and orange/pink accents
+- Background: Purple gradient from dark to light
+- Style: Minimalist, modern, tech-inspired
+- Mood: Dynamic, innovative, cosmic

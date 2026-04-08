@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện sự kết hợp giữa hình lá cây stylized và dạng xoắn ốc. Thiết kế có ba chiếc lá được sắp xếp theo dạng hình sao ba cánh, kết nối với một đường cong xoắn ốc mềm mại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba lá cây stylized kết hợp với đường xoắn ốc dạng gradient
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient màu xanh lá từ nhạt đến đậm
+- Nền: Màu xanh lá cây rất nhạt/trắng xanh
+- Phong cách: Hiện đại, tối giản, organic
+- Tông điệu: Tự nhiên, tươi mới, thân thiện với môi trường
+
+---
+
+Visual Description:
+The logo features a combination of stylized leaf shapes and a spiral curve. The design shows three leaves arranged in a three-pointed star pattern, connected to a soft spiral curve with gradient coloring.
+
+Design Elements:
+- Shape: Three stylized leaves combined with a gradient spiral curve
+- Typography: None (icon only)
+- Color Palette: Green gradient from light to dark tones
+- Background: Very light mint/pale green
+- Style: Modern, minimalist, organic
+- Mood: Natural, fresh, eco-friendly

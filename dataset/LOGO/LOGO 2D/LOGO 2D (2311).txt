@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng định vị (pin drop) với gradient màu từ cam đến tím, bên trong chứa hình ngôi nhà nhỏ màu trắng. Bên dưới là dòng chữ "Siêu thị Metro" màu tím đậm và slogan "GIẢM GIÁ CHỚP NHOÁNG" trong khung màu hồng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng định vị tròn với đuôi nhọn, chứa icon ngôi nhà
+- Kiểu chữ: Sans-serif đậm, rõ ràng cho tên thương hiệu và slogan
+- Bảng màu: Gradient cam-tím-hồng, chữ tím đậm, nền tím pastel
+- Nền: Màu tím nhạt/lavender đồng nhất
+- Phong cách: Hiện đại, gradient trendy, flat design
+- Tông điệu: Thân thiện, năng động, thu hút
+
+---
+
+Visual Description:
+The logo features a location pin icon with an orange-to-purple gradient containing a white house symbol inside. Below it is the text "Siêu thị Metro" in dark purple and the tagline "GIẢM GIÁ CHỚP NHOÁNG" in a pink banner.
+
+Design Elements:
+- Shape: Circular location pin with pointed tail, containing house icon
+- Typography: Bold sans-serif, clear and readable for brand name and tagline
+- Color Palette: Orange-purple-pink gradient, dark purple text, pastel purple background
+- Background: Uniform light purple/lavender
+- Style: Modern, trendy gradient, flat design
+- Mood: Friendly, dynamic, attention-grabbing

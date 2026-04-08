@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình khối 3D màu trắng có hình dạng như viên thuốc hoặc nút bấm tròn được đặt nghiêng trên nền xanh lá cây. Bên trong khối trắng có một biểu tượng giống như cây xanh hoặc lá cây được cắt xuyên qua, tạo hiệu ứng âm bản đẹp mắt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối 3D tròn vuông với biểu tượng cây/lá bên trong
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng và xanh lá cây đậm
+- Nền: Xanh lá cây gradient từ đậm đến sáng
+- Phong cách: 3D hiện đại, tối giản, isometric
+- Tông điệu: Tươi mới, thân thiện môi trường, sạch sẽ
+
+---
+
+Visual Description:
+The logo displays a white 3D pill-shaped or rounded square block positioned at an angle on a green background. Inside the white block is a tree or leaf-like symbol cut through as a negative space, creating an attractive contrast effect.
+
+Design Elements:
+- Shape: 3D rounded square block with tree/leaf symbol inside
+- Typography: None (icon only)
+- Color Palette: White and deep green
+- Background: Green gradient from dark to light
+- Style: Modern 3D, minimalist, isometric
+- Mood: Fresh, eco-friendly, clean

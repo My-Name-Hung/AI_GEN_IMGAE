@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "KHỎE ĐẸP" bằng font chữ in hoa màu trắng đậm trên nền đen. Bên dưới có dòng chữ nhỏ hơn "CHÚNG TÔI NÓ LỰC VÌ THỂ HÌNH" cũng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật đơn giản, chữ cái được sắp xếp theo dạng khối
+- Kiểu chữ: Font chữ in hoa đậm, sans-serif hiện đại cho chữ chính, font nhỏ hơn cho slogan
+- Bảng màu: Trắng và đen tương phản cao
+- Nền: Nền đen hoàn toàn
+- Phong cách: Tối giản, hiện đại, mạnh mẽ
+- Tông điệu: Chuyên nghiệp, năng động, sức khỏe
+
+---
+
+Visual Description:
+The logo displays "KHỎE ĐẸP" in bold white capital letters on a black background. Below it is a smaller tagline "CHÚNG TÔI NÓ LỰC VÌ THỂ HÌNH" also in white text.
+
+Design Elements:
+- Shape: Simple rectangular layout with block-style letter arrangement
+- Typography: Bold uppercase sans-serif font for main text, smaller font for tagline
+- Color Palette: High contrast white and black
+- Background: Solid black
+- Style: Minimalist, modern, bold
+- Mood: Professional, dynamic, health-focused

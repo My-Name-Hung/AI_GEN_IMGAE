@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế hình chữ nhật với hai phần màu sắc riêng biệt được chia đôi theo chiều ngang. Phần trên có màu vàng với dòng chữ "DỆT MAY" màu trắng, phần dưới có màu xanh dương với dòng chữ "VĨNH PHÁT" màu trắng. Bên dưới logo có dòng chữ nhỏ "Thành lập năm 1985" màu xanh dương.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật được chia làm hai phần bằng nhau theo chiều ngang
+- Kiểu chữ: Font chữ in hoa, dạng sans-serif đơn giản và rõ ràng
+- Bảng màu: Vàng, xanh dương và trắng
+- Nền: Hai nền màu sắc rõ rệt (vàng và xanh dương)
+- Phong cách: Đơn giản, công nghiệp, truyền thống
+- Tông điệu: Chuyên nghiệp, uy tín, bền vững
+
+---
+
+Visual Description:
+The logo features a rectangular design with two distinct horizontal color sections. The upper portion is yellow with white text reading "DỆT MAY", while the lower section is blue with white text reading "VĨNH PHÁT". Below the main logo is smaller blue text stating "Thành lập năm 1985".
+
+Design Elements:
+- Shape: Rectangle divided into two equal horizontal sections
+- Typography: Simple, clear sans-serif uppercase font
+- Color Palette: Yellow, blue, and white
+- Background: Two distinct colored backgrounds (yellow and blue)
+- Style: Simple, industrial, traditional
+- Mood: Professional, trustworthy, established

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng kim tự tháp được tạo thành từ nhiều tam giác nhỏ màu xanh dương. Các tam giác được sắp xếp theo từng hàng, tạo thành một cấu trúc hình học đối xứng và cân bằng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Kim tự tháp tam giác được tạo từ nhiều tam giác nhỏ xếp chồng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương và trắng
+- Nền: Nền trắng/trong suốt
+- Phong cách: Hình học, tối giản, hiện đại
+- Tông điệu: Chuyên nghiệp, ổn định, cấu trúc
+
+---
+
+Visual Description:
+The logo features a pyramid-like shape composed of multiple blue triangles arranged in rows. The triangles create a symmetrical and balanced geometric structure that forms an overall triangular pattern.
+
+Design Elements:
+- Shape: Triangular pyramid made of multiple small triangles
+- Typography: None (icon only)
+- Color Palette: Blue and white
+- Background: White/transparent background
+- Style: Geometric, minimalist, modern
+- Mood: Professional, stable, structured

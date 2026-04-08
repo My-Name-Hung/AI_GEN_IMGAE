@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả hình bóng một người lính Napoleon mang mũ đặc trưng, đang cầm một lá cờ màu hồng có chữ "XXM" trên nền đen. Nhân vật được vẽ theo phong cách silhouette màu đen với các chi tiết trang trí trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette nhân vật Napoleon với lá cờ hình chữ nhật
+- Kiểu chữ: Font chữ in hoa đậm cho "NAPOLEON", font chữ hoa mảnh hơn cho "LINGERIE"
+- Bảng màu: Đen, trắng, hồng magenta
+- Nền: Nền trắng, trong suốt
+- Phong cách: Retro, vintage, minh họa vector
+- Tông điệu: Vui tươi, độc đáo, táo bạo
+
+---
+
+Visual Description:
+The logo depicts a silhouette of a Napoleon soldier wearing his characteristic hat, holding a pink flag with "XXM" on a black background. The character is rendered as a black silhouette with white decorative details.
+
+Design Elements:
+- Shape: Napoleon character silhouette with rectangular flag
+- Typography: Bold uppercase font for "NAPOLEON", thinner uppercase font for "LINGERIE"
+- Color Palette: Black, white, magenta pink
+- Background: White/transparent background
+- Style: Retro, vintage, vector illustration
+- Mood: Playful, unique, bold

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một hình chữ nhật đen có chứa dòng chữ "HELLO CHICKEN" màu trắng, được bao quanh bởi các hình tam giác nhọn màu cam tạo thành hiệu ứng tia sáng hoặc lông vũ. Thiết kế tạo cảm giác như một bong bóng hội thoại với các yếu tố trang trí động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật trung tâm với các tam giác nhọn xung quanh tạo hình tia
+- Kiểu chữ: Sans-serif đậm, in hoa, màu trắng
+- Bảng màu: Đen, trắng, cam đậm
+- Nền: Xám nhạt
+- Phong cách: Hiện đại, năng động, graphic
+- Tông điệu: Thân thiện, vui tươi, thu hút
+
+---
+
+Visual Description:
+The logo features a black rectangular speech bubble containing white text "HELLO CHICKEN," surrounded by sharp orange triangular spikes that create a radiating sunburst or feather-like effect. The design resembles a dynamic conversation bubble with decorative elements extending outward.
+
+Design Elements:
+- Shape: Central rectangle with surrounding triangular rays/spikes
+- Typography: Bold sans-serif, uppercase, white text
+- Color Palette: Black, white, bright orange
+- Background: Light gray
+- Style: Modern, dynamic, graphic
+- Mood: Friendly, energetic, eye-catching

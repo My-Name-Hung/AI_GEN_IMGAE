@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm hai hình chữ nhật được sắp xếp cạnh nhau, một màu đen và một có viền trắng trong suốt. Phía trên có dòng chữ "ĐỐI XỨNG" bằng font chữ in hoa màu trắng, và phía dưới có dòng chữ nhỏ "TV 1950" cũng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình chữ nhật đối xứng
+- Kiểu chữ: Sans-serif in hoa, đơn giản và hiện đại
+- Bảng màu: Vàng, đen, trắng
+- Nền: Màu vàng đậm
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Chuyên nghiệp, cân bằng, rõ ràng
+
+---
+
+Visual Description:
+The logo features two rectangles positioned side by side - one filled in black and one outlined in white. Above them is the text "ĐỐI XỨNG" in white capital letters, with smaller text "TV 1950" below in white.
+
+Design Elements:
+- Shape: Two symmetrical rectangles
+- Typography: Sans-serif uppercase, clean and modern
+- Color Palette: Yellow, black, white
+- Background: Bright yellow
+- Style: Minimalist, geometric, modern
+- Mood: Professional, balanced, clear

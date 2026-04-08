@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình lục giác màu xanh lá cây với các đường cắt tạo thành hình ngôi sao bên trong, đặt bên trái dòng chữ "CTY AN & YEN". Phần text được viết bằng font chữ hiện đại, màu xanh lá cây tương tự với icon, và có dòng chữ nhỏ "Dịch vụ Tư vấn Tài chính" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác với các đường cắt tạo hình ngôi sao, thiết kế đối xứng
+- Kiểu chữ: Font chữ sans-serif hiện đại, in hoa cho tên công ty
+- Bảng màu: Xanh lá cây/mint và xanh navy
+- Nền: Màu xanh navy đậm
+- Phong cách: Hiện đại, tối giản, chuyên nghiệp
+- Tông điệu: Tin cậy, chuyên nghiệp, ổn định
+
+---
+
+Visual Description:
+The logo features a hexagonal mint green icon with internal star-shaped cutouts positioned to the left of "CTY AN & YEN" text. The text is rendered in a modern sans-serif font in the same mint green color as the icon, with a smaller tagline "Dịch vụ Tư vấn Tài chính" below.
+
+Design Elements:
+- Shape: Hexagon with internal star-shaped cuts, symmetrical geometric design
+- Typography: Modern sans-serif font, uppercase for company name
+- Color Palette: Mint green/teal and navy blue
+- Background: Deep navy blue
+- Style: Modern, minimalist, professional
+- Mood: Trustworthy, professional, stable

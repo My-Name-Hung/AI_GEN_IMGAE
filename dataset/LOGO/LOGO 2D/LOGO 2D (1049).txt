@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một chiếc túi giấy hoặc túi mua sắm được stylized với đường nét đơn giản và mượt mà. Bên dưới hình túi là chữ "airbnb" được viết bằng font chữ tròn, thân thiện, kèm theo một đường cong trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Túi mua sắm stylized với các đường cong mềm mại, kết hợp với typography
+- Kiểu chữ: Font chữ không serif, tròn trịa, thân thiện và hiện đại
+- Bảng màu: Màu trắng trên nền cam đỏ/coral
+- Nền: Nền màu cam đỏ (coral) đồng nhất
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Ấm áp, gần gũi, năng động
+
+---
+
+Visual Description:
+The logo displays a stylized shopping bag or paper bag rendered with simple, smooth lines. Below the bag icon is the text "airbnb" written in a friendly, rounded font, accompanied by a decorative curved line underneath.
+
+Design Elements:
+- Shape: Stylized shopping bag with soft curves, combined with typography
+- Typography: Sans-serif font that's rounded, friendly and modern
+- Color Palette: White on coral/red-orange background
+- Background: Solid coral/red-orange background
+- Style: Minimalist, modern, approachable
+- Mood: Warm, welcoming, energetic

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình vuông với gradient màu xanh lá cây đến vàng, chứa hai hình kim cương được stylized bên trong. Bên phải biểu tượng là dòng chữ "ROYAL BOTANIC" được viết bằng font chữ sans-serif màu trắng, in hoa.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông bo góc với hai hình kim cương đối xứng bên trong
+- Kiểu chữ: Sans-serif hiện đại, in hoa, đậm
+- Bảng màu: Gradient xanh lá cây đến vàng, chữ trắng
+- Nền: Màu xanh đậm (teal/forest green)
+- Phong cách: Hiện đại, tối giản, geometric
+- Tông điệu: Chuyên nghiệp, tự nhiên, sang trọng
+
+---
+
+Visual Description:
+The logo features a square icon with a green-to-yellow gradient containing two stylized diamond shapes inside. To the right of the icon is "ROYAL BOTANIC" text in white, uppercase sans-serif typography.
+
+Design Elements:
+- Shape: Rounded square with two symmetrical diamond shapes inside
+- Typography: Modern sans-serif, uppercase, bold weight
+- Color Palette: Green to yellow gradient, white text
+- Background: Deep teal/forest green
+- Style: Modern, minimalist, geometric
+- Mood: Professional, natural, premium

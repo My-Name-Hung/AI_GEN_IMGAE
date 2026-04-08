@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm hai hình tròn đen được đặt cạnh nhau, với hình tròn bên trái hoàn chỉnh và hình bên phải chỉ là nửa tròn. Bên dưới là dòng chữ "CLIMICH CHUNG" được sắp xếp thành hai hàng với kiểu chữ in hoa đậm, và số "2025" ở cuối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình tròn đen (một tròn đầy, một nửa tròn)
+- Kiểu chữ: Sans-serif đậm, in hoa, khoảng cách rộng
+- Bảng màu: Đen trên nền trắng (đơn sắc)
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Chuyên nghiệp, táo bạo, đơn giản
+
+---
+
+Visual Description:
+The logo features two black circular shapes positioned side by side, with the left being a complete circle and the right being a semicircle. Below is the text "CLIMICH CHUNG" arranged in two lines with bold uppercase letters, followed by "2025" at the bottom.
+
+Design Elements:
+- Shape: Two black circles (one full circle, one semicircle)
+- Typography: Bold sans-serif, uppercase, wide letter spacing
+- Color Palette: Black on white (monochromatic)
+- Background: White/transparent
+- Style: Minimalist, modern, geometric
+- Mood: Professional, bold, clean

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một cuốn sách mở với dấu trang hình ngôi sao ở góc dưới. Thiết kế sử dụng màu vàng gold trên nền đen, tạo nên hình ảnh hiện đại và tinh tế của một ấn phẩm hoặc tài liệu quan trọng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật đại diện cho sách với dấu trang ngôi sao
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng gold và đen
+- Nền: Nền đen thuần
+- Phong cách: Tối giản, hiện đại, biểu tượng
+- Tông điệu: Chuyên nghiệp, sang trọng, uy tín
+
+---
+
+Visual Description:
+The logo displays an open book with a star-shaped bookmark at the bottom corner. The design uses gold coloring against a black background, creating a modern and sophisticated representation of an important publication or document.
+
+Design Elements:
+- Shape: Rectangular book form with star bookmark
+- Typography: None (icon only)
+- Color Palette: Gold and black
+- Background: Solid black
+- Style: Minimalist, modern, symbolic
+- Mood: Professional, elegant, authoritative

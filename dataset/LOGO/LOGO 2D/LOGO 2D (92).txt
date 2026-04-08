@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình lục giác đường viền chứa biểu tượng hộp quà tặng có nơ bên trên. Bên dưới hình lục giác có một đường thẳng kết nối với hình tam giác nhỏ, tạo thành hình dạng giống như một chiếc chìa khóa hoặc biểu tượng định vị.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác chứa hộp quà, kết nối với đuôi tam giác
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient hồng từ nhạt đến đậm
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, đường nét, hiện đại
+- Tông điệu: Tinh tế, nữ tính, thân thiện
+
+---
+
+Visual Description:
+The logo displays a hexagonal outline containing a gift box icon with a bow on top. Below the hexagon is a straight line connecting to a small triangle, creating a shape resembling a key or location pin symbol.
+
+Design Elements:
+- Shape: Hexagon containing gift box, connected to triangular tail
+- Typography: None (icon only)
+- Color Palette: Pink gradient from light to deep pink
+- Background: White/transparent
+- Style: Minimalist, line art, modern
+- Mood: Elegant, feminine, friendly

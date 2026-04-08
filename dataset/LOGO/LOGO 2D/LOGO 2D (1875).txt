@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "GINAMEI" được viết bằng chữ in hoa đậm và nổi bật. Phía trên có dòng chữ "EST. 1997" nhỏ hơn, và bên dưới có cụm từ "master class" được viết bằng font chữ nghiêng thanh lịch.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ phẳng, sắp xếp theo chiều dọc
+- Kiểu chữ: Chữ in hoa sans-serif đậm cho tên chính, chữ nghiêng script cho "master class"
+- Bảng màu: Đen trên nền trắng
+- Nền: Trắng, tối giản
+- Phong cách: Tối giản, hiện đại, sang trọng
+- Tông điệu: Chuyên nghiệp, đẳng cấp, tinh tế
+
+---
+
+Visual Description:
+The logo displays the brand name "GINAMEI" written in bold, prominent capital letters. Above it shows "EST. 1997" in smaller text, and below features "master class" written in an elegant italic script font.
+
+Design Elements:
+- Shape: Flat typographic layout, vertically arranged
+- Typography: Bold sans-serif capitals for main name, italic script for "master class"
+- Color Palette: Black on white
+- Background: White, minimalist
+- Style: Minimalist, modern, luxurious
+- Mood: Professional, premium, sophisticated

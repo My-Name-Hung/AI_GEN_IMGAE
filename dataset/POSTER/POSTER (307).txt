@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một banner quảng cáo thời trang mùa hè với hình ảnh một cô gái trẻ mặc áo xanh dương. Logo có dòng chữ "SUMMER" và "BIG SALE" được thiết kế nổi bật với hiệu ứng 3D màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Banner chữ nhật với layout chia khối màu
+- Kiểu chữ: Font chữ in hoa đậm, có hiệu ứng nổi 3D màu trắng
+- Bảng màu: Cam, xanh dương, trắng, vàng (chi tiết tia chớp)
+- Nền: Chia hai khối màu cam (trên) và xanh dương (dưới)
+- Phong cách: Hiện đại, năng động, quảng cáo thương mại
+- Tông điệu: Sôi động, trẻ trung, hấp dẫn
+
+---
+
+Visual Description:
+This is a summer fashion advertising banner featuring a young woman in a blue top. The logo displays "SUMMER" and "BIG SALE" text in prominent white 3D lettering effects.
+
+Design Elements:
+- Shape: Rectangular banner with color-blocked layout
+- Typography: Bold uppercase font with white 3D raised effects
+- Color Palette: Orange, blue, white, yellow (lightning bolt accent)
+- Background: Split into two color blocks - orange (top) and blue (bottom)
+- Style: Modern, dynamic, commercial advertising
+- Mood: Energetic, youthful, appealing

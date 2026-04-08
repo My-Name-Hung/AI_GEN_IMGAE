@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "SPACE" được thiết kế với phong cách góc cạnh và futuristic. Chữ cái được tạo hình với các đường viền trắng nổi bật trên nền đen đầy sao, tạo cảm giác không gian vũ trụ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái góc cạnh, có chiều sâu 3D với hiệu ứng đường viền
+- Kiểu chữ: Font chữ tùy chỉnh, phong cách sci-fi với các góc sắc nét
+- Bảng màu: Trắng chủ đạo với viền xanh dương nhạt trên nền đen
+- Nền: Nền đen với các chấm sáng mô phỏng không gian sao
+- Phong cách: Sci-fi, futuristic, gaming, công nghệ cao
+- Tông điệu: Bí ẩn, hiện đại, mạnh mẽ, không gian
+
+---
+
+Visual Description:
+The logo displays the text "SPACE" designed in an angular, futuristic style. The letters are formed with prominent white outlines against a starry black background, creating a cosmic space atmosphere.
+
+Design Elements:
+- Shape: Angular letters with 3D depth and outline effects
+- Typography: Custom sci-fi font with sharp, geometric angles
+- Color Palette: Primarily white with light blue accents on black background
+- Background: Black with bright dots simulating starfield
+- Style: Sci-fi, futuristic, gaming, high-tech
+- Mood: Mysterious, modern, powerful, cosmic

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có tên thương hiệu "DULCE LA VIE" được hiển thị bằng font chữ serif thanh lịch màu đen. Phía trên có dòng chữ "PRODUTOS ARTESANAIS" được sắp xếp theo hình cung với một biểu tượng lá nhỏ ở giữa, và dưới cùng có dòng chữ "Tradicional de Minas" viết bằng font chữ nghiêng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục đối xứng với dòng chữ cong ở trên và biểu tượng lá đơn giản
+- Kiểu chữ: Font serif cho tên chính, font sans-serif cho dòng phụ phía trên, font nghiêng cho dòng dưới
+- Bảng màu: Đen trên nền be/kem nhạt
+- Nền: Màu be hoặc kem nhạt
+- Phong cách: Cổ điển, thanh lịch, thủ công
+- Tông điệu: Tinh tế, truyền thống, ấm áp
+
+---
+
+Visual Description:
+The logo features the brand name "DULCE LA VIE" in elegant black serif typography. Above it, "PRODUTOS ARTESANAIS" is arranged in a curved arc with a small leaf icon in the center, and below is "Tradicional de Minas" in italic script.
+
+Design Elements:
+- Shape: Symmetrical layout with curved text above and simple leaf symbol
+- Typography: Serif font for main name, sans-serif for top tagline, italic script for bottom text
+- Color Palette: Black text on light beige/cream background
+- Background: Light beige or cream tone
+- Style: Classic, elegant, artisanal
+- Mood: Sophisticated, traditional, warm

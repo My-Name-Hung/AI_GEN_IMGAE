@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một nhân vật hoạt hình với tóc đen đang ôm một quả bóng bowling màu đen. Nhân vật có biểu cảm vui vẻ với miệng mở cười và đang thể hiện động tác ném bóng bowling.
+
+Yếu tố Thiết kế:
+- Hình dạng: Nhân vật hoạt hình với quả bóng bowling tròn
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen, trắng, xanh dương, đỏ
+- Nền: Nền trắng trong suốt
+- Phong cách: Hoạt hình, mascot, thể thao
+- Tông điệu: Vui vẻ, năng động, thân thiện
+
+---
+
+Visual Description:
+The logo depicts a cartoon character with black hair holding a black bowling ball. The character has a cheerful expression with an open mouth smile and is shown in a bowling motion pose.
+
+Design Elements:
+- Shape: Cartoon character figure with round bowling ball
+- Typography: None (icon only)
+- Color Palette: Black, white, blue, red
+- Background: Transparent white background
+- Style: Cartoon, mascot, sports-themed
+- Mood: Playful, energetic, friendly

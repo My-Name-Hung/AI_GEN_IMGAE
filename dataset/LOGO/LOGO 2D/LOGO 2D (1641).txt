@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ cái "R" được tạo thành từ các hình khối đa giác góc cạnh. Thiết kế sử dụng gradient màu từ xanh cyan đến xanh dương tạo hiệu ứng chuyển màu mượt mà.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái "R" stylized với các mặt đa giác, có chiều sâu 3D
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ xanh cyan sang xanh dương (#00E5FF đến #3F51B5)
+- Nền: Trắng trong suốt
+- Phong cách: Hiện đại, tối giản, geometric, 3D
+- Tông điệu: Chuyên nghiệp, công nghệ, năng động
+
+---
+
+Visual Description:
+The logo displays the letter "R" formed by angular, polygonal shapes. The design uses a gradient color scheme transitioning smoothly from cyan to blue, creating a modern dimensional effect.
+
+Design Elements:
+- Shape: Stylized letter "R" with polygonal facets and 3D depth
+- Typography: None (icon only)
+- Color Palette: Gradient from cyan to blue (#00E5FF to #3F51B5)
+- Background: Transparent white
+- Style: Modern, minimalist, geometric, 3D
+- Mood: Professional, technological, dynamic

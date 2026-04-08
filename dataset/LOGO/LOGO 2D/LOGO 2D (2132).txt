@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có một hình tròn màu trắng chứa biểu tượng sóng âm thanh bằng các đường thẳng đứng có độ cao khác nhau màu xanh dương. Bên dưới là dòng chữ "Sóng Âm" được viết bằng font chữ mảnh, hiện đại màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn chứa biểu tượng sóng âm, bố cục đơn giản và cân đối
+- Kiểu chữ: Font chữ không chân (sans-serif), mảnh, hiện đại và tối giản
+- Bảng màu: Xanh dương gradient làm nền, trắng cho icon và text
+- Nền: Màu xanh dương gradient từ nhạt đến đậm
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, sạch sẽ, công nghệ âm thanh
+
+---
+
+Visual Description:
+The logo features a white circular icon containing a sound wave symbol made of vertical lines of varying heights in blue. Below it is the text "Sóng Âm" written in a thin, modern white typeface.
+
+Design Elements:
+- Shape: Circular icon with sound wave symbol, simple and balanced layout
+- Typography: Sans-serif, thin, modern and minimalist font
+- Color Palette: Blue gradient background with white icon and text
+- Background: Blue gradient from light to darker blue
+- Style: Minimalist, modern, technological
+- Mood: Professional, clean, audio technology

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một chiếc chuông treo với thiết kế trang trí phía trên. Phần trên của chuông có hình dạng phức tạp với các đường nét góc cạnh và một phần nhỏ vuông vắn ở đỉnh, tạo thành một cấu trúc giống như tay cầm hoặc móc treo.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chuông với phần treo trang trí, có các hình vuông và hình thoi
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Màu đỏ đậm đơn sắc
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, biểu tượng, hiện đại
+- Tông điệu: Thanh lịch, trang trọng, tinh tế
+
+---
+
+Visual Description:
+The logo depicts a hanging bell with decorative elements above it. The upper portion features a complex geometric design with angular lines and a small square section at the top, forming a structure that resembles a handle or hanging mechanism.
+
+Design Elements:
+- Shape: Bell with ornamental hanging portion featuring squares and diamond shapes
+- Typography: None (icon only)
+- Color Palette: Solid deep red/burgundy
+- Background: Transparent white
+- Style: Minimalist, symbolic, modern
+- Mood: Elegant, formal, refined

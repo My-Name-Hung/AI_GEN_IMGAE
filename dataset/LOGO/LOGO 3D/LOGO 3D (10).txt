@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "AVENGERS" bằng chữ đen đậm trên một hình khối 3D màu trắng có dạng hình vuông bo tròn các góc. Hình khối được đặt nghiêng tạo hiệu ứng thẩm mỹ và có bóng đổ tự nhiên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình khối 3D vuông bo góc nghiêng
+- Kiểu chữ: Chữ in hoa đậm, phong cách hiện đại với logo "A" đặc biệt
+- Bảng màu: Đen, trắng, đỏ
+- Nền: Màu đỏ tươi phẳng
+- Phong cách: 3D, hiện đại, tối giản
+- Tông điệu: Mạnh mẽ, năng động, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays "AVENGERS" in bold black text on a white 3D cube-like form with rounded corners. The cube is positioned at an angle creating an aesthetic effect with natural shadow casting.
+
+Design Elements:
+- Shape: 3D rounded square cube positioned diagonally
+- Typography: Bold uppercase letters in modern style with distinctive "A" logo
+- Color Palette: Black, white, red
+- Background: Bright red flat color
+- Style: 3D, modern, minimalist
+- Mood: Strong, dynamic, professional

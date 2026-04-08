@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Kwik Chicken" với một hình ảnh stylized của đầu gà trống màu xanh navy. Phần "Kwik" được viết bằng màu xanh navy trong khi "CHICKEN" được viết bằng màu đỏ với font chữ in hoa đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Đầu gà trống stylized với mào đỏ, kết hợp với typography ngang
+- Kiểu chữ: Font sans-serif đậm, "Kwik" viết thường và "CHICKEN" viết hoa
+- Bảng màu: Xanh navy, đỏ, trắng
+- Nền: Nền trắng/trong suốt
+- Phong cách: Corporate, hiện đại, thân thiện
+- Tông điệu: Năng động, nhanh chóng, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays the brand name "Kwik Chicken" with a stylized navy blue rooster head graphic. "Kwik" is written in navy blue while "CHICKEN" appears in red bold capital letters.
+
+Design Elements:
+- Shape: Stylized rooster head with red comb, combined with horizontal typography
+- Typography: Bold sans-serif font, "Kwik" in lowercase and "CHICKEN" in uppercase
+- Color Palette: Navy blue, red, white
+- Background: White/transparent background
+- Style: Corporate, modern, friendly
+- Mood: Dynamic, fast, reliable

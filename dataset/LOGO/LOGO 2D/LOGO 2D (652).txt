@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng tách cà phê được vẽ bằng đường nét đơn giản màu vàng, đặt ở trung tâm trên nền xanh đậm. Xung quanh tách cà phê là các dòng chữ "CÀ PHÊ", "THÚ CỘNG", "NGON" và "SIRO THEO Ý THÍCH" được sắp xếp theo hình tròn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Tách cà phê đơn giản với đĩa lót, bố cục tròn đối xứng
+- Kiểu chữ: Sans-serif đơn giản, các từ được phân bố theo vòng tròn
+- Bảng màu: Xanh rêu đậm và vàng kim
+- Nền: Xanh rêu đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, line art
+- Tông điệu: Ấm áp, thân thiện, tinh tế
+
+---
+
+Visual Description:
+The logo features a simple yellow line-drawn coffee cup icon centered on a dark green background. Surrounding the coffee cup are Vietnamese text elements "CÀ PHÊ", "THÚ CỘNG", "NGON" and "SIRO THEO Ý THÍCH" arranged in a circular layout.
+
+Design Elements:
+- Shape: Simple coffee cup with saucer, symmetrical circular composition
+- Typography: Clean sans-serif font, text distributed in circular arrangement
+- Color Palette: Dark forest green and golden yellow
+- Background: Solid dark forest green
+- Style: Minimalist, modern, line art
+- Mood: Warm, friendly, elegant

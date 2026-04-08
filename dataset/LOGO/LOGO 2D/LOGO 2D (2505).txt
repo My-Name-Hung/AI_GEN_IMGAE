@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "QUÁN LÂY LA" bằng chữ in hoa màu trắng nổi bật trên nền màu tím đậm. Bên dưới có dòng chữ nhỏ "THÀNH LẬP NĂM 2019" cũng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật đơn giản, căn giữa
+- Kiểu chữ: Sans-serif đậm, in hoa, rõ ràng và dễ đọc
+- Bảng màu: Trắng và tím đậm (burgundy/maroon)
+- Nền: Màu tím đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, sạch sẽ
+- Tông điệu: Sang trọng, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the brand name "QUÁN LÂY LA" in bold white capital letters against a deep purple background. Below it is smaller text reading "THÀNH LẬP NĂM 2019" also in white.
+
+Design Elements:
+- Shape: Simple rectangular layout, center-aligned
+- Typography: Bold sans-serif, uppercase, clean and legible
+- Color Palette: White and deep purple (burgundy/maroon)
+- Background: Solid deep purple
+- Style: Minimalist, modern, clean
+- Mood: Elegant, sophisticated, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình tròn có chứa dấu thập ở phía trên, bên dưới là dòng chữ "Nhà thờ Đức Bà" được viết bằng font chữ nghiêng thanh lịch. Phía dưới cùng có dòng chữ nhỏ "BÊN CẠNH CHÚA" được căn giữa.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn chứa dấu thập tôn giáo
+- Kiểu chữ: Font chữ viết tay nghiêng cho tên chính, font in hoa nhỏ cho slogan
+- Bảng màu: Màu be/nâu nhạt đơn sắc
+- Nền: Nền trắng/trong suốt
+- Phong cách: Tối giản, tôn giáo, thanh lịch
+- Tông điệu: Linh thiêng, bình an, ấm áp
+
+---
+
+Visual Description:
+The logo features a circular icon containing a cross symbol at the top, below which is the text "Nhà thờ Đức Bà" written in elegant italic script. At the bottom is smaller text reading "BÊN CẠNH CHÚA" centered below the main text.
+
+Design Elements:
+- Shape: Circular icon containing religious cross symbol
+- Typography: Handwritten italic script for main name, small uppercase font for tagline
+- Color Palette: Monochromatic beige/light brown
+- Background: White/transparent background
+- Style: Minimalist, religious, elegant
+- Mood: Sacred, peaceful, warm

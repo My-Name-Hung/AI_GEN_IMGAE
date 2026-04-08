@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một quả địa cầu được bao quanh bởi các đường kinh tuyến và vĩ tuyến, với một đường gạch chéo đi qua. Biểu tượng sử dụng đường nét đơn giản, rõ ràng với màu xanh dương cho phần địa cầu và màu đen cho đường viền cùng đường gạch chéo.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với các đường lưới địa lý và đường gạch chéo
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương và đen
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, đường nét, biểu tượng
+- Tông điệu: Nghiêm túc, cảnh báo, hạn chế
+
+---
+
+Visual Description:
+The logo depicts a globe with meridian and latitude lines, crossed out by a diagonal line. The icon uses simple, clear linework with blue coloring for the globe portion and black for the outline and diagonal strike-through line.
+
+Design Elements:
+- Shape: Circular with grid lines and diagonal cross-out
+- Typography: None (icon only)
+- Color Palette: Blue and black
+- Background: White/transparent
+- Style: Minimalist, linear, symbolic
+- Mood: Serious, warning, restrictive

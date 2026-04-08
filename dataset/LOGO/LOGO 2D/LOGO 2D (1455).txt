@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một hình thoi được tạo thành từ các đường nét màu xanh lam, bên trong có hình ảnh một con sóng cách điệu. Bên dưới là dòng chữ "VOLNA" được viết bằng font chữ hiện đại, kèm theo dòng chữ nhỏ hơn "BEACH CLUB".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình thoi với biểu tượng sóng bên trong
+- Kiểu chữ: Font sans-serif hiện đại, thanh mảnh
+- Bảng màu: Xanh lam đậm đơn sắc
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Thanh lịch, chuyên nghiệp, biển cả
+
+---
+
+Visual Description:
+The logo features a diamond-shaped geometric frame created with blue lines, containing a stylized wave motif inside. Below the icon is the text "VOLNA" in a modern typeface, accompanied by smaller text reading "BEACH CLUB".
+
+Design Elements:
+- Shape: Diamond frame with wave symbol inside
+- Typography: Modern sans-serif, clean and thin
+- Color Palette: Monochromatic blue
+- Background: Clean white
+- Style: Minimalist, modern, geometric
+- Mood: Elegant, professional, nautical

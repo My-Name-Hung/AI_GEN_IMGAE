@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện hình dáng hồ sơ đầu người được vẽ bằng đường nét trắng mịn. Bên trong đầu có những đường cong xoắn ốc tượng trưng cho não bộ hoặc suy nghĩ, với một số đường nét chảy xuống dưới cằm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette đầu người nhìn nghiêng với các đường cong xoắn ốc bên trong
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng trên nền gradient cam từ nhạt đến đậm
+- Nền: Gradient cam từ sáng đến tối, tạo chiều sâu
+- Phong cách: Tối giản, đường nét mảnh, hiện đại
+- Tông điệu: Sáng tạo, thông minh, năng động
+
+---
+
+Visual Description:
+The logo features a white line-art profile of a human head facing right. Inside the head are spiral curves representing the brain or thoughts, with some flowing lines extending below the chin area.
+
+Design Elements:
+- Shape: Human head silhouette in profile with spiral curves inside
+- Typography: None (icon only)
+- Color Palette: White on orange gradient background
+- Background: Orange gradient from light to dark, creating depth
+- Style: Minimalist, thin line art, modern
+- Mood: Creative, intelligent, energetic

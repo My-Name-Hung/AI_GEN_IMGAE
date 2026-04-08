@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm biểu tượng hình số 8 hoặc ký hiệu vô cực được tạo từ các khối pixel màu đen với hiệu ứng rách, vỡ. Bên dưới là dòng chữ "EIGHTH NOTE" được thiết kế theo phong cách pixel art với các cạnh răng cưa đặc trưng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng số 8 pixel hóa và chữ viết hoa
+- Kiểu chữ: Sans-serif pixel art, đậm và vuông vức
+- Bảng màu: Đen trắng tương phản
+- Nền: Trắng/trong suốt
+- Phong cách: Pixel art, retro gaming, kỹ thuật số
+- Tông điệu: Năng động, hiện đại, công nghệ
+
+---
+
+Visual Description:
+The logo features a pixelated black number 8 or infinity symbol with a fragmented, glitchy appearance made up of broken pixel blocks. Below it is the text "EIGHTH NOTE" rendered in a matching pixelated style with characteristic jagged edges.
+
+Design Elements:
+- Shape: Pixelated figure-8 symbol and uppercase text
+- Typography: Sans-serif pixel art font, bold and blocky
+- Color Palette: Black and white contrast
+- Background: White/transparent
+- Style: Pixel art, retro gaming, digital
+- Mood: Dynamic, modern, technological

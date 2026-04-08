@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "W" được tạo thành từ các hình khối tam giác và hình thoi chồng lên nhau. Các khối hình học này tạo ra hiệu ứng gradient từ màu tím đậm sang xanh dương nhạt, tạo cảm giác chiều sâu và chuyển động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ "W" được cấu thành từ các khối tam giác và hình thoi
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ tím đậm, tím hồng đến xanh dương, xanh cyan
+- Nền: Màu xanh navy đậm
+- Phong cách: Hiện đại, tối giản, geometric, gradient
+- Tông điệu: Công nghệ, năng động, chuyên nghiệp, sáng tạo
+
+---
+
+Visual Description:
+The logo displays a "W" letter formed by overlapping triangular and diamond-shaped geometric blocks. These geometric forms create a gradient effect from deep purple to light blue, generating a sense of depth and movement.
+
+Design Elements:
+- Shape: Letter "W" constructed from triangular and diamond blocks
+- Typography: None (icon only)
+- Color Palette: Gradient from deep purple, magenta to blue, cyan
+- Background: Dark navy blue
+- Style: Modern, minimalist, geometric, gradient
+- Mood: Tech-forward, dynamic, professional, innovative

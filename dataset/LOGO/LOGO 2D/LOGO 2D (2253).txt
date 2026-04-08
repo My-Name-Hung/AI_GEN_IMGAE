@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình khiên màu vàng với các thanh cột biểu đồ bên trong và một chiếc vương miện nhỏ ở trên đỉnh. Bên cạnh là dòng chữ "Kỹ thuật số AX" màu trắng với slogan "Ngân hàng Thế hệ Tiếp theo" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khiên bảo vệ với vương miện và biểu đồ cột
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa cho tên chính
+- Bảng màu: Vàng kim cho biểu tượng, trắng cho chữ
+- Nền: Xanh navy đậm
+- Phong cách: Sang trọng, tối giản, chuyên nghiệp
+- Tông điệu: Uy tín, bảo mật, hiện đại
+
+---
+
+Visual Description:
+The logo features a golden shield icon with bar chart columns inside and a small crown at the top. Next to it is white text reading "Kỹ thuật số AX" with the tagline "Ngân hàng Thế hệ Tiếp theo" below.
+
+Design Elements:
+- Shape: Shield with crown and bar chart elements
+- Typography: Modern sans-serif, uppercase for main name
+- Color Palette: Gold for icon, white for text
+- Background: Deep navy blue
+- Style: Luxurious, minimalist, professional
+- Mood: Trustworthy, secure, modern

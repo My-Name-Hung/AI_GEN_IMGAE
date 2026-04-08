@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một banner quảng cáo Black Friday với hình ảnh hai người đàn ông trẻ đeo kính râm và trang phục thời trang hiện đại. Banner có thiết kế nhiều lớp với các khối thông tin được sắp xếp theo cấu trúc rõ ràng, bao gồm tiêu đề, thời gian, ưu đãi và thông tin liên hệ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Banner chữ nhật với layout chia khối, có các đường viền trang trí
+- Kiểu chữ: Font sans-serif đậm cho tiêu đề, font nhỏ hơn cho thông tin chi tiết
+- Bảng màu: Xanh dương, xanh lam nhạt, trắng, với ảnh màu ấm áp
+- Nền: Nền trắng với các khối màu xanh và hình ảnh sản phẩm thời trang
+- Phong cách: Hiện đại, chuyên nghiệp, thương mại
+- Tông điệu: Năng động, hấp dẫn, khuyến mại
+
+---
+
+Visual Description:
+This is a Black Friday promotional banner featuring two young men wearing sunglasses and modern fashion attire. The banner has a multi-layered design with information blocks arranged in a clear structure, including headlines, timing, offers, and contact information.
+
+Design Elements:
+- Shape: Rectangular banner with block layout and decorative borders
+- Typography: Bold sans-serif font for headlines, smaller fonts for details
+- Color Palette: Blue, light blue, white, with warm-toned product imagery
+- Background: White background with blue color blocks and fashion imagery
+- Style: Modern, professional, commercial
+- Mood: Dynamic, appealing, promotional

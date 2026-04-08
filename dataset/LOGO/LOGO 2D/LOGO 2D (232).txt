@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "verify" được viết bằng chữ thường màu trắng, bên cạnh là một biểu tượng hình học gồm hai hình vuông chồng lên nhau tạo thành hình dấu kiểm. Toàn bộ logo được đặt trên nền gradient chuyển màu từ tím xanh ở góc dưới sang hồng tím ở góc trên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học với hai hình vuông tạo dấu kiểm, kết hợp với chữ viết
+- Kiểu chữ: Sans-serif hiện đại, chữ thường, đơn giản và dễ đọc
+- Bảng màu: Gradient tím-xanh-hồng cho nền, biểu tượng xanh dương và hồng, chữ màu trắng
+- Nền: Gradient mượt mà từ tím xanh sang hồng tím
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sáng tạo
+
+---
+
+Visual Description:
+The logo displays the word "verify" in white lowercase letters, accompanied by a geometric icon consisting of two overlapping squares that form a checkmark shape. The entire logo is set against a gradient background transitioning from blue-purple in the lower corner to pink-purple in the upper area.
+
+Design Elements:
+- Shape: Geometric icon with two squares forming a checkmark, combined with text
+- Typography: Modern sans-serif, lowercase, clean and readable
+- Color Palette: Purple-blue-pink gradient background, blue and pink icon elements, white text
+- Background: Smooth gradient from blue-purple to pink-purple
+- Style: Modern, minimalist, tech-oriented
+- Mood: Professional, trustworthy, innovative

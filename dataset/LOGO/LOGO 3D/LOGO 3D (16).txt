@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng Joomla với hình dạng ba mảnh ghép màu sắc rực rỡ được đặt trong một khối hình vuông bo góc màu trắng. Toàn bộ logo được thể hiện dưới dạng 3D với hiệu ứng đổ bóng trên nền xanh lá cây tươi sáng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba mảnh ghép puzzle lồng vào nhau tạo thành biểu tượng Joomla
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lá, cam, xanh dương, đỏ trên nền trắng
+- Nền: Xanh lá cây gradient tươi sáng
+- Phong cách: 3D, hiện đại, gradient, đổ bóng
+- Tông điệu: Năng động, thân thiện, sáng tạo
+
+---
+
+Visual Description:
+The logo displays the Joomla icon featuring three colorful interlocking puzzle pieces arranged within a white rounded square container. The entire logo is rendered in 3D with shadow effects against a bright green background.
+
+Design Elements:
+- Shape: Three interlocking puzzle pieces forming the Joomla symbol
+- Typography: None (icon only)
+- Color Palette: Green, orange, blue, red on white background
+- Background: Bright green gradient
+- Style: 3D, modern, gradient, shadow effects
+- Mood: Dynamic, friendly, creative

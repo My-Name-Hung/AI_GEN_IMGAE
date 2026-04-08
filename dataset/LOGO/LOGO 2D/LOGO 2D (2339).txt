@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng tạ tập thể hình màu cam bên trái và dòng chữ "LINH & PHAN" in đậm màu đen. Phía dưới có dòng chữ phụ "TRAI THẺ HÌNH" với font chữ nhỏ hơn và mỏng hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tạ thể hình với thanh ngang và hai đầu tạ
+- Kiểu chữ: Font chữ in hoa đậm, hiện đại cho tên chính; font nhỏ, mỏng cho slogan
+- Bảng màu: Cam cho biểu tượng, đen cho chữ
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, thể thao, hiện đại
+- Tông điệu: Mạnh mẽ, năng động, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features an orange dumbbell icon on the left side paired with "LINH & PHAN" in bold black lettering. Below the main text is a smaller tagline "TRAI THẺ HÌNH" in thinner font.
+
+Design Elements:
+- Shape: Dumbbell icon with horizontal bar and weight plates
+- Typography: Bold, uppercase sans-serif for main name; smaller, thinner font for tagline
+- Color Palette: Orange for icon, black for text
+- Background: White/transparent
+- Style: Minimalist, athletic, modern
+- Mood: Strong, energetic, professional

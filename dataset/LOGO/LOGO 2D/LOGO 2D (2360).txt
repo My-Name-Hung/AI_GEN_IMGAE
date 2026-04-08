@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "XE ĐƯA ĐÓN SONG ANH" bằng font chữ đậm màu đen trên nền vàng. Bên dưới văn bản có hai hình bán nguyệt màu đen với các chấm tròn nhỏ bên trong, tượng trưng cho bánh xe.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ thẳng với hai biểu tượng bánh xe đơn giản
+- Kiểu chữ: Sans-serif đậm, viết hoa
+- Bảng màu: Đen và vàng
+- Nền: Vàng đồng nhất
+- Phong cách: Tối giản, hiện đại, biểu tượng hóa
+- Tông điệu: Thân thiện, dễ tiếp cận, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the text "XE ĐƯA ĐÓN SONG ANH" in bold black lettering on a yellow background. Below the text are two black semicircular shapes with small dots inside, representing wheels.
+
+Design Elements:
+- Shape: Straight text with two simple wheel icons
+- Typography: Bold sans-serif, all caps
+- Color Palette: Black and yellow
+- Background: Solid yellow
+- Style: Minimalist, modern, iconic
+- Mood: Friendly, accessible, professional

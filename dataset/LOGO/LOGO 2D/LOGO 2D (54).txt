@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một chiếc mũ bảo hiểm hoặc mũ chiến binh có hình dạng tròn với một đường gân ở giữa đỉnh. Mũ được bao quanh bởi hai cánh hay ngọn lửa màu cam tạo thành hình dáng giống như một chiếc khiên hoặc biểu tượng bảo vệ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Mũ tròn trung tâm với hai cánh/ngọn lửa đối xứng ở hai bên
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen cho mũ chính, cam/đỏ cam cho phần cánh
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, vector
+- Tông điệu: Mạnh mẽ, bảo vệ, anh hùng
+
+---
+
+Visual Description:
+The logo depicts a round helmet or warrior's headpiece with a central ridge at the top. The helmet is surrounded by two orange wing-like or flame-like elements that form a shield-like or protective symbol around it.
+
+Design Elements:
+- Shape: Central round helmet with symmetrical wings/flames on both sides
+- Typography: None (icon only)
+- Color Palette: Black for main helmet, orange/red-orange for wing elements
+- Background: White/transparent
+- Style: Minimalist, modern, vector-based
+- Mood: Strong, protective, heroic

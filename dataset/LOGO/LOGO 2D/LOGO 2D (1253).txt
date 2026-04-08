@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình kim cương hoặc thoi với các đường gạch chéo bên trong. Toàn bộ thiết kế được thực hiện bằng màu đỏ cam đậm trên nền cam sáng, tạo hiệu ứng tone-on-tone tinh tế.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình kim cương/thoi với các đường gạch chéo đan xen
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Cam đỏ đậm trên nền cam sáng
+- Nền: Màu cam gradient hoặc màu cam đồng nhất
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Năng động, ấm áp, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a diamond or rhombus-shaped icon with diagonal striped elements inside. The entire design is rendered in a darker red-orange color against a bright orange background, creating a subtle tone-on-tone effect.
+
+Design Elements:
+- Shape: Diamond/rhombus form with intersecting diagonal stripes
+- Typography: None (icon only)
+- Color Palette: Dark red-orange on bright orange background
+- Background: Orange gradient or solid orange
+- Style: Minimalist, geometric, modern
+- Mood: Dynamic, warm, professional

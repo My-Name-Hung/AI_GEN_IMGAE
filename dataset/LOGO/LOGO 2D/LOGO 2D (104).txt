@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "orca" được lặp lại nhiều lần với các biểu tượng cá voi orca cách điệu. Các hình ảnh cá voi được thiết kế đơn giản với đuôi đặc trưng và được sắp xếp xung quanh văn bản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng cá voi orca cách điệu với đuôi cong đặc trưng
+- Kiểu chữ: Sans-serif đậm, chữ thường, bo tròn
+- Bảng màu: Đen trên nền trắng
+- Nền: Trắng với lưới hướng dẫn màu cam nhạt
+- Phong cách: Tối giản, hiện đại, playful
+- Tông điệu: Thân thiện, vui tươi, dễ tiếp cận
+
+---
+
+Visual Description:
+The logo displays the word "orca" repeated multiple times with stylized orca whale icons. The whale images are designed simply with characteristic curved tails and are arranged around the text elements.
+
+Design Elements:
+- Shape: Stylized orca whale icons with characteristic curved tails
+- Typography: Bold, lowercase sans-serif with rounded characters
+- Color Palette: Black on white
+- Background: White with light orange guide grid
+- Style: Minimalist, modern, playful
+- Mood: Friendly, cheerful, approachable

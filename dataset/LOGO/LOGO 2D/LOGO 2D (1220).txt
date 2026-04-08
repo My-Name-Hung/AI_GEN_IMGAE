@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một con đại bàng trắng được cách điệu trong một khung tròn. Chữ "WHITE" được đặt ở phía trên cung tròn và "EAGLE" ở phía dưới, tạo thành một thiết kế logo tròn hoàn chỉnh trên nền xanh lam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với biểu tượng đại bàng cách điệu ở trung tâm
+- Kiểu chữ: Sans-serif đậm, được sắp xếp theo cung tròn
+- Bảng màu: Trắng và xanh lam (teal)
+- Nền: Xanh lam đậm phẳng
+- Phong cách: Hiện đại, tối giản, biểu tượng
+- Tông điệu: Mạnh mẽ, thanh lịch, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a stylized white eagle rendered in a circular frame. The text "WHITE" is positioned along the top arc and "EAGLE" along the bottom arc, creating a complete circular logo design on a teal blue background.
+
+Design Elements:
+- Shape: Circular with stylized eagle symbol at center
+- Typography: Bold sans-serif arranged in circular arc
+- Color Palette: White and teal blue
+- Background: Solid teal blue
+- Style: Modern, minimalist, emblematic
+- Mood: Strong, elegant, professional

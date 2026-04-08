@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "NHÀ THỜ AN TÂM" được thiết kế với font chữ serif thanh lịch màu tím đậm. Bên dưới có dòng chữ nhỏ hơn "GIÁO HỘI VINH AN" kèm một đường kẻ ngang mảnh làm điểm nhấn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Typography chữ hoa với khoảng cách đều, có đường kẻ ngang trang trí
+- Kiểu chữ: Serif cổ điển, chữ hoa, có độ tương phản cao giữa nét dày và nét mảnh
+- Bảng màu: Tím đậm chủ đạo trên nền be/cream nhẹ nhàng
+- Nền: Màu be/cream đơn giản, tối giản
+- Phong cách: Thanh lịch, trang trọng, cổ điển
+- Tông điệu: Trang nghiêm, thiêng liêng, uy tín
+
+---
+
+Visual Description:
+The logo displays "NHÀ THỜ AN TÂM" in elegant purple serif typography. Below it features smaller text "GIÁO HỘI VINH AN" accompanied by a thin horizontal line as an accent element.
+
+Design Elements:
+- Shape: Uppercase typography with even spacing, featuring a decorative horizontal line
+- Typography: Classical serif, uppercase letters with high contrast between thick and thin strokes
+- Color Palette: Deep purple dominant color on a soft beige/cream background
+- Background: Simple, minimalist beige/cream color
+- Style: Elegant, formal, classical
+- Mood: Solemn, sacred, dignified

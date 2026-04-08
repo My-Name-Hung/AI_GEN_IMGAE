@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một hình tròn màu đen ở trung tâm với chữ "K&H" màu trắng bên trong. Xung quanh hình tròn có dòng chữ "KHÉO TAY" ở phía trên và "HAY LÀM" ở phía dưới, tạo thành hình vòng cung bao quanh logo.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn trung tâm với văn bản bao quanh theo hình cung
+- Kiểu chữ: Chữ sans-serif đậm, dễ đọc
+- Bảng màu: Đen và trắng (đơn sắc)
+- Nền: Nền trắng/kem nhạt
+- Phong cách: Tối giản, hiện đại, đối xứng
+- Tông điệu: Chuyên nghiệp, tự tin, thủ công
+
+---
+
+Visual Description:
+The logo features a black circle in the center with white "K&H" lettering inside. Surrounding the circle is text reading "KHÉO TAY" at the top and "HAY LÀM" at the bottom, arranged in curved arcs that frame the central element.
+
+Design Elements:
+- Shape: Central circle with curved text arrangement
+- Typography: Bold sans-serif, readable font
+- Color Palette: Black and white (monochrome)
+- Background: White/light cream background
+- Style: Minimalist, modern, symmetrical
+- Mood: Professional, confident, craftsmanship

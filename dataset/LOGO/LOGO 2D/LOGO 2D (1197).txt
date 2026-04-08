@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng kính lúp với thiết kế hiện đại và đơn giản. Phần kính có hình tròn chứa một yếu tố xoắn ốc đầy màu sắc với gradient từ tím, hồng đến cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Kính lúp với tay cầm vuông góc, phần kính tròn chứa xoắn ốc
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng cho viền ngoài, gradient tím-hồng-cam cho xoắn ốc trung tâm
+- Nền: Đen hoàn toàn
+- Phong cách: Minimalist, hiện đại, line art
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo displays a magnifying glass icon with a modern, clean design. The circular lens contains a colorful spiral element featuring a gradient that transitions from purple through pink to orange.
+
+Design Elements:
+- Shape: Magnifying glass with angular handle, circular lens containing spiral
+- Typography: None (icon only)
+- Color Palette: White outline, purple-pink-orange gradient spiral center
+- Background: Solid black
+- Style: Minimalist, modern, line art
+- Mood: Professional, creative, dynamic

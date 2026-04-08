@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tròn stylized với các phần cong màu xanh cyan và hồng tím, tạo thành hình dạng giống chữ "G". Bên cạnh là dòng chữ "Generator ogłoszeń" được viết bằng font chữ hiện đại, màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn cách điệu với các phần cong tạo thành chữ "G"
+- Kiểu chữ: Font sans-serif hiện đại, đậm, chữ thường
+- Bảng màu: Xanh cyan, hồng tím gradient và trắng
+- Nền: Tím navy đậm
+- Phong cách: Hiện đại, tối giản, gradient
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo features a stylized circular icon with curved cyan and pink-purple segments forming a "G" shape. Adjacent to it is the text "Generator ogłoszeń" in modern white typography.
+
+Design Elements:
+- Shape: Stylized circular icon with curved segments forming letter "G"
+- Typography: Modern sans-serif font, bold, lowercase
+- Color Palette: Cyan, pink-purple gradient, and white
+- Background: Dark navy purple
+- Style: Modern, minimalist, gradient
+- Mood: Professional, creative, dynamic

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị cụm từ "4est" được thiết kế với phong cách typography sáng tạo và đầy màu sắc. Chữ "o" trong "4est" được thay thế bằng một biểu tượng hình tròn màu xanh dương chứa icon tòa nhà trắng bên trong.
+
+Yếu tố Thiết kế:
+- Hình dạng: Typography stylized với các chữ cái kết nối, icon tròn thay thế chữ "o"
+- Kiểu chữ: Sans-serif hiện đại, bold, các chữ cái có thiết kế gradient và overlap
+- Bảng màu: Cam, xanh lá, xanh dương, hồng magenta, trắng
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, sáng tạo, gradient, colorful
+- Tông điệu: Năng động, trẻ trung, công nghệ, thân thiện
+
+---
+
+Visual Description:
+The logo displays the text "4est" designed with creative and colorful typography. The letter "o" in "4est" is replaced by a blue circular icon containing a white building symbol inside.
+
+Design Elements:
+- Shape: Stylized typography with connected letters, circular icon replacing the "o"
+- Typography: Modern sans-serif, bold, letters feature gradient design and overlapping
+- Color Palette: Orange, teal green, blue, magenta pink, white
+- Background: White/transparent
+- Style: Modern, creative, gradient, colorful
+- Mood: Dynamic, youthful, tech-forward, friendly

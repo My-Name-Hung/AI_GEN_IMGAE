@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình khối lục giác 3D màu cam với hiệu ứng gradient và bóng đổ tạo chiều sâu. Bên dưới là chữ "HANH" màu cam đậm với font chữ đậm, hiện đại, và dòng chữ phụ "KIẾN TRÚC SU" màu cam nhạt hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối lục giác 3D với hiệu ứng isometric
+- Kiểu chữ: Font sans-serif đậm, hiện đại cho chữ chính, font mảnh hơn cho chữ phụ
+- Bảng màu: Các tông màu cam từ nhạt đến đậm
+- Nền: Nền trắng, sạch sẽ
+- Phong cách: Hiện đại, tối giản, 3D isometric
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features a 3D orange hexagonal cube with gradient effects and shadow that creates depth. Below it is the text "HANH" in bold orange letters with a modern font, and the subtitle "KIẾN TRÚC SU" in a lighter orange color.
+
+Design Elements:
+- Shape: 3D hexagonal cube with isometric effect
+- Typography: Bold modern sans-serif for main text, thinner font for subtitle
+- Color Palette: Orange tones ranging from light to dark
+- Background: Clean white background
+- Style: Modern, minimalist, 3D isometric
+- Mood: Professional, dynamic, creative

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "AFTER BUILD" với biểu tượng hình vuông đơn giản ở trên. Thiết kế sử dụng typography hiện đại, gọn gàng với màu đen trên nền trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình vuông nhỏ với đường nét mảnh
+- Kiểu chữ: Sans-serif hiện đại, chữ hoa, khoảng cách chữ rộng
+- Bảng màu: Đen và trắng, đơn sắc
+- Nền: Trắng, trong suốt
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sang trọng, tinh tế, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays the brand name "AFTER BUILD" with a simple square icon above it. The design uses modern, clean typography in black on a white background.
+
+Design Elements:
+- Shape: Small square icon with thin line work
+- Typography: Modern sans-serif, uppercase letters with wide letter spacing
+- Color Palette: Black and white, monochromatic
+- Background: White, transparent
+- Style: Minimalist, modern, professional
+- Mood: Sophisticated, clean, trustworthy

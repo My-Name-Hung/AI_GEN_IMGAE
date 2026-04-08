@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "M" được tạo từ ba thanh dọc có gradient màu từ tím sang cam, tạo hiệu ứng 3D nổi bật. Bên dưới là tên thương hiệu "Mavid" bằng font chữ hiện đại màu trắng, kèm dòng chữ "CONSTRUCTION" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba thanh dọc tạo thành chữ "M" với hiệu ứng 3D
+- Kiểu chữ: Font sans-serif hiện đại, in hoa, màu trắng
+- Bảng màu: Gradient tím-hồng-cam-vàng cho biểu tượng, trắng cho văn bản
+- Nền: Ảnh thành phố với các tòa nhà cao tầng
+- Phong cách: Hiện đại, công nghiệp, 3D gradient
+- Tông điệu: Năng động, chuyên nghiệp, sáng tạo
+
+---
+
+Visual Description:
+The logo features the letter "M" created from three vertical bars with a vibrant gradient from purple to orange, creating a striking 3D effect. Below is the brand name "Mavid" in modern white typography, accompanied by smaller "CONSTRUCTION" text.
+
+Design Elements:
+- Shape: Three vertical bars forming letter "M" with 3D effect
+- Typography: Modern sans-serif font, uppercase, white color
+- Color Palette: Purple-pink-orange-yellow gradient for icon, white for text
+- Background: Urban cityscape with tall buildings
+- Style: Modern, industrial, 3D gradient
+- Mood: Dynamic, professional, innovative

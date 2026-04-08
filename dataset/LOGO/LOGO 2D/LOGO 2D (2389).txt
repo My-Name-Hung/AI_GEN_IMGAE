@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "KIẾN MINH" bằng chữ in hoa màu vàng trên nền xanh dương. Bên trái có một đường thẳng dọc màu vàng, bên dưới tên chính có dòng chữ nhỏ "Học viện Thiết kế" màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ nghệ thuật với đường thẳng dọc làm điểm nhấn
+- Kiểu chữ: Font chữ serif thanh lịch cho tên chính, font sans-serif đơn giản cho tagline
+- Bảng màu: Xanh dương chủ đạo, vàng và trắng làm điểm nhấn
+- Nền: Màu xanh dương đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, chuyên nghiệp
+- Tông điệu: Sang trọng, học thuật, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays "KIẾN MINH" in yellow uppercase letters on a blue background. A vertical yellow line appears on the left side, with smaller white text "Học viện Thiết kế" below the main name.
+
+Design Elements:
+- Shape: Typographic design with vertical line accent
+- Typography: Elegant serif font for main name, simple sans-serif for tagline
+- Color Palette: Dominant blue with yellow and white accents
+- Background: Solid deep blue
+- Style: Modern, minimalist, professional
+- Mood: Elegant, academic, trustworthy

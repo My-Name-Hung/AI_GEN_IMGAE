@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hai từ "TRUNG" và "LIÊN" được sắp xếp thành hai dòng với một đường kẻ ngang mỏng ở giữa. Thiết kế sử dụng font chữ serif thanh lịch với màu tím nhạt trên nền kem.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật với văn bản được căn giữa và đường phân cách ngang
+- Kiểu chữ: Font serif cổ điển, thanh mảnh với các nét chấm phẩy tinh tế
+- Bảng màu: Màu tím lavender nhạt trên nền kem/be
+- Nền: Nền màu kem/be nhạt, đơn giản
+- Phong cách: Tối giản, thanh lịch, cổ điển
+- Tông điệu: Tinh tế, nhẹ nhàng, sang trọng
+
+---
+
+Visual Description:
+The logo displays two words "TRUNG" and "LIÊN" arranged in two lines with a thin horizontal line separator between them. The design uses an elegant serif font in light purple color on a cream background.
+
+Design Elements:
+- Shape: Rectangular layout with centered text and horizontal divider line
+- Typography: Classic serif font, thin and refined with subtle decorative elements
+- Color Palette: Light lavender purple on cream/beige background
+- Background: Simple cream/light beige background
+- Style: Minimalist, elegant, classic
+- Mood: Refined, gentle, sophisticated

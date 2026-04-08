@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một lưỡi dao cạo với texture có chấm trắng nhỏ trên nền xanh navy đậm. Ở giữa lưỡi dao có hình một chiếc tên lửa màu trắng được đặt giữa hai đường kẻ ngang, tạo thành một thiết kế đối xứng và cân bằng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lưỡi dao cạo hình chữ nhật với các góc bo tròn và rãnh hai bên
+- Kiểu chữ: Chữ sans-serif đậm, in hoa "SHARP BLADES"
+- Bảng màu: Xanh navy đậm với texture chấm trắng, chữ và biểu tượng màu trắng
+- Nền: Trong suốt
+- Phong cách: Minimalist, biểu tượng, công nghiệp
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, hiện đại
+
+---
+
+Visual Description:
+The logo depicts a razor blade with a dotted white texture on a dark navy blue background. In the center of the blade, there's a white rocket ship icon positioned between two horizontal lines, creating a symmetrical and balanced design.
+
+Design Elements:
+- Shape: Rectangular razor blade with rounded corners and side notches
+- Typography: Bold, uppercase sans-serif font reading "SHARP BLADES"
+- Color Palette: Dark navy blue with white dotted texture, white text and icon
+- Background: Transparent
+- Style: Minimalist, iconic, industrial
+- Mood: Professional, strong, modern

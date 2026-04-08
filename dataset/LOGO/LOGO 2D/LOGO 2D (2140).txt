@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "QUÁN CỦA PHAN" được đặt trong một hình chữ nhật màu xanh lá sáng. Bên dưới tên chính có dòng chữ nhỏ hơn "HỢP ĐẸM + TIỆM CÀ PHÊ" mô tả loại hình kinh doanh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật đơn giản, layout dạng khối
+- Kiểu chữ: Font chữ thanh mảnh, hiện đại, không có chân serif
+- Bảng màu: Xanh lá cây đậm và xanh lá sáng tạo tông màu đơn sắc
+- Nền: Nền xanh lá đậm bao quanh khung xanh lá sáng
+- Phong cách: Tối giản, hiện đại, sạch sẽ
+- Tông điệu: Thân thiện, tự nhiên, ấm áp
+
+---
+
+Visual Description:
+The logo displays the brand name "QUÁN CỦA PHAN" within a light green rectangular frame. Below the main name is smaller text reading "HỢP ĐẸM + TIỆM CÀ PHÊ" describing the business type.
+
+Design Elements:
+- Shape: Simple rectangular frame, block layout design
+- Typography: Thin, modern sans-serif font
+- Color Palette: Dark green and light green creating a monochromatic scheme
+- Background: Dark green background surrounding the light green frame
+- Style: Minimalist, modern, clean
+- Mood: Friendly, natural, warm

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình vuông stylized với các hình dạng geometric mô tả ngôi nhà và cảnh quan. Bên cạnh là dòng chữ "LAND PEOPLE" được sắp xếp thành hai hàng bằng font chữ đậm màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng vuông với các khối geometric tạo thành hình ngôi nhà và đường nét cảnh quan
+- Kiểu chữ: Font sans-serif đậm, chữ hoa, sắp xếp thành hai hàng
+- Bảng màu: Xanh lá cây đậm, xanh lá nhạt, cam/vàng, đen
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, geometric, tối giản
+- Tông điệu: Chuyên nghiệp, thân thiện, gắn kết với thiên nhiên
+
+---
+
+Visual Description:
+The logo features a stylized square icon with geometric shapes depicting houses and landscape elements. Next to it is the text "LAND PEOPLE" arranged in two lines using bold black typography.
+
+Design Elements:
+- Shape: Square icon with geometric blocks forming house shapes and landscape lines
+- Typography: Bold sans-serif font, uppercase letters, arranged in two rows
+- Color Palette: Dark green, light green, orange/yellow, black
+- Background: White/transparent
+- Style: Modern, geometric, minimalist
+- Mood: Professional, friendly, nature-connected

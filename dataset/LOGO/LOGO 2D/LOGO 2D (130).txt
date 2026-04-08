@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình chữ nhật dọc màu trắng với ký hiệu đô la ($) được cách điệu bên trong. Biểu tượng được đặt trên nền thành phố với tông màu đỏ cam ấm áp, tạo hiệu ứng hoàng hôn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật dọc với ký hiệu đô la cách điệu
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng, đỏ cam, nâu đỏ
+- Nền: Cảnh thành phố với hiệu ứng hoàng hôn màu đỏ cam
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, ấm áp
+
+---
+
+Visual Description:
+The logo features a vertical white rectangle containing a stylized dollar sign ($) symbol. The icon is overlaid on a cityscape background with warm red-orange tones creating a sunset effect.
+
+Design Elements:
+- Shape: Vertical rectangle with stylized dollar sign symbol
+- Typography: None (icon only)
+- Color Palette: White, red-orange, reddish-brown
+- Background: Urban cityscape with red-orange sunset effect
+- Style: Minimalist, modern, geometric
+- Mood: Professional, bold, warm

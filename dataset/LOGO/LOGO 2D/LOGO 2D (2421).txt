@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh cân công lý được đặt ở trung tâm với hai cành lúa mì bao quanh tạo thành hình vòng tròn. Phía dưới là dòng chữ "CÔNG LY" và "NHOM LUAT SU" được sắp xếp theo thứ bậc.
+
+Yếu tố Thiết kế:
+- Hình dạng: Cân công lý với vòng tròn lá lúa mì, bố cục đối xứng
+- Kiểu chữ: Chữ in hoa đơn giản, rõ ràng, kiểu sans-serif
+- Bảng màu: Trắng trên nền nâu vàng/be
+- Nền: Màu nâu vàng đồng nhất
+- Phong cách: Tối giản, cổ điển, biểu tượng luật pháp
+- Tông điệu: Nghiêm túc, uy tín, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features scales of justice positioned centrally, surrounded by two wheat branches forming a circular wreath. Below the symbol is the text "CÔNG LY" and "NHOM LUAT SU" arranged in hierarchical order.
+
+Design Elements:
+- Shape: Scales of justice with wheat wreath, symmetrical layout
+- Typography: Clean, uppercase sans-serif lettering
+- Color Palette: White on warm brown/beige background
+- Background: Solid warm brown/beige
+- Style: Minimalist, classical, legal symbolism
+- Mood: Serious, trustworthy, professional

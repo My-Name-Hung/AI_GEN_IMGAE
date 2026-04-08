@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "An Bình" được viết bằng chữ serif thanh lịch màu trắng trên nền xanh navy. Bên dưới có dòng chữ nhỏ "CHUYÊN GIA TÀI CHÍNH" và một đường kẻ ngang ngăn cách giữa tên chính và slogan.
+
+Yếu tố Thiết kế:
+- Hình dạng: Typography đơn giản với đường kẻ ngang làm điểm nhấn
+- Kiểu chữ: Serif cổ điển, thanh lịch cho tên chính; sans-serif cho slogan
+- Bảng màu: Trắng trên nền xanh navy đậm
+- Nền: Màu xanh navy đồng nhất
+- Phong cách: Tối giản, chuyên nghiệp, cổ điển
+- Tông điệu: Tin cậy, uy tín, nghiêm túc
+
+---
+
+Visual Description:
+The logo displays "An Bình" written in elegant white serif typography on a navy blue background. Below is smaller text reading "CHUYÊN GIA TÀI CHÍNH" with a horizontal line separating the main name from the tagline.
+
+Design Elements:
+- Shape: Simple typography layout with horizontal line accent
+- Typography: Classic serif for main name; sans-serif for tagline
+- Color Palette: White text on deep navy blue background
+- Background: Solid navy blue
+- Style: Minimalist, professional, classic
+- Mood: Trustworthy, credible, serious

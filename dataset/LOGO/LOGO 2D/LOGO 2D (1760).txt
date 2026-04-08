@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ba hình elip hoặc vòng tròn dẹt được sắp xếp theo cấu trúc ba chiều, tạo thành một hình khối động. Các vòng elip có màu gradient từ hồng, xanh dương đến xanh cyan, tạo hiệu ứng chuyển màu mượt mà và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba vòng elip/oval xoay quanh nhau tạo thành cấu trúc 3D
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ hồng phấn, xanh dương, đến xanh cyan
+- Nền: Xanh navy đậm
+- Phong cách: Hiện đại, tối giản, gradient 3D
+- Tông điệu: Công nghệ, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo displays three elliptical or flattened circular shapes arranged in a three-dimensional structure, forming a dynamic geometric form. The ellipses feature gradient colors transitioning from pink to blue to cyan, creating smooth and modern color transitions.
+
+Design Elements:
+- Shape: Three ellipses/ovals rotating around each other in 3D structure
+- Typography: None (icon only)
+- Color Palette: Gradient from soft pink, blue, to cyan
+- Background: Deep navy blue
+- Style: Modern, minimalist, 3D gradient
+- Mood: Tech-forward, dynamic, creative

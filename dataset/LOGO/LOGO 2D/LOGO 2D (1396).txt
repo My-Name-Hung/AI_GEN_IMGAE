@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ số "3" màu xanh dương đậm được kết hợp với một hình quạt nhiều màu ở phía bên trái. Hình quạt tạo thành các tia sáng với gradient màu từ xanh lá cây, vàng, cam đến đỏ, tạo cảm giác năng động và rực rỡ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ số "3" kết hợp với hình quạt tia sáng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương đậm, gradient từ xanh lá - vàng - cam - đỏ
+- Nền: Nền trắng/xám nhạt
+- Phong cách: Hiện đại, tối giản, gradient
+- Tông điệu: Năng động, sáng tạo, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a bold blue number "3" combined with a colorful fan-like element on the left side. The fan creates radiating rays with a gradient transitioning from green through yellow and orange to red, giving it a vibrant and dynamic appearance.
+
+Design Elements:
+- Shape: Number "3" combined with radiating fan/sunburst pattern
+- Typography: None (icon only)
+- Color Palette: Bold blue, rainbow gradient (green-yellow-orange-red)
+- Background: White/light gray background
+- Style: Modern, minimalist, gradient
+- Mood: Dynamic, creative, professional

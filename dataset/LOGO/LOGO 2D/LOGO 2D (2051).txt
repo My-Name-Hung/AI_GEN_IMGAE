@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng ấm đun nước màu xanh teal ở phía trên, kết hợp với chữ "XANH" màu cam nổi bật và số "25" cùng màu. Bên dưới có dòng chữ nhỏ "CÀ PHÊ SẠCH & NGON" màu xanh teal.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng ấm đun nước đơn giản, chữ cái và số
+- Kiểu chữ: Sans-serif đậm cho tên chính, kiểu chữ nhỏ hơn cho slogan
+- Bảng màu: Xanh teal và cam/đỏ cam
+- Nền: Xanh nhạt/xám nhạt
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Ấm áp, gần gũi, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a teal-colored kettle icon at the top, combined with bold orange text "XANH" and the number "25" in the same color. Below is smaller teal text reading "CÀ PHÊ SẠCH & NGON".
+
+Design Elements:
+- Shape: Simple kettle icon, letters and numbers
+- Typography: Bold sans-serif for main name, smaller font for tagline
+- Color Palette: Teal and orange/red-orange
+- Background: Light blue/gray
+- Style: Minimalist, modern, friendly
+- Mood: Warm, approachable, professional

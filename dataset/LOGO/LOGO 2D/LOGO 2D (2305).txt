@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "BÁC SĨ DUNG" được viết bằng chữ in hoa màu trắng nổi bật. Bên dưới có dòng chữ phụ "BÁC SĨ GIA ĐÌNH" cùng với một đường chấm trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ đơn giản, thẳng hàng
+- Kiểu chữ: Sans-serif đậm, chữ in hoa cho tên chính, chữ thường cho slogan
+- Bảng màu: Trắng trên nền xanh navy
+- Nền: Xanh navy đậm, phẳng
+- Phong cách: Tối giản, chuyên nghiệp, y tế
+- Tông điệu: Đáng tin cậy, chuyên nghiệp, thân thiện
+
+---
+
+Visual Description:
+The logo displays the brand name "BÁC SĨ DUNG" in prominent white capital letters. Below it is the tagline "BÁC SĨ GIA ĐÌNH" with a decorative dotted line.
+
+Design Elements:
+- Shape: Simple text layout, aligned arrangement
+- Typography: Bold sans-serif, uppercase for main name, lowercase for tagline
+- Color Palette: White on navy blue
+- Background: Solid dark navy blue
+- Style: Minimalist, professional, medical
+- Mood: Trustworthy, professional, approachable

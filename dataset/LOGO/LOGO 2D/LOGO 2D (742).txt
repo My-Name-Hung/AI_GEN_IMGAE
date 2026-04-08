@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "R" được tạo thành từ các hình khối hình học cong và góc cạnh. Thiết kế sử dụng nguyên tắc âm dương với các phần trắng tạo hình chữ cái và các phần đen tạo không gian âm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ "R" phong cách hóa với các đường cong và góc vuông kết hợp
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trắng tương phản cao
+- Nền: Nền đen hoàn toàn
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Chuyên nghiệp, táo bạo, tinh tế
+
+---
+
+Visual Description:
+The logo features a stylized letter "R" created through geometric curved and angular shapes. The design uses negative and positive space principles with white forms creating the letterform against black negative space.
+
+Design Elements:
+- Shape: Stylized "R" with combination of curves and right angles
+- Typography: None (icon only)
+- Color Palette: High contrast black and white
+- Background: Solid black
+- Style: Minimalist, geometric, modern
+- Mood: Professional, bold, sophisticated

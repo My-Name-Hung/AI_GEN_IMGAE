@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên phòng khám bằng tiếng Việt với chữ "PHÒNG KHÁM HOÀN MỸ" được đặt ở trung tâm. Hai đường kẻ ngang màu xanh lá cây được đặt ở hai bên với các từ khóa "SỨC KHỎE CỦA BẠN" và "TƯƠNG LAI CỦA BẠN".
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục ngang đối xứng với các đường kẻ trang trí
+- Kiểu chữ: Sans-serif đậm, in hoa, khoảng cách chữ rộng
+- Bảng màu: Chữ trắng, đường kẻ xanh lá cây, nền xám đậm
+- Nền: Màu xám đậm/xám than
+- Phong cách: Tối giản, hiện đại, y tế
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sạch sẽ
+
+---
+
+Visual Description:
+The logo displays a Vietnamese medical clinic name with "PHÒNG KHÁM HOÀN MỸ" prominently centered. Two horizontal green lines frame the main text with supporting phrases "SỨC KHỎE CỦA BẠN" and "TƯƠNG LAI CỦA BẠN" on either side.
+
+Design Elements:
+- Shape: Horizontal symmetrical layout with decorative line elements
+- Typography: Bold sans-serif, all caps, wide letter spacing
+- Color Palette: White text, green accent lines, dark gray background
+- Background: Dark gray/charcoal
+- Style: Minimalist, modern, medical
+- Mood: Professional, trustworthy, clean

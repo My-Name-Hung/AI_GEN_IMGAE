@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với hình vuông màu xanh dương đậm được đặt trên nền vàng cam rực rỡ. Bên trong hình vuông có dòng chữ "HOÀNG GIA 8-BIT" được viết bằng font chữ pixel màu trắng, cùng với dòng chữ nhỏ hơn bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông màu xanh dương với viền trắng mỏng
+- Kiểu chữ: Font pixel/8-bit màu trắng, phong cách retro gaming
+- Bảng màu: Vàng cam, xanh dương đậm, trắng
+- Nền: Màu vàng cam đồng nhất
+- Phong cách: Retro, pixel art, gaming cổ điển, tối giản
+- Tông điệu: Hoài cổ, vui tươi, năng động, gaming
+
+---
+
+Visual Description:
+The logo features a simple design with a deep blue square placed on a bright orange-yellow background. Inside the square, there's white pixel-style text reading "HOÀNG GIA 8-BIT" with smaller text underneath.
+
+Design Elements:
+- Shape: Blue square with thin white border
+- Typography: White pixel/8-bit font with retro gaming style
+- Color Palette: Orange-yellow, deep blue, white
+- Background: Solid orange-yellow
+- Style: Retro, pixel art, classic gaming, minimalist
+- Mood: Nostalgic, cheerful, energetic, gaming-focused

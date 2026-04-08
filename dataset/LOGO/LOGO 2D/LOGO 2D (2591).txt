@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một nhân vật hoạt hình đội mũ trùm đầu màu xám với đôi mắt phát sáng, được đặt trong khung hình khiên. Tên "TECKIE" được viết bằng chữ cái màu vàng nổi bật phía trên, cùng với dòng chữ tiếng Việt "CHỦ GAME THỦ THỦ THUẬT" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khiên bọc viền vàng chứa nhân vật hoạt hình
+- Kiểu chữ: Font chữ in hoa đậm màu vàng cho tên thương hiệu, font nhỏ hơn cho slogan
+- Bảng màu: Tím đậm làm nền chính, vàng cho text, xám cho nhân vật
+- Nền: Gradient tím với các đường hình học góc cạnh
+- Phong cách: Gaming, esports, hoạt hình, hiện đại
+- Tông điệu: Bí ẩn, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo features a cartoon character wearing a gray hood with glowing eyes, positioned within a shield-shaped frame. The name "TECKIE" is displayed in bold yellow letters above, with Vietnamese text "CHỦ GAME THỦ THỦ THUẬT" below the shield.
+
+Design Elements:
+- Shape: Gold-outlined shield containing cartoon character
+- Typography: Bold yellow uppercase font for brand name, smaller font for tagline
+- Color Palette: Deep purple background, yellow text, gray character
+- Background: Purple gradient with angular geometric lines
+- Style: Gaming, esports, cartoon, modern
+- Mood: Mysterious, professional, dynamic

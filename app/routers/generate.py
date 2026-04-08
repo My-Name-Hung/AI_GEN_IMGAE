@@ -1,6 +1,6 @@
 """
 Generation Router - POST /generate
-Text-to-Image generation with Stable Diffusion + optional trained LoRA
+Gemini-first image generation with local diffusion fallback.
 """
 from fastapi import APIRouter, HTTPException
 import logging
@@ -13,6 +13,7 @@ from app.models.schemas import GenerateRequest, GenerationResponse
 from app.services.diffusion import DiffusionService
 from app.services.clip import CLIPService
 from app.services.vectorizer import VectorizerService
+from app.services.neural_inference import get_neural_service, NeuralServiceError
 
 logger = logging.getLogger(__name__)
 router = APIRouter()
@@ -36,43 +37,76 @@ def _save_generated_images(images, output_subdir: str | None = None) -> list[str
     return saved_paths
 
 
+def _decode_base64_to_pil(image_b64: str):
+    img_bytes = base64.b64decode(image_b64)
+    return io.BytesIO(img_bytes)
+
+
 @router.post("/generate", response_model=GenerationResponse)
 async def generate_image(request: GenerateRequest):
     """
     Generate logo/poster images from text prompt.
 
-    Uses Stable Diffusion XL Turbo with optional CLIP scoring
-    and optional vectorization support.
+    Priority:
+    1) Gemini image API
+    2) Local Diffusion fallback only when Gemini fails
     """
-    try:
-        logger.info("Generating image with prompt: %s", request.prompt)
+    provider = "gemini"
+    gemini_error = None
 
-        generated_images = diffusion_service.generate(
-            prompt=request.prompt,
-            negative_prompt=request.negative_prompt,
-            width=request.width,
-            height=request.height,
-            num_inference_steps=request.num_inference_steps,
-            guidance_scale=request.guidance_scale,
-            seed=request.seed,
-            num_images=request.num_images,
-            mode=request.mode.value,
-            lora_path=request.lora_path,
-            use_default_lora=request.use_default_lora,
-            lora_scale=request.lora_scale,
-        )
+    try:
+        logger.info("Generating image with Gemini-first strategy. Prompt: %s", request.prompt)
 
         images_base64 = []
+        generated_images = []
+
+        # 1) Gemini first
+        try:
+            neural_service = get_neural_service()
+            gemini_result = neural_service.generate_images(
+                prompt=request.prompt,
+                num_images=request.num_images,
+            )
+            images_base64 = gemini_result.get("images", [])
+
+            # Convert to PIL only if needed by optional features
+            if request.layout_aware or request.enable_vectorization or request.save_outputs:
+                from PIL import Image
+
+                for img_b64 in images_base64:
+                    buffered = _decode_base64_to_pil(img_b64)
+                    generated_images.append(Image.open(buffered))
+
+        except (NeuralServiceError, RuntimeError, Exception) as e:
+            gemini_error = str(e)
+            provider = "local_diffusion"
+            logger.warning("Gemini image generation failed, fallback to local diffusion: %s", gemini_error)
+
+            # 2) Fallback local diffusion
+            generated_images = diffusion_service.generate(
+                prompt=request.prompt,
+                negative_prompt=request.negative_prompt,
+                width=request.width,
+                height=request.height,
+                num_inference_steps=request.num_inference_steps,
+                guidance_scale=request.guidance_scale,
+                seed=request.seed,
+                num_images=request.num_images,
+                mode=request.mode.value,
+                lora_path=request.lora_path,
+                use_default_lora=request.use_default_lora,
+                lora_scale=request.lora_scale,
+            )
+
+            images_base64 = []
+            for img in generated_images:
+                buffered = io.BytesIO()
+                img.save(buffered, format="PNG")
+                images_base64.append(base64.b64encode(buffered.getvalue()).decode("utf-8"))
+
         clip_scores = []
-
-        for img in generated_images:
-            buffered = io.BytesIO()
-            img.save(buffered, format="PNG")
-            img_bytes = buffered.getvalue()
-            img_base64 = base64.b64encode(img_bytes).decode("utf-8")
-            images_base64.append(img_base64)
-
-            if request.layout_aware:
+        if request.layout_aware and generated_images:
+            for img in generated_images:
                 score = clip_service.compute_score(img, request.prompt)
                 clip_scores.append(float(score))
 
@@ -90,23 +124,24 @@ async def generate_image(request: GenerateRequest):
                 "effective_height": generated_images[0].height if generated_images else request.height,
                 "mode": request.mode.value,
                 "num_images": len(images_base64),
+                "provider": provider,
+                "gemini_error": gemini_error,
                 "lora_requested_path": request.lora_path,
                 "use_default_lora": request.use_default_lora,
                 "active_lora_path": model_status.get("active_lora_path"),
                 "active_lora_scale": model_status.get("active_lora_scale"),
-                "fallback_used": model_status.get("fallback_used"),
+                "fallback_used": provider != "gemini" or model_status.get("fallback_used"),
                 "loaded_model": model_status.get("loaded_model"),
                 "lora_compatibility_warning": model_status.get("lora_compatibility_warning"),
             },
             "clip_scores": clip_scores if clip_scores else None,
         }
 
-        if request.enable_vectorization and len(images_base64) > 0:
-            img_pil = generated_images[0]
-            svg_result = vectorizer_service.vectorize(img_pil)
+        if request.enable_vectorization and generated_images:
+            svg_result = vectorizer_service.vectorize(generated_images[0])
             response_data["svg_paths"] = [svg_result.get("svg_content", "")]
 
-        if request.save_outputs:
+        if request.save_outputs and generated_images:
             try:
                 saved_paths = _save_generated_images(generated_images, request.output_subdir)
                 response_data["metadata"]["saved_outputs"] = saved_paths

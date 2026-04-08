@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "AN TÂM" bằng chữ in hoa màu trắng trên nền xanh mint. Bên dưới có dòng chữ "24 → 7" với mũi tên chỉ sang phải và dòng "PHÒNG CẤP CỨU" ở cuối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật đơn giản, có mũi tên ngang
+- Kiểu chữ: Sans-serif hiện đại, in hoa, có dấu thanh trên chữ "Â"
+- Bảng màu: Trắng trên nền xanh mint/xanh lá nhạt
+- Nền: Màu xanh mint đồng nhất
+- Phong cách: Tối giản, y tế, chuyên nghiệp
+- Tông điệu: Tin cậy, an toàn, chăm sóc sức khỏe
+
+---
+
+Visual Description:
+The logo displays the brand name "AN TÂM" in white capital letters on a mint green background. Below it shows "24 → 7" with a right-pointing arrow and "PHÒNG CẤP CỨU" at the bottom.
+
+Design Elements:
+- Shape: Simple rectangular layout with horizontal arrow
+- Typography: Modern sans-serif, uppercase, with accent mark on "Â"
+- Color Palette: White text on mint green/light teal background
+- Background: Solid mint green
+- Style: Minimalist, medical, professional
+- Mood: Trustworthy, safe, healthcare-focused

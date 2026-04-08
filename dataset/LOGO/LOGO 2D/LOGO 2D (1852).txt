@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "Polloke" được viết bằng chữ in hoa màu xanh teal/xanh lam. Bên dưới có một đường cong màu đỏ cam và chữ "GAMING" màu đen được đặt ở góc phải dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái vuông vức với đường cong trang trí
+- Kiểu chữ: Font chữ in hoa đậm, hiện đại cho tên chính và font nhỏ cho "GAMING"
+- Bảng màu: Xanh teal/xanh lam, đỏ cam, đen
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, đơn giản, gaming
+- Tông điệu: Năng động, chuyên nghiệp, thân thiện
+
+---
+
+Visual Description:
+The logo displays the word "Polloke" written in uppercase teal/blue letters. Below it features an orange-red curved line and the word "GAMING" in black positioned in the lower right corner.
+
+Design Elements:
+- Shape: Blocky letterforms with decorative curve element
+- Typography: Bold, modern uppercase font for main text and smaller font for "GAMING"
+- Color Palette: Teal/blue, orange-red, black
+- Background: White/transparent
+- Style: Modern, minimalist, gaming-oriented
+- Mood: Dynamic, professional, approachable

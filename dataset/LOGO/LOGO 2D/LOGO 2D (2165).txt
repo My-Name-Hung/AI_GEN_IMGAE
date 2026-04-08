@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình thoi màu xanh nhạt với các cạnh được trang trí bằng những đường viền răng cưa hoặc lông vũ stylized. Ở trung tâm có ký hiệu "&" được viết bằng font chữ thanh lịch, xung quanh có các chữ cái "K" và "P" được sắp xếp đối xứng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình thoi với viền trang trí răng cưa/lông vũ
+- Kiểu chữ: Font serif thanh lịch cho ký hiệu "&" và tên thương hiệu
+- Bảng màu: Xanh navy đậm làm nền, xanh mint nhạt cho logo chính
+- Nền: Màu xanh navy đậm, đồng nhất
+- Phong cách: Cổ điển, trang nhã, đối xứng
+- Tông điệu: Sang trọng, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a light blue diamond shape with decorative serrated or feather-like edges around its perimeter. At the center is an elegant "&" symbol in stylized typography, flanked by the letters "K" and "P" arranged symmetrically.
+
+Design Elements:
+- Shape: Diamond with decorative serrated/feathered border
+- Typography: Elegant serif font for "&" symbol and brand name
+- Color Palette: Deep navy blue background with light mint blue for main logo
+- Background: Solid deep navy blue
+- Style: Classic, elegant, symmetrical
+- Mood: Luxurious, refined, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình bàn tay màu đen với các đường kẻ chia thành nhiều phần nhỏ, tạo hiệu ứng như một bản đồ hoặc puzzle. Bên trong bàn tay có dòng chữ "COMO EN LOS VIEJOS DÍAS" được sắp xếp theo hình dáng của bàn tay.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình bàn tay được chia thành các mảnh hình học
+- Kiểu chữ: Font chữ đậm, có serif, được uốn cong theo hình dáng bàn tay
+- Bảng màu: Đen trên nền đỏ tươi
+- Nền: Màu đỏ đồng nhất
+- Phong cách: Hiện đại, nghệ thuật, tối giản
+- Tông điệu: Táo bạo, sáng tạo, ấm áp
+
+---
+
+Visual Description:
+The logo shows a black hand silhouette divided into geometric segments by lines, creating a map-like or puzzle effect. Inside the hand shape, the text "COMO EN LOS VIEJOS DÍAS" is arranged to follow the contours of the hand.
+
+Design Elements:
+- Shape: Hand silhouette segmented into geometric pieces
+- Typography: Bold serif font curved to follow the hand's shape
+- Color Palette: Black on bright red background
+- Background: Solid red
+- Style: Modern, artistic, minimalist
+- Mood: Bold, creative, warm

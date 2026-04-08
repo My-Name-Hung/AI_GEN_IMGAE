@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình silhouette người đen đứng trên một chồng sách với hình tròn màu cam ở phía sau. Phần text "EBONY STORE" được đặt bên dưới bằng chữ in hoa màu đen đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette người đứng trên sách, hình tròn làm nền
+- Kiểu chữ: Sans-serif đậm, chữ in hoa
+- Bảng màu: Đen, cam, trắng, xanh lá nhạt
+- Nền: Trong suốt với điểm nhấn hình tròn cam
+- Phong cách: Tối giản, biểu tượng, hiện đại
+- Tông điệu: Chuyên nghiệp, giáo dục, năng động
+
+---
+
+Visual Description:
+The logo features a black silhouette figure standing on a stack of books with an orange circle behind it. The text "EBONY STORE" is positioned below in bold black uppercase letters.
+
+Design Elements:
+- Shape: Human silhouette standing on books, circular background element
+- Typography: Bold sans-serif, uppercase letters
+- Color Palette: Black, orange, white, light green
+- Background: Transparent with orange circle accent
+- Style: Minimalist, iconic, modern
+- Mood: Professional, educational, dynamic

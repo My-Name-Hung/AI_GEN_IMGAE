@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "TÂM AN" bằng chữ in hoa màu vàng trên nền xanh dương đậm. Bên dưới có dòng chữ nhỏ hơn "CÔNG TY XÂY DỰNG" cùng màu vàng, được ngăn cách bằng một đường kẻ ngang mỏng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật đơn giản với văn bản được sắp xếp theo chiều dọc
+- Kiểu chữ: Phông chữ sans-serif hiện đại, in hoa, có khoảng cách chữ rộng
+- Bảng màu: Vàng và xanh dương đậm
+- Nền: Màu xanh dương đậm đồng nhất
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Uy tín, mạnh mẽ, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays "TÂM AN" in yellow uppercase letters on a deep blue background. Below is smaller text reading "CÔNG TY XÂY DỰNG" in the same yellow color, separated by a thin horizontal line.
+
+Design Elements:
+- Shape: Simple rectangular layout with vertically arranged text
+- Typography: Modern sans-serif font, uppercase, with wide letter spacing
+- Color Palette: Yellow and deep blue
+- Background: Solid deep blue
+- Style: Minimalist, professional, modern
+- Mood: Trustworthy, strong, reliable

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "Easy School" với dòng chữ "LANGUAGE STUDIO" phía trên. Chữ "E" được thiết kế đặc biệt với các đường nét cong và có biểu tượng ngôi sao nhiều màu ở góc trên bên trái.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết có đường cong mềm mại, biểu tượng ngôi sao với các tia màu sắc
+- Kiểu chữ: Sans-serif hiện đại, chữ thường cho "easy", chữ hoa cho "SCHOOL"
+- Bảng màu: Tím gradient, xanh lá cây, cam, hồng, nền xanh turquoise
+- Nền: Màu xanh turquoise đồng nhất
+- Phong cách: Hiện đại, thân thiện, năng động
+- Tông điệu: Vui tươi, gần gũi, giáo dục
+
+---
+
+Visual Description:
+The logo displays "Easy School" with "LANGUAGE STUDIO" text above it. The letter "E" is specially designed with curved lines and features a colorful star symbol in the upper left corner.
+
+Design Elements:
+- Shape: Curved letterforms with soft lines, star symbol with colorful rays
+- Typography: Modern sans-serif, lowercase for "easy", uppercase for "SCHOOL"
+- Color Palette: Purple gradient, green, orange, pink, turquoise background
+- Background: Solid turquoise color
+- Style: Modern, friendly, dynamic
+- Mood: Cheerful, approachable, educational

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình kim cương đơn giản ở phía trên với đường nét trắng mỏng. Phần chữ "LONG LANH" được đặt bên dưới bằng font chữ serif thanh lịch màu trắng, kèm theo dòng chữ phụ "TIỆM LÀM ĐẸP VÀ SPA" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Kim cương hình học đơn giản, bố cục dọc căn giữa
+- Kiểu chữ: Font serif thanh lịch với chữ hoa, có khoảng cách rộng
+- Bảng màu: Trắng trên nền gradient hồng-tím-xanh pastel
+- Nền: Gradient mềm mại từ hồng sang tím và xanh nhạt
+- Phong cách: Tối giản, cao cấp, hiện đại
+- Tông điệu: Sang trọng, nữ tính, thư giãn
+
+---
+
+Visual Description:
+The logo features a simple diamond icon at the top rendered in thin white lines. Below it, "LONG LANH" is displayed in elegant white serif typography, accompanied by smaller subtitle text "TIỆM LÀM ĐẸP VÀ SPA".
+
+Design Elements:
+- Shape: Simple geometric diamond, vertically centered layout
+- Typography: Elegant serif font in capitals with wide letter spacing
+- Color Palette: White text on pastel pink-purple-blue gradient
+- Background: Soft gradient transitioning from pink to purple to light blue
+- Style: Minimalist, luxury, modern
+- Mood: Elegant, feminine, relaxing

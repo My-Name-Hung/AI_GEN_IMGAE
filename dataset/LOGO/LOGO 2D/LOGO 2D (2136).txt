@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng nhỏ mô tả cảnh thành phố với các tòa nhà cao tầng ở trung tâm. Bên dưới là dòng chữ "ÂM NHẠC HUẾ" được viết bằng font chữ thanh lịch, kèm theo dòng chữ nhỏ hơn "NHẠC VIỆN" ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng kiến trúc thành phố với các tòa nhà, bố cục đối xứng và cân bằng
+- Kiểu chữ: Font serif thanh lịch, chữ in hoa với khoảng cách rộng
+- Bảng màu: Chủ yếu màu vàng cam làm nền, chữ và biểu tượng màu xám đen
+- Nền: Màu vàng cam đồng nhất, rực rỡ
+- Phong cách: Cổ điển, trang trọng, học thuật
+- Tông điệu: Chuyên nghiệp, uy tín, văn hóa, giáo dục
+
+---
+
+Visual Description:
+The logo features a small cityscape icon with tall buildings in the center. Below it is the text "ÂM NHẠC HUẾ" written in an elegant font, with smaller text "NHẠC VIỆN" underneath.
+
+Design Elements:
+- Shape: Architectural cityscape symbol with buildings, symmetrical and balanced layout
+- Typography: Elegant serif font, uppercase letters with wide spacing
+- Color Palette: Primarily golden yellow background with dark gray/black text and icon
+- Background: Solid bright golden yellow
+- Style: Classical, formal, academic
+- Mood: Professional, prestigious, cultural, educational

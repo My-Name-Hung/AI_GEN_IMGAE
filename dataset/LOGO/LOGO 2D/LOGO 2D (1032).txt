@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "V" màu đen được tạo thành từ hai hình thang cắt góc, với một hình tròn màu vàng nằm ở phía dưới trung tâm. Hai tam giác nhỏ màu đen được đặt đối xứng ở hai bên tạo thành một thiết kế cân bằng và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ V hình học, hình tròn trung tâm, tam giác đối xứng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen và vàng
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo displays a black "V" formed by two angled trapezoid shapes, with a bright yellow circle positioned at the bottom center. Two small black triangles are symmetrically placed on either side, creating a balanced and modern geometric design.
+
+Design Elements:
+- Shape: Geometric V-shape, central circle, symmetrical triangles
+- Typography: None (icon only)
+- Color Palette: Black and yellow
+- Background: White/transparent
+- Style: Minimalist, geometric, modern
+- Mood: Professional, dynamic, creative

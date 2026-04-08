@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một nhân vật hoạt hình đội mũ cao bồi màu đen với dải băng trắng, có biểu cảm vui vẻ và tay cầm tay cầm điều khiển game. Phía trên có hai ngôi sao màu hồng trang trí, bên dưới là chữ "GAME" màu đen và "ON" trong hộp vuông màu hồng, cuối cùng là dòng chữ "ACADEMY" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Nhân vật cartoon với mũ cao bồi, kết hợp chữ viết và hình vuông
+- Kiểu chữ: Sans-serif đậm cho "GAME", kiểu chữ đặc biệt cho "ON", serif mỏng cho "ACADEMY"
+- Bảng màu: Đen, trắng, hồng và be
+- Nền: Màu be/kem nhạt
+- Phong cách: Cartoon, hiện đại, vui nhộn
+- Tông điệu: Thân thiện, năng động, giải trí
+
+---
+
+Visual Description:
+The logo features a cartoon character wearing a black top hat with a white band, displaying a cheerful expression and holding a game controller. Two pink stars decorate the top area, with "GAME" in black letters and "ON" in a pink square box below, followed by smaller "ACADEMY" text at the bottom.
+
+Design Elements:
+- Shape: Cartoon character with top hat, combined with lettering and square elements
+- Typography: Bold sans-serif for "GAME", stylized lettering for "ON", thin serif for "ACADEMY"
+- Color Palette: Black, white, pink, and beige
+- Background: Light beige/cream color
+- Style: Cartoon, modern, playful
+- Mood: Friendly, energetic, entertaining

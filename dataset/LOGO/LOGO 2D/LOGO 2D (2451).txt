@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hai chữ "N" lớn màu trắng được đặt cạnh nhau, tạo thành viết tắt "NN". Bên dưới có dòng chữ "làn da tạo hóa" được viết bằng font chữ thường màu trắng, mềm mại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai chữ cái "N" lớn, đơn giản, đối xứng
+- Kiểu chữ: Sans-serif đậm cho chữ cái chính, script thường cho slogan
+- Bảng màu: Trắng trên nền màu be/nâu nhạt
+- Nền: Màu be/nâu nhạt, mềm mại, có texture nhẹ
+- Phong cách: Tối giản, hiện đại, sạch sẽ
+- Tông điệu: Nhẹ nhàng, tự nhiên, ấm áp
+
+---
+
+Visual Description:
+The logo displays two large white "N" letters placed side by side, forming the initials "NN". Below is the text "làn da tạo hóa" written in lowercase white font with a soft, flowing style.
+
+Design Elements:
+- Shape: Two large "N" letters, simple and symmetrical
+- Typography: Bold sans-serif for main letters, script lowercase for tagline
+- Color Palette: White text on beige/light brown background
+- Background: Soft beige/light brown with subtle texture
+- Style: Minimalist, modern, clean
+- Mood: Gentle, natural, warm

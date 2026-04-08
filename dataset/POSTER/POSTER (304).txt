@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "Cheese" được viết bằng kiểu chữ nghệ thuật màu vàng nổi bật. Chữ có hình dáng mềm mại, cong tròn giống như phô mai tan chảy trên nền tím đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết tay có đường cong mềm mại, bo tròn
+- Kiểu chữ: Script font nghệ thuật, kiểu chữ viết tay
+- Bảng màu: Vàng (chữ) và tím đậm (nền)
+- Nền: Tím đậm, phẳng
+- Phong cách: Hiện đại, thân thiện, tối giản
+- Tông điệu: Vui tươi, ấm áp, hấp dẫn
+
+---
+
+Visual Description:
+The logo features the word "Cheese" written in bright yellow artistic lettering. The text has a soft, curved appearance resembling melted cheese against a deep purple background.
+
+Design Elements:
+- Shape: Handwritten cursive letters with soft, rounded curves
+- Typography: Artistic script font, handwritten style
+- Color Palette: Yellow (text) and deep purple (background)
+- Background: Deep purple, flat
+- Style: Modern, friendly, minimalist
+- Mood: Playful, warm, appetizing

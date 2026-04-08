@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "POLLO Sabroso" với chữ "POLLO" màu xanh đậm và "Sabroso" cùng màu ở dưới. Có các điểm trang trí màu đỏ xung quanh chữ "POLLO" tạo hiệu ứng năng động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết ngang với các điểm trang trí tròn
+- Kiểu chữ: Font sans-serif đậm, bo tròn cho "Sabroso", chữ in hoa cho "POLLO"
+- Bảng màu: Xanh navy chủ đạo, đỏ làm điểm nhấn
+- Nền: Nền trắng/xám nhạt
+- Phong cách: Hiện đại, thân thiện, ẩm thực
+- Tông điệu: Năng động, appetizing, dễ tiếp cận
+
+---
+
+Visual Description:
+The logo displays the brand name "POLLO Sabroso" with "POLLO" in dark navy and "Sabroso" in the same color below. Red decorative dots surround the word "POLLO" creating a dynamic effect.
+
+Design Elements:
+- Shape: Horizontal text layout with circular decorative elements
+- Typography: Bold sans-serif font, rounded for "Sabroso", uppercase for "POLLO"
+- Color Palette: Navy blue dominant, red accent colors
+- Background: White/light gray background
+- Style: Modern, friendly, food service
+- Mood: Dynamic, appetizing, approachable

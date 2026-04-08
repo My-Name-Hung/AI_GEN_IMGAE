@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với chữ "NHA SĨ TIẾN" màu trắng nổi bật trên nền xanh navy đậm. Bên dưới tên chính có dòng chữ nhỏ "phòng khám nha khoa" viết bằng tiếng Việt không dấu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với viền vàng mỏng
+- Kiểu chữ: Sans-serif hiện đại, chữ hoa cho tên chính
+- Bảng màu: Xanh navy, trắng, vàng gold
+- Nền: Xanh navy đậm với viền vàng
+- Phong cách: Tối giản, chuyên nghiệp, y tế
+- Tông điệu: Tin cậy, nghiêm túc, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a simple design with white text "NHA SĨ TIẾN" prominently displayed on a dark navy blue background. Below the main name is smaller text reading "phòng khám nha khoa" in Vietnamese without diacritics.
+
+Design Elements:
+- Shape: Square format with thin gold border
+- Typography: Modern sans-serif, uppercase for main name
+- Color Palette: Navy blue, white, gold
+- Background: Solid dark navy blue with gold frame
+- Style: Minimalist, professional, medical
+- Mood: Trustworthy, serious, professional

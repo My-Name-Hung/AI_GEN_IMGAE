@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng xoáy tròn với các sắc độ xanh lam và xanh lục ở bên trái. Bên cạnh là dòng chữ "vestream" được viết bằng font chữ hiện đại, màu trắng trên nền tím đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng xoáy tròn động và chữ viết thẳng hàng
+- Kiểu chữ: Sans-serif hiện đại, in thường, đơn giản
+- Bảng màu: Gradient xanh lam-xanh lục, chữ trắng, nền tím đậm
+- Nền: Nền tím đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features a circular swirl icon in blue and teal gradients positioned to the left. Next to it is the text "vestream" rendered in modern white typography against a dark purple background.
+
+Design Elements:
+- Shape: Dynamic circular swirl icon with aligned text
+- Typography: Modern sans-serif, lowercase, clean
+- Color Palette: Blue-to-teal gradient, white text, dark purple background
+- Background: Solid dark purple
+- Style: Modern, minimalist, tech-focused
+- Mood: Professional, dynamic, innovative

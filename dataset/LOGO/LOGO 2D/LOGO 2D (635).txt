@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một ký hiệu âm nhạc khoá sol màu vàng đồng trên năm dòng kẻ nhạc. Phía dưới là tên "Dần Dòng Dao" được viết bằng font chữ serif thanh lịch màu trắng, kèm theo dòng chữ nhỏ "NGHỆ SĨ NHẠC JAZZ" bằng màu vàng đồng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ký hiệu khoá sol và năm dòng kẻ nhạc
+- Kiểu chữ: Serif cổ điển, thanh lịch
+- Bảng màu: Đen, trắng, vàng đồng
+- Nền: Đen hoàn toàn
+- Phong cách: Cổ điển, tối giản, âm nhạc
+- Tông điệu: Sang trọng, nghệ thuật, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a golden treble clef symbol positioned on five musical staff lines. Below this is the name "Dần Dòng Dao" written in elegant white serif font, accompanied by smaller golden text reading "NGHỆ SĨ NHẠC JAZZ".
+
+Design Elements:
+- Shape: Treble clef symbol and musical staff lines
+- Typography: Classical serif, elegant
+- Color Palette: Black, white, golden bronze
+- Background: Solid black
+- Style: Classical, minimalist, musical
+- Mood: Sophisticated, artistic, professional

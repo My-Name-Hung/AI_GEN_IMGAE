@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn màu xanh lá cây với văn bản màu trắng ở trung tâm. Phía sau có các đường kẻ chéo mảnh tạo hiệu ứng bóng đổ hoặc họa tiết trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn chính với các đường kẻ chéo phía sau
+- Kiểu chữ: Chữ sans-serif đơn giản, màu trắng
+- Bảng màu: Xanh lá cây chính, trắng cho văn bản, be/kem cho nền
+- Nền: Màu be/kem nhạt
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Tự nhiên, ấm áp, gần gũi
+
+---
+
+Visual Description:
+The logo features a green circular shape with white text in the center reading "Vecto & Việt" and a tagline below. Behind the circle are thin diagonal lines creating a shadow or decorative pattern effect.
+
+Design Elements:
+- Shape: Main circle with diagonal line pattern behind
+- Typography: Simple sans-serif font in white
+- Color Palette: Olive/sage green primary, white text, cream background
+- Background: Light cream/beige
+- Style: Minimalist, modern, friendly
+- Mood: Natural, warm, approachable

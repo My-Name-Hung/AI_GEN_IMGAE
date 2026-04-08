@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "BS. PHAN MAI LAN" bằng chữ trắng in hoa trên nền xanh dương gradient. Bên trái có biểu tượng hình chữ thập y tế màu xanh nhạt kết hợp với hình dạng oval, kèm theo dòng chữ phụ "Bác sĩ gia đình tại khu dân cư của bạn" bằng font nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng chữ thập y tế và hình oval, bố cục ngang
+- Kiểu chữ: Sans-serif hiện đại, in hoa cho tên chính
+- Bảng màu: Xanh dương đậm, xanh nhạt, trắng
+- Nền: Gradient xanh dương với các hình tròn mờ
+- Phong cách: Y tế, chuyên nghiệp, hiện đại
+- Tông điệu: Tin cậy, chăm sóc, thân thiện
+
+---
+
+Visual Description:
+The logo displays "BS. PHAN MAI LAN" in white capital letters on a blue gradient background. On the left is a light blue medical cross icon combined with an oval shape, accompanied by smaller subtitle text "Bác sĩ gia đình tại khu dân cư của bạn" in a smaller font.
+
+Design Elements:
+- Shape: Medical cross and oval icon, horizontal layout
+- Typography: Modern sans-serif, uppercase for main name
+- Color Palette: Deep blue, light blue, white
+- Background: Blue gradient with soft circular elements
+- Style: Medical, professional, modern
+- Mood: Trustworthy, caring, approachable

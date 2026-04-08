@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng tách cà phê màu trắng với hơi nước bốc lên được đặt trong hình vuông bo góc màu cam nhạt. Bên cạnh là dòng chữ "TRUNG NGUYEN" bằng font chữ hiện đại màu trắng, kèm theo dòng chữ nhỏ hơn bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông bo góc chứa icon tách cà phê
+- Kiểu chữ: Font sans-serif hiện đại, in hoa cho tên thương hiệu
+- Bảng màu: Cam nhạt, trắng trên nền be/hồng nhạt
+- Nền: Màu be/hồng nhạt đồng nhất
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Ấm áp, gần gũi, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a white coffee cup icon with steam rising from it, placed within a rounded square in soft orange color. Next to it is "TRUNG NGUYEN" text in modern white typography, with smaller subtitle text below.
+
+Design Elements:
+- Shape: Rounded square container with coffee cup icon
+- Typography: Modern sans-serif font, uppercase for brand name
+- Color Palette: Soft orange, white on beige/peachy background
+- Background: Uniform beige/peachy tone
+- Style: Minimalist, modern, approachable
+- Mood: Warm, friendly, professional

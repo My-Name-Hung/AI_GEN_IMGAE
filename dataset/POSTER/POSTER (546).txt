@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "MJ Technical" với thiết kế đơn giản và chuyên nghiệp. Phần "MJ" được thể hiện bằng hai chữ cái viết hoa màu xanh navy đậm, trong khi "Technical" được viết bằng chữ thường nhỏ hơn ở bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo chữ ngang với cấu trúc hai tầng
+- Kiểu chữ: Sans-serif hiện đại, đơn giản và dễ đọc
+- Bảng màu: Xanh navy đậm
+- Nền: Trong suốt/trắng
+- Phong cách: Tối giản, hiện đại, doanh nghiệp
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, công nghiệp
+
+---
+
+Visual Description:
+The logo displays "MJ Technical" with a simple and professional design. The "MJ" portion is shown in bold navy blue capital letters, while "Technical" is written in smaller lowercase text below.
+
+Design Elements:
+- Shape: Horizontal text-based logo with two-tier structure
+- Typography: Modern, clean sans-serif font that's easily readable
+- Color Palette: Deep navy blue
+- Background: Transparent/white
+- Style: Minimalist, modern, corporate
+- Mood: Professional, trustworthy, industrial

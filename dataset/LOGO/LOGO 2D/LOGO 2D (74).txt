@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng giọt nước được stylized với các đường nét góc cạnh tạo thành hình kim cương. Bên trong là một mê cung xoắn ốc phức tạp với các đường line song song tạo chiều sâu và chuyển động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Giọt nước/kim cương với mê cung xoắn ốc bên trong
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trắng đơn sắc
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Bí ẩn, phức tạp, tinh tế
+
+---
+
+Visual Description:
+The logo features a stylized water drop or diamond shape with angular lines. Inside is a complex spiral maze with parallel lines that create depth and a sense of movement.
+
+Design Elements:
+- Shape: Water drop/diamond with internal spiral maze
+- Typography: None (icon only)
+- Color Palette: Monochromatic black and white
+- Background: White/transparent
+- Style: Minimalist, geometric, modern
+- Mood: Mysterious, complex, sophisticated

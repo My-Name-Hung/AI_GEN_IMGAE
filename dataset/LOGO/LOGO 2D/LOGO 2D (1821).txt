@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng nhà thờ đơn giản với ba cổng vòm và một cây thánh giá ở giữa. Thiết kế sử dụng màu trắng trên nền gradient từ xanh dương đến xanh lá cây.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba cổng vòm đối xứng với thánh giá trung tâm, có bậc thang ở dưới
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng trên nền gradient xanh dương-xanh lá
+- Nền: Gradient màu từ xanh dương sang xanh lá cây
+- Phong cách: Tối giản, biểu tượng, hiện đại
+- Tông điệu: Trang nghiêm, thanh bình, tâm linh
+
+---
+
+Visual Description:
+The logo displays a simple church icon featuring three arched doorways with a cross in the center arch. The design uses white coloring on a blue-to-green gradient background.
+
+Design Elements:
+- Shape: Three symmetrical arched doorways with central cross and steps below
+- Typography: None (icon only)
+- Color Palette: White on blue-to-green gradient
+- Background: Blue to green gradient
+- Style: Minimalist, symbolic, modern
+- Mood: Sacred, peaceful, spiritual

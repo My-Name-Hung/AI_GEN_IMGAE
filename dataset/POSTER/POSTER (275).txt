@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một xe đua Công thức 1 màu đen và cam được đặt trên một con đường vàng cam kéo dài về phía chân trời. Phía sau xe có chữ "MONACO" được sắp xếp theo chiều dọc bằng font chữ in hoa màu đen, tạo thành một tháp chữ ấn tượng trên bầu trời hoàng hôn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Xe đua F1 làm trung tâm, đường đua kéo dài, chữ xếp dọc
+- Kiểu chữ: Font sans-serif in hoa, đậm, xếp dọc
+- Bảng màu: Cam, vàng, đen, xanh dương nhạt
+- Nền: Bầu trời hoàng hôn với mây
+- Phong cách: Poster thể thao, hiện đại, năng động
+- Tông điệu: Hào hứng, tốc độ, danh giá
+
+---
+
+Visual Description:
+The logo features a black and orange Formula 1 race car positioned on a golden-orange road stretching toward the horizon. Behind the car, the word "MONACO" is arranged vertically in black capital letters, creating an impressive typographic tower against a sunset sky.
+
+Design Elements:
+- Shape: F1 race car as centerpiece, extending road, vertical text arrangement
+- Typography: Bold sans-serif capitals, vertically stacked
+- Color Palette: Orange, yellow, black, light blue
+- Background: Sunset sky with clouds
+- Style: Sports poster, modern, dynamic
+- Mood: Exciting, speed, prestige

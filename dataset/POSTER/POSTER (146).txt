@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "drink" được viết bằng kiểu chữ sans-serif đơn giản, màu đen trên nền trắng. Bên dưới chữ "drink" có hình ảnh một chiếc ly uống nước stylized với hai ống hút nhô ra phía trên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng kết hợp với biểu tượng ly uống và ống hút
+- Kiểu chữ: Sans-serif đơn giản, chữ thường
+- Bảng màu: Đen trắng tối giản
+- Nền: Trắng sạch
+- Phong cách: Tối giản, hiện đại, đơn giản
+- Tông điệu: Sạch sẽ, thân thiện, dễ tiếp cận
+
+---
+
+Visual Description:
+The logo features the word "drink" written in simple black sans-serif lowercase letters on a white background. Below the text is a stylized illustration of a drinking glass with two straws extending upward from it.
+
+Design Elements:
+- Shape: Text-based with geometric glass and straw icon
+- Typography: Simple sans-serif lowercase letters
+- Color Palette: Black and white monochrome
+- Background: Clean white
+- Style: Minimalist, modern, simple
+- Mood: Clean, friendly, approachable

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "HAGERT" bằng chữ in hoa màu trắng đậm trên nền tối. Bên trái tên thương hiệu có một biểu tượng đơn giản gồm hai hình chữ nhật màu đỏ xếp chồng lên nhau tạo thành hình vuông.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học đơn giản gồm hai khối chữ nhật màu đỏ
+- Kiểu chữ: Chữ sans-serif đậm, in hoa, hiện đại
+- Bảng màu: Đỏ, trắng và xám đen
+- Nền: Nền xám đen tối
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays the brand name "HAGERT" in bold white uppercase letters against a dark background. To the left of the brand name is a simple icon consisting of two red rectangles stacked to form a square shape.
+
+Design Elements:
+- Shape: Simple geometric icon with two red rectangular blocks
+- Typography: Bold, uppercase sans-serif font, modern
+- Color Palette: Red, white, and dark gray
+- Background: Dark gray background
+- Style: Minimalist, modern, tech-oriented
+- Mood: Professional, strong, reliable

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng mắt cách điệu với đồng tử màu cam/vàng và các tia sáng xung quanh, kết hợp với chữ "QUANG NHÃN" bằng font chữ hiện đại. Bên dưới có dòng chữ phụ nhỏ hơn mô tả về chuyên khoa mắt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng mắt với tia sáng, thiết kế đơn giản và hiện đại
+- Kiểu chữ: Font sans-serif in hoa, thanh mảnh và rõ ràng
+- Bảng màu: Cam/vàng cho biểu tượng, trắng cho chữ
+- Nền: Đen tối
+- Phong cách: Tối giản, hiện đại, y tế
+- Tông điệu: Chuyên nghiệp, tin cậy, ấm áp
+
+---
+
+Visual Description:
+The logo features a stylized eye icon with an orange/yellow pupil surrounded by radiating light rays, combined with the text "QUANG NHÃN" in modern typography. Below is smaller descriptive text about eye specialty.
+
+Design Elements:
+- Shape: Eye symbol with light rays, simple and modern design
+- Typography: Sans-serif uppercase font, clean and clear
+- Color Palette: Orange/yellow for icon, white for text
+- Background: Dark black
+- Style: Minimalist, modern, medical
+- Mood: Professional, trustworthy, warm

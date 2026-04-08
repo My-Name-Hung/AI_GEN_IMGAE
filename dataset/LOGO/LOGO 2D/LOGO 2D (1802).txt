@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình chiếc vương miện đơn giản màu đen với ba đỉnh nhọn, được đặt trên nền màu vàng đồng. Bên dưới vương miện là dòng chữ "ROYAL BEARD" in hoa với font chữ đậm, và dòng chữ nhỏ hơn "barbershop" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vương miện đơn giản với ba đỉnh tam giác
+- Kiểu chữ: Font sans-serif đậm cho tên thương hiệu, font nhỏ hơn cho "barbershop"
+- Bảng màu: Đen và vàng đồng/nâu vàng
+- Nền: Màu vàng đồng đồng nhất
+- Phong cách: Tối giản, hiện đại, tinh tế
+- Tông điệu: Sang trọng, nam tính, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a simple black crown icon with three pointed peaks positioned on a golden bronze background. Below the crown is the text "ROYAL BEARD" in bold uppercase letters, with smaller text "barbershop" underneath.
+
+Design Elements:
+- Shape: Simple crown with three triangular peaks
+- Typography: Bold sans-serif for brand name, smaller font for "barbershop"
+- Color Palette: Black and golden bronze/amber
+- Background: Solid golden bronze
+- Style: Minimalist, modern, refined
+- Mood: Luxurious, masculine, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình trái tim màu cam/đỏ gradient được bao quanh bởi các đường sóng âm thanh màu trắng ở hai bên. Bên cạnh là chữ "FOXMUSIC" được viết bằng font chữ hiện đại, màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Trái tim gradient với sóng âm thanh, bố cục ngang
+- Kiểu chữ: Sans-serif hiện đại, in hoa, màu trắng
+- Bảng màu: Tím đậm, cam đỏ gradient, trắng
+- Nền: Tím đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Năng động, sáng tạo, âm nhạc
+
+---
+
+Visual Description:
+The logo features an orange-to-red gradient heart shape flanked by white audio waveform lines on both sides. Next to it is the text "FOXMUSIC" rendered in modern white typography.
+
+Design Elements:
+- Shape: Gradient heart with audio waves, horizontal layout
+- Typography: Modern sans-serif, uppercase, white
+- Color Palette: Deep purple, orange-red gradient, white
+- Background: Solid deep purple
+- Style: Modern, minimalist, tech-inspired
+- Mood: Dynamic, creative, musical

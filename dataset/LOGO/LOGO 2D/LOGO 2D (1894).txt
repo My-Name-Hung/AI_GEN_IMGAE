@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Đức tin" bằng chữ màu xám đậm trên nền be nhạt. Bên dưới có dòng chữ phụ "Trung tâm Thờ cúng & Tâm linh" với font chữ nhỏ hơn và màu nhạt hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ đơn giản, căn giữa
+- Kiểu chữ: Font chữ hiện đại, không chân, đơn giản và dễ đọc
+- Bảng màu: Xám đậm cho tên chính, xám nhạt cho slogan
+- Nền: Màu be/kem nhạt
+- Phong cách: Tối giản, thanh lịch, chuyên nghiệp
+- Tông điệu: Nghiêm trang, tĩnh lặng, tâm linh
+
+---
+
+Visual Description:
+The logo displays the brand name "Đức tin" in dark gray text on a light beige background. Below it is the tagline "Trung tâm Thờ cúng & Tâm linh" in smaller, lighter gray text.
+
+Design Elements:
+- Shape: Simple text layout, center-aligned
+- Typography: Modern sans-serif font, clean and readable
+- Color Palette: Dark gray for main text, light gray for tagline
+- Background: Light beige/cream color
+- Style: Minimalist, elegant, professional
+- Mood: Solemn, peaceful, spiritual

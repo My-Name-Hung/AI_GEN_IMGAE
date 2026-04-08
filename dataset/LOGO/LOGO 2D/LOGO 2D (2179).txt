@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có một hình vuông viền trắng chứa chữ "A" màu trắng được thiết kế với nét cắt tam giác nhỏ ở giữa. Bên dưới là dòng chữ "HỌC VIỆN" được sắp xếp với khoảng cách đều giữa các ký tự.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông có viền và chữ cái đơn lẻ
+- Kiểu chữ: Sans-serif đơn giản, chữ hoa, font mảnh cho text phụ
+- Bảng màu: Trắng trên nền xám tối
+- Nền: Màu xám đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, học thuật
+- Tông điệu: Chuyên nghiệp, trang trọng, giáo dục
+
+---
+
+Visual Description:
+The logo features a white-bordered square containing a white letter "A" with a small triangular cutout in the center. Below the square is the text "HỌC VIỆN" displayed with even letter spacing.
+
+Design Elements:
+- Shape: Square frame with single letter
+- Typography: Simple sans-serif, uppercase, thin font for subtitle text
+- Color Palette: White on dark gray
+- Background: Solid dark gray
+- Style: Minimalist, modern, academic
+- Mood: Professional, formal, educational

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình kim cương được tạo thành từ nhiều mảnh hình học đa giác ghép lại với nhau. Các mảnh có màu sắc rực rỡ bao gồm xanh dương, vàng, tím, hồng và xanh lá tạo thành một viên kim cương stylized trên nền tím đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Kim cương/viên đá quý được tạo từ các mảnh đa giác ghép nối
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient đầy màu sắc với xanh dương, vàng, tím, hồng, xanh lá trên nền tím đậm
+- Nền: Tím đậm/tím than
+- Phong cách: Hiện đại, geometric, gradient, đa sắc
+- Tông điệu: Sáng tạo, năng động, chuyên nghiệp, công nghệ
+
+---
+
+Visual Description:
+The logo features a diamond shape constructed from multiple geometric polygonal pieces fitted together. The pieces display vibrant colors including blue, yellow, purple, pink, and teal that form a stylized diamond gem on a dark purple background.
+
+Design Elements:
+- Shape: Diamond/gemstone formed from interconnected polygonal segments
+- Typography: None (icon only)
+- Color Palette: Vibrant multi-color gradient with blue, yellow, purple, pink, teal on dark purple background
+- Background: Dark purple/deep purple
+- Style: Modern, geometric, gradient, multicolored
+- Mood: Creative, dynamic, professional, tech-forward

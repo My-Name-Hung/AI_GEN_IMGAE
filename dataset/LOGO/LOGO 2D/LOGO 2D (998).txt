@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học đơn giản với hai hình dạng - một hình tròn màu tím và một hình chữ nhật bo góc màu đỏ/hồng. Bên cạnh biểu tượng là chữ "apptap" được viết bằng font chữ hiện đại, màu xám đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn và hình chữ nhật bo góc kết hợp, tạo thành biểu tượng tối giản
+- Kiểu chữ: Font sans-serif hiện đại, đơn giản, chữ thường
+- Bảng màu: Tím, đỏ/hồng và xám đậm
+- Nền: Nền trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Chuyên nghiệp, năng động, thân thiện
+
+---
+
+Visual Description:
+The logo features a simple geometric icon consisting of two shapes - a purple circle and a red/pink rounded rectangle positioned adjacent to each other. Next to the icon is the text "apptap" written in a modern, dark gray typeface.
+
+Design Elements:
+- Shape: Combination of circle and rounded rectangle forming a minimalist geometric icon
+- Typography: Modern sans-serif font, simple and lowercase
+- Color Palette: Purple, red/pink, and dark gray
+- Background: White/transparent
+- Style: Minimalist, modern, geometric
+- Mood: Professional, dynamic, friendly

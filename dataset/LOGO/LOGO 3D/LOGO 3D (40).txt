@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo Firefox được thể hiện dưới dạng biểu tượng 3D trên một khối vuông màu trắng có các góc bo tròn. Hình ảnh con cáo lửa với các sắc màu gradient từ đỏ, cam đến xanh dương và vàng tạo thành hình dạng xoắn ốc đặc trưng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông 3D bo góc với biểu tượng cáo lửa xoắn ốc
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient đỏ, cam, xanh dương, vàng trên nền trắng
+- Nền: Màu cam tươi
+- Phong cách: 3D hiện đại, gradient mềm mại, thiết kế app icon
+- Tông điệu: Năng động, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The Firefox logo is presented as a 3D icon on a white rounded square block. The fire fox image features gradient colors flowing from red and orange to blue and yellow, forming the characteristic spiral shape.
+
+Design Elements:
+- Shape: 3D rounded square block with spiral fox fire icon
+- Typography: None (icon only)
+- Color Palette: Red, orange, blue, yellow gradients on white background
+- Background: Bright orange
+- Style: 3D modern, soft gradients, app icon design
+- Mood: Dynamic, creative, technological

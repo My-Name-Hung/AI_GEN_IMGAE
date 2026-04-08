@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "SUPER SALE" được thiết kế với hiệu ứng 3D nổi bật trên nền đỏ có tia sáng tỏa ra từ phía sau. Có một nhãn nhỏ ở góc trên bên trái với văn bản "BEST OFFER" và dòng chữ nhỏ ở dưới cùng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ 3D có độ dày, hiệu ứng chiều sâu với đường viền
+- Kiểu chữ: Font chữ đậm, sans-serif với hiệu ứng 3D
+- Bảng màu: Đỏ, vàng, cam với hiệu ứng ánh sáng
+- Nền: Đỏ gradient với tia sáng tỏa tròn
+- Phong cách: Hiện đại, 3D, quảng cáo thương mại
+- Tông điệu: Hấp dẫn, năng động, thu hút sự chú ý
+
+---
+
+Visual Description:
+The logo features "SUPER SALE" text designed with prominent 3D effects on a red background with radiating light rays. There's a small "BEST OFFER" label in the top left corner and small text at the bottom.
+
+Design Elements:
+- Shape: 3D dimensional text with depth, shadow and outline effects
+- Typography: Bold, sans-serif font with 3D styling
+- Color Palette: Red, yellow, orange with lighting effects
+- Background: Red gradient with radial light burst
+- Style: Modern, 3D, commercial advertising
+- Mood: Attractive, dynamic, attention-grabbing

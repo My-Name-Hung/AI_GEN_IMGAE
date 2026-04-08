@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một biểu tượng đám mây được tạo thành từ ba hình tròn chồng lên nhau. Mỗi hình tròn có màu sắc gradient khác nhau, tạo nên hiệu ứng màu sắc sống động và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình tròn chồng lấp tạo thành hình đám mây
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient tím, xanh dương/cyan, cam/vàng
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, gradient, tối giản
+- Tông điệu: Sáng tạo, công nghệ, thân thiện
+
+---
+
+Visual Description:
+The logo depicts a cloud icon formed by three overlapping circles. Each circle features a different gradient color scheme, creating a vibrant and modern color effect.
+
+Design Elements:
+- Shape: Three overlapping circles forming a cloud shape
+- Typography: None (icon only)
+- Color Palette: Purple, blue/cyan, orange/yellow gradients
+- Background: White/transparent
+- Style: Modern, gradient, minimalist
+- Mood: Creative, technological, friendly

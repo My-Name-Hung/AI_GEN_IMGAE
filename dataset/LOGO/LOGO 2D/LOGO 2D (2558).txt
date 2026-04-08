@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Sài Thành" bằng chữ màu đỏ san hô với kiểu chữ hiện đại, sạch sẽ. Bên dưới có dòng chữ phụ "QUÁN ĂN BÌNH DÂN" được viết bằng chữ in hoa màu xanh dương nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Typography logo dạng chữ ngang, bố cục đối xứng
+- Kiểu chữ: Chữ sans-serif hiện đại, đơn giản cho tên chính, chữ in hoa nhỏ hơn cho slogan
+- Bảng màu: Đỏ san hô cho tên chính, xanh dương nhạt cho slogan
+- Nền: Màu hồng nhạt/be
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Ấm áp, gần gũi, bình dân
+
+---
+
+Visual Description:
+The logo displays "Sài Thành" in coral red text with a modern, clean typeface. Below it features the subtitle "QUÁN ĂN BÌNH DÂN" written in smaller light blue capital letters.
+
+Design Elements:
+- Shape: Horizontal typography logo with symmetrical layout
+- Typography: Modern sans-serif for main name, smaller capitals for tagline
+- Color Palette: Coral red for main text, light blue for subtitle
+- Background: Light pink/beige
+- Style: Minimalist, modern, approachable
+- Mood: Warm, friendly, down-to-earth

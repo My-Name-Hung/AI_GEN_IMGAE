@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "vitami" được viết bằng chữ thường màu trắng, với biểu tượng dấu cộng trong hình tròn màu xanh lam nhạt ở phía trước. Bên dưới có dòng chữ phụ "THỰC PHẨM CHỨC NĂNG" màu xanh lam nhạt trên nền gradient tím đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng dấu cộng trong hình tròn kết hợp với typography đơn giản
+- Kiểu chữ: Sans-serif hiện đại, chữ thường, clean và dễ đọc
+- Bảng màu: Tím gradient làm nền, trắng cho chữ chính, xanh lam nhạt cho icon và tagline
+- Nền: Gradient tím từ đậm đến nhạt
+- Phong cách: Tối giản, y tế, chuyên nghiệp
+- Tông điệu: Tin cậy, sức khỏe, hiện đại
+
+---
+
+Visual Description:
+The logo displays the brand name "vitami" in lowercase white letters, with a light blue circular plus sign icon positioned before the text. Below is the tagline "THỰC PHẨM CHỨC NĂNG" in light blue on a deep purple gradient background.
+
+Design Elements:
+- Shape: Circular plus sign icon combined with clean typography
+- Typography: Modern sans-serif, lowercase, clean and readable
+- Color Palette: Purple gradient background, white for main text, light blue for icon and tagline
+- Background: Purple gradient from dark to light
+- Style: Minimalist, medical, professional
+- Mood: Trustworthy, health-focused, modern

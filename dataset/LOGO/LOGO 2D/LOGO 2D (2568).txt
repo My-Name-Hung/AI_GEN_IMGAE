@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng hình chữ thập y tế được cách điệu với các đường cong mềm mại và một mũi tên chéo chạy qua trung tâm. Bên dưới là tên thương hiệu "AN NAM" và dòng chữ phụ "TRUNG TÂM Y TẾ" được sắp xếp gọn gàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ thập y tế cách điệu với các góc bo tròn và mũi tên đường chéo
+- Kiểu chữ: Sans-serif hiện đại, đơn giản, chữ in hoa
+- Bảng màu: Trắng trên nền xanh lá cây đậm
+- Nền: Màu xanh lá cây đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, y tế
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, chăm sóc sức khỏe
+
+---
+
+Visual Description:
+The logo features a stylized medical cross symbol with curved, rounded edges and a diagonal arrow running through its center. Below the symbol is the brand name "AN NAM" with the subtitle "TRUNG TÂM Y TẾ" arranged neatly underneath.
+
+Design Elements:
+- Shape: Stylized medical cross with rounded corners and diagonal arrow element
+- Typography: Modern sans-serif, simple, uppercase letters
+- Color Palette: White on dark green background
+- Background: Solid dark green
+- Style: Minimalist, modern, medical
+- Mood: Professional, trustworthy, healthcare-focused

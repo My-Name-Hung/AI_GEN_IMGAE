@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng ngôi nhà stylized với gradient màu sắc rực rỡ ở bên trái và text "Homcrypto" ở bên phải. Biểu tượng nhà có thiết kế hiện đại với các đường nét mềm mại và màu sắc chuyển tiếp từ cam sang tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon ngôi nhà đơn giản hóa với đường nét cong mềm mại
+- Kiểu chữ: Sans-serif hiện đại, "Hom" màu xanh navy đậm, "crypto" màu gradient cam-tím
+- Bảng màu: Gradient từ cam/vàng qua tím/hồng, xanh navy
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, tech-forward
+- Tông điệu: Chuyên nghiệp, năng động, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a stylized house icon with vibrant gradient colors on the left side and the text "Homcrypto" on the right. The house symbol has a modern design with smooth curves and colors transitioning from orange to purple.
+
+Design Elements:
+- Shape: Simplified house icon with soft curved lines
+- Typography: Modern sans-serif, "Hom" in dark navy blue, "crypto" in orange-purple gradient
+- Color Palette: Gradient from orange/yellow to purple/pink, navy blue
+- Background: White/transparent
+- Style: Modern, minimalist, tech-forward
+- Mood: Professional, dynamic, trustworthy

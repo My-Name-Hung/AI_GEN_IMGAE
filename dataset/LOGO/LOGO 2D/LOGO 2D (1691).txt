@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một chiếc khiên bảo vệ màu xanh dương với hình ảnh một con tàu thủy bên trong. Con tàu được minh họa một cách đơn giản với thân tàu và ống khói, được bao quanh bởi các đường sóng nước stylized ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khiên bảo vệ với các cạnh bo tròn, chứa biểu tượng tàu thủy và sóng nước
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương đậm làm chủ đạo với nền trắng
+- Nền: Nền trắng/trong suốt
+- Phong cách: Minimalist, flat design, biểu tượng vector
+- Tông điệu: Chuyên nghiệp, an toàn, đáng tin cậy, bảo vệ
+
+---
+
+Visual Description:
+The logo displays a blue shield with a ship icon inside. The ship is illustrated simply with a hull and smokestack, surrounded by stylized water waves at the bottom.
+
+Design Elements:
+- Shape: Shield with rounded edges containing a ship and wave symbols
+- Typography: None (icon only)
+- Color Palette: Deep blue as primary color with white background
+- Background: White/transparent background
+- Style: Minimalist, flat design, vector icon
+- Mood: Professional, secure, trustworthy, protective

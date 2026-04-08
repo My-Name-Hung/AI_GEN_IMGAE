@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "JOBIKA" bằng chữ in hoa màu trắng trên nền xanh dương. Phía trên bên trái có biểu tượng tài liệu/CV nhỏ màu trắng, và dưới tên thương hiệu có dòng chữ slogan "UNLOCK YOURSELF".
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái in hoa thẳng, icon tài liệu vuông góc
+- Kiểu chữ: Sans-serif hiện đại, đơn giản, chữ in hoa
+- Bảng màu: Trắng và xanh dương
+- Nền: Màu xanh dương đồng nhất
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Đáng tin cậy, chuyên nghiệp, rõ ràng
+
+---
+
+Visual Description:
+The logo displays the brand name "JOBIKA" in white capital letters on a blue background. There's a small white document/CV icon positioned above and to the left, with the tagline "UNLOCK YOURSELF" beneath the brand name.
+
+Design Elements:
+- Shape: Straight capital letters, rectangular document icon
+- Typography: Modern sans-serif, clean, all caps
+- Color Palette: White and blue
+- Background: Solid blue
+- Style: Minimalist, professional, modern
+- Mood: Trustworthy, professional, clear

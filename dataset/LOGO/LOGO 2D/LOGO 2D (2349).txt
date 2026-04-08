@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình oval màu cam/đỏ nổi bật trên nền tím xanh. Văn bản "GIAO HANG AN TOAN" được sắp xếp thành 3 dòng với font chữ in hoa màu trắng, rõ ràng và dễ đọc.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình oval/ellipse bo tròn
+- Kiểu chữ: Font sans-serif in hoa, đậm, rõ ràng
+- Bảng màu: Cam/đỏ chủ đạo, chữ trắng, nền tím xanh
+- Nền: Màu tím xanh (violet/purple)
+- Phong cách: Đơn giản, hiện đại, tối giản
+- Tông điệu: Chuyên nghiệp, an toàn, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a bright orange/red oval shape on a purple-blue background. The text "GIAO HANG AN TOAN" is arranged in three lines using white uppercase letters that are clear and easily readable.
+
+Design Elements:
+- Shape: Rounded oval/ellipse
+- Typography: Bold sans-serif uppercase font, clean and legible
+- Color Palette: Orange/red primary, white text, purple-blue background
+- Background: Purple-blue (violet) solid color
+- Style: Simple, modern, minimalist
+- Mood: Professional, safe, trustworthy

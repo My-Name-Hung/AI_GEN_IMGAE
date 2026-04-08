@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với biểu tượng trừu tượng ở trung tâm, bao gồm các đường thẳng và điểm tạo thành hình dạng giống như sơ đồ hoặc mạch điện tử. Bên dưới là tên thương hiệu "ТЕХНОМАРТ" được viết bằng font chữ hiện đại với các ký tự đặc biệt, kèm theo dòng text mô tả bằng tiếng Nga.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng trừu tượng với đường thẳng và điểm, tạo cảm giác công nghệ
+- Kiểu chữ: Font sans-serif hiện đại, có sử dụng ký tự đặc biệt (dấu × thay cho X)
+- Bảng màu: Đen trên nền xanh dương sáng
+- Nền: Màu xanh dương gradient từ sáng đến đậm hơn
+- Phong cách: Tối giản, công nghệ, hiện đại
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo features a minimalist abstract symbol at the center, composed of straight lines and dots forming a pattern resembling a diagram or electronic circuit. Below is the brand name "ТЕХНОМАРТ" written in a modern font with special characters, accompanied by descriptive text in Russian.
+
+Design Elements:
+- Shape: Abstract symbol with lines and dots creating a technological feel
+- Typography: Modern sans-serif font with special character usage (× replacing X)
+- Color Palette: Black on bright blue background
+- Background: Blue gradient from light to darker shade
+- Style: Minimalist, technological, modern
+- Mood: Professional, innovative, dynamic

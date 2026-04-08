@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng ở bên trái được tạo thành từ các khối đa giác màu xanh và hồng xếp chồng lên nhau. Bên cạnh là dòng chữ "DigiSynth" được viết bằng font sans-serif hiện đại với màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối đa giác trừu tượng, hình học
+- Kiểu chữ: Sans-serif hiện đại, đậm
+- Bảng màu: Xanh dương, hồng/đỏ cam, đen
+- Nền: Trắng, trong suốt
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Công nghệ, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon on the left composed of overlapping polygonal shapes in blue and pink/coral colors. Next to it is the text "DigiSynth" written in a modern sans-serif typeface in black.
+
+Design Elements:
+- Shape: Abstract polygonal blocks, geometric
+- Typography: Modern sans-serif, bold weight
+- Color Palette: Blue, pink/coral, black
+- Background: White, transparent
+- Style: Modern, minimalist, geometric
+- Mood: Technological, dynamic, creative

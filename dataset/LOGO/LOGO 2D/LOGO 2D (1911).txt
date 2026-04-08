@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Cát Anh" bằng chữ đậm màu đen với một dấu phẩy màu vàng nổi bật trên chữ "á". Bên dưới có dòng chữ nhỏ "DỊCH VỤ TRANG WEB" bằng font chữ mảnh hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết với điểm nhấn màu vàng hình chữ nhật nhỏ
+- Kiểu chữ: Font sans-serif đậm cho tên chính, font mảnh cho tagline
+- Bảng màu: Đen và vàng cam
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, chuyên nghiệp
+- Tông điệu: Tin cậy, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo displays the brand name "Cát Anh" in bold black letters with a distinctive yellow accent mark above the "á". Below is smaller text reading "DỊCH VỤ TRANG WEB" in a lighter font weight.
+
+Design Elements:
+- Shape: Typography-based with small rectangular yellow accent
+- Typography: Bold sans-serif for main name, lighter weight for tagline
+- Color Palette: Black and orange-yellow
+- Background: White/transparent
+- Style: Modern, minimalist, professional
+- Mood: Trustworthy, dynamic, tech-oriented

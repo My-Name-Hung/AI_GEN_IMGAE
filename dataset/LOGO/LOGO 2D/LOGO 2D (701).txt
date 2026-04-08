@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ngôi nhà màu xanh lá cây với silhouette người đang lau dọn bên trong. Phía trên có dòng chữ "NHÀ XANH" bằng font chữ in hoa màu xanh dương, và phía dưới có dòng chữ nhỏ "DỊCH VỤ DƠN DẸP" cũng màu xanh dương.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ngôi nhà cách điệu với đường viền tròn, có hình người và thiết bị dọn dẹp
+- Kiểu chữ: Font sans-serif in hoa cho tên chính, chữ thường cho slogan
+- Bảng màu: Xanh lá cây chủ đạo cho icon, xanh dương cho text
+- Nền: Trắng trong suốt với các điểm nhấn ngôi sao nhỏ
+- Phong cách: Hiện đại, thân thiện, biểu tượng rõ ràng
+- Tông điệu: Sạch sẽ, chuyên nghiệp, gần gũi
+
+---
+
+Visual Description:
+The logo features a green house icon with a silhouette of a person cleaning inside. Above it displays "NHÀ XANH" in blue capital letters, and below shows "DỊCH VỤ DƠN DẸP" in smaller blue text.
+
+Design Elements:
+- Shape: Stylized house with curved outline containing cleaning figure and equipment
+- Typography: Sans-serif capitals for main name, lowercase for tagline
+- Color Palette: Dominant green for icon, blue for text elements
+- Background: Clean white with small decorative star accents
+- Style: Modern, friendly, clear symbolic representation
+- Mood: Clean, professional, approachable

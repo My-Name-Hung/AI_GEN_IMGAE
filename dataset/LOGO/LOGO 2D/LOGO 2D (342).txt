@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "MiSA BiTEZ" với kiểu chữ bold, được thiết kế trong hình dạng oval màu vàng với các hiệu ứng giọt chảy. Dòng chữ "Don't Miss A Bite" được đặt bên dưới làm slogan, cùng với ký hiệu đăng ký thương hiệu ở góc phải.
+
+Yếu tố Thiết kế:
+- Hình dạng: Oval màu vàng với hiệu ứng splash và giọt chảy
+- Kiểu chữ: Font chữ bold, chunky với đường viền đen dày
+- Bảng màu: Vàng chủ đạo, đen cho viền chữ và chi tiết, trắng cho nền
+- Nền: Nền trắng sạch
+- Phong cách: Cartoon, vui nhộn, hiện đại
+- Tông điệu: Năng động, thân thiện, hấp dẫn
+
+---
+
+Visual Description:
+The logo displays "MiSA BiTEZ" in bold lettering within a yellow oval shape with dripping effects. The tagline "Don't Miss A Bite" appears below, along with a registered trademark symbol in the upper right.
+
+Design Elements:
+- Shape: Yellow oval with splash and dripping effects
+- Typography: Bold, chunky font with thick black outlines
+- Color Palette: Dominant yellow, black outlines and details, white background
+- Background: Clean white background
+- Style: Cartoon, playful, modern
+- Mood: Dynamic, friendly, appetizing

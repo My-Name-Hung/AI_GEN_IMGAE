@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một khối hình vuông bo tròn màu trắng với biểu tượng đám mây stylized màu đỏ ở trung tâm. Khối này được thiết kế 3D với hiệu ứng bóng đổ, tạo cảm giác nổi bật trên nền đỏ tươi.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông bo tròn 3D với icon đám mây cách điệu
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đỏ và trắng tương phản
+- Nền: Màu đỏ gradient từ sáng đến tối
+- Phong cách: Hiện đại, tối giản, 3D isometric
+- Tông điệu: Năng động, chuyên nghiệp, công nghệ
+
+---
+
+Visual Description:
+The logo displays a white rounded square block with a stylized red cloud icon at its center. This block is designed in 3D with shadow effects, creating a prominent appearance against a bright red background.
+
+Design Elements:
+- Shape: 3D rounded square block with stylized cloud icon
+- Typography: None (icon only)
+- Color Palette: Contrasting red and white
+- Background: Red gradient from light to dark
+- Style: Modern, minimalist, 3D isometric
+- Mood: Dynamic, professional, technological

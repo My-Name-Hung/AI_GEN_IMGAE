@@ -19,7 +19,7 @@ class GenerateRequest(BaseModel):
     negative_prompt: Optional[str] = Field(default="low quality, blurry, distorted", max_length=500)
     width: int = Field(default=1024, ge=256, le=1024)
     height: int = Field(default=1024, ge=256, le=1024)
-    num_inference_steps: int = Field(default=4, ge=1, le=20)
+    num_inference_steps: int = Field(default=4, ge=1, le=50)
     guidance_scale: float = Field(default=0.0, ge=0.0, le=20.0)
     seed: Optional[int] = Field(default=None)
     num_images: int = Field(default=1, ge=1, le=4)

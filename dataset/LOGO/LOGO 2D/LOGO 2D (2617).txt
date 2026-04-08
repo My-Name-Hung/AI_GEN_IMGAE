@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng màu hồng pastel ở bên trái có hình dạng giống như một nhân vật hoặc chữ cái cách điệu. Bên phải là dòng chữ "Vuong Phi" bằng font chữ đậm màu đen, kèm theo dòng chữ nhỏ hơn "Đăng ký Kinh doanh" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng trừu tượng màu hồng, chữ cái được sắp xếp theo chiều ngang
+- Kiểu chữ: Font sans-serif đậm cho tên chính, font thường cho tagline
+- Bảng màu: Hồng pastel và đen
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, thân thiện
+- Tông điệu: Chuyên nghiệp nhưng gần gũi, ấm áp
+
+---
+
+Visual Description:
+The logo features a pastel pink abstract icon on the left that resembles a stylized figure or character. To the right is the text "Vuong Phi" in bold black font, with smaller text "Đăng ký Kinh doanh" positioned below.
+
+Design Elements:
+- Shape: Abstract pink symbol, horizontal text layout
+- Typography: Bold sans-serif for main name, regular weight for tagline
+- Color Palette: Pastel pink and black
+- Background: White/transparent
+- Style: Modern, minimalist, friendly
+- Mood: Professional yet approachable, warm

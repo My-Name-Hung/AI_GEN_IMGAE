@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "TÓC MÂY" bằng chữ trắng thanh lịch trên nền xanh đậm. Phía trên có một biểu tượng hình tròn màu hồng/tím và dưới có dòng slogan "Thẩm mỹ viện nam nữ" bằng chữ nhỏ màu hồng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn trang trí, bố cục dọc đối xứng
+- Kiểu chữ: Font serif thanh lịch cho tên chính, font nhỏ đơn giản cho slogan
+- Bảng màu: Trắng, hồng/tím, xanh navy đậm
+- Nền: Màu xanh navy đậm, đồng nhất
+- Phong cách: Tối giản, thanh lịch, chuyên nghiệp
+- Tông điệu: Sang trọng, tinh tế, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays the brand name "TÓC MÂY" in elegant white text on a dark navy background. Above it is a pink/purple circular decorative icon, and below is the tagline "Thẩm mỹ viện nam nữ" in smaller pink text.
+
+Design Elements:
+- Shape: Circular decorative icon, vertical symmetrical layout
+- Typography: Elegant serif font for main name, simple small font for tagline
+- Color Palette: White, pink/purple, dark navy blue
+- Background: Solid dark navy blue
+- Style: Minimalist, elegant, professional
+- Mood: Luxurious, refined, trustworthy

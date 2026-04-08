@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Loan & Manh" được sắp xếp thành hai dòng với kiểu chữ serif cổ điển. Bên dưới có dòng chữ "NHÓM THIẾT KẾ" được viết bằng chữ in hoa với kích thước nhỏ hơn và màu sắc khác biệt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục văn bản đơn giản, sắp xếp theo chiều dọc
+- Kiểu chữ: Serif cổ điển cho tên chính, sans-serif cho tagline
+- Bảng màu: Xanh navy đậm cho tên chính, đỏ cam nhạt cho tagline
+- Nền: Trắng, trong suốt
+- Phong cách: Tối giản, chuyên nghiệp, cổ điển
+- Tông điệu: Thanh lịch, đáng tin cậy, tinh tế
+
+---
+
+Visual Description:
+The logo displays the brand name "Loan & Manh" arranged in two lines with classic serif typography. Below it features the text "NHÓM THIẾT KẾ" written in smaller uppercase letters with a different color scheme.
+
+Design Elements:
+- Shape: Simple text-based layout, vertically arranged
+- Typography: Classic serif for main name, sans-serif for tagline
+- Color Palette: Deep navy blue for main name, light coral/orange for tagline
+- Background: White, transparent
+- Style: Minimalist, professional, classic
+- Mood: Elegant, trustworthy, sophisticated

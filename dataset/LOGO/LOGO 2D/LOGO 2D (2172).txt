@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng huy hiệu màu cam-vàng nổi bật trên nền tím. Văn bản "Thái Viên" được hiển thị bằng chữ trắng ở trung tâm, kèm theo dòng chữ nhỏ hơn "TINH HOA ẨM THỰC" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Huy hiệu có cạnh răng cưa với viền chấm tròn trang trí
+- Kiểu chữ: Font chữ serif thanh lịch cho tên chính, font sans-serif cho slogan
+- Bảng màu: Cam-vàng gradient, trắng, tím đậm
+- Nền: Nền tím đậm đồng nhất
+- Phong cách: Cổ điển, trang trọng, mang tính truyền thống
+- Tông điệu: Sang trọng, ấm áp, tin cậy
+
+---
+
+Visual Description:
+The logo features a prominent orange-yellow badge shape against a purple background. The text "Thái Viên" is displayed in white at the center, accompanied by smaller text "TINH HOA ẨM THỰC" below it.
+
+Design Elements:
+- Shape: Scalloped-edge badge with decorative dotted border
+- Typography: Elegant serif font for main name, sans-serif for tagline
+- Color Palette: Orange-yellow gradient, white, deep purple
+- Background: Solid deep purple background
+- Style: Classic, formal, traditional
+- Mood: Premium, warm, trustworthy

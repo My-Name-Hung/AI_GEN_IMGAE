@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một nhân vật cướp biển với băng che mắt và khăn trùm đầu, đang cầm một cốc bia bọt trắng ở tay trái và một chai ở tay phải. Nhân vật có nụ cười nham hiểm và được đặt trong một khung tròn màu đỏ với văn bản tiếng Nga bao quanh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với nhân vật cướp biển ở trung tâm
+- Kiểu chữ: Font chữ Sans-serif đậm, viết hoa cho text tiếng Nga
+- Bảng màu: Đỏ, nâu đậm, be/kem, trắng
+- Nền: Màu be cổ điển với texture nhăn nheo
+- Phong cách: Vintage, retro, phong cách Nga/Xô Viết
+- Tông điệu: Vui tươi, táo bạo, mạnh mẽ
+
+---
+
+Visual Description:
+The logo depicts a pirate character with an eyepatch and headscarf, holding a frothy beer mug in his left hand and a bottle in his right hand. The character has a mischievous grin and is set within a red circular frame with Russian text surrounding it.
+
+Design Elements:
+- Shape: Circular with centered pirate character
+- Typography: Bold sans-serif uppercase lettering for Russian text
+- Color Palette: Red, dark brown, beige/cream, white
+- Background: Vintage beige with distressed texture
+- Style: Vintage, retro, Russian/Soviet-inspired
+- Mood: Playful, bold, spirited

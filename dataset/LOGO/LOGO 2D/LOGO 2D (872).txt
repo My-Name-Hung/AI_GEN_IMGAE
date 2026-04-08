@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm hình ảnh một chiếc xe máy thể thao màu đen với các chi tiết màu cam và trắng ở phía bên trái. Bên cạnh là chữ "MOTOTEE" với phần "MOTO" màu đen và "TEE" màu cam nổi bật.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon xe máy thể thao kết hợp với chữ nằm ngang
+- Kiểu chữ: Font chữ đậm, hiện đại, không chân
+- Bảng màu: Đen, cam, trắng
+- Nền: Nền trắng trong suốt
+- Phong cách: Hiện đại, thể thao, năng động
+- Tông điệu: Mạnh mẽ, tốc độ, năng lượng
+
+---
+
+Visual Description:
+The logo features a black sport motorcycle icon with orange and white accent details on the left side. Next to it is the text "MOTOTEE" with "MOTO" in black and "TEE" highlighted in orange.
+
+Design Elements:
+- Shape: Sport motorcycle icon combined with horizontal text
+- Typography: Bold, modern, sans-serif font
+- Color Palette: Black, orange, white
+- Background: Transparent white background
+- Style: Modern, sporty, dynamic
+- Mood: Powerful, speed, energetic

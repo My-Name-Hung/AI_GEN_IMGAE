@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ba hình vuông màu cam với các sắc độ khác nhau được sắp xếp theo hình chữ T. Hình vuông trên cùng bên trái có màu cam nhạt, bên phải có màu cam đậm, và hình vuông dưới cùng có màu cam trung bình.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình vuông sắp xếp thành hình chữ T
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Các sắc độ cam từ nhạt đến đậm
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Năng động, sáng tạo, thân thiện
+
+---
+
+Visual Description:
+The logo displays three orange squares in different shades arranged in a T-shape formation. The top-left square is light orange, the top-right square is dark orange, and the bottom square is medium orange.
+
+Design Elements:
+- Shape: Three squares arranged in T-formation
+- Typography: None (icon only)
+- Color Palette: Orange gradient from light to dark shades
+- Background: White/transparent
+- Style: Minimalist, geometric, modern
+- Mood: Dynamic, creative, friendly

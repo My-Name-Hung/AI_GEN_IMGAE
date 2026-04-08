@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với 9 hình tròn được sắp xếp thành lưới 3x3. Phần trên có 3 hình tròn đen, hàng giữa và dưới có hình tròn đỏ ở hai bên và hình tròn đen ở giữa.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chín hình tròn sắp xếp theo lưới vuông, tạo thành ký hiệu trừu tượng
+- Kiểu chữ: Chữ in hoa sans-serif đậm cho tiêu đề chính, chữ thường nhỏ hơn cho dòng phụ
+- Bảng màu: Đen, đỏ cam sáng và nền trắng
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Năng động, rõ ràng, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a simple design with 9 circles arranged in a 3x3 grid pattern. The top row contains 3 black circles, while the middle and bottom rows have bright red circles on the sides with black circles in the center.
+
+Design Elements:
+- Shape: Nine circles arranged in a square grid formation, creating an abstract symbol
+- Typography: Bold sans-serif capitals for main title, smaller lowercase text for subtitle
+- Color Palette: Black, bright red-orange, and white background
+- Background: Clean white background
+- Style: Minimalist, geometric, modern
+- Mood: Dynamic, clear, professional

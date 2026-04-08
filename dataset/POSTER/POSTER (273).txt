@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị text "BLACK FRIDAY SALE" với chữ "BLACK" và "FRIDAY" được tô màu gradient đầy màu sắc, trong khi "SALE" có màu trắng nổi bật. Bên dưới có thông tin khuyến mãi "UP TO 70% OFF" với phông chữ lớn màu vàng trên nền đỏ trang trí với các phần tử hình học.
+
+Yếu tố Thiết kế:
+- Hình dạng: Text chính được đặt trong vòng tròn đen, có các hình tròn và đa giác trang trí xung quanh
+- Kiểu chữ: Font chữ sans-serif đậm, hiện đại với hiệu ứng gradient và bóng đổ
+- Bảng màu: Đỏ, vàng, đen, trắng với gradient đầy màu sắc cho text chính
+- Nền: Nền đỏ với các yếu tố hình học trang trí màu vàng và cam
+- Phong cách: Hiện đại, năng động, quảng cáo thương mại
+- Tông điệu: Hấp dẫn, khuyến khích mua sắm, thu hút
+
+---
+
+Visual Description:
+The logo displays "BLACK FRIDAY SALE" text with "BLACK" and "FRIDAY" rendered in colorful gradient effects, while "SALE" appears in prominent white lettering. Below features promotional text "UP TO 70% OFF" in large yellow font on a red background decorated with geometric elements.
+
+Design Elements:
+- Shape: Main text placed within black circle, surrounded by decorative circles and polygonal shapes
+- Typography: Bold, modern sans-serif font with gradient effects and drop shadows
+- Color Palette: Red, yellow, black, white with colorful gradients on main text
+- Background: Red background with decorative geometric elements in yellow and orange
+- Style: Modern, dynamic, commercial advertising
+- Mood: Attractive, shopping-encouraging, eye-catching

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình trái tim màu trắng được đặt bên trong phần đầu tròn của một hình quân cờ. Thiết kế kết hợp giữa biểu tượng trái tim và hình dạng quân cờ tạo nên một logo đơn giản nhưng ấn tượng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Quân cờ với đầu tròn chứa trái tim trắng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đỏ đậm và trắng
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, biểu tượng, phẳng
+- Tông điệu: Ấm áp, tích cực, chiến lược
+
+---
+
+Visual Description:
+The logo features a white heart symbol positioned within the circular head of a chess piece silhouette. The design cleverly combines the heart icon with the recognizable shape of a chess piece, creating a simple yet memorable logo.
+
+Design Elements:
+- Shape: Chess piece with circular head containing white heart
+- Typography: None (icon only)
+- Color Palette: Deep red and white
+- Background: White/transparent
+- Style: Minimalist, symbolic, flat
+- Mood: Warm, positive, strategic

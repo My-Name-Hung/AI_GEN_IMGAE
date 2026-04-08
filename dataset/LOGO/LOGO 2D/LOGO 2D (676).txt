@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "macheni" được viết bằng chữ thường với kiểu chữ hiện đại, sạch sẽ. Bên dưới có dòng chữ "MOVITATION" được viết bằng chữ hoa với kích thước nhỏ hơn và có khoảng cách giữa các ký tự.
+
+Yếu tố Thiết kế:
+- Hình dạng: Thiết kế chữ ngang, bố cục đơn giản và cân bằng
+- Kiểu chữ: Sans-serif hiện đại, chữ thường cho tên chính, chữ hoa cho slogan
+- Bảng màu: Đen trên nền trắng, đơn sắc
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Thanh lịch, tinh tế, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays the brand name "macheni" in lowercase letters using a clean, modern typeface. Below it, the word "MOVITATION" appears in smaller uppercase letters with letter spacing.
+
+Design Elements:
+- Shape: Horizontal text layout with simple, balanced composition
+- Typography: Modern sans-serif, lowercase for main name, uppercase for tagline
+- Color Palette: Black on white, monochromatic
+- Background: Clean white background
+- Style: Minimalist, modern, professional
+- Mood: Elegant, sophisticated, trustworthy

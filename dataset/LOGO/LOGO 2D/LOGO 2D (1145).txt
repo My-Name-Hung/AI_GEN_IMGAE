@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "UNLOCKING POTENTIAL" được sắp xếp thành hai dòng với chữ "UNLOCKING" ở trên và "POTENTIAL" ở dưới. Có một biểu tượng ổ khóa màu vàng được tích hợp vào chữ "n" trong từ "UNLOCKING" và chữ "O" trong từ "POTENTIAL".
+
+Yếu tố Thiết kế:
+- Hình dạng: Văn bản phẳng với biểu tượng ổ khóa tròn
+- Kiểu chữ: Sans-serif hiện đại, in hoa, đậm
+- Bảng màu: Đen chủ đạo với điểm nhấn vàng/cam
+- Nền: Trong suốt/trắng
+- Phong cách: Tối giản, hiện đại, doanh nghiệp
+- Tông điệu: Chuyên nghiệp, tích cực, năng động
+
+---
+
+Visual Description:
+The logo displays the text "UNLOCKING POTENTIAL" arranged in two lines with "UNLOCKING" above and "POTENTIAL" below. A yellow padlock icon is integrated into the letter "n" in "UNLOCKING" and the "O" in "POTENTIAL".
+
+Design Elements:
+- Shape: Flat text with circular padlock symbol
+- Typography: Modern sans-serif, uppercase, bold weight
+- Color Palette: Predominantly black with yellow/orange accent
+- Background: Transparent/white
+- Style: Minimalist, modern, corporate
+- Mood: Professional, positive, dynamic

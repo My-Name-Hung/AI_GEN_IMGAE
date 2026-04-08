@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng vương miện được stylized với các đường nét mảnh, tạo thành hình dạng hình học đơn giản và hiện đại. Bên dưới là tên thương hiệu "FANSEE" được viết bằng hai ngôn ngữ - tiếng Ả Rập ở trên và tiếng Anh ở dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vương miện stylized với các đường thẳng tạo thành hình tam giác và cung tròn
+- Kiểu chữ: Font chữ sans-serif đậm, in hoa cho phần tiếng Anh
+- Bảng màu: Trắng trên nền đen
+- Nền: Nền đen đồng nhất
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Sang trọng, quyền lực, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a stylized crown icon created with thin, geometric lines forming a modern and simplified crown shape. Below the icon is the brand name "FANSEE" written in both Arabic script above and English below.
+
+Design Elements:
+- Shape: Stylized crown with straight lines forming triangular and curved elements
+- Typography: Bold sans-serif font, uppercase for English text
+- Color Palette: White on black
+- Background: Solid black background
+- Style: Minimalist, modern, geometric
+- Mood: Luxurious, powerful, professional

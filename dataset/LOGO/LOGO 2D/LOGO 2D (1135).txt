@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng trừu tượng được tạo thành từ các đường cong uốn lượn, tạo thành hình dáng giống như chữ "S" hoặc ký hiệu vô cực được cách điệu. Bên dưới là tên công ty "P&S ADVOGADOS" với dòng chữ phụ "ASSOCIADOS" được gạch chân.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng trừu tượng với đường cong uốn lượn, gradient từ vàng sang trắng
+- Kiểu chữ: Font chữ sans-serif hiện đại, in hoa, màu trắng
+- Bảng màu: Vàng, trắng trên nền đen
+- Nền: Nền đen thuần túy
+- Phong cách: Hiện đại, tối giản, chuyên nghiệp
+- Tông điệu: Sang trọng, uy tín, tinh tế
+
+---
+
+Visual Description:
+The logo features an abstract symbol composed of flowing curved lines that form an "S"-like shape or stylized infinity symbol with a gradient effect. Below is the company name "P&S ADVOGADOS" with the subtitle "ASSOCIADOS" underlined.
+
+Design Elements:
+- Shape: Abstract curved symbol with flowing lines, gradient from yellow to white
+- Typography: Modern sans-serif font, uppercase, white color
+- Color Palette: Yellow, white on black background
+- Background: Pure black background
+- Style: Modern, minimalist, professional
+- Mood: Luxurious, authoritative, sophisticated

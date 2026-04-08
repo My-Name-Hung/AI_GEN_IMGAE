@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình tròn màu hồng coral chứa hình ảnh stylized của một con rồng hoặc quetzal cuộn tròn bên trong. Bên dưới là tên thương hiệu "PUEBLO" được viết bằng font chữ hiện đại với tagline "mexican cuisine".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn chính với biểu tượng động vật stylized cuộn tròn, chữ cái có góc cạnh
+- Kiểu chữ: Font sans-serif hiện đại, đậm, có các chi tiết góc cạnh độc đáo
+- Bảng màu: Xanh lam teal làm nền, hồng coral cho hình tròn và chữ
+- Nền: Nền đặc màu xanh lam teal
+- Phong cách: Hiện đại, tối giản, nghệ thuật Mexico truyền thống
+- Tông điệu: Ấm áp, thân thiện, văn hóa, tinh tế
+
+---
+
+Visual Description:
+The logo features a circular coral pink emblem containing a stylized dragon or quetzal bird coiled within the circle. Below is the brand name "PUEBLO" written in a modern font with the tagline "mexican cuisine".
+
+Design Elements:
+- Shape: Main circular emblem with stylized coiled animal figure, angular letterforms
+- Typography: Modern sans-serif font, bold weight with distinctive angular details
+- Color Palette: Teal blue background, coral pink for circle and text
+- Background: Solid teal blue background
+- Style: Modern, minimalist, traditional Mexican art influence
+- Mood: Warm, friendly, cultural, sophisticated

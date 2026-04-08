@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một con cua được cách điệu với hình dạng hình học đơn giản. Thân cua được tạo thành từ hình kim cương màu cam gradient, với các móng cua được biểu diễn bằng các hình bán nguyệt màu vàng cam ở hai bên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình kim cương trung tâm với các hình bán nguyệt và hình tròn
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng, cam, và các tông gradient từ vàng đến cam
+- Nền: Màu be nhạt/kem
+- Phong cách: Tối giản, hình học, phẳng, hiện đại
+- Tông điệu: Vui tươi, thân thiện, ấm áp, năng động
+
+---
+
+Visual Description:
+The logo depicts a stylized crab rendered in simple geometric shapes. The crab's body is formed by an orange gradient diamond shape, with claws represented by yellow-orange crescent shapes on either side.
+
+Design Elements:
+- Shape: Central diamond with crescents and circles
+- Typography: None (icon only)
+- Color Palette: Yellow, orange, and gradient tones from yellow to orange
+- Background: Light beige/cream
+- Style: Minimalist, geometric, flat, modern
+- Mood: Playful, friendly, warm, energetic

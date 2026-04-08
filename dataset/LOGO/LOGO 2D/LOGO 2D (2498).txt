@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một chiếc cốc cà phê đơn giản với đường nét mảnh màu trắng, có tay cầm ở bên phải và ba đường gợn sóng nhỏ phía trên thể hiện hơi nóng. Bên dưới là dòng chữ "CHỦ CHỒN" bằng font chữ in hoa đậm, kèm theo dòng chữ nhỏ hơn "CÀ PHÊ RANG XAY".
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng cốc cà phê tối giản với đường viền mảnh
+- Kiểu chữ: Font sans-serif in hoa đậm cho tên thương hiệu, font nhỏ hơn cho slogan
+- Bảng màu: Nền nâu đất, chữ và icon màu trắng
+- Nền: Màu nâu đất đồng nhất
+- Phong cách: Tối giản, hiện đại, đường nét mảnh
+- Tông điệu: Ấm áp, thân thiện, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a simple white coffee cup icon with thin line art, showing a handle on the right side and three small wavy lines above representing steam. Below is the text "CHỦ CHỒN" in bold capital letters, followed by smaller text reading "CÀ PHÊ RANG XAY".
+
+Design Elements:
+- Shape: Minimalist coffee cup icon with thin outline
+- Typography: Bold sans-serif capitals for brand name, smaller font for tagline
+- Color Palette: Earth brown background with white text and icon
+- Background: Solid earth brown color
+- Style: Minimalist, modern, thin line art
+- Mood: Warm, friendly, professional

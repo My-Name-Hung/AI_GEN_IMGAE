@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một hạt cà phê được cách điệu hóa màu trắng trên nền nâu. Hạt cà phê có đường nứt ở giữa được biểu diễn bằng các đường cong mềm mại, tạo nên hình dáng đặc trưng của hạt cà phê rang.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình oval cách điệu với đường nứt ở giữa tạo thành biểu tượng hạt cà phê
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng và nâu (tông màu cà phê)
+- Nền: Nền nâu đồng nhất
+- Phong cách: Tối giản, hiện đại, biểu tượng hóa
+- Tông điệu: Ấm áp, thân thiện, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a stylized white coffee bean icon against a brown background. The coffee bean is represented with its characteristic center crack depicted through smooth curved lines, creating the recognizable shape of a roasted coffee bean.
+
+Design Elements:
+- Shape: Stylized oval with center crack forming a coffee bean symbol
+- Typography: None (icon only)
+- Color Palette: White and brown (coffee tones)
+- Background: Solid brown background
+- Style: Minimalist, modern, iconographic
+- Mood: Warm, friendly, professional

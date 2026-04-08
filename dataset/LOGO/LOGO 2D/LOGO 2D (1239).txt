@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "M" được tạo thành từ các hình tam giác hình học với gradient màu xanh. Thiết kế có cấu trúc đối xứng với các tam giác chồng lấp tạo thành hình chữ cái một cách stylized.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ "M" được cấu thành từ các tam giác hình học
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient xanh dương từ nhạt đến đậm
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Chuyên nghiệp, công nghệ, tin cậy
+
+---
+
+Visual Description:
+The logo displays the letter "M" formed by geometric triangular shapes with a blue gradient. The design features a symmetrical structure with overlapping triangles that create a stylized letter form.
+
+Design Elements:
+- Shape: Letter "M" constructed from geometric triangles
+- Typography: None (icon only)
+- Color Palette: Blue gradient from light to dark blue
+- Background: White/transparent
+- Style: Modern, minimalist, geometric
+- Mood: Professional, technological, trustworthy

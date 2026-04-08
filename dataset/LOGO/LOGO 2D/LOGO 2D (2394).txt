@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm ba hình tam giác chồng lên nhau tạo thành hình núi cách điệu với các sắc thái xanh lá khác nhau. Bên dưới là dòng chữ "KIẾN TRÚC VIỆT" được viết bằng font chữ đậm màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba tam giác chồng lấp tạo hình núi hoặc mái nhà
+- Kiểu chữ: Font sans-serif đậm, in hoa
+- Bảng màu: Xanh lá đậm và xanh lá nhạt, chữ đen
+- Nền: Nền trắng
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, tự nhiên, bền vững
+
+---
+
+Visual Description:
+The logo features three overlapping triangles in different shades of green that form a stylized mountain or architectural peak design. Below the symbol is the text "KIẾN TRÚC VIỆT" written in bold black typography.
+
+Design Elements:
+- Shape: Three overlapping triangles forming mountain/roof-like structure
+- Typography: Bold sans-serif font in uppercase
+- Color Palette: Dark green, light green, and black
+- Background: White background
+- Style: Minimalist, modern, geometric
+- Mood: Professional, natural, sustainable

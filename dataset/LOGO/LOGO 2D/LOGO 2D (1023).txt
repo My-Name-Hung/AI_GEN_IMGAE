@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một cốc bia màu vàng với bọt trắng ở trên đỉnh, được đặt ở trung tâm. Xung quanh cốc bia có các chữ cái Cyrillic được sắp xếp theo hình tròn tạo thành một khung viền.
+
+Yếu tố Thiết kế:
+- Hình dạng: Cốc bia hình thang với bọt bia, được bao quanh bởi text hình tròn
+- Kiểu chữ: Font chữ đậm, kiểu sans-serif với các ký tự Cyrillic
+- Bảng màu: Vàng chủ đạo cho bia, đen cho text và đường viền, trắng cho bọt bia
+- Nền: Màu be/kem nhạt
+- Phong cách: Đơn giản, biểu tượng, phong cách vintage
+- Tông điệu: Thân thiện, truyền thống, mời gọi
+
+---
+
+Visual Description:
+The logo features a yellow beer glass with white foam at the top, positioned at the center. Cyrillic letters are arranged in a circular pattern around the beer glass, forming a border frame.
+
+Design Elements:
+- Shape: Trapezoidal beer glass with foam, surrounded by circular text
+- Typography: Bold, sans-serif font with Cyrillic characters
+- Color Palette: Dominant yellow for beer, black for text and outlines, white for foam
+- Background: Light beige/cream color
+- Style: Simple, iconic, vintage-inspired
+- Mood: Friendly, traditional, inviting

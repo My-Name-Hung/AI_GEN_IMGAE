@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "gạo" được viết bằng kiểu chữ thảo mềm mại màu trắng, với hình tròn được tích hợp vào chữ "g" đầu tiên. Bên dưới có dòng chữ nhỏ "Bánh Răng Búa và Thành" làm slogan hoặc mô tả sản phẩm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ thảo với hình tròn tích hợp, thiết kế liền mạch
+- Kiểu chữ: Chữ thảo mềm mại, dòng phụ dùng font sans-serif đơn giản
+- Bảng màu: Trắng trên nền xanh lá cây đậm
+- Nền: Nền xanh lá cây với texture lá và thực vật mờ
+- Phong cách: Tối giản, thân thiện, tự nhiên
+- Tông điệu: Tươi mới, gần gũi, hữu cơ
+
+---
+
+Visual Description:
+The logo displays the word "gạo" (rice) written in soft, flowing white script lettering, with a circular element integrated into the first letter "g". Below is smaller text reading "Bánh Răng Búa và Thành" as a tagline or product description.
+
+Design Elements:
+- Shape: Script lettering with integrated circular element, seamless design
+- Typography: Soft script font with simple sans-serif secondary text
+- Color Palette: White on dark green background
+- Background: Dark green with blurred leaf and plant texture
+- Style: Minimalist, friendly, natural
+- Mood: Fresh, approachable, organic

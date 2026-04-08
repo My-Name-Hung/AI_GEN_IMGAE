@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng Gmail được thiết kế dạng 3D với hiệu ứng đổ bóng trên nền đỏ cam. Biểu tượng có hình dạng hộp thư màu trắng với phần mặt trước tạo thành hình chữ M đặc trưng của Gmail, sử dụng màu đỏ và xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình hộp 3D với góc cạnh bo tròn, tạo thành biểu tượng thư điện tử
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng, đỏ cam, xám bạc
+- Nền: Nền đỏ cam gradient
+- Phong cách: 3D, hiện đại, tối giản, có đổ bóng
+- Tông điệu: Năng động, chuyên nghiệp, công nghệ
+
+---
+
+Visual Description:
+The logo displays a 3D Gmail icon with shadow effects on an orange-red background. The icon features a white mailbox shape with the front face forming Gmail's characteristic "M" design, using red and gray colors.
+
+Design Elements:
+- Shape: 3D box form with rounded corners, forming an email envelope icon
+- Typography: None (icon only)
+- Color Palette: White, red-orange, silver-gray
+- Background: Orange-red gradient background
+- Style: 3D, modern, minimalist, with drop shadow
+- Mood: Dynamic, professional, technological

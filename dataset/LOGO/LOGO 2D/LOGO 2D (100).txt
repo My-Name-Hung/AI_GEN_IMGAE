@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một nhân vật hoạt hình hình đậu phộng đang chạy bộ với khuôn mặt vui vẻ. Nhân vật đeo giày thể thao và có vẻ năng động, được đặt trên nền hình tròn màu xanh ngọc bích.
+
+Yếu tố Thiết kế:
+- Hình dạng: Nhân vật đậu phộng hoạt hình với nền tròn
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Nâu vàng (đậu phộng), xanh ngọc bích (nền), trắng và đen (giày)
+- Nền: Hình tròn màu xanh ngọc bích
+- Phong cách: Hoạt hình, đơn giản, thân thiện
+- Tông điệu: Vui tươi, năng động, sức khỏe
+
+---
+
+Visual Description:
+The logo depicts a cartoon peanut character running with a cheerful expression. The character is wearing athletic shoes and appears energetic, set against a circular teal background.
+
+Design Elements:
+- Shape: Cartoon peanut character with circular background
+- Typography: None (icon only)
+- Color Palette: Golden brown (peanut), teal (background), white and black (shoes)
+- Background: Solid teal circle
+- Style: Cartoon, simple, friendly
+- Mood: Cheerful, energetic, health-focused

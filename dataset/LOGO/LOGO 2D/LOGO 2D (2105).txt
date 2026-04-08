@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế tối giản với tên "Song Hỷ" được đặt trong một khung chữ nhật viền trắng mỏng. Bên dưới có dòng chữ "ĐIỀU PHỐI TIỆC CƯỚI" được đặt trong một hộp nhỏ màu kem.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung chữ nhật đơn giản với viền mỏng
+- Kiểu chữ: Serif thanh lịch cho tên chính, sans-serif cho tagline
+- Bảng màu: Xanh rêu đậm làm nền, chữ màu kem/vàng nhạt
+- Nền: Màu xanh rêu đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Sang trọng, tinh tế, ấm cúng
+
+---
+
+Visual Description:
+The logo features a minimalist design with "Song Hỷ" placed within a thin white rectangular border frame. Below it, "ĐIỀU PHỐI TIỆC CƯỚI" appears in a small cream-colored box.
+
+Design Elements:
+- Shape: Simple rectangular frame with thin border
+- Typography: Elegant serif for main name, sans-serif for tagline
+- Color Palette: Deep forest green background, cream/pale yellow text
+- Background: Solid deep forest green
+- Style: Minimalist, modern, elegant
+- Mood: Sophisticated, refined, warm

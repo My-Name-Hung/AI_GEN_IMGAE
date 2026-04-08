@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh stylized của hai ngọn núi hoặc đồi trong một khung hình vuông màu trắng. Bên cạnh là tên thương hiệu "CÔ MAY" được viết bằng chữ in hoa màu trắng, với dòng chữ nhỏ hơn "CÔNG TY Ủ CÀ PHÊ" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon hình vuông chứa biểu tượng núi đồi stylized, kết hợp với text ngang
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa cho tên chính, chữ nhỏ hơn cho tagline
+- Bảng màu: Trắng trên nền xanh lục đậm/teal
+- Nền: Màu xanh lục đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, tự nhiên, tin cậy
+
+---
+
+Visual Description:
+The logo features a stylized icon of two mountains or hills contained within a white square frame. Next to it is the brand name "CÔ MAY" in white uppercase letters, with a smaller tagline "CÔNG TY Ủ CÀ PHÊ" below.
+
+Design Elements:
+- Shape: Square icon containing stylized mountain symbol, combined with horizontal text layout
+- Typography: Modern sans-serif, uppercase for main name, smaller text for tagline
+- Color Palette: White on dark teal/green background
+- Background: Solid dark teal/green
+- Style: Minimalist, modern, geometric
+- Mood: Professional, natural, trustworthy

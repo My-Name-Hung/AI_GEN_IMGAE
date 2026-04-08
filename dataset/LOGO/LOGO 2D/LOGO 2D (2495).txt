@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "NÔNG TRẠI" bằng chữ trắng đơn giản trên nền xanh lá cây tươi sáng. Bên phải có một hộp chữ nhật trắng chứa dòng chữ "QUAN BỒ NƯỚNG" bằng màu xám nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ ngang với hộp chữ nhật trắng làm điểm nhấn
+- Kiểu chữ: Font chữ sans-serif đơn giản, hiện đại, không có chân
+- Bảng màu: Xanh lá cây tươi sáng, trắng, xám nhạt
+- Nền: Nền xanh lá cây đồng nhất
+- Phong cách: Tối giản, hiện đại, rõ ràng
+- Tông điệu: Tự nhiên, tươi mới, thân thiện
+
+---
+
+Visual Description:
+The logo displays "NÔNG TRẠI" text in simple white letters on a bright green background. To the right, there's a white rectangular box containing "QUAN BỒ NƯỚNG" text in light gray color.
+
+Design Elements:
+- Shape: Horizontal text layout with white rectangular box as accent element
+- Typography: Simple, modern sans-serif font without serifs
+- Color Palette: Bright green, white, light gray
+- Background: Solid bright green background
+- Style: Minimalist, modern, clean
+- Mood: Natural, fresh, friendly

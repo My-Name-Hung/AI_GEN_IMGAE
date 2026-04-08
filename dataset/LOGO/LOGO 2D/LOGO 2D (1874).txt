@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình hoa có tám cánh hoa màu trắng được sắp xếp theo dạng hình tròn. Bên cạnh biểu tượng là dòng chữ "Wardiere Inc." với slogan "Healthcare and Medical" phía dưới, tất cả được đặt trên nền xanh dương đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hoa tám cánh hoa dạng hình tròn, kiểu dáng đối xứng
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa cho tên công ty, chữ thường cho slogan
+- Bảng màu: Trắng và xanh dương đậm
+- Nền: Xanh dương đậm đồng nhất
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Đáng tin cậy, y tế, sạch sẽ
+
+---
+
+Visual Description:
+The logo features a white floral icon with eight rounded petals arranged in a circular pattern. Next to the icon is "Wardiere Inc." text with "Healthcare and Medical" tagline below, all displayed on a solid royal blue background.
+
+Design Elements:
+- Shape: Eight-petal flower icon in circular formation, symmetrical design
+- Typography: Modern sans-serif, uppercase for company name, lowercase for tagline
+- Color Palette: White and royal blue
+- Background: Solid royal blue
+- Style: Minimalist, professional, modern
+- Mood: Trustworthy, medical, clean

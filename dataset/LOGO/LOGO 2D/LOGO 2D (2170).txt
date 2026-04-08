@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình chữ nhật màu đỏ nổi bật với dòng chữ "HÃY LÊN TIẾNG!" được viết bằng font chữ in hoa màu trắng. Phía dưới có một phần tam giác màu đen với chữ "Đức Minh" được viết nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật chính với góc tam giác ở dưới
+- Kiểu chữ: Font in hoa đậm, có độ nghiêng nhẹ, hiện đại
+- Bảng màu: Đỏ chủ đạo, trắng và đen
+- Nền: Màu đỏ tươi làm nền chính
+- Phong cách: Hiện đại, năng động, bold
+- Tông điệu: Mạnh mẽ, kích thích, thu hút sự chú ý
+
+---
+
+Visual Description:
+The logo features a prominent red rectangular banner with "HÃY LÊN TIẾNG!" written in bold white capital letters. Below it is a black triangular section containing smaller text "Đức Minh" in a more subtle presentation.
+
+Design Elements:
+- Shape: Main rectangle with triangular corner element
+- Typography: Bold, slightly italicized uppercase font, modern style
+- Color Palette: Primary red, white, and black
+- Background: Bright red as the main background
+- Style: Modern, dynamic, bold
+- Mood: Strong, motivational, attention-grabbing

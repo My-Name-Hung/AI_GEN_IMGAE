@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một ngôi nhà stylized với mái nhà cong màu cam đỏ và ống khói trắng ở giữa. Hai bên có các đường kẻ chéo màu cam tạo hiệu ứng tia sáng hoặc chuyển động, cùng với các cửa sổ nhỏ màu cam ở phần thân nhà.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ngôi nhà geometric với mái cong và các đường tia đối xứng
+- Kiểu chữ: Chữ script nhỏ màu đỏ cam ở dưới logo
+- Bảng màu: Cam đỏ, trắng
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, biểu tượng
+- Tông điệu: Ấm áp, năng động, thân thiện
+
+---
+
+Visual Description:
+The logo displays a stylized house with an orange-red curved roof and a white chimney in the center. On both sides are diagonal orange lines creating light ray or movement effects, along with small orange windows in the house body.
+
+Design Elements:
+- Shape: Geometric house with curved roof and symmetrical ray lines
+- Typography: Small orange-red script text below the logo
+- Color Palette: Orange-red, white
+- Background: White/transparent
+- Style: Modern, minimalist, symbolic
+- Mood: Warm, dynamic, friendly

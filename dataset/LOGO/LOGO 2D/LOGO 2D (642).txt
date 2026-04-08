@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Ánh Vy Nguyễn" được viết bằng chữ nghiêng màu trắng trên nền tối. Phía trên có một biểu tượng ngôi sao stylized với các tia sáng tỏa ra từ trung tâm. Dòng chữ nhỏ "NHIẾP ẢNH GIA" được đặt bên dưới tên chính.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng ngôi sao/ánh sáng với các tia sáng, layout dọc
+- Kiểu chữ: Chữ viết tay nghiêng cho tên chính, chữ in hoa đơn giản cho slogan
+- Bảng màu: Trắng trên nền tím đậm/xanh đen
+- Nền: Nền gradient tối từ tím đến xanh đen
+- Phong cách: Tối giản, hiện đại, cá nhân hóa
+- Tông điệu: Chuyên nghiệp, nghệ thuật, tinh tế
+
+---
+
+Visual Description:
+The logo displays "Ánh Vy Nguyễn" written in white italic script on a dark background. Above the name is a stylized star symbol with radiating light rays from the center. The tagline "NHIẾP ẢNH GIA" appears in smaller text below the main name.
+
+Design Elements:
+- Shape: Star/light symbol with radiating rays, vertical layout
+- Typography: Handwritten italic script for main name, simple caps for tagline
+- Color Palette: White on dark purple/navy gradient
+- Background: Dark gradient from purple to navy blue
+- Style: Minimalist, modern, personalized
+- Mood: Professional, artistic, elegant

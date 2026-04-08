@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng hình lục giác màu xanh navy với dòng chữ "nildem" màu trắng bên trong. Phía trên có các dải màu gradient từ vàng, cam đến đỏ tạo thành hình dạng uốn lượn như sóng hoặc ngọn lửa.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình lục giác với các cạnh cong mềm mại
+- Kiểu chữ: Chữ sans-serif đơn giản, hiện đại, có dấu ® 
+- Bảng màu: Xanh navy chủ đạo, gradient vàng-cam-đỏ, chữ trắng
+- Nền: Nền xám nhạt
+- Phong cách: Hiện đại, tối giản, doanh nghiệp
+- Tông điệu: Chuyên nghiệp, năng động, ấm áp
+
+---
+
+Visual Description:
+The logo features a navy blue hexagonal shape with white "nildem" text inside. Above the text are flowing gradient bands in yellow, orange, and red that create wave-like or flame-like curved forms.
+
+Design Elements:
+- Shape: Hexagon with softly curved edges
+- Typography: Simple, modern sans-serif with ® symbol
+- Color Palette: Navy blue primary, yellow-orange-red gradient, white text
+- Background: Light gray background
+- Style: Modern, minimalist, corporate
+- Mood: Professional, dynamic, warm

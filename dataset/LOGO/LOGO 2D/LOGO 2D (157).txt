@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng tròn với các đường cong xoắn ốc phức tạp bên trong, tạo thành một mê cung hoặc hình xoáy nhiều lớp. Ở trung tâm có một hình vuông nhỏ màu xanh lá cây nổi bật giữa các đường cong màu xanh dương.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với đường viền và các đường cong xoắn ốc bên trong
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương và xanh lá cây
+- Nền: Màu kem/be nhạt
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Chuyên nghiệp, bí ẩn, sáng tạo
+
+---
+
+Visual Description:
+The logo features a circular design with complex curved spiraling lines inside, creating a labyrinth or multi-layered swirl pattern. At the center is a small green square that stands out prominently among the blue curved lines.
+
+Design Elements:
+- Shape: Circular with border and spiral curved lines inside
+- Typography: None (icon only)
+- Color Palette: Blue and green
+- Background: Light cream/beige
+- Style: Modern, minimalist, geometric
+- Mood: Professional, mysterious, creative

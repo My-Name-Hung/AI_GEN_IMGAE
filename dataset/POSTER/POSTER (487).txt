@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "SIGHT PAINTS" bằng tiếng Anh và tiếng Ả Rập, với biểu tượng gồm các hình tròn màu sắc khác nhau. Thiết kế đặt trên nền poster quảng cáo có hình ảnh thợ sơn đang làm việc trên mái nhà trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Các hình tròn nhỏ xếp theo kiểu cụm, tạo thành biểu tượng đa sắc
+- Kiểu chữ: Font chữ sans-serif hiện đại, đơn giản và rõ ràng
+- Bảng màu: Xanh lam, xanh lá, vàng, đỏ cam trong biểu tượng; chữ trắng trên nền xanh dương gradient
+- Nền: Gradient từ xanh dương đậm sang xanh nhạt
+- Phong cách: Hiện đại, tối giản, chuyên nghiệp
+- Tông điệu: Đáng tin cậy, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo displays the brand name "SIGHT PAINTS" in both English and Arabic, featuring an icon composed of colorful circular dots. The design is positioned on an advertising poster showing a painter working on a white rooftop.
+
+Design Elements:
+- Shape: Small circular dots arranged in a cluster formation, creating a multicolored emblem
+- Typography: Modern sans-serif font, clean and legible
+- Color Palette: Blue, green, yellow, orange in the icon; white text on blue gradient background
+- Background: Gradient from deep blue to light blue
+- Style: Modern, minimalist, professional
+- Mood: Trustworthy, creative, dynamic

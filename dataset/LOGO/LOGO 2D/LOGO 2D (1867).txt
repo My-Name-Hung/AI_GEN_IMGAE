@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học gồm ba hình tam giác chồng lên nhau tạo thành hình chữ M stylized. Phần dưới là tên công ty "METECMOR" được viết bằng font chữ đậm, hiện đại cùng với dòng chữ "EST. 2025" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba tam giác giao nhau tạo hình chữ M trừu tượng
+- Kiểu chữ: Sans-serif đậm, hiện đại cho tên chính; font nhỏ hơn cho năm thành lập
+- Bảng màu: Gradient từ xanh dương qua tím đến hồng tím cho biểu tượng; đen cho chữ
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features a geometric icon composed of three overlapping triangles forming a stylized letter M shape. Below is the company name "METECMOR" in bold, modern typography with smaller "EST. 2025" text underneath.
+
+Design Elements:
+- Shape: Three intersecting triangles creating an abstract M letterform
+- Typography: Bold sans-serif for main name; smaller font for establishment date
+- Color Palette: Blue to purple to magenta gradient for icon; black for text
+- Background: White/transparent
+- Style: Modern, minimalist, tech-inspired
+- Mood: Professional, dynamic, innovative

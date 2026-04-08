@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "THE GRASS STATION" được tạo thành từ những đám cỏ xanh với texture thực tế. Bên dưới có dòng chữ "Fill 'er Up" được viết bằng font chữ nghiêng thanh lịch.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái được tạo thành từ texture cỏ xanh tự nhiên
+- Kiểu chữ: Font sans-serif cho tiêu đề chính, font script cho slogan
+- Bảng màu: Xanh lá cây đậm, xanh olive, nền xanh nhạt
+- Nền: Màu xanh nhạt/be nhạt
+- Phong cách: Tự nhiên, hữu cơ, thân thiện môi trường
+- Tông điệu: Tươi mới, thân thiện, gần gũi thiên nhiên
+
+---
+
+Visual Description:
+The logo displays "THE GRASS STATION" text created from realistic green grass texture. Below it features "Fill 'er Up" written in an elegant script font.
+
+Design Elements:
+- Shape: Letters formed from natural grass texture
+- Typography: Sans-serif font for main title, script font for tagline
+- Color Palette: Dark green, olive green, light green background
+- Background: Light green/pale beige
+- Style: Natural, organic, eco-friendly
+- Mood: Fresh, friendly, nature-connected

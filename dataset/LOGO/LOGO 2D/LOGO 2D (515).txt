@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình silhouette của một nhân vật mặc áo choàng có mũ trùm đầu, cầm gậy và đèn lồng phát sáng. Hình ảnh được vẽ bằng đường nét màu vàng và xanh dương tạo hiệu ứng phát sáng trên nền đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette người hành hương với gậy và đèn lồng
+- Kiểu chữ: Sans-serif đậm, chữ hoa cho "PILGRIM" và chữ nhỏ cho "company"
+- Bảng màu: Vàng, xanh dương, trắng trên nền đen
+- Nền: Đen tối
+- Phong cách: Tối giản, hiện đại, có hiệu ứng phát sáng
+- Tông điệu: Bí ẩn, phiêu lưu, tâm linh
+
+---
+
+Visual Description:
+The logo displays a silhouette of a hooded figure holding a staff and a glowing lantern. The image is drawn with yellow and blue glowing outlines creating a luminous effect against a black background.
+
+Design Elements:
+- Shape: Pilgrim silhouette with staff and lantern
+- Typography: Bold sans-serif uppercase for "PILGRIM" and smaller text for "company"
+- Color Palette: Yellow, blue, white on black background
+- Background: Dark black
+- Style: Minimalist, modern, with glowing effects
+- Mood: Mysterious, adventurous, spiritual

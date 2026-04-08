@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một khung chữ nhật bo tròn màu vàng chứa dòng chữ "câu lạc bộ nhiếp ảnh" bên trong. Bên dưới khung có dòng chữ nhỏ "HÀ NỘI, HN" màu xám trên nền tối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung chữ nhật bo tròn các góc
+- Kiểu chữ: Chữ sans-serif đơn giản, in thường
+- Bảng màu: Vàng chủ đạo, xám nhạt, nền xanh đen
+- Nền: Màu xanh đen đậm
+- Phong cách: Tối giản, hiện đại, rõ ràng
+- Tông điệu: Chuyên nghiệp, thân thiện, dễ tiếp cận
+
+---
+
+Visual Description:
+The logo features a yellow rounded rectangular frame containing Vietnamese text "câu lạc bộ nhiếp ảnh" (photography club). Below the frame is smaller gray text reading "HÀ NỘI, HN" set against a dark background.
+
+Design Elements:
+- Shape: Rounded rectangular frame
+- Typography: Simple sans-serif lowercase letters
+- Color Palette: Primary yellow, light gray, dark teal background
+- Background: Deep teal/dark navy blue
+- Style: Minimalist, modern, clean
+- Mood: Professional, friendly, accessible

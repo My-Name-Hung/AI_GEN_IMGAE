@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm bốn hình học cơ bản được sắp xếp trong một lưới vuông 2x2, với một hình tròn, hình vuông, hình tam giác và một hình tròn khác. Bên dưới là tên thương hiệu "Manh Quỳnh" bằng chữ đen đậm và dòng chữ nhỏ "Từ năm 1982".
+
+Yếu tố Thiết kế:
+- Hình dạng: Bốn hình học cơ bản (tròn, vuông, tam giác) sắp xếp trong lưới vuông
+- Kiểu chữ: Sans-serif đậm cho tên thương hiệu, font nhỏ hơn cho tagline
+- Bảng màu: Xanh lá cây tươi cho các hình học, đen cho văn bản
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Chuyên nghiệp, sạch sẽ, đáng tin cậy
+
+---
+
+Visual Description:
+The logo consists of four basic geometric shapes arranged in a 2x2 grid pattern, featuring a circle, square, triangle, and another circle. Below is the brand name "Manh Quỳnh" in bold black text with a smaller tagline "Từ năm 1982".
+
+Design Elements:
+- Shape: Four basic geometric forms (circles, square, triangle) arranged in square grid
+- Typography: Bold sans-serif for brand name, smaller font for tagline
+- Color Palette: Bright green for geometric shapes, black for text
+- Background: White/transparent
+- Style: Minimalist, modern, geometric
+- Mood: Professional, clean, trustworthy

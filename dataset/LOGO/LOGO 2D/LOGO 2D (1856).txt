@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng với hai hình tam giác chồng lấp tạo thành hình dạng tương tự chiếc nơ hoặc cát đồng hồ. Phía dưới là tên thương hiệu "ZONANIO" được viết bằng chữ in hoa đậm và slogan "PLAY MORE" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai tam giác gradient chồng lấp, tạo hình nơ đối xứng
+- Kiểu chữ: Sans-serif đậm cho tên thương hiệu, chữ nhỏ thường cho slogan
+- Bảng màu: Gradient từ xanh cyan đến xanh lá và vàng cam
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, gradient, tối giản, hình học
+- Tông điệu: Năng động, sáng tạo, công nghệ, vui tươi
+
+---
+
+Visual Description:
+The logo features an abstract geometric symbol with two overlapping triangular shapes forming a bow-tie or hourglass-like figure. Below is the brand name "ZONANIO" in bold capital letters with the tagline "PLAY MORE" in smaller text.
+
+Design Elements:
+- Shape: Two overlapping gradient triangles forming a symmetrical bow-tie shape
+- Typography: Bold sans-serif for brand name, smaller regular text for tagline
+- Color Palette: Gradient from cyan to green to yellow-orange
+- Background: White/transparent
+- Style: Modern, gradient, minimalist, geometric
+- Mood: Dynamic, creative, tech-forward, playful

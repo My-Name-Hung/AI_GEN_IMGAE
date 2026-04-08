@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình tròn màu trắng nằm trên nền hồng san hô. Văn bản "PHÒNG KHÁM PHỤ SAN" được đặt ở trung tâm với các đường gạch ngang trang trí, xung quanh có text tiếng Việt mô tả về chăm sóc sức khỏe phụ nữ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn hoàn hảo với layout đối xứng
+- Kiểu chữ: Sans-serif đơn giản, rõ ràng, dễ đọc
+- Bảng màu: Hồng san hô chủ đạo với nền trắng
+- Nền: Màu hồng san hô đồng nhất
+- Phong cách: Tối giản, y tế, chuyên nghiệp
+- Tông điệu: Ấm áp, tin cậy, nhẹ nhàng
+
+---
+
+Visual Description:
+The logo features a white circular badge centered on a coral pink background. The text "PHÒNG KHÁM PHỤ SAN" is prominently displayed in the center with decorative horizontal lines, surrounded by Vietnamese text describing women's healthcare services.
+
+Design Elements:
+- Shape: Perfect circle with symmetrical layout
+- Typography: Simple, clear sans-serif font
+- Color Palette: Coral pink dominant with white background
+- Background: Solid coral pink
+- Style: Minimalist, medical, professional
+- Mood: Warm, trustworthy, gentle

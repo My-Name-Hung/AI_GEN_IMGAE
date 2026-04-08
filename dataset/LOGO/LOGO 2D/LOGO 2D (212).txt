@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình lục giác trung tâm được tạo thành từ các hình tam giác nhỏ màu xanh lam và xanh lá cây. Xung quanh hình lục giác có các mũi tên tam giác nhỏ hướng vào trong, tạo cảm giác chuyển động và tập trung.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình lục giác trung tâm với các mũi tên tam giác xung quanh
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lam đậm, xanh lam nhạt, xanh lá cây, trắng
+- Nền: Xanh lam đậm
+- Phong cách: Geometric, isometric, hiện đại, tối giản
+- Tông điệu: Công nghệ, chuyên nghiệp, năng động, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays a central hexagonal shape composed of small triangular segments in shades of blue and green. Surrounding the hexagon are small triangular arrows pointing inward, creating a sense of movement and convergence.
+
+Design Elements:
+- Shape: Central hexagon with surrounding triangular arrows
+- Typography: None (icon only)
+- Color Palette: Dark blue, light blue, green, white
+- Background: Dark blue
+- Style: Geometric, isometric, modern, minimalist
+- Mood: Technological, professional, dynamic, trustworthy

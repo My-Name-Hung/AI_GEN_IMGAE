@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình chữ "H" được cách điệu với các đường nét vuông vức, đậm nét ở bên trái. Bên cạnh là dòng chữ "Hostel44" được viết bằng font chữ sans-serif hiện đại, trong đó số "44" được thiết kế nổi bật.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng chữ H hình học, vuông vức kết hợp với typography ngang
+- Kiểu chữ: Sans-serif hiện đại, đậm, rõ ràng
+- Bảng màu: Đen trên nền trắng (đơn sắc)
+- Nền: Nền trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a stylized "H" icon with bold, geometric lines on the left side. Adjacent to it is the text "Hostel44" in a modern sans-serif typeface, with the "44" numbers prominently displayed.
+
+Design Elements:
+- Shape: Geometric H symbol with angular, block-like construction combined with horizontal text
+- Typography: Modern sans-serif, bold and clear lettering
+- Color Palette: Black on white (monochromatic)
+- Background: White/transparent background
+- Style: Minimalist, modern, geometric
+- Mood: Professional, strong, reliable

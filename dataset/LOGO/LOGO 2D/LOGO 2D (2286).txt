@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có nền màu nâu nhạt với text "CẢNG NHA TRANG" màu trắng ở phía trên. Phía dưới là một biểu tượng hình vuông màu trắng chứa hình vẽ stylized của một con chim cánh cụt và sóng nước trong hình tròn, kèm text "VIỆN HẢI DƯƠNG" ở cuối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông chứa biểu tượng tròn với chim cánh cụt và sóng nước
+- Kiểu chữ: Sans-serif đơn giản, in hoa
+- Bảng màu: Nâu nhạt làm nền, trắng cho text và icon
+- Nền: Màu nâu nhạt/be đồng nhất
+- Phong cách: Tối giản, hiện đại, học thuật
+- Tông điệu: Chuyên nghiệp, học thuật, liên quan đến biển
+
+---
+
+Visual Description:
+The logo features a light brown background with white text reading "CẢNG NHA TRANG" at the top. Below is a white square containing a circular emblem with a stylized penguin and wave design, followed by "VIỆN HẢI DƯƠNG" text at the bottom.
+
+Design Elements:
+- Shape: Square container with circular emblem featuring penguin and wave motifs
+- Typography: Simple sans-serif, all caps
+- Color Palette: Light brown background with white text and iconography
+- Background: Solid light brown/beige
+- Style: Minimalist, modern, institutional
+- Mood: Professional, academic, maritime-focused

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình silhouette một người đàn ông đeo mũ tốt nghiệp bên trong một ngôi nhà màu trắng. Phía trên có dòng chữ "GIẢI QUYẾT" viết bằng font chữ in hoa màu trắng và bên dưới có slogan "Người đơn đẹp chuyên nghiệp".
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng ngôi nhà chứa silhouette người đàn ông đeo mũ tốt nghiệp
+- Kiểu chữ: Font chữ in hoa đậm, rõ ràng cho tên thương hiệu và font nhỏ hơn cho slogan
+- Bảng màu: Xanh lá cây đậm làm nền, màu trắng cho text và biểu tượng
+- Nền: Màu xanh lá cây đậm đồng nhất
+- Phong cách: Tối giản, chuyên nghiệp, biểu tượng rõ ràng
+- Tông điệu: Uy tín, chuyên nghiệp, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a white silhouette of a man wearing a graduation cap inside a house shape. Above it is the text "GIẢI QUYẾT" in white capital letters, and below is the tagline "Người đơn đẹp chuyên nghiệp".
+
+Design Elements:
+- Shape: House icon containing a silhouette of a man with graduation cap
+- Typography: Bold, clear capital letters for brand name and smaller font for tagline
+- Color Palette: Dark green background with white text and icons
+- Background: Solid dark green
+- Style: Minimalist, professional, clear iconography
+- Mood: Trustworthy, professional, credible

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình thoi màu đen với nhiều viền trắng lồng vào nhau tạo hiệu ứng chiều sâu. Ở trung tâm là tên "Kim Ngưu" bằng chữ trắng, bên dưới có dòng chữ nhỏ hơn bằng tiếng Việt, và phía trên là hình ảnh stylized của đầu bò tót.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình thoi đa lớp với các viền đồng tâm
+- Kiểu chữ: Serif truyền thống, thanh lịch cho tên chính và sans-serif nhỏ cho dòng phụ
+- Bảng màu: Đen và trắng tương phản mạnh mẽ
+- Nền: Nền hồng pastel nhạt
+- Phong cách: Cổ điển, sang trọng, biểu tượng cung hoàng đạo
+- Tông điệu: Mạnh mẽ, uy quyền, tinh tế
+
+---
+
+Visual Description:
+The logo features a black diamond shape with multiple white concentric borders creating a layered depth effect. At the center is "Kim Ngưu" in white text with smaller Vietnamese text below, and above is a stylized bull's head illustration.
+
+Design Elements:
+- Shape: Multi-layered diamond with concentric borders
+- Typography: Traditional serif for main name and small sans-serif for subtitle
+- Color Palette: High contrast black and white
+- Background: Light pastel pink background
+- Style: Classic, luxurious, zodiac symbolism
+- Mood: Strong, authoritative, refined

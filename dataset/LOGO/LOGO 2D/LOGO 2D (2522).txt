@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình khối lập phương 3D được vẽ bằng đường nét trắng đơn giản, tạo cảm giác nhẹ nhàng và hiện đại. Bên dưới hình khối là dòng chữ "thiết bị âm thanh" được sắp xếp thành hai hàng với font chữ thanh mảnh, màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình lập phương 3D với đường viền mảnh
+- Kiểu chữ: Font sans-serif mảnh, chữ thường, không serif
+- Bảng màu: Trắng trên nền gradient xanh dương-tím-hồng
+- Nền: Gradient mềm mại từ xanh dương sang tím và hồng nhạt
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Thanh lịch, công nghệ, nhẹ nhàng
+
+---
+
+Visual Description:
+The logo features a simple 3D cube outline drawn in clean white lines, creating a lightweight and modern appearance. Below the cube is the Vietnamese text "thiết bị âm thanh" arranged in two lines with thin white typography.
+
+Design Elements:
+- Shape: 3D cube with thin outline strokes
+- Typography: Thin sans-serif lowercase font
+- Color Palette: White on blue-purple-pink gradient background
+- Background: Soft gradient transitioning from blue to purple to light pink
+- Style: Minimalist, modern, geometric
+- Mood: Elegant, technological, gentle

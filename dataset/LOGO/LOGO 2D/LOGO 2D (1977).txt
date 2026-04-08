@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng tia sét màu vàng phía trên với đường nét sắc cạnh và năng động. Bên dưới là chữ "BÒ HÚC" được viết bằng font chữ in hoa màu trắng đậm, có thêm dòng chữ nhỏ "NƯỚC TĂNG LỰC" màu vàng ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Tia sét góc cạnh, chữ cái to và đậm
+- Kiểu chữ: Font sans-serif đậm, in hoa, có độ xiên nhẹ
+- Bảng màu: Vàng, trắng trên nền đen
+- Nền: Màu đen thuần
+- Phong cách: Hiện đại, năng động, thể thao
+- Tông điệu: Mạnh mẽ, tràn đầy năng lượng, táo bạo
+
+---
+
+Visual Description:
+The logo features a sharp, angular yellow lightning bolt icon positioned above bold white text reading "BÒ HÚC" with smaller yellow text "NƯỚC TĂNG LỰC" below. The lightning bolt has dynamic, jagged edges that convey energy and power.
+
+Design Elements:
+- Shape: Angular lightning bolt, bold block letters
+- Typography: Bold sans-serif, uppercase, slightly italicized
+- Color Palette: Yellow, white on black background
+- Background: Pure black
+- Style: Modern, dynamic, athletic
+- Mood: Powerful, energetic, bold

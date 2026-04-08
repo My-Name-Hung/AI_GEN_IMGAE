@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "BÙNG" với kiểu chữ in hoa màu trắng, kết hợp với một biểu tượng đồ họa ở bên trái. Biểu tượng gồm ba đường kẻ ngang song song với màu sắc chuyển từ cam sang trắng, tạo hiệu ứng chuyển động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba đường kẻ ngang song song tạo cảm giác tốc độ và chuyển động
+- Kiểu chữ: Sans-serif in hoa, đậm, hiện đại
+- Bảng màu: Cam gradient đến trắng, chữ trắng
+- Nền: Màu xám đen tối
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Năng động, mạnh mẽ, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the brand name "BÙNG" in white uppercase letters, combined with a graphic symbol on the left. The symbol consists of three parallel horizontal lines with colors transitioning from orange to white, creating a sense of movement.
+
+Design Elements:
+- Shape: Three parallel horizontal lines suggesting speed and motion
+- Typography: Bold, modern sans-serif uppercase lettering
+- Color Palette: Orange gradient to white, white text
+- Background: Dark gray-black
+- Style: Modern, minimalist, tech-inspired
+- Mood: Dynamic, powerful, professional

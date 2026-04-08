@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn đơn giản với hai chữ cái "B" và "S" được phân cách bằng một dấu chấm ở giữa. Bên dưới vòng tròn là dòng chữ "BẤT ĐỘNG SẢN" được viết bằng chữ in hoa màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn đơn giản với đường viền mảnh
+- Kiểu chữ: Sans-serif đậm, chữ in hoa đơn giản
+- Bảng màu: Trắng trên nền xám
+- Nền: Xám trung tính
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Nghiêm túc, tin cậy, thanh lịch
+
+---
+
+Visual Description:
+The logo features a simple circle containing the letters "B" and "S" separated by a centered dot. Below the circle is the text "BẤT ĐỘNG SẢN" written in white capital letters.
+
+Design Elements:
+- Shape: Simple circle with thin border outline
+- Typography: Bold sans-serif, simple capital letters
+- Color Palette: White on gray background
+- Background: Neutral gray
+- Style: Minimalist, modern, professional
+- Mood: Serious, trustworthy, elegant

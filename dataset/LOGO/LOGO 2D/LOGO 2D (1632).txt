@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm bốn hình tam giác màu xanh lá cây được sắp xếp theo hình dạng kim cương hoặc hình thoi. Các tam giác có kích thước khác nhau và được định vị tạo thành một biểu tượng đối xứng với khoảng trống màu trắng ở giữa.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bốn tam giác tạo thành hình kim cương/thoi
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lá cây/xanh ngọc bích tươi sáng trên nền trắng
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Năng động, chuyên nghiệp, tươi mới
+
+---
+
+Visual Description:
+The logo consists of four green triangular shapes arranged in a diamond or rhombus formation. The triangles are of varying sizes and positioned to create a symmetrical icon with white negative space in the center.
+
+Design Elements:
+- Shape: Four triangles forming a diamond/rhombus pattern
+- Typography: None (icon only)
+- Color Palette: Bright teal/emerald green on white background
+- Background: White/transparent
+- Style: Minimalist, geometric, modern
+- Mood: Dynamic, professional, fresh

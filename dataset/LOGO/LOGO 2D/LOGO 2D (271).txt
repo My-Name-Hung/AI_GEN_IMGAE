@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng trái tim cách điệu với gradient từ xanh dương sang tím, có một dấu chấm tím bên dưới. Bên dưới biểu tượng là dòng chữ "Healthy Australia" với "Healthy" màu xanh dương và "Australia" màu xanh navy đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Trái tim cách điệu với đường nét mềm mại và dấu chấm tròn
+- Kiểu chữ: Sans-serif hiện đại, chữ thường và chữ hoa kết hợp
+- Bảng màu: Gradient xanh dương đến tím, xanh navy đậm
+- Nền: Trắng, trong suốt
+- Phong cách: Hiện đại, tối giản, y tế
+- Tông điệu: Chuyên nghiệp, tin cậy, chăm sóc sức khỏe
+
+---
+
+Visual Description:
+The logo features a stylized heart icon with a gradient from blue to purple, accompanied by a purple dot below it. Below the icon is the text "Healthy Australia" with "Healthy" in blue and "Australia" in dark navy.
+
+Design Elements:
+- Shape: Stylized heart with smooth, flowing lines and circular dot
+- Typography: Modern sans-serif, combination of lowercase and uppercase
+- Color Palette: Blue to purple gradient, dark navy
+- Background: White, transparent
+- Style: Modern, minimalist, medical/healthcare
+- Mood: Professional, trustworthy, caring

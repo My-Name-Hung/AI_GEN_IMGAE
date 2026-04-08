@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng như dấu X hoặc băng gạc y tế được tạo từ hai băng dính chéo nhau, có màu xanh ngọc với các chấm tròn nhỏ màu trắng. Ở trung tâm có một hình tim nhỏ màu đỏ, bên cạnh có dòng chữ "Bệnh viện Nhi đông Bình An" bằng tiếng Việt và tiếng Anh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Dấu X được tạo từ hai băng dính chéo nhau với hình tim ở trung tâm
+- Kiểu chữ: Font chữ sans-serif hiện đại, rõ ràng
+- Bảng màu: Xanh ngọc chủ đạo, trắng, đỏ cho hình tim
+- Nền: Nền trắng/xám nhạt
+- Phong cách: Hiện đại, thân thiện, y tế
+- Tông điệu: Chăm sóc, tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features an X-shaped design resembling medical bandages or adhesive strips crossing each other in teal color with small white dots. A small red heart sits at the center, accompanied by Vietnamese and English text reading "Bệnh viện Nhi đông Bình An" (Children's Hospital Binh An).
+
+Design Elements:
+- Shape: X-formation made of two crossing bandage strips with central heart
+- Typography: Modern, clean sans-serif font
+- Color Palette: Teal primary, white, red accent for heart
+- Background: White/light gray
+- Style: Modern, friendly, medical
+- Mood: Caring, trustworthy, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một con bạch tuộc được stylized với đường viền gradient từ hồng sang xanh lá cây, có các xúc tu cong mềm mại. Bên dưới là tên thương hiệu "octopii" được viết bằng chữ thường màu trắng với hai chấm tròn làm nổi bật chữ "i".
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng bạch tuộc đơn giản hóa với đường viền gradient và xúc tu cong
+- Kiểu chữ: Sans-serif hiện đại, chữ thường, in đậm
+- Bảng màu: Gradient hồng-xanh lá cho icon, trắng cho chữ
+- Nền: Màu xám đen tối
+- Phong cách: Tối giản, hiện đại, tech-friendly
+- Tông điệu: Sáng tạo, thân thiện, công nghệ
+
+---
+
+Visual Description:
+The logo features a stylized octopus rendered with a gradient outline transitioning from pink to teal, with flowing curved tentacles. Below it, the brand name "octopii" is written in lowercase white letters with two dots emphasizing the double "i".
+
+Design Elements:
+- Shape: Simplified octopus icon with gradient outline and curved tentacles
+- Typography: Modern sans-serif, lowercase, bold weight
+- Color Palette: Pink-to-teal gradient for icon, white for text
+- Background: Dark charcoal gray
+- Style: Minimalist, modern, tech-friendly
+- Mood: Creative, friendly, technological

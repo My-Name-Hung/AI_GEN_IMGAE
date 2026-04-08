@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "SUNDAY Brunch" với từ "SUNDAY" được viết bằng chữ in hoa màu xanh lá cây đậm và từ "Brunch" bằng chữ viết tay màu vàng cam. Có một chấm tròn nhỏ màu cam đặt sau chữ "SUN" và một biểu tượng ngôi sao nhỏ ở góc dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết với điểm nhấn tròn và ngôi sao
+- Kiểu chữ: Chữ in hoa đậm kết hợp với chữ viết tay nghiêng
+- Bảng màu: Xanh lá cây đậm, cam/vàng, trắng
+- Nền: Trong suốt trên nền ảnh món ăn
+- Phong cách: Hiện đại, thân thiện, ấm áp
+- Tông điệu: Tươi sáng, mời gọi, thoải mái
+
+---
+
+Visual Description:
+The logo displays "SUNDAY Brunch" with "SUNDAY" written in bold dark green capital letters and "Brunch" in orange-yellow handwritten script. There's a small orange circle positioned after "SUN" and a small star icon in the lower corner.
+
+Design Elements:
+- Shape: Typography with circular accent and star element
+- Typography: Bold sans-serif capitals combined with casual script lettering
+- Color Palette: Dark green, orange/yellow, white
+- Background: Transparent overlay on food photography
+- Style: Modern, friendly, warm
+- Mood: Fresh, inviting, relaxed

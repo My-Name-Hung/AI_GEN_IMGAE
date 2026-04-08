@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình ngôi sao hoặc tia sáng màu cam ở bên trái, kết hợp với văn bản "coverai" được viết bằng chữ thường. Biểu tượng có thiết kế đơn giản với các đường thẳng tỏa ra từ trung tâm, tạo cảm giác năng động và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tia sáng/ngôi sao với các đường thẳng tỏa tròn
+- Kiểu chữ: Sans-serif đơn giản, chữ thường, đậm vừa phải
+- Bảng màu: Cam đậm cho biểu tượng, xanh navy đậm cho văn bản
+- Nền: Màu be/kem nhạt
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sáng tạo
+
+---
+
+Visual Description:
+The logo features an orange star or burst icon on the left side, combined with the lowercase text "coverai". The icon has a simple design with straight lines radiating from a center point, creating a dynamic and modern appearance.
+
+Design Elements:
+- Shape: Star/burst icon with radiating straight lines
+- Typography: Simple sans-serif, lowercase, medium weight
+- Color Palette: Bold orange for icon, dark navy blue for text
+- Background: Light beige/cream
+- Style: Minimalist, modern, tech-focused
+- Mood: Professional, trustworthy, innovative

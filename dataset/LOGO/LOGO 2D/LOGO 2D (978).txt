@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hình núi cách điệu với các đường cong đồng tâm tạo thành hình dạng giống như sóng wifi hoặc tín hiệu. Các đường này chuyển màu từ xanh lam ở ngoài sang hồng ở trong, tạo hiệu ứng gradient bắt mắt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng núi cách điệu với đường cong đồng tâm
+- Kiểu chữ: Sans-serif đậm, chữ hoa "MOUNTAIN"
+- Bảng màu: Gradient từ xanh lam đến tím đến hồng
+- Nền: Xanh navy đậm
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Năng động, sáng tạo, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a stylized mountain icon composed of concentric curved lines that resemble wifi signals or radio waves. The lines transition from blue on the outside to pink on the inside, creating an eye-catching gradient effect.
+
+Design Elements:
+- Shape: Stylized mountain with concentric curved lines
+- Typography: Bold sans-serif uppercase "MOUNTAIN"
+- Color Palette: Gradient from blue to purple to pink
+- Background: Dark navy blue
+- Style: Modern, minimalist, tech-inspired
+- Mood: Dynamic, innovative, professional

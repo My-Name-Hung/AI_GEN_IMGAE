@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một hình dạng giọt nước lớn màu xanh dương với đường viền đậm. Bên trong giọt nước có một biểu tượng đơn giản gợi nhớ đến hình người hoặc ống nghe y tế với hai đầu tròn kết nối bằng đường cong.
+
+Yếu tố Thiết kế:
+- Hình dạng: Giọt nước lớn chứa biểu tượng đối xứng bên trong
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương đậm trên nền trắng
+- Nền: Trong suốt/trắng
+- Phong cách: Tối giản, đơn giản, đường nét sạch sẽ
+- Tông điệu: Y tế, chuyên nghiệp, tin cậy
+
+---
+
+Visual Description:
+The logo features a large blue water drop shape with a bold outline. Inside the water drop is a simple icon resembling a person or medical stethoscope with two circular ends connected by curved lines.
+
+Design Elements:
+- Shape: Large water drop containing symmetrical icon inside
+- Typography: None (icon only)
+- Color Palette: Bold blue on white background
+- Background: Transparent/white
+- Style: Minimalist, simple, clean lines
+- Mood: Medical, professional, trustworthy

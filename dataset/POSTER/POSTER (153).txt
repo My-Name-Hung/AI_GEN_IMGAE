@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có chữ "SPARCO" màu xanh đậm với "PAINTS" màu nhỏ hơn bên dưới. Bên trái chữ có một biểu tượng hình vuông nhỏ với các sọc màu sắc rực rỡ gồm cam, xanh lá, xanh dương tạo thành hình khối màu gradient.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ ngang kết hợp với biểu tượng hình vuông đa màu
+- Kiểu chữ: Sans-serif đậm, hiện đại, chữ hoa cho "SPARCO"
+- Bảng màu: Chủ yếu xanh navy, biểu tượng có cam, xanh lá, xanh dương
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, công nghiệp, chuyên nghiệp
+- Tông điệu: Đáng tin cậy, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features "SPARCO" in dark blue with "PAINTS" in smaller text below. To the left is a small square icon with vibrant colored stripes in orange, green, and blue creating a gradient color block effect.
+
+Design Elements:
+- Shape: Horizontal text layout combined with square multicolored icon
+- Typography: Bold, modern sans-serif, uppercase for "SPARCO"
+- Color Palette: Primarily navy blue, with orange, green, and blue in icon
+- Background: Transparent/white
+- Style: Modern, industrial, professional
+- Mood: Trustworthy, dynamic, creative

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng định vị màu xanh dương với dấu chữ thập trắng bên trong, được đặt phía trên dòng chữ "PHÒNG KHÁM" in hoa. Phía dưới có dòng slogan nhỏ hơn về dự xuất sắc trong chăm sóc sức khỏe phụ nữ, tất cả được bố trí trên nền xanh nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng định vị (location pin) với dấu chữ thập y tế
+- Kiểu chữ: Sans-serif, in hoa cho tên chính, chữ thường cho slogan
+- Bảng màu: Xanh dương chủ đạo, trắng, nền xanh nhạt
+- Nền: Nền màu xanh nhạt gradient
+- Phong cách: Y tế, hiện đại, tối giản
+- Tông điệu: Chuyên nghiệp, tin cậy, chăm sóc sức khỏe
+
+---
+
+Visual Description:
+The logo features a blue location pin icon with a white medical cross inside, positioned above the text "PHÒNG KHÁM" in capital letters. Below is a smaller tagline about excellence in women's healthcare, all arranged on a light blue background.
+
+Design Elements:
+- Shape: Location pin icon with medical cross symbol
+- Typography: Sans-serif, uppercase for main title, lowercase for tagline
+- Color Palette: Primary blue, white, light blue background
+- Background: Light blue gradient background
+- Style: Medical, modern, minimalist
+- Mood: Professional, trustworthy, healthcare-focused

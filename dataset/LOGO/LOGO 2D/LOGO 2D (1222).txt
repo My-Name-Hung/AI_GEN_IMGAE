@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo này bao gồm hai hình chữ nhật bo góc được xếp chồng lên nhau với hiệu ứng gradient màu sắc. Hình chữ nhật phía sau có màu cam đỏ, trong khi hình chữ nhật phía trước có màu vàng cam, tạo nên một thiết kế đơn giản nhưng bắt mắt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình chữ nhật bo góc xếp chồng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ vàng đến cam đỏ
+- Nền: Trong suốt/trắng
+- Phong cách: Tối giản, hiện đại, phẳng
+- Tông điệu: Năng động, ấm áp, chuyên nghiệp
+
+---
+
+Visual Description:
+This logo features two overlapping rounded rectangles with a gradient color effect. The rectangle in the back displays an orange-red color, while the front rectangle shows a yellow-orange hue, creating a simple yet eye-catching design.
+
+Design Elements:
+- Shape: Two overlapping rounded rectangles
+- Typography: None (icon only)
+- Color Palette: Gradient from yellow to orange-red
+- Background: Transparent/white
+- Style: Minimalist, modern, flat
+- Mood: Dynamic, warm, professional

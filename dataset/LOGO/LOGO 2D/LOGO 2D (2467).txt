@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một hình chữ nhật màu tím với chữ "GIOT MUC" màu trắng bên trong. Bên dưới có dòng chữ "TIỆM XÁM" nhỏ hơn màu vàng cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật đơn giản, bố cục hai tầng
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa cho tên chính, chữ thường cho phụ đề
+- Bảng màu: Tím chủ đạo, chữ trắng và vàng cam
+- Nền: Trong suốt/trắng
+- Phong cách: Tối giản, hiện đại, typography-based
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo features a purple rectangle containing white text reading "GIOT MUC" (meaning "ink drop" in Vietnamese). Below the rectangle is smaller orange-yellow text reading "TIỆM XÁM."
+
+Design Elements:
+- Shape: Simple rectangular block with two-tier layout
+- Typography: Modern sans-serif, uppercase for main title, lowercase for subtitle
+- Color Palette: Dominant purple with white and orange-yellow accents
+- Background: Transparent/white
+- Style: Minimalist, modern, typography-focused
+- Mood: Professional, creative, dynamic

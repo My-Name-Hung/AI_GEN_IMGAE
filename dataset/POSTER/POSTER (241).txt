@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một poster quảng cáo cho sản phẩm quạt điện với hình ảnh một chiếc quạt lớn màu đen được đặt ở trung tâm. Xung quanh quạt có những hình ảnh minh họa về thành phố xanh, máy bay và các yếu tố tự nhiên tạo cảm giác mát mẻ và sạch sẽ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Quạt tròn với cánh quạt xoắn ốc, bố cục poster chữ nhật
+- Kiểu chữ: Font chữ in hoa đậm màu trắng cho tiêu đề, font nhỏ hơn cho thông tin phụ
+- Bảng màu: Xanh dương chủ đạo, trắng, đen, xanh lá cây
+- Nền: Gradient xanh dương với hiệu ứng ánh sáng và khói
+- Phong cách: Quảng cáo sản phẩm, hiện đại, công nghệ
+- Tông điệu: Mát mẻ, sạch sẽ, năng động
+
+---
+
+Visual Description:
+This is an advertisement poster for a fan product featuring a large black electric fan positioned centrally. The fan is surrounded by illustrated elements of a green city, airplanes, and natural elements that create a sense of coolness and cleanliness.
+
+Design Elements:
+- Shape: Circular fan with spiral blades, rectangular poster layout
+- Typography: Bold white uppercase font for the main title, smaller fonts for additional information
+- Color Palette: Predominantly blue, white, black, green
+- Background: Blue gradient with light effects and smoke-like elements
+- Style: Product advertisement, modern, technological
+- Mood: Cool, clean, dynamic

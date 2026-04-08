@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Song & Sỹ, Thạc sĩ Y khoa" được sắp xếp theo hai dòng chữ với font chữ thanh lịch màu trắng. Bên dưới có dòng chữ nhỏ hơn "Y học gia đình" làm slogan.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục văn bản đơn giản, căn giữa
+- Kiểu chữ: Font serif thanh lịch, cân đối với hierarchy rõ ràng
+- Bảng màu: Chữ trắng trên nền xanh lục đậm (teal)
+- Nền: Màu xanh lục đậm đồng nhất
+- Phong cách: Tối giản, chuyên nghiệp, y tế
+- Tông điệu: Tin cậy, chuyên nghiệp, ấm áp
+
+---
+
+Visual Description:
+The logo displays the brand name "Song & Sỹ, Thạc sĩ Y khoa" arranged in two lines with elegant white typography. Below is a smaller tagline "Y học gia đình" serving as the slogan.
+
+Design Elements:
+- Shape: Simple centered text layout
+- Typography: Elegant serif font with balanced hierarchy
+- Color Palette: White text on deep teal background
+- Background: Solid deep teal color
+- Style: Minimalist, professional, medical
+- Mood: Trustworthy, professional, warm

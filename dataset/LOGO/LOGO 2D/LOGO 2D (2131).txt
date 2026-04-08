@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình lục giác màu xanh dương với hai chữ cái "AG" bên trong. Phía dưới là tên công ty "Ánh Giang" và dòng chữ "CÔNG TY KẾ TOÁN" được sắp xếp theo chiều dọc.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác đều với các góc bo tròn nhẹ
+- Kiểu chữ: Font chữ hiện đại, không chân serif cho tên công ty và font nhỏ hơn cho slogan
+- Bảng màu: Xanh dương cho biểu tượng và chữ cái, xám đen cho tên công ty, xám nhạt cho slogan
+- Nền: Trắng sạch
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Tin cậy, ổn định, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a blue hexagonal icon with the letters "AG" inside it. Below the icon is the company name "Ánh Giang" followed by "CÔNG TY KẾ TOÁN" arranged vertically in smaller text.
+
+Design Elements:
+- Shape: Regular hexagon with slightly rounded corners
+- Typography: Modern sans-serif font for company name and smaller font for tagline
+- Color Palette: Blue for the icon and letters, dark gray for company name, light gray for tagline
+- Background: Clean white
+- Style: Minimalist, modern, professional
+- Mood: Trustworthy, stable, professional

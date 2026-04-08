@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một cây lăn sơn với cán gỗ và lớp sơn màu đỏ đang được quét trên bề mặt. Text "DIA DO PINTOR" được đặt bên trái với font chữ đậm màu trắng, cùng với dòng tagline nhỏ hơn bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Cây lăn sơn thực tế với vệt sơn màu đỏ
+- Kiểu chữ: Sans-serif đậm, in hoa
+- Bảng màu: Đỏ, trắng, nâu gỗ tự nhiên
+- Nền: Màu xám nhạt
+- Phong cách: Hiện đại, thực tế, sạch sẽ
+- Tông điệu: Chuyên nghiệp, năng động, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a realistic paint roller with a wooden handle and red paint being applied across the surface. The text "DIA DO PINTOR" is positioned on the left in bold white typography, accompanied by a smaller tagline below.
+
+Design Elements:
+- Shape: Realistic paint roller with red paint stroke
+- Typography: Bold sans-serif, uppercase
+- Color Palette: Red, white, natural wood brown
+- Background: Light gray
+- Style: Modern, realistic, clean
+- Mood: Professional, dynamic, trustworthy

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ba hình tam giác được sắp xếp chồng lên nhau tạo thành hình chữ "M" cách điệu. Các tam giác có màu gradient từ xanh dương nhạt sang xanh dương đậm, tạo hiệu ứng chiều sâu và chuyển động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba tam giác đan xen tạo chữ M, đường nét sắc sảo và hiện đại
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient xanh cyan đến xanh navy, chuyển màu mượt mà
+- Nền: Trắng trong suốt
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo displays three triangular shapes arranged in an overlapping pattern to form a stylized letter "M". The triangles feature a gradient color scheme transitioning from light cyan to deep blue, creating a sense of depth and movement.
+
+Design Elements:
+- Shape: Three interlocking triangles forming an M, with sharp and modern lines
+- Typography: None (icon only)
+- Color Palette: Gradient from cyan to navy blue with smooth transitions
+- Background: Transparent white
+- Style: Minimalist, modern, geometric
+- Mood: Professional, dynamic, tech-forward

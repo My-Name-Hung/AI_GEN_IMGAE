@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một chiếc hamburger được đặt bên trong hình trái tim màu nâu đen. Chiếc burger có bánh mì màu vàng cam, thịt màu nâu và rau xanh, tạo nên hình ảnh sinh động và hấp dẫn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Trái tim chứa biểu tượng hamburger
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Cam, nâu đen, vàng, xanh lá
+- Nền: Màu cam đồng nhất
+- Phong cách: Phẳng, tối giản, hiện đại
+- Tông điệu: Ấm áp, thân thiện, ngon miệng
+
+---
+
+Visual Description:
+The logo features a hamburger icon placed inside a dark brown heart shape. The burger displays orange-yellow buns, brown meat, and green lettuce, creating a vibrant and appetizing visual.
+
+Design Elements:
+- Shape: Heart containing hamburger symbol
+- Typography: None (icon only)
+- Color Palette: Orange, dark brown, yellow, green
+- Background: Solid orange
+- Style: Flat, minimalist, modern
+- Mood: Warm, friendly, appetizing

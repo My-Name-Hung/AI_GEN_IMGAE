@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một tòa nhà nhà thờ hoặc nhà thờ cách điệu với hình vòm tròn ở giữa và hai cột trụ hai bên. Biểu tượng thập giá được đặt prominently trong phần vòm trung tâm, tạo nên hình ảnh thiêng liêng và trang nghiêm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette nhà thờ với vòm tròn, cột trụ và thập giá
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ xanh lam đậm chuyển sang xanh lục nhạt
+- Nền: Gradient màu xanh từ trên xuống dưới
+- Phong cách: Tối giản, biểu tượng, đối xứng
+- Tông điệu: Thiêng liêng, trang nghiêm, thanh tịnh
+
+---
+
+Visual Description:
+The logo depicts a stylized church or cathedral building with a rounded dome in the center and two columns on either side. A cross symbol is prominently placed within the central dome area, creating a sacred and dignified religious imagery.
+
+Design Elements:
+- Shape: Church silhouette with rounded dome, columns, and cross
+- Typography: None (icon only)
+- Color Palette: Gradient from deep blue to light green
+- Background: Blue-to-green vertical gradient
+- Style: Minimalist, symbolic, symmetrical
+- Mood: Sacred, dignified, serene

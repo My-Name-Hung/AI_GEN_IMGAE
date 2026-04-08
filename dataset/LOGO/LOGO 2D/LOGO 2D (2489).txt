@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có nền hình vuông màu xanh dương với tên "MINH HOANG" được cắt xuyên thủng tạo hiệu ứng âm bản. Bên dưới có dòng text "Công ty Nghệ thuật & Thiết kế" màu đen trên nền trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với chữ cắt xuyên thủng
+- Kiểu chữ: Font chữ hoa đậm, có serif, dòng phụ dùng font sans-serif
+- Bảng màu: Xanh dương, đen, trắng
+- Nền: Khối vuông xanh dương trên nền trắng
+- Phong cách: Hiện đại, tối giản, nghệ thuật cắt giấy
+- Tông điệu: Chuyên nghiệp, sáng tạo, tinh tế
+
+---
+
+Visual Description:
+The logo features a blue square background with "MINH HOANG" cut through as negative space creating a stencil effect. Below is the text "Công ty Nghệ thuật & Thiết kế" in black on white background.
+
+Design Elements:
+- Shape: Square with cut-through lettering
+- Typography: Bold uppercase serif font for main text, sans-serif for subtitle
+- Color Palette: Blue, black, white
+- Background: Blue square block on white background
+- Style: Modern, minimalist, paper-cut aesthetic
+- Mood: Professional, creative, sophisticated

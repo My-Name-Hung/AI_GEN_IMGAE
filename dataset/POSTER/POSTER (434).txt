@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "DISHWASHER" bằng font chữ in hoa màu xanh dương đậm, được đặt trên nền gradient từ xanh dương đến trắng giống như bầu trời và đại dương. Bên dưới có hình ảnh một chiếc máy rửa bát màu xanh đậm được bao quanh bởi các đĩa trắng trôi nổi trên mặt nước.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng hàng ngang với hình ảnh sản phẩm bên dưới
+- Kiểu chữ: Font sans-serif in hoa, đậm và rõ ràng
+- Bảng màu: Xanh dương đậm, trắng, với gradient xanh dương nhạt
+- Nền: Gradient từ xanh dương đến trắng tạo cảm giác biển và bầu trời
+- Phong cách: Hiện đại, sản phẩm, thực tế
+- Tông điệu: Sạch sẽ, chuyên nghiệp, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays "DISHWASHER" in bold blue capital letters positioned above a blue-to-white gradient background resembling sky and ocean. Below the text is an image of a dark blue dishwasher surrounded by white plates floating on water.
+
+Design Elements:
+- Shape: Horizontal text alignment with product imagery below
+- Typography: Bold, clear sans-serif uppercase font
+- Color Palette: Deep blue, white, with light blue gradient
+- Background: Blue-to-white gradient creating ocean and sky effect
+- Style: Modern, product-focused, realistic
+- Mood: Clean, professional, trustworthy

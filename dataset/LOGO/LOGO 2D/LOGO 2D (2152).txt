@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "PHONG SANG" được viết bằng chữ in hoa màu vàng cam nổi bật. Bên dưới có dòng chữ nhỏ hơn "TIỆM MAY TÌNH" bằng màu trắng trên nền tím đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ đơn giản, căn giữa theo chiều dọc
+- Kiểu chữ: Chữ sans-serif hiện đại, in hoa cho tên chính, chữ thường có khoảng cách cho slogan
+- Bảng màu: Vàng cam cho tên chính, trắng cho slogan, nền tím gradient
+- Nền: Nền tím gradient từ đậm đến nhạt
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sang trọng, uy tín, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the brand name "PHONG SANG" written in bold orange-yellow uppercase letters. Below it is the smaller text "TIỆM MAY TÌNH" in white on a deep purple background.
+
+Design Elements:
+- Shape: Simple text layout, vertically centered
+- Typography: Modern sans-serif, uppercase for main name, spaced lowercase for tagline
+- Color Palette: Orange-yellow for main text, white for tagline, purple gradient background
+- Background: Purple gradient from dark to light
+- Style: Minimalist, modern, professional
+- Mood: Elegant, trustworthy, professional

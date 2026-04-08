@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một nhóm người đang ngã theo hiệu ứng domino, với người đầu tiên đang cố gắng chống đỡ chuỗi người phía sau. Tất cả các hình người đều được thể hiện bằng silhouette màu xanh đậm trên nền trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette của nhiều người xếp thành hàng theo hiệu ứng domino
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh navy đơn sắc trên nền trắng
+- Nền: Trắng, trong suốt
+- Phong cách: Minimalist, biểu tượng, vector art
+- Tông điệu: Năng động, thách thức, đoàn kết
+
+---
+
+Visual Description:
+The logo depicts a group of people falling in a domino effect, with the first person trying to support the chain of people behind them. All human figures are rendered as solid blue silhouettes against a white background.
+
+Design Elements:
+- Shape: Silhouettes of multiple people arranged in a domino effect sequence
+- Typography: None (icon only)
+- Color Palette: Navy blue monochrome on white background
+- Background: White, transparent
+- Style: Minimalist, symbolic, vector art
+- Mood: Dynamic, challenging, solidarity

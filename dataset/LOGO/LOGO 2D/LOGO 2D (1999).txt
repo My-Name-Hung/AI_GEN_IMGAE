@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình vương miện hoặc sen stylized màu vàng gold ở phía trên. Bên dưới là dòng chữ "KHÁCH SẠN HOÀNG GIA VIỆT" được sắp xếp theo nhiều dòng với kiểu chữ serif thanh lịch màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng vương miện/sen cách điệu với các đường nét mảnh, chữ được căn giữa theo dạng khối
+- Kiểu chữ: Serif cổ điển, thanh lịch, có chân chữ rõ ràng
+- Bảng màu: Vàng gold cho icon, chữ trắng trên nền xanh lục đậm
+- Nền: Nền xanh lục đậm/xanh rêu đồng nhất
+- Phong cách: Sang trọng, cổ điển, tối giản
+- Tông điệu: Đẳng cấp, quý tộc, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a stylized crown or lotus icon in gold at the top. Below it is the text "KHÁCH SẠN HOÀNG GIA VIỆT" arranged in multiple lines using elegant white serif typography.
+
+Design Elements:
+- Shape: Stylized crown/lotus symbol with thin lines, centered text block layout
+- Typography: Classic serif with clear serifs, elegant and refined
+- Color Palette: Gold for icon, white text on deep teal/forest green background
+- Background: Solid deep teal/forest green
+- Style: Luxurious, classical, minimalist
+- Mood: Premium, regal, professional

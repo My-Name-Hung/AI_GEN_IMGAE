@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng giống chữ "R" được stylized với các khối hình học màu sắc rực rỡ. Phần chính bao gồm một hình chữ nhật màu cam/vàng, một hình tròn màu đỏ cam ở giữa, và hai phần cong màu xanh lá cây và xanh dương tạo thành các phần của chữ R.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ "R" được cách điệu bằng các khối hình học
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Cam/vàng, đỏ cam, xanh lá cây, xanh dương
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Năng động, thân thiện, sống động
+
+---
+
+Visual Description:
+The logo features a stylized letter "R" composed of colorful geometric shapes. It consists of an orange/yellow rectangular base, a red-orange circular element in the center, and two curved sections in green and blue that form the distinctive parts of the letter R.
+
+Design Elements:
+- Shape: Stylized letter "R" made of geometric blocks
+- Typography: None (icon only)
+- Color Palette: Orange/yellow, red-orange, green, blue
+- Background: Transparent/white
+- Style: Modern, minimalist, geometric
+- Mood: Dynamic, friendly, vibrant

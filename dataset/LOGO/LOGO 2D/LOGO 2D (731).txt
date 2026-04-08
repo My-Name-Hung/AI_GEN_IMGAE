@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm bốn hình dạng hình học màu xanh lục được sắp xếp thành hình thập tự hoặc kim cương. Các hình dạng có kích thước khác nhau và được định vị ở bốn hướng - trái, trên, phải và dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bốn hình dạng hình học (tam giác và hình thoi) tạo thành cấu trúc thập tự
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lục/xanh ngọc lục bảo đậm
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hình học, hiện đại, đối xứng
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo consists of four turquoise geometric shapes arranged in a cross or diamond formation. The shapes are of varying sizes and positioned in four directions - left, top, right, and bottom.
+
+Design Elements:
+- Shape: Four geometric forms (triangular and diamond shapes) forming a cross structure
+- Typography: None (icon only)
+- Color Palette: Turquoise/teal green
+- Background: White/transparent
+- Style: Minimalist, geometric, modern, symmetrical
+- Mood: Professional, dynamic, technological

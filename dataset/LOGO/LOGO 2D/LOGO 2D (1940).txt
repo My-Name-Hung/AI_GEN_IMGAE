@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ba hình vuông được xếp chồng lên nhau với đường viền trắng mỏng, tạo hiệu ứng lớp và chiều sâu. Tên thương hiệu "TÙNG DƯƠNG" được đặt ở trung tâm bằng font chữ đơn giản, rõ ràng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình vuông xếp chồng với đường viền mỏng
+- Kiểu chữ: Font sans-serif đơn giản, chữ hoa
+- Bảng màu: Trắng trên nền xanh lam xám
+- Nền: Màu xanh lam xám đồng nhất
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Chuyên nghiệp, tinh tế, thanh lịch
+
+---
+
+Visual Description:
+The logo features three overlapping squares with thin white outlines, creating a layered depth effect. The brand name "TÙNG DƯƠNG" is positioned in the center using clean, simple white typography.
+
+Design Elements:
+- Shape: Three overlapping squares with thin borders
+- Typography: Simple sans-serif font, uppercase letters
+- Color Palette: White on blue-gray background
+- Background: Solid blue-gray color
+- Style: Minimalist, modern, geometric
+- Mood: Professional, sophisticated, clean

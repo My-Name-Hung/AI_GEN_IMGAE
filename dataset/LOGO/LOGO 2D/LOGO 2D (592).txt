@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "THƠM NGON" bằng chữ in hoa màu kem trên nền màu nâu đậm. Phía dưới có dòng chữ nhỏ hơn "CA PHÊ NGON" cùng màu, tạo thành một thiết kế đơn giản và rõ ràng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối chữ chữ nhật đơn giản
+- Kiểu chữ: Sans-serif đậm, chữ in hoa, rõ nét
+- Bảng màu: Màu nâu cà phê làm nền, chữ màu kem/be nhạt
+- Nền: Nền đồng nhất màu nâu đậm
+- Phong cách: Tối giản, hiện đại, dễ đọc
+- Tông điệu: Ấm áp, thân thiện, gợi liên tưởng đến cà phê
+
+---
+
+Visual Description:
+The logo displays the brand name "THƠM NGON" in cream-colored capital letters against a dark brown background. Below it, smaller text reads "CA PHÊ NGON" in the same color, creating a simple and clear design.
+
+Design Elements:
+- Shape: Simple rectangular text block
+- Typography: Bold sans-serif, all caps, clean and legible
+- Color Palette: Coffee brown background with cream/light beige text
+- Background: Solid dark brown
+- Style: Minimalist, modern, readable
+- Mood: Warm, friendly, coffee-inspired

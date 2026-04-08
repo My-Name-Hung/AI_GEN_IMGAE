@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện hình ảnh một cái búa hoặc búa tạ cách điệu với thiết kế hình học đơn giản. Hình dạng được tạo thành từ những khối màu đen tối tạo nên silhouette của một chiếc búa với cán dài và đầu búa vuông góc.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình búa cách điệu, thiết kế hình học với các góc cạnh rõ ràng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đơn sắc đen tối trên nền trắng
+- Nền: Nền trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Mạnh mẽ, công nghiệp, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo depicts a stylized hammer or mallet rendered in a simple, geometric design. The shape is formed by dark black blocks that create the silhouette of a hammer with an elongated handle and perpendicular hammer head.
+
+Design Elements:
+- Shape: Stylized hammer icon with geometric, angular design
+- Typography: None (icon only)
+- Color Palette: Monochromatic black on white
+- Background: White/transparent background
+- Style: Minimalist, modern, geometric
+- Mood: Strong, industrial, professional

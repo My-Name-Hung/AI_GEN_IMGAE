@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một banner quảng cáo với hiệu ứng chữ 3D nổi bật có nội dung "DISCOUNT OFFER". Chữ được thiết kế với hiệu ứng đùn đẩy và đổ bóng màu hồng, tạo cảm giác không gian ba chiều trên nền hồng pastel.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ 3D với hiệu ứng extrude và bóng đổ
+- Kiểu chữ: Font chữ in hoa, dày, hiện đại với hiệu ứng 3D
+- Bảng màu: Tông màu hồng đơn sắc từ nhạt đến đậm
+- Nền: Nền gradient màu hồng pastel với các điểm sáng nhỏ
+- Phong cách: 3D, hiện đại, kỹ thuật số
+- Tông điệu: Thu hút, năng động, thương mại
+
+---
+
+Visual Description:
+This is an advertising banner featuring bold 3D text reading "DISCOUNT OFFER". The text is designed with pink extrusion effects and drop shadows, creating a three-dimensional appearance against a soft pink pastel background.
+
+Design Elements:
+- Shape: 3D extruded text with shadow effects
+- Typography: Bold, uppercase, modern font with 3D effects
+- Color Palette: Monochromatic pink scheme from light to dark
+- Background: Pink pastel gradient with small light spots
+- Style: 3D, modern, digital
+- Mood: Attractive, dynamic, commercial

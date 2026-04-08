@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn được tạo thành từ các chấm nhỏ màu trắng xếp thành vòng tròn ở trung tâm. Bên dưới là dòng chữ "TẬP ĐOÀN SƠN VIỆT" và "GIẢI PHÁP NHÂN LỰC" được sắp xếp thành hai hàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn được tạo từ các chấm nhỏ, bố cục đối xứng
+- Kiểu chữ: Sans-serif hiện đại, in hoa, khoảng cách đều
+- Bảng màu: Màu trắng trên nền xanh xám (teal)
+- Nền: Nền đơn sắc màu xanh xám nhã nhặn
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sang trọng, đáng tin cậy, tinh tế
+
+---
+
+Visual Description:
+The logo features a circular design made up of small white dots arranged in a perfect circle at the center. Below it are two lines of text reading "TẬP ĐOÀN SƠN VIỆT" and "GIẢI PHÁP NHÂN LỰC" in white typography.
+
+Design Elements:
+- Shape: Circular dotted pattern, symmetrical layout
+- Typography: Modern sans-serif, all caps, evenly spaced
+- Color Palette: White on teal/sage green background
+- Background: Solid muted teal color
+- Style: Minimalist, modern, corporate
+- Mood: Sophisticated, trustworthy, refined

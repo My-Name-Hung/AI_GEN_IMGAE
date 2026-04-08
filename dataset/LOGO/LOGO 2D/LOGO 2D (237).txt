@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tròn với gradient màu sắc từ vàng sang cam và xanh dương, có hình não màu tím ở trung tâm. Phần dưới là tên thương hiệu "GlobeBrain" với chữ "Globe" màu xanh đậm và "Brain" màu xám nhạt hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn gradient với hình não stylized ở giữa
+- Kiểu chữ: Sans-serif hiện đại, hai tông màu khác nhau
+- Bảng màu: Gradient vàng-cam-xanh cyan, não màu tím, chữ xanh đậm và xám
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, gradient sống động
+- Tông điệu: Công nghệ, sáng tạo, thông minh
+
+---
+
+Visual Description:
+The logo features a circular icon with a vibrant gradient from yellow to orange to cyan blue, containing a stylized purple brain in the center. Below is the brand name "GlobeBrain" with "Globe" in dark blue and "Brain" in lighter gray.
+
+Design Elements:
+- Shape: Circular gradient ring with stylized brain icon in center
+- Typography: Modern sans-serif with two-tone coloring
+- Color Palette: Yellow-orange-cyan gradient, purple brain, dark blue and gray text
+- Background: White/transparent
+- Style: Modern, minimalist, vibrant gradient
+- Mood: Technological, innovative, intelligent

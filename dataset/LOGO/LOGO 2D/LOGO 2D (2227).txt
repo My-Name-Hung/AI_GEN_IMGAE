@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Anh Thư" được viết bằng font chữ hiện đại, thanh lịch. Bên dưới có dòng chữ phụ "Phòng khám da liễu" với kích thước nhỏ hơn, tạo thành một thiết kế logo đơn giản và chuyên nghiệp.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục text thuần túy, không có biểu tượng đồ họa
+- Kiểu chữ: Font sans-serif hiện đại, thanh mảnh với khoảng cách chữ rộng
+- Bảng màu: Màu xám trung tính
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hiện đại, y tế
+- Tông điệu: Chuyên nghiệp, tin cậy, tinh tế
+
+---
+
+Visual Description:
+The logo displays the brand name "Anh Thư" written in a modern, elegant typeface. Below it is the smaller subtitle "Phòng khám da liễu" creating a simple and professional logo design.
+
+Design Elements:
+- Shape: Pure text-based layout with no graphic symbols
+- Typography: Modern sans-serif font with thin strokes and wide letter spacing
+- Color Palette: Neutral gray
+- Background: Clean white background
+- Style: Minimalist, modern, medical
+- Mood: Professional, trustworthy, refined

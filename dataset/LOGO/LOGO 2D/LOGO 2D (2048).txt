@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình tam giác được vẽ bằng đường viền màu tím trên nền đỏ. Bên trong tam giác có dòng chữ "MINH MAN" màu trắng, và phía dưới tam giác có dòng chữ nhỏ "Dự cho Đài phát thanh và Cầu tạc bộ".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tam giác đều với đường viền
+- Kiểu chữ: Font chữ in hoa, sans-serif, đơn giản
+- Bảng màu: Đỏ san hô, tím và trắng
+- Nền: Màu đỏ san hô đậm
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Năng động, rõ ràng, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a purple outlined triangle on a bright red background. Inside the triangle is white text reading "MINH MAN" with smaller Vietnamese text below the triangle that reads "Dự cho Đài phát thanh và Cầu tạc bộ".
+
+Design Elements:
+- Shape: Equilateral triangle outline
+- Typography: Sans-serif, uppercase lettering, clean and simple
+- Color Palette: Coral red, purple, and white
+- Background: Solid bright coral red
+- Style: Minimalist, geometric, modern
+- Mood: Dynamic, clear, professional

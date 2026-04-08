@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "SPC" được stylized bằng các đường ngang song song tạo hiệu ứng tốc độ và chuyển động. Bên dưới có chữ "GROUP" được viết bằng font chữ đơn giản, rõ ràng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái được tạo từ các thanh ngang song song, tạo cảm giác năng động
+- Kiểu chữ: Font sans-serif hiện đại cho "GROUP", chữ "SPC" được stylized với các đường kẻ ngang
+- Bảng màu: Trắng trên nền xanh dương đậm
+- Nền: Xanh dương đậm/xanh hoàng gia
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, tin cậy, năng động
+
+---
+
+Visual Description:
+The logo displays "SPC" in a stylized format with horizontal parallel lines creating a speed and motion effect. Below it, "GROUP" is written in simple, clean typography.
+
+Design Elements:
+- Shape: Letters formed by parallel horizontal bars creating a dynamic feel
+- Typography: Modern sans-serif for "GROUP", stylized "SPC" with horizontal line treatment
+- Color Palette: White on deep blue background
+- Background: Deep blue/royal blue
+- Style: Minimalist, modern, technological
+- Mood: Professional, trustworthy, dynamic

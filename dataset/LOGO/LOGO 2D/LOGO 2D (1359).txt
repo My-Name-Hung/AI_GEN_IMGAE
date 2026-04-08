@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có một biểu tượng đầu người đeo kính râm ở bên trái, với kiểu tóc xoăn được vẽ bằng nét đen đơn giản. Bên cạnh là chữ "GURU" với "GU" màu xanh cyan và "RU" màu đen, dưới có dòng chữ "DIGITAL" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng đầu người cách điệu kết hợp với typography
+- Kiểu chữ: Sans-serif hiện đại, đậm
+- Bảng màu: Đen, trắng, xanh cyan
+- Nền: Trắng
+- Phong cách: Tối giản, hiện đại, icon minh họa
+- Tông điệu: Chuyên nghiệp, thân thiện, sáng tạo
+
+---
+
+Visual Description:
+The logo features a stylized head icon on the left wearing sunglasses, with curly hair drawn in simple black lines. Next to it is the text "GURU" with "GU" in cyan and "RU" in black, with smaller "DIGITAL" text below.
+
+Design Elements:
+- Shape: Stylized head icon combined with typography
+- Typography: Modern, bold sans-serif
+- Color Palette: Black, white, cyan
+- Background: White
+- Style: Minimalist, modern, illustrative icon
+- Mood: Professional, friendly, creative

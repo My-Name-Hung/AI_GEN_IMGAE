@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hai chữ cái "KT" được viết bằng font serif thanh lịch trong một khung hình vuông có đường viền trắng mảnh. Bên dưới khung vuông là dòng chữ "KHANH TUYEN" được sắp xếp theo chiều ngang.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung vuông có đường viền với chữ cái lớn bên trong
+- Kiểu chữ: Font serif cổ điển cho monogram, font sans-serif đơn giản cho tên
+- Bảng màu: Chữ trắng trên nền xanh lá cây pastel nhẹ nhàng
+- Nền: Màu xanh lá cây pastel đồng nhất
+- Phong cách: Tối giản, thanh lịch, monogram cổ điển
+- Tông điệu: Sang trọng, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features the letters "KT" in an elegant serif font within a thin white square border frame. Below the square frame is the text "KHANH TUYEN" arranged horizontally.
+
+Design Elements:
+- Shape: Square border frame with large letters inside
+- Typography: Classic serif font for monogram, simple sans-serif for name
+- Color Palette: White text on soft pastel green background
+- Background: Uniform pastel green
+- Style: Minimalist, elegant, classic monogram
+- Mood: Sophisticated, refined, professional

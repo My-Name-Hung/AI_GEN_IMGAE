@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng kiến trúc stylized gồm các tòa nhà cao tầng với màu xanh lá cây và xanh dương. Bên dưới là chữ "BORCELLE" được viết bằng font chữ đậm màu xanh dương.
+
+Yếu tố Thiết kế:
+- Hình dạng: Các tòa nhà hình chữ nhật cao thấp khác nhau, tạo thành skyline đô thị
+- Kiểu chữ: Font sans-serif đậm, chữ hoa
+- Bảng màu: Xanh lá cây tươi, xanh dương đậm, trắng
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, kiến trúc
+- Tông điệu: Chuyên nghiệp, phát triển, ổn định
+
+---
+
+Visual Description:
+The logo features a stylized architectural icon of skyscrapers in green and blue colors arranged to create an urban skyline. Below the icon is the text "BORCELLE" rendered in bold blue typography.
+
+Design Elements:
+- Shape: Rectangular buildings of varying heights forming an urban skyline
+- Typography: Bold sans-serif uppercase font
+- Color Palette: Bright green, deep blue, white
+- Background: White/transparent
+- Style: Modern, minimalist, architectural
+- Mood: Professional, progressive, stable

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một con chim cách điệu được vẽ theo phong cách tối giản với các đường cong mềm mại. Con chim có thân hình tròn và những sợi lông đuôi bay bổng, tạo cảm giác chuyển động và nhẹ nhàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Con chim cách điệu với thân tròn và đuôi bay bổng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trên nền cam/đỏ rực rỡ
+- Nền: Màu cam/đỏ đồng nhất
+- Phong cách: Tối giản, hiện đại, vector
+- Tông điệu: Năng động, tự do, sống động
+
+---
+
+Visual Description:
+The logo features a stylized bird rendered in a minimalist style with smooth, flowing curves. The bird has a rounded body with graceful tail feathers that create a sense of movement and lightness.
+
+Design Elements:
+- Shape: Stylized bird with rounded body and flowing tail
+- Typography: None (icon only)
+- Color Palette: Black on vibrant orange/red background
+- Background: Solid orange/red color
+- Style: Minimalist, modern, vector-based
+- Mood: Dynamic, free, vibrant

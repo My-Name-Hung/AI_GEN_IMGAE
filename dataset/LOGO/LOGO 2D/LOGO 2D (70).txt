@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình lục giác được tạo từ các khối hình học nhỏ hơn với màu gradient từ cam, vàng đến xanh lam, xanh lục. Bên cạnh là dòng chữ "NeuroMind" được viết bằng font chữ sans-serif hiện đại màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác được ghép từ các khối hình học nhỏ, bố cục ngang
+- Kiểu chữ: Sans-serif hiện đại, đậm, chữ thường và hoa kết hợp
+- Bảng màu: Gradient từ cam-vàng đến xanh lam-xanh lục, chữ đen
+- Nền: Trắng trong suốt
+- Phong cách: Hiện đại, công nghệ, tối giản
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo features a hexagonal icon composed of smaller geometric blocks with a gradient transitioning from orange and yellow to blue and teal. Adjacent to it is the text "NeuroMind" written in a modern black sans-serif typeface.
+
+Design Elements:
+- Shape: Hexagon assembled from small geometric blocks, horizontal layout
+- Typography: Modern sans-serif, bold, mixed case
+- Color Palette: Orange-yellow to blue-teal gradient, black text
+- Background: Transparent white
+- Style: Modern, tech-focused, minimalist
+- Mood: Professional, innovative, dynamic

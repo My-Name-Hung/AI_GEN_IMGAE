@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một chiếc xe thể thao màu đen được chia thành nhiều mảnh hình học qua các đường cắt chéo màu trắng. Thiết kế tạo hiệu ứng phân mảnh năng động với văn bản "PORSCHE" ở trên và "WORLD 6" ở dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật phân chia bằng các đường chéo tạo mảnh ghép
+- Kiểu chữ: Font chữ in hoa, đậm, hiện đại
+- Bảng màu: Đen, trắng, xám
+- Nền: Xám nhạt
+- Phong cách: Hiện đại, thể thao, phân mảnh
+- Tông điệu: Năng động, mạnh mẽ, sang trọng
+
+---
+
+Visual Description:
+The logo features a black sports car fragmented into geometric pieces through white diagonal cutting lines. The design creates a dynamic shattered effect with "PORSCHE" text above and "WORLD 6" text below.
+
+Design Elements:
+- Shape: Rectangle divided by diagonal lines creating puzzle pieces
+- Typography: Bold, uppercase, modern font
+- Color Palette: Black, white, gray
+- Background: Light gray
+- Style: Modern, sporty, fragmented
+- Mood: Dynamic, powerful, luxurious

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng lá cây hoặc cành cây cách điệu màu xanh đậm được đặt ở trung tâm. Thiết kế có hình dạng đối xứng với các lá được sắp xếp theo kiểu tỏa ra từ trung tâm, tạo thành một mô típ trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng lá cây/cành cây đối xứng, có hình elip dẹt
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lá cây đậm trên nền xanh lá cây sáng/vàng chanh
+- Nền: Xanh lá cây sáng/vàng chanh đồng nhất
+- Phong cách: Tối giản, hữu cơ, tự nhiên, hiện đại
+- Tông điệu: Tươi mới, thân thiện với môi trường, năng động
+
+---
+
+Visual Description:
+The logo displays a dark green stylized leaf or branch icon centered on the image. The design features a symmetrical pattern with leaves arranged in a radiating formation from the center, creating a decorative motif.
+
+Design Elements:
+- Shape: Symmetrical leaf/branch icon with an oval, flattened form
+- Typography: None (icon only)
+- Color Palette: Dark green on bright lime green/chartreuse background
+- Background: Solid bright lime green/chartreuse
+- Style: Minimalist, organic, natural, modern
+- Mood: Fresh, eco-friendly, vibrant

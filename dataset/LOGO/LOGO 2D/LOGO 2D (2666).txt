@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "LEOM" được viết bằng chữ in hoa đậm màu đen, với chữ "O" được thiết kế như một vòng tròn hoàn hảo. Phía trên logo có một ngôi sao bốn cánh nhỏ, và bên dưới có dòng chữ "STUDIO" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái vuông vức, vòng tròn hoàn hảo cho chữ O, ngôi sao bốn cánh
+- Kiểu chữ: Sans-serif đậm, hiện đại, chữ hoa
+- Bảng màu: Đen trên nền trắng (đơn sắc)
+- Nền: Trắng, sạch sẽ
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sang trọng, tinh tế, sáng tạo
+
+---
+
+Visual Description:
+The logo displays "LEOM" in bold black uppercase letters, with the "O" designed as a perfect circle. Above the logo is a small four-pointed star, and below is the smaller text "STUDIO".
+
+Design Elements:
+- Shape: Angular letterforms, perfect circle for O, four-pointed star
+- Typography: Bold sans-serif, modern, uppercase
+- Color Palette: Black on white (monochrome)
+- Background: White, clean
+- Style: Minimalist, modern, professional
+- Mood: Elegant, sophisticated, creative

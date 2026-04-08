@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng hình học bên trái và văn bản bên phải trên nền tối. Biểu tượng là các hình vuông lồng nhau tạo thành hình kim cương stylized với màu vàng/be. Phần văn bản hiển thị tên công ty "MINH DUY VÀ AN BÌNH" và dòng chữ phụ "DỊCH VỤ TÀI CHÍNH" bằng font chữ hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Các hình vuông đồng tâm xoay góc tạo hiệu ứng kim cương 3D
+- Kiểu chữ: Font sans-serif hiện đại, sạch sẽ, chữ hoa
+- Bảng màu: Vàng/be cho icon và chữ, nền xám tối
+- Nền: Màu xám đậm/nâu tối
+- Phong cách: Hiện đại, tối giản, chuyên nghiệp, hình học
+- Tông điệu: Sang trọng, tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a geometric icon on the left and text on the right against a dark background. The icon consists of nested squares rotated to create a stylized diamond shape in gold/beige color. The text displays the company name "MINH DUY VÀ AN BÌNH" with the tagline "DỊCH VỤ TÀI CHÍNH" in modern typography.
+
+Design Elements:
+- Shape: Concentric rotated squares creating a 3D diamond effect
+- Typography: Modern sans-serif font, clean, uppercase letters
+- Color Palette: Gold/beige for icon and text, dark gray background
+- Background: Dark gray/brown
+- Style: Modern, minimalist, professional, geometric
+- Mood: Elegant, trustworthy, professional

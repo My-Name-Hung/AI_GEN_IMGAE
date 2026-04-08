@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh xe Porsche 911 màu xám được chia thành các mảnh hình học với kiểu bố cục hiện đại. Tên "PORSCHE 911 TURBO S" được đặt ở phía dưới với font chữ đậm, kèm theo logo Porsche truyền thống.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình ảnh xe được chia thành các mảnh tam giác và hình thoi tạo hiệu ứng phân mảnh
+- Kiểu chữ: Font sans-serif đậm, hiện đại cho tên xe
+- Bảng màu: Xám, đen, trắng với điểm nhấn logo Porsche vàng
+- Nền: Nền trắng sạch
+- Phong cách: Hiện đại, phân mảnh hình học, năng động
+- Tông điệu: Sang trọng, thể thao, cao cấp
+
+---
+
+Visual Description:
+The logo features a gray Porsche 911 image fragmented into geometric pieces with a modern layout design. The text "PORSCHE 911 TURBO S" is placed below in bold font, accompanied by the traditional Porsche crest logo.
+
+Design Elements:
+- Shape: Car image fragmented into triangular and diamond-shaped pieces creating a shattered effect
+- Typography: Bold, modern sans-serif font for the car model name
+- Color Palette: Gray, black, white with yellow Porsche logo accent
+- Background: Clean white background
+- Style: Modern, geometric fragmentation, dynamic
+- Mood: Luxurious, sporty, premium

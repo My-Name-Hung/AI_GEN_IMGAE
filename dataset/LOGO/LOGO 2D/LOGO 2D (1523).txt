@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hai hình tam giác được kết nối với nhau tạo thành một biểu tượng trừu tượng. Thiết kế sử dụng gradient màu từ tím sang xanh dương tạo hiệu ứng chuyển màu mượt mà.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai tam giác đan xen, tạo thành cấu trúc hình học phức hợp
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ tím đến xanh dương và xanh cyan
+- Nền: Nền trắng/xám nhạt
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo features two interconnected triangular shapes forming an abstract geometric symbol. The design uses a gradient color scheme transitioning smoothly from purple to blue tones.
+
+Design Elements:
+- Shape: Two interlocking triangles forming a complex geometric structure
+- Typography: None (icon only)
+- Color Palette: Gradient from purple to blue and cyan
+- Background: White/light gray background
+- Style: Minimalist, geometric, modern
+- Mood: Professional, dynamic, technological

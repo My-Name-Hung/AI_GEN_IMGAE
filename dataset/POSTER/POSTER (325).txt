@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Sora" bằng chữ trắng hiện đại với từ "project" được viết bằng chữ nghiêng màu cam bên dưới. Hình ảnh chính là một viên đá quý đỏ rực có hình dạng kim cương với các mặt cắt phức tạp, tạo hiệu ứng ánh sáng và phản chiếu ấn tượng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Viên đá quý hình kim cương với nhiều mặt cắt phức tạp
+- Kiểu chữ: Font chữ sans-serif hiện đại, chữ "project" nghiêng
+- Bảng màu: Đỏ ruby chủ đạo, chữ trắng, điểm nhấn cam/vàng
+- Nền: Nền đen tối tạo độ tương phản
+- Phong cách: Hiện đại, sang trọng, 3D render
+- Tông điệu: Cao cấp, quyền lực, tinh tế
+
+---
+
+Visual Description:
+The logo displays "Sora" in modern white typography with "project" written in italicized orange text below. The main visual element is a brilliant red gemstone in diamond shape with complex faceted cuts that create impressive light and reflection effects.
+
+Design Elements:
+- Shape: Diamond-shaped gemstone with multiple complex facets
+- Typography: Modern sans-serif font, italicized "project" text
+- Color Palette: Dominant ruby red, white text, orange/gold accents
+- Background: Dark black background for contrast
+- Style: Modern, luxurious, 3D rendered
+- Mood: Premium, powerful, sophisticated

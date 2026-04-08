@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo Burger King được hiển thị dưới dạng một biểu tượng 3D màu trắng với hiệu ứng đổ bóng trên nền cam. Biểu tượng có hình dạng hình chữ nhật bo tròn với chữ "BURGER KING" màu đỏ nổi bật ở trung tâm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật bo góc với hiệu ứng 3D nổi bật
+- Kiểu chữ: Chữ sans-serif đậm, bo tròn, thân thiện
+- Bảng màu: Cam, đỏ và trắng
+- Nền: Nền cam gradient mịn màng
+- Phong cách: Hiện đại, 3D, tối giản
+- Tông điệu: Năng động, thân thiện, ấm áp
+
+---
+
+Visual Description:
+The Burger King logo is displayed as a white 3D icon with shadow effects on an orange background. The icon has a rounded rectangular shape with bold red "BURGER KING" text prominently featured in the center.
+
+Design Elements:
+- Shape: Rounded rectangle with prominent 3D effects
+- Typography: Bold, rounded sans-serif, friendly
+- Color Palette: Orange, red, and white
+- Background: Smooth orange gradient
+- Style: Modern, 3D, minimalist
+- Mood: Dynamic, friendly, warm

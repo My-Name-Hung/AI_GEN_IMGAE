@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một nhân vật hoạt hình vui nhộn với khuôn mặt màu cam/đào, đeo kính mắt và có mái tóc xanh lá cây rối bù. Nhân vật mặc áo màu đỏ/hồng và có biểu cảm hạnh phúc với miệng há mở như đang cười hoặc nói.
+
+Yếu tố Thiết kế:
+- Hình dạng: Nhân vật hoạt hình hình chữ nhật với các đường viền tròn
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lá cây, cam/đào, đỏ/hồng, đen, trắng
+- Nền: Trong suốt/trắng
+- Phong cách: Hoạt hình, dễ thương, cartoon
+- Tông điệu: Vui vẻ, thân thiện, năng động
+
+---
+
+Visual Description:
+The logo depicts a cheerful cartoon character with an orange/peach-colored face, wearing glasses and sporting messy green hair. The character is dressed in a red/pink shirt and displays a happy expression with an open mouth as if laughing or speaking.
+
+Design Elements:
+- Shape: Rectangular cartoon character with rounded edges
+- Typography: None (icon only)
+- Color Palette: Green, orange/peach, red/pink, black, white
+- Background: Transparent/white
+- Style: Cartoon, cute, animated
+- Mood: Cheerful, friendly, energetic

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng hình khiên đơn giản với đường viền mảnh, được đặt ở góc dưới bên phải của hình ảnh. Bên dưới biểu tượng khiên có dòng chữ "COMFORT AND LUXURY IN EVERY SPACE" được sắp xếp trên nhiều dòng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng khiên đơn giản với đường viền mảnh
+- Kiểu chữ: Chữ in hoa, font sans-serif mảnh, cách chữ rộng
+- Bảng màu: Đen trắng (monochrome)
+- Nền: Trong suốt
+- Phong cách: Tối giản, hiện đại, tinh tế
+- Tông điệu: Chuyên nghiệp, sang trọng, tin cậy
+
+---
+
+Visual Description:
+The logo displays a simple shield icon with thin line borders, positioned in the bottom right corner of the image. Below the shield symbol is the text "COMFORT AND LUXURY IN EVERY SPACE" arranged across multiple lines.
+
+Design Elements:
+- Shape: Simple shield icon with thin line borders
+- Typography: Uppercase, thin sans-serif font with wide letter spacing
+- Color Palette: Black and white (monochrome)
+- Background: Transparent
+- Style: Minimalist, modern, refined
+- Mood: Professional, luxurious, trustworthy

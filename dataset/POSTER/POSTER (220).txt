@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "KRS" trong một hình chình vuông bo góc màu cam/đỏ với viền trắng. Logo được đặt ở góc trên bên phải của một poster quảng cáo Ngày Yoga Quốc tế.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông bo góc đều
+- Kiểu chữ: Chữ sans-serif đậm, in hoa
+- Bảng màu: Cam/đỏ chủ đạo với chữ trắng
+- Nền: Gradient cam đến đỏ
+- Phong cách: Hiện đại, tối giản, công ty
+- Tông điệu: Chuyên nghiệp, năng động, đáng tin cậy
+
+---
+
+Visual Description:
+The logo shows "KRS" text in a rounded square shape with orange/red coloring and white border. The logo is positioned in the upper right corner of an International Yoga Day promotional poster.
+
+Design Elements:
+- Shape: Rounded square with uniform corners
+- Typography: Bold sans-serif uppercase letters
+- Color Palette: Orange/red dominant with white text
+- Background: Orange to red gradient
+- Style: Modern, minimalist, corporate
+- Mood: Professional, dynamic, trustworthy

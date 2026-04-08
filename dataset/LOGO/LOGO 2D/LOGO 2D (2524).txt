@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "XE HỚI ÁNH TUYẾT" bằng chữ in hoa màu trắng đậm. Bên dưới có dòng chữ "Từ năm 2001" được viết bằng font chữ nghiêng màu vàng cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục văn bản theo chiều dọc, căn giữa
+- Kiểu chữ: Chữ in hoa đậm cho tên chính, chữ nghiêng thanh lịch cho năm thành lập
+- Bảng màu: Trắng và vàng cam trên nền đen
+- Nền: Nền đen đồng nhất
+- Phong cách: Tối giản, typography thuần túy, chuyên nghiệp
+- Tông điệu: Lịch lãm, đáng tin cậy, truyền thống
+
+---
+
+Visual Description:
+The logo displays the text "XE HỚI ÁNH TUYẾT" in bold white capital letters. Below it, "Từ năm 2001" is written in an elegant orange-yellow italic font.
+
+Design Elements:
+- Shape: Vertical text layout, center-aligned
+- Typography: Bold caps for main name, elegant italics for establishment year
+- Color Palette: White and orange-yellow on black
+- Background: Solid black background
+- Style: Minimalist, typography-only, professional
+- Mood: Elegant, trustworthy, traditional

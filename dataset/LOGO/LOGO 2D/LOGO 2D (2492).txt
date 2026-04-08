@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có nền xanh lá cây đậm với các biểu tượng màu trắng bao gồm một tách cà phê nóng hổi và một chiếc bánh cupcake được phân cách bởi một đường thẳng dọc. Phần text "CHÂU LAN" được thiết kế bằng font chữ in hoa đậm, bên dưới có dòng chữ "TIỆM CÀ PHÊ ÂM ẤP" và phía trên có text "Cà phê & Bánh ngọt" theo hình cung.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tách cà phê và bánh cupcake đơn giản, đường phân cách thẳng
+- Kiểu chữ: Font sans-serif in hoa đậm cho tên chính, font mảnh hơn cho slogan
+- Bảng màu: Xanh lá cây đậm làm nền, trắng cho biểu tượng và chữ
+- Nền: Nền xanh lá cây đồng nhất
+- Phong cách: Tối giản, hiện đại, biểu tượng đơn giản
+- Tông điệu: Thân thiện, ấm áp, gần gũi
+
+---
+
+Visual Description:
+The logo features a deep green background with white icons including a steaming coffee cup and a cupcake separated by a vertical line. The text "CHÂU LAN" is designed in bold uppercase font, with "TIỆM CÀ PHÊ ÂM ẤP" below and "Cà phê & Bánh ngọt" curved above.
+
+Design Elements:
+- Shape: Simple coffee cup and cupcake icons, straight dividing line
+- Typography: Bold sans-serif uppercase for main name, thinner font for taglines
+- Color Palette: Deep green background with white icons and text
+- Background: Solid green background
+- Style: Minimalist, modern, simple iconography
+- Mood: Friendly, warm, approachable

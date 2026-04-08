@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "ÂM DIỆU" với kiểu chữ in hoa màu trắng trên nền đen. Bên dưới có một đường kẻ ngang và dòng chữ nhỏ "TỪ NĂM 1990".
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật với văn bản được căn giữa
+- Kiểu chữ: Sans-serif hiện đại, in hoa, có dấu tiếng Việt
+- Bảng màu: Trắng và đen tương phản mạnh
+- Nền: Nền đen đồng nhất
+- Phong cách: Tối giản, thanh lịch, cổ điển
+- Tông điệu: Chuyên nghiệp, sang trọng, tinh tế
+
+---
+
+Visual Description:
+The logo displays the brand name "ÂM DIỆU" in white uppercase letters on a black background. Below it features a horizontal line and small text reading "TỪ NĂM 1990".
+
+Design Elements:
+- Shape: Rectangular layout with centered text arrangement
+- Typography: Modern sans-serif, uppercase, with Vietnamese diacritical marks
+- Color Palette: High contrast white and black
+- Background: Solid black background
+- Style: Minimalist, elegant, classic
+- Mood: Professional, sophisticated, refined

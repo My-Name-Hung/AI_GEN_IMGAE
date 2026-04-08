@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn với dòng chữ tiếng Việt được sắp xếp theo hình vòng cung ở phía trên và dưới. Ở trung tâm là tên thương hiệu "MÈO HOANG" với dòng chữ nhỏ hơn bên dưới và năm 1993.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với layout đối xứng, văn bản được bố trí theo đường cong
+- Kiểu chữ: Font chữ serif thanh lịch, chữ in hoa cho tên thương hiệu chính
+- Bảng màu: Chữ đen trên nền hồng pastel
+- Nền: Nền hồng pastel đồng nhất
+- Phong cách: Vintage, cổ điển, tối giản
+- Tông điệu: Nữ tính, nhẹ nhàng, tinh tế
+
+---
+
+Visual Description:
+The logo features a circular design with Vietnamese text arranged in curved arcs at the top and bottom. The center displays the brand name "MÈO HOANG" with smaller text below and the year 1993.
+
+Design Elements:
+- Shape: Circular with symmetrical layout, text following curved paths
+- Typography: Elegant serif font, uppercase letters for main brand name
+- Color Palette: Black text on pastel pink background
+- Background: Solid pastel pink
+- Style: Vintage, classic, minimalist
+- Mood: Feminine, gentle, refined

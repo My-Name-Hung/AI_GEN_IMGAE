@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một chiếc tạ đơn giản màu xám được vẽ theo phong cách đường nét tối giản. Bên dưới icon là dòng chữ "DŨNG KIỆN" in hoa bằng font chữ đậm màu xám, kèm theo dòng chữ phụ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon tạ đối xứng với thanh ngang và hai đầu tròn
+- Kiểu chữ: Font sans-serif đậm, chữ in hoa cho tên chính
+- Bảng màu: Xám đậm trên nền xanh lá cây tươi sáng
+- Nền: Màu xanh lá cây neon/lime green đồng nhất
+- Phong cách: Tối giản, hiện đại, biểu tượng đơn giản
+- Tông điệu: Năng động, thể thao, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a simple gray dumbbell icon drawn in minimalist line style. Below the icon is "DŨNG KIỆN" in bold gray uppercase letters, accompanied by smaller subtitle text.
+
+Design Elements:
+- Shape: Symmetrical dumbbell icon with horizontal bar and round ends
+- Typography: Bold sans-serif font, uppercase for main name
+- Color Palette: Dark gray on bright lime green background
+- Background: Solid neon/lime green color
+- Style: Minimalist, modern, simple iconography
+- Mood: Dynamic, athletic, professional

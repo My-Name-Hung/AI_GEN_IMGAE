@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một chiếc ghế sofa được tạo thành từ các khối vuông màu vàng/cam xếp chồng lên nhau tạo thành phần lưng tựa. Phần tay vịn và đệm ghế được vẽ bằng đường nét màu xanh lá cây tươi sáng, tạo nên hình dáng của một chiếc sofa hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ghế sofa được cách điệu từ các khối pixel vuông và đường nét cong
+- Kiểu chữ: Font chữ in hoa đậm màu trắng cho "COUCH CORN", font chữ nhỏ hơn màu xanh lá cho "Cozy Furniture"
+- Bảng màu: Nâu đất làm nền, vàng/cam cho các khối, xanh lá cây cho ghế, trắng cho chữ chính
+- Nền: Màu nâu đất đơn giản
+- Phong cách: Pixel art, hiện đại, tối giản, sáng tạo
+- Tông điệu: Ấm cúng, thân thiện, vui tươi, thoải mái
+
+---
+
+Visual Description:
+The logo features a sofa design made from stacked yellow/orange square blocks forming the backrest. The armrests and seat cushion are drawn with bright green curved lines, creating the shape of a modern couch.
+
+Design Elements:
+- Shape: Stylized sofa created from pixel squares and curved lines
+- Typography: Bold white uppercase font for "COUCH CORN", smaller green font for "Cozy Furniture"
+- Color Palette: Brown earth background, yellow/orange blocks, bright green furniture lines, white text
+- Background: Simple brown earth tone
+- Style: Pixel art, modern, minimalist, creative
+- Mood: Cozy, friendly, playful, comfortable

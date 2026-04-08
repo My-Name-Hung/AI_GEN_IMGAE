@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình học phức tạp với các đường nét góc cạnh tạo thành hình dạng giống như một neo hoặc mũi tên hướng xuống. Thiết kế có cấu trúc đối xứng với các lớp hình tam giác và hình chữ V xếp chồng lên nhau, tạo cảm giác về chiều sâu và chuyển động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học phức hợp, kết hợp tam giác và hình chữ V
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh navy đậm trên nền trắng
+- Nền: Nền trắng, trong suốt
+- Phong cách: Tối giản, hình học, hiện đại, đối xứng
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, uy quyền, ổn định
+
+---
+
+Visual Description:
+The logo displays a complex geometric symbol with sharp angular lines forming an anchor-like or downward-pointing arrow shape. The design features a symmetrical structure with layered triangular and V-shaped elements that create a sense of depth and movement.
+
+Design Elements:
+- Shape: Complex geometric icon combining triangular and V-shaped forms
+- Typography: None (icon only)
+- Color Palette: Deep navy blue on white background
+- Background: White, transparent background
+- Style: Minimalist, geometric, modern, symmetrical
+- Mood: Strong, professional, authoritative, stable

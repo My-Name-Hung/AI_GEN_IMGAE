@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ba hình tròn đen được liên kết với nhau tạo thành một mẫu hình tam giác đối xứng. Các vòng tròn được sắp xếp theo cách tạo ra hiệu ứng liên kết hoặc chuỗi, với mỗi vòng đều có độ dày đường viền đồng nhất.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba vòng tròn liên kết tạo thành hình tam giác
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trên nền xanh lá cây tươi
+- Nền: Màu xanh lá cây đồng nhất
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Chuyên nghiệp, kết nối, cân bằng
+
+---
+
+Visual Description:
+The logo displays three black circular rings interlocked together forming a symmetrical triangular pattern. The rings are arranged in a way that creates an interlinking or chain effect, with each ring having consistent line weight and thickness.
+
+Design Elements:
+- Shape: Three interlocked circular rings forming a triangular arrangement
+- Typography: None (icon only)
+- Color Palette: Black on vibrant green background
+- Background: Solid green color
+- Style: Minimalist, modern, geometric
+- Mood: Professional, connected, balanced

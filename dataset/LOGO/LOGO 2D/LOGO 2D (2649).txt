@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng cây stylized trong vòng tròn màu hồng ở phần trên. Phần dưới là tên thương hiệu "Thảo Mộc" bằng chữ đen và dòng slogan "Cửa hàng mỹ phẩm" bằng chữ hồng nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn kết hợp với biểu tượng cây có nhánh tản ra
+- Kiểu chữ: Font sans-serif hiện đại, rõ ràng cho tên thương hiệu và slogan
+- Bảng màu: Hồng đậm cho biểu tượng, đen cho tên chính, hồng nhạt cho slogan
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hiện đại, thân thiện với môi trường
+- Tông điệu: Tự nhiên, thanh khiết, nữ tính
+
+---
+
+Visual Description:
+The logo features a stylized tree icon within a pink circle at the top. Below is the brand name "Thảo Mộc" in black text and the tagline "Cửa hàng mỹ phẩm" in light pink text.
+
+Design Elements:
+- Shape: Circular form combined with branching tree symbol
+- Typography: Modern, clean sans-serif font for brand name and tagline
+- Color Palette: Deep pink for icon, black for main text, light pink for tagline
+- Background: Clean white background
+- Style: Minimalist, modern, eco-friendly
+- Mood: Natural, pure, feminine

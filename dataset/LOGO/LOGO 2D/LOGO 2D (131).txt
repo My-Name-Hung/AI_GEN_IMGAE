@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ba thanh hình chữ nhật dọc với hiệu ứng gradient từ màu tím sang cam/đỏ, tượng trưng cho các tòa nhà hoặc cấu trúc kiến trúc. Bên dưới là tên thương hiệu "Mavid" với dòng chữ phụ "CONSTRUCTION" được đặt trên nền ảnh chụp các tòa nhà cao tầng từ góc nhìn ngửa lên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba thanh chữ nhật dọc với độ cao khác nhau, tạo thành biểu tượng kiến trúc
+- Kiểu chữ: Sans-serif hiện đại, đậm và rõ ràng cho "Mavid", chữ nhỏ in hoa cho "CONSTRUCTION"
+- Bảng màu: Gradient tím-hồng-cam, chữ trắng
+- Nền: Ảnh chụp các tòa nhà cao tầng từ góc nghiêng
+- Phong cách: Hiện đại, tối giản, gradient sống động
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features three vertical rectangular bars with a gradient effect from purple to orange/red, symbolizing buildings or architectural structures. Below is the brand name "Mavid" with the subtitle "CONSTRUCTION" set against a background photograph of skyscrapers shot from a low angle looking up.
+
+Design Elements:
+- Shape: Three vertical rectangles of varying heights forming an architectural symbol
+- Typography: Modern sans-serif, bold and clear for "Mavid", small caps for "CONSTRUCTION"
+- Color Palette: Purple-pink-orange gradient, white text
+- Background: Photograph of tall buildings from an angled perspective
+- Style: Modern, minimalist, vibrant gradient
+- Mood: Professional, dynamic, creative

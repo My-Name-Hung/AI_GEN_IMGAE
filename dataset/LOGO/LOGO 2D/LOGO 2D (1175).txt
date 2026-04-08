@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình học trắng trên nền đen, bao gồm các hình khối góc cạnh được sắp xếp tạo thành hình dạng giống như một chiếc hộp hoặc gói hàng cách điệu. Bên dưới biểu tượng là dòng chữ "RADIN BOURSE" được viết bằng font chữ sans-serif đậm màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học ba chiều, các khối vuông và tam giác tạo hiệu ứng chiều sâu
+- Kiểu chữ: Sans-serif đậm, chữ hoa, rõ ràng và hiện đại
+- Bảng màu: Đen và trắng (monochrome)
+- Nền: Nền đen đồng nhất
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a white geometric icon on a black background, consisting of angular shapes arranged to form a stylized box or package-like form. Below the icon is the text "RADIN BOURSE" written in bold white sans-serif typography.
+
+Design Elements:
+- Shape: Three-dimensional geometric icon with squares and triangular elements creating depth
+- Typography: Bold sans-serif, uppercase, clean and modern
+- Color Palette: Black and white (monochrome)
+- Background: Solid black background
+- Style: Minimalist, modern, geometric
+- Mood: Professional, strong, trustworthy

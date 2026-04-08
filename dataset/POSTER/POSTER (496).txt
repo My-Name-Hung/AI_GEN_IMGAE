@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "ADVERTS" trong khung chữ nhật màu cam/da cam. Chữ "ADVERTS" được viết bằng font chữ in hoa màu trắng, nổi bật trên nền cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung chữ nhật bo góc
+- Kiểu chữ: Font chữ sans-serif, in hoa, đậm
+- Bảng màu: Cam/da cam và trắng
+- Nền: Màu cam đậm
+- Phong cách: Hiện đại, tối giản, công ty
+- Tông điệu: Chuyên nghiệp, năng động, tự tin
+
+---
+
+Visual Description:
+The logo displays the text "ADVERTS" within an orange/burnt orange rectangular frame. The "ADVERTS" text is rendered in white capital letters that stand out prominently against the orange background.
+
+Design Elements:
+- Shape: Rounded rectangular frame
+- Typography: Sans-serif font, uppercase, bold weight
+- Color Palette: Orange/burnt orange and white
+- Background: Solid orange
+- Style: Modern, minimalist, corporate
+- Mood: Professional, energetic, confident

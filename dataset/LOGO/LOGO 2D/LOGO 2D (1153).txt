@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ cái "G" được cách điệu với phần trên có hình dạng của một lâu đài hoặc pháo đài với các mấu tường. Thiết kế kết hợp giữa một ký tự chữ và biểu tượng kiến trúc phòng thủ tạo thành một hình khiên bảo vệ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ G với phần đỉnh có răng cưa như tường thành, tổng thể tạo hình khiên
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Màu nâu vàng/đồng đậm
+- Nền: Trắng hoặc trong suốt
+- Phong cách: Hiện đại, tối giản, biểu tượng
+- Tông điệu: Mạnh mẽ, bảo vệ, uy quyền
+
+---
+
+Visual Description:
+The logo displays a stylized letter "G" with the top portion designed as a castle or fortress with crenellations. The design combines a letterform with defensive architectural elements to create a shield-like protective symbol.
+
+Design Elements:
+- Shape: Letter G with castellated crown forming a shield shape
+- Typography: None (icon only)
+- Color Palette: Deep golden brown/bronze
+- Background: White or transparent
+- Style: Modern, minimalist, symbolic
+- Mood: Strong, protective, authoritative

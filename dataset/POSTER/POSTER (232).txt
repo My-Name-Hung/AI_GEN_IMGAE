@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "The artisan BAKERY" được thiết kế với kiểu chữ thanh lịch trên nền màu be/kem nhạt. Từ "BAKERY" được nhấn mạnh với kích thước lớn hơn và có thêm dấu chấm tròn nhỏ ở cuối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục văn bản đơn giản, phân tầng với dấu chấm tròn nhỏ
+- Kiểu chữ: Serif thanh mảnh cho "The artisan", sans-serif đậm cho "BAKERY"
+- Bảng màu: Màu nâu chocolate đậm trên nền be/kem nhạt
+- Nền: Màu be/kem trung tính, nhẹ nhàng
+- Phong cách: Tối giản, tinh tế, thủ công
+- Tông điệu: Ấm áp, sang trọng, thân thiện
+
+---
+
+Visual Description:
+The logo displays "The artisan BAKERY" text in elegant typography on a soft beige/cream background. The word "BAKERY" is emphasized with larger sizing and includes a small circular dot at the end.
+
+Design Elements:
+- Shape: Simple text layout with hierarchical arrangement and small circular accent
+- Typography: Thin serif for "The artisan", bold sans-serif for "BAKERY"
+- Color Palette: Deep chocolate brown text on soft beige/cream background
+- Background: Neutral beige/cream tone
+- Style: Minimalist, refined, artisanal
+- Mood: Warm, sophisticated, approachable

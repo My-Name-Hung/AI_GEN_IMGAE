@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng xe tải nhỏ màu xanh dương được đặt trong vòng tròn trắng ở trung tâm. Bên dưới là tên thương hiệu "SỬA LONG THÀNH" bằng chữ in hoa màu trắng và dòng slogan "Dịch vụ vận chuyển bò sữa" bằng chữ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn chứa biểu tượng xe tải, bố cục dọc đối xứng
+- Kiểu chữ: Sans-serif in hoa đậm cho tên thương hiệu, chữ thường mảnh cho slogan
+- Bảng màu: Xanh dương chủ đạo, trắng cho chữ và vòng tròn
+- Nền: Màu xanh dương đồng nhất
+- Phong cách: Tối giản, hiện đại, doanh nghiệp
+- Tông điệu: Chuyên nghiệp, tin cậy, rõ ràng
+
+---
+
+Visual Description:
+The logo features a small blue truck icon centered within a white circular border. Below it displays the brand name "SỬA LONG THÀNH" in white capital letters, followed by a smaller tagline "Dịch vụ vận chuyển bò sữa" in white text.
+
+Design Elements:
+- Shape: Circular icon container with truck symbol, vertically aligned symmetrical layout
+- Typography: Bold sans-serif capitals for brand name, thinner lowercase for tagline
+- Color Palette: Dominant blue background with white text and circular border
+- Background: Solid blue uniform color
+- Style: Minimalist, modern, corporate
+- Mood: Professional, trustworthy, clear

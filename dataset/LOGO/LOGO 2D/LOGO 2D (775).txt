@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình ngũ giác với biểu tượng núi băng bên trong, được thể hiện bằng các tông màu xanh dương từ sáng đến tối. Phần chữ "iceberg" được đặt bên dưới với font chữ đơn giản, hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ngũ giác với biểu tượng núi băng stylized
+- Kiểu chữ: Sans-serif đơn giản, chữ thường
+- Bảng màu: Gradient xanh dương từ sáng đến tối, chữ xanh dương
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, gradient
+- Tông điệu: Chuyên nghiệp, công nghệ, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a pentagon shape containing a stylized iceberg icon rendered in various shades of blue from light to dark gradient. The word "iceberg" appears below in simple, modern lowercase lettering.
+
+Design Elements:
+- Shape: Pentagon with stylized iceberg symbol
+- Typography: Simple sans-serif, lowercase
+- Color Palette: Blue gradient from light to dark, blue text
+- Background: White/transparent
+- Style: Modern, minimalist, gradient
+- Mood: Professional, tech-focused, trustworthy

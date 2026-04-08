@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "TEAM" được đặt thẳng đứng trong một hình chữ nhật màu xám nhạt, được bao quanh bởi các hình ảnh nhỏ của nhiều người khác nhau. Các hình ảnh người được sắp xếp tạo thành một vòng tròn xung quanh chữ "TEAM" trung tâm, với nền màu xanh lam đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật dọc trung tâm với bố cục vòng tròn
+- Kiểu chữ: Chữ in hoa đơn giản, hiện đại, màu trắng
+- Bảng màu: Xanh lam đậm, xám nhạt, trắng
+- Nền: Màu xanh lam đậm
+- Phong cách: Hiện đại, tối giản, cộng đồng
+- Tông điệu: Chuyên nghiệp, đoàn kết, thân thiện
+
+---
+
+Visual Description:
+The logo features the word "TEAM" displayed vertically in a light gray rectangle, surrounded by small circular images of various people. The people images are arranged in a circular pattern around the central "TEAM" text, set against a dark teal background.
+
+Design Elements:
+- Shape: Vertical rectangle with circular layout arrangement
+- Typography: Simple, modern sans-serif capitals in white
+- Color Palette: Dark teal, light gray, white
+- Background: Dark teal
+- Style: Modern, minimalist, community-focused
+- Mood: Professional, unified, collaborative

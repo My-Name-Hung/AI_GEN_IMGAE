@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "PHÒNG TẬP KHỎE" được bố trí theo hình cung tròn ở phần trên. Bên dưới là biểu tượng hai tạ đơn được kết nối với một ngôi sao ở giữa, kèm theo dòng chữ phụ "TRUNG TÂM THỂ DỤC VÀ CHĂM SÓC SỨC KHỎE".
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục tròn với biểu tượng tạ đơn đối xứng và ngôi sao trung tâm
+- Kiểu chữ: Font chữ in hoa, đậm, dễ đọc với khoảng cách rộng
+- Bảng màu: Trắng trên nền xanh dương đậm
+- Nền: Nền xanh dương đậm, đồng nhất
+- Phong cách: Thiết kế thể thao, hiện đại, tối giản
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo displays "PHÒNG TẬP KHỎE" arranged in a curved arc at the top. Below is an icon featuring two dumbbells connected by a central star, accompanied by the subtitle "TRUNG TÂM THỂ DỤC VÀ CHĂM SÓC SỨC KHỎE".
+
+Design Elements:
+- Shape: Circular layout with symmetrical dumbbell icons and central star
+- Typography: Bold, uppercase sans-serif font with wide letter spacing
+- Color Palette: White text and graphics on deep blue background
+- Background: Solid deep blue background
+- Style: Athletic, modern, minimalist design
+- Mood: Strong, professional, energetic

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "MONEY" bằng font chữ lớn màu xanh lá cây đậm, với từ "SUCCESS" nhỏ hơn bên dưới cùng màu. Phía dưới có một câu trích dẫn về thành công và tên tác giả "HARRY SLYMAN", cùng với logo nhỏ ở cuối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Typography chính với layout dọc, có thêm yếu tố văn bản phụ
+- Kiểu chữ: Font sans-serif đậm cho tiêu đề chính, font mảnh cho văn bản phụ
+- Bảng màu: Xanh lá cây đậm chủ đạo, đen cho văn bản phụ
+- Nền: Trong suốt với hình ảnh tiền đô la mờ phía sau
+- Phong cách: Hiện đại, tối giản, nghiêm túc
+- Tông điệu: Chuyên nghiệp, uy tín, thành công
+
+---
+
+Visual Description:
+The logo displays "MONEY" in large dark green bold letters with "SUCCESS" in smaller text below in the same color. Below that is a motivational quote about success and the author name "HARRY SLYMAN", along with a small logo at the bottom.
+
+Design Elements:
+- Shape: Typography-based with vertical layout, including supplementary text elements
+- Typography: Bold sans-serif for main title, thin font for supporting text
+- Color Palette: Dark green dominant, black for supporting text
+- Background: Transparent with faded dollar bill imagery behind
+- Style: Modern, minimalist, serious
+- Mood: Professional, authoritative, success-oriented

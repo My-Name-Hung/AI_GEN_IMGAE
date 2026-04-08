@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị số "8" được stylized với hai hình tròn chồng lên nhau, tạo thành hình dạng giống bánh răng với các răng cưa ở hai bên. Số 8 được tô màu gradient từ tím đến hồng ở phần trên và xanh dương ở phần dưới, với các điểm trắng ở trung tâm mỗi vòng tròn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Số 8 kết hợp với hình bánh răng, có các răng cưa và hai vòng tròn đồng tâm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient tím-hồng-cam ở trên, xanh dương ở dưới, điểm nhấn trắng
+- Nền: Nền trắng/trong suốt
+- Phong cách: Hiện đại, kỹ thuật số, gradient, biểu tượng
+- Tông điệu: Năng động, công nghệ, sáng tạo
+
+---
+
+Visual Description:
+The logo displays a stylized number "8" formed by two overlapping circles that create a gear-like shape with serrated edges on both sides. The number 8 features a gradient coloring from purple to pink in the upper portion and blue in the lower portion, with white dots at the center of each circular loop.
+
+Design Elements:
+- Shape: Number 8 combined with gear design, featuring serrated edges and two concentric circles
+- Typography: None (icon only)
+- Color Palette: Purple-pink-orange gradient on top, blue below, white accents
+- Background: White/transparent background
+- Style: Modern, digital, gradient, symbolic
+- Mood: Dynamic, technological, creative

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị trên một khối 3D màu trắng với hình dạng vuông bo góc, được đặt nghiêng trên nền đỏ. Biểu tượng trên logo là hai cánh chim cách điệu với màu đen và xám, kết hợp với một hình thoi màu đỏ có ngôi sao vàng ở trung tâm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối 3D vuông bo góc, biểu tượng cánh chim và hình thoi
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đỏ, trắng, đen, xám, vàng
+- Nền: Đỏ đậm
+- Phong cách: 3D, hiện đại, tối giản
+- Tông điệu: Mạnh mẽ, năng động, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo is displayed on a white 3D rounded square block positioned at an angle against a red background. The symbol features stylized bird wings in black and gray tones, combined with a red diamond shape containing a yellow star at its center.
+
+Design Elements:
+- Shape: 3D rounded square block, stylized wings and diamond symbol
+- Typography: None (icon only)
+- Color Palette: Red, white, black, gray, yellow
+- Background: Deep red
+- Style: 3D, modern, minimalist
+- Mood: Powerful, dynamic, professional

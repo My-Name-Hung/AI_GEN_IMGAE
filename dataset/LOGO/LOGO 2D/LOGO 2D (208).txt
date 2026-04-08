@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình tròn với chữ "MAGNETIC PUZZLE CO" bao quanh viền ngoài. Ở trung tâm là một hình vuông có đường viền màu cam/vàng chứa ký tự "M" được tạo từ các chấm nhỏ màu xanh lá cây và xanh dương.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với badge trung tâm hình vuông
+- Kiểu chữ: Sans-serif in hoa, đậm và rõ ràng
+- Bảng màu: Xanh đậm, cam/vàng, xanh lá cây, xanh dương
+- Nền: Xanh đậm đồng nhất
+- Phong cách: Retro, vintage, badge design
+- Tông điệu: Chuyên nghiệp, thân thiện, sáng tạo
+
+---
+
+Visual Description:
+The logo is a circular badge design with "MAGNETIC PUZZLE CO" text around the outer rim. The center features a square with an orange/yellow border containing the letter "M" created from small green and blue dots in a pixelated style.
+
+Design Elements:
+- Shape: Circular badge with central square element
+- Typography: Bold sans-serif uppercase lettering
+- Color Palette: Dark teal, orange/yellow, green, blue
+- Background: Solid dark teal
+- Style: Retro, vintage, badge design
+- Mood: Professional, friendly, creative

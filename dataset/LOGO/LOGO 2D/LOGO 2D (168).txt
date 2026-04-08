@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện chữ "R" được cách điệu hóa với thiết kế hình học hiện đại. Hình dạng được tạo thành từ các mảnh ghép góc cạnh, tạo nên một cấu trúc ba chiều với hiệu ứng gradient màu xanh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ "R" hình học với các cạnh góc vuông và thiết kế isometric
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient xanh dương đến xanh cyan
+- Nền: Nền trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Công nghệ, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo displays a stylized letter "R" with a modern geometric design. The shape is formed by angular puzzle-like pieces that create a three-dimensional structure with a blue gradient effect.
+
+Design Elements:
+- Shape: Geometric "R" with sharp angles and isometric design
+- Typography: None (icon only)
+- Color Palette: Blue to cyan gradient
+- Background: White/transparent background
+- Style: Minimalist, modern, geometric
+- Mood: Tech-forward, professional, dynamic

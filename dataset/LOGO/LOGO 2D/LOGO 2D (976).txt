@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tam giác với hiệu ứng gradient màu xanh dương từ đậm đến nhạt, tạo cảm giác như những lớp núi chồng lấp. Bên dưới là tên thương hiệu "AUQTA" được viết bằng font chữ đậm, hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Tam giác với các lớp gradient tạo chiều sâu
+- Kiểu chữ: Font sans-serif đậm, hiện đại, chữ hoa
+- Bảng màu: Gradient xanh dương từ đậm đến xanh nhạt/cyan
+- Nền: Trắng, sạch sẽ
+- Phong cách: Hiện đại, tối giản, geometric
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, công nghệ
+
+---
+
+Visual Description:
+The logo features a triangular shape with blue gradient layers creating a mountain-like layered effect from dark blue to light cyan. Below the icon is the brand name "AUQTA" written in bold, modern typography.
+
+Design Elements:
+- Shape: Triangle with layered gradient creating depth
+- Typography: Bold, modern sans-serif font in uppercase
+- Color Palette: Blue gradient from dark blue to light cyan
+- Background: Clean white background
+- Style: Modern, minimalist, geometric
+- Mood: Professional, trustworthy, technological

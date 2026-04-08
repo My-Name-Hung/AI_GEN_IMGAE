@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một hình kim tự tháp màu cam đặt phía trên dòng chữ "DU NGOAN" viết bằng font chữ đen thanh lịch. Bên dưới có dòng chữ nhỏ hơn màu vàng cam ghi "KHAM PHA TO BAY".
+
+Yếu tố Thiết kế:
+- Hình dạng: Kim tự tháp ba chiều với hiệu ứng gradient
+- Kiểu chữ: Sans-serif hiện đại, in hoa, khoảng cách chữ rộng
+- Bảng màu: Cam gradient, đen, vàng cam nhạt
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, khám phá, phiêu lưu
+
+---
+
+Visual Description:
+The logo features an orange geometric pyramid positioned above the text "DU NGOAN" in elegant black lettering. Below the main text is a smaller line in orange-yellow reading "KHAM PHA TO BAY".
+
+Design Elements:
+- Shape: Three-dimensional pyramid with gradient effect
+- Typography: Modern sans-serif, uppercase, wide letter spacing
+- Color Palette: Orange gradient, black, light orange-yellow
+- Background: White/transparent
+- Style: Minimalist, modern, geometric
+- Mood: Professional, exploratory, adventurous

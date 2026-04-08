@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hình học tròn với các đường nét đan xen tạo thành hình hoa thị phức tạp ở phía trên. Bên dưới là tên thương hiệu "Mai Giang" được viết bằng font chữ thanh lịch, kèm theo dòng slogan "THIẾT KẾ NỘI THẤT" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn đan xen phức tạp, bố cục dọc
+- Kiểu chữ: Font serif thanh lịch cho tên chính, font sans-serif nhỏ cho slogan
+- Bảng màu: Xanh navy đậm trên nền kem nhạt
+- Nền: Màu kem/be nhẹ nhàng
+- Phong cách: Tối giản, sang trọng, tinh tế
+- Tông điệu: Chuyên nghiệp, thanh lịch, tinh tế
+
+---
+
+Visual Description:
+The logo features a circular geometric symbol with interwoven lines forming a complex mandala-like pattern at the top. Below is the brand name "Mai Giang" in elegant typography, accompanied by the smaller tagline "THIẾT KẾ NỘI THẤT."
+
+Design Elements:
+- Shape: Complex circular interwoven symbol, vertical layout
+- Typography: Elegant serif font for main name, smaller sans-serif for tagline
+- Color Palette: Dark navy blue on light cream background
+- Background: Soft cream/beige tone
+- Style: Minimalist, sophisticated, refined
+- Mood: Professional, elegant, refined

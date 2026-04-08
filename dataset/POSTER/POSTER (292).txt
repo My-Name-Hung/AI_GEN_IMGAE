@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một poster quảng cáo thực đơn nhà hàng với tiêu đề "NEW DISHES & DRINKS" được thiết kế bằng chữ in hoa màu trắng đậm. Poster giới thiệu các món ăn mới như thịt heo nướng và cơm chiên cùng với đồ uống kèm hình ảnh thực phẩm chân thực và giá cả.
+
+Yếu tố Thiết kế:
+- Hình dạng: Layout chữ nhật với bố cục chia khối rõ ràng
+- Kiểu chữ: Chữ in hoa sans-serif đậm cho tiêu đề, font serif cho nội dung mô tả
+- Bảng màu: Nền nâu ấm, chữ trắng và đỏ nâu, hình ảnh thực phẩm đầy màu sắc
+- Nền: Màu nâu gradient tạo cảm giác ấm áp
+- Phong cách: Thiết kế quảng cáo thực đơn hiện đại, bố cục grid
+- Tông điệu: Hấp dẫn, thân thiện, kích thích thèm ăn
+
+---
+
+Visual Description:
+This is a restaurant menu advertisement poster featuring "NEW DISHES & DRINKS" in bold white capital letters as the main headline. The poster showcases new food items like roasted pork and fried rice along with beverages, accompanied by realistic food photography and pricing information.
+
+Design Elements:
+- Shape: Rectangular layout with clear block organization
+- Typography: Bold sans-serif capitals for headlines, serif font for descriptive text
+- Color Palette: Warm brown background, white and reddish-brown text, colorful food imagery
+- Background: Warm brown gradient creating cozy atmosphere
+- Style: Modern menu advertising design, grid-based layout
+- Mood: Appetizing, friendly, inviting

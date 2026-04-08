@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "THÀNH LONG" bằng chữ in hoa màu xanh cyan nổi bật trên nền tối. Bên dưới là dòng chữ "Bệnh viện đa khoa" màu trắng và một tagline nhỏ hơn ở cuối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục văn bản đơn giản, không có biểu tượng đồ họa
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa cho tên chính, chữ thường cho mô tả
+- Bảng màu: Xanh cyan, trắng trên nền xám đen
+- Nền: Nền tối màu xám than
+- Phong cách: Tối giản, y tế, chuyên nghiệp
+- Tông điệu: Tin cậy, hiện đại, sạch sẽ
+
+---
+
+Visual Description:
+The logo displays "THÀNH LONG" in bright cyan uppercase letters against a dark background. Below it is "Bệnh viện đa khoa" in white text, followed by a smaller tagline at the bottom.
+
+Design Elements:
+- Shape: Simple text-based layout with no graphic symbols
+- Typography: Modern sans-serif, uppercase for main name, lowercase for description
+- Color Palette: Cyan blue, white on dark charcoal background
+- Background: Dark charcoal gray background
+- Style: Minimalist, medical, professional
+- Mood: Trustworthy, modern, clean

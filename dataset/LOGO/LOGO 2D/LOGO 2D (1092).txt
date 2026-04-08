@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "PORT of Kotor" với chữ "IK" được thiết kế đặc biệt, trong đó chữ "K" kết nối với một biểu tượng hình tròn nhỏ. Toàn bộ logo sử dụng màu tím đậm trên nền xanh cyan rực rỡ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Văn bản với biểu tượng hình học, chữ K có thiết kế đặc biệt kết nối với hình tròn
+- Kiểu chữ: Sans-serif hiện đại, in hoa cho "PORT", viết thường cho "of Kotor"
+- Bảng màu: Tím đậm trên nền xanh cyan
+- Nền: Xanh cyan đồng nhất
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo displays "PORT of Kotor" text with specially designed "IK" letters, where the "K" connects to a small circular symbol. The entire logo uses dark purple color on a bright cyan background.
+
+Design Elements:
+- Shape: Text with geometric symbol, stylized K connecting to circle
+- Typography: Modern sans-serif, uppercase for "PORT", lowercase for "of Kotor"
+- Color Palette: Dark purple on cyan background
+- Background: Solid cyan
+- Style: Modern, minimalist, tech-oriented
+- Mood: Professional, dynamic, innovative

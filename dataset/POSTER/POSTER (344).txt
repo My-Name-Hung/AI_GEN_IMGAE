@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo là một banner khuyến mãi Black Friday với thiết kế hình tròn đồng tâm màu đỏ gradient. Văn bản "BLACK FRIDAY" được thiết kế với font chữ to, đậm màu vàng nổi bật ở trung tâm, kèm theo các thông tin khuyến mãi xung quanh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn đồng tâm với các vòng gradient từ trong ra ngoài
+- Kiểu chữ: Font sans-serif đậm, có hiệu ứng 3D và đổ bóng cho chữ chính
+- Bảng màu: Đỏ gradient, vàng, đen, trắng
+- Nền: Gradient đỏ với pattern hình tròn đồng tâm
+- Phong cách: Khuyến mãi, năng động, hiện đại, có hiệu ứng 3D
+- Tông điệu: Hấp dẫn, khẩn cấp, thương mại, thu hút
+
+---
+
+Visual Description:
+The logo is a Black Friday promotional banner with concentric circular red gradient design. The text "BLACK FRIDAY" is designed in large, bold yellow letters prominently displayed in the center, accompanied by promotional information around it.
+
+Design Elements:
+- Shape: Concentric circles with gradient rings from inside to outside
+- Typography: Bold sans-serif font with 3D effects and drop shadows on main text
+- Color Palette: Red gradient, yellow, black, white
+- Background: Red gradient with concentric circular pattern
+- Style: Promotional, dynamic, modern, 3D effects
+- Mood: Attractive, urgent, commercial, eye-catching

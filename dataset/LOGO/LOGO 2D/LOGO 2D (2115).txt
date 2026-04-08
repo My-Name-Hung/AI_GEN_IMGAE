@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một khối hình chữ nhật màu xanh lá cây gradient với texture và văn bản "Ngân hàng Tân Việt" màu trắng bên cạnh. Phần dưới có dòng chữ nhỏ "CÁC DỊCH VỤ VÀ TÀI CHÍNH SỐ" cũng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối chữ nhật có texture kết hợp với typography
+- Kiểu chữ: Sans-serif hiện đại, in đậm cho tên ngân hàng
+- Bảng màu: Xanh lá cây gradient, trắng, nền tím gradient
+- Nền: Gradient tím từ đậm đến nhạt với các hình học abstract
+- Phong cách: Hiện đại, kỹ thuật số, tối giản
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, công nghệ
+
+---
+
+Visual Description:
+The logo features a green gradient rectangular block with texture alongside white text reading "Ngân hàng Tân Việt" (Tan Viet Bank). Below is smaller white text stating "CÁC DỊCH VỤ VÀ TÀI CHÍNH SỐ" (Digital Services and Finance).
+
+Design Elements:
+- Shape: Textured rectangular block combined with typography
+- Typography: Modern sans-serif, bold for bank name
+- Color Palette: Green gradient, white text, purple gradient background
+- Background: Purple gradient from dark to light with abstract geometric shapes
+- Style: Modern, digital, minimalist
+- Mood: Professional, trustworthy, technological

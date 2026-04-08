@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo MediLink Digital được đặt ở góc trên bên phải của hình ảnh, với chữ "MediLink" được viết bằng font chữ hiện đại và từ "DIGITAL" được đặt trong một hộp nhỏ bên dưới. Logo có màu trắng nổi bật trên nền tối gradient tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo dạng chữ ngang với hộp chữ nhật nhỏ
+- Kiểu chữ: Font sans-serif hiện đại, in hoa cho "DIGITAL"
+- Bảng màu: Trắng chủ đạo với điểm nhấn màu đỏ nhỏ (dấu chấm)
+- Nền: Gradient tím đậm
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, y tế, đáng tin cậy
+
+---
+
+Visual Description:
+The MediLink Digital logo is positioned in the upper right corner of the image, featuring "MediLink" in modern typography with "DIGITAL" contained in a small rectangular box below. The logo appears in white against a dark purple gradient background.
+
+Design Elements:
+- Shape: Horizontal text-based logo with small rectangular tag
+- Typography: Modern sans-serif font, uppercase for "DIGITAL"
+- Color Palette: Primarily white with small red accent (dot)
+- Background: Dark purple gradient
+- Style: Minimalist, modern, tech-oriented
+- Mood: Professional, medical, trustworthy

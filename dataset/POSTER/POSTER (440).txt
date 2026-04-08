@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là thiết kế flyer vuông với hình ảnh phong cảnh núi non và hồ nước tuyệt đẹp. Tiêu đề "ADVENTURE OUTDOOR" được đặt nổi bật trên nền ảnh thiên nhiên với typography hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Layout vuông với khung ảnh chữ nhật
+- Kiểu chữ: Sans-serif hiện đại, in hoa cho tiêu đề chính
+- Bảng màu: Xanh lá cây, trắng, và tông màu thiên nhiên từ ảnh phong cảnh
+- Nền: Nền xanh lá đậm với ảnh phong cảnh núi non và hồ nước
+- Phong cách: Hiện đại, tối giản, du lịch phiêu lưu
+- Tông điệu: Phiêu lưu, thư giãn, gần gũi thiên nhiên
+
+---
+
+Visual Description:
+This is a square flyer design featuring a stunning landscape photograph of mountains and a lake. The text "ADVENTURE OUTDOOR" is prominently displayed over the natural scenery with modern typography.
+
+Design Elements:
+- Shape: Square layout with rectangular photo frame
+- Typography: Modern sans-serif, uppercase for main heading
+- Color Palette: Forest green, white, and natural tones from landscape photography
+- Background: Dark green background with mountain and lake landscape photo
+- Style: Modern, minimalist, adventure travel
+- Mood: Adventurous, relaxing, nature-connected

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị trên nền vuông màu đỏ với văn bản "MAI & MINH" được đặt ở trung tâm bằng chữ in hoa màu trắng. Bên dưới có dòng chữ nhỏ hơn "MAY MỌC" cũng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông đơn giản
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa đậm
+- Bảng màu: Đỏ chủ đạo và trắng
+- Nền: Màu đỏ đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, sạch sẽ
+- Tông điệu: Táo bạo, tự tin, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays on a red square background with "MAI & MINH" text centered in white capital letters. Below it features smaller text "MAY MỌC" also in white.
+
+Design Elements:
+- Shape: Simple square format
+- Typography: Modern sans-serif, bold capitals
+- Color Palette: Dominant red and white
+- Background: Solid deep red
+- Style: Minimalist, modern, clean
+- Mood: Bold, confident, professional

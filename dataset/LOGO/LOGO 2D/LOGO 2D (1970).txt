@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng máy bay giấy được vẽ theo phong cách đường nét đơn giản màu xanh đậm. Bên dưới là dòng chữ "THƯƠNG HIỆU CỦA BẠN" được sắp xếp thành hai hàng với font chữ in hoa đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng máy bay giấy hình học, đơn giản
+- Kiểu chữ: Font sans-serif in hoa, đậm, rõ ràng
+- Bảng màu: Xanh lục đậm trên nền xanh mint nhạt
+- Nền: Màu xanh mint/aqua đồng nhất
+- Phong cách: Tối giản, hiện đại, đường nét sạch
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo features a simple paper airplane icon drawn in clean lines in dark green color. Below it is the text "THƯƠNG HIỆU CỦA BẠN" arranged in two lines using bold uppercase letters.
+
+Design Elements:
+- Shape: Geometric paper airplane icon, minimalist design
+- Typography: Bold uppercase sans-serif font, clean and readable
+- Color Palette: Dark green on light mint/aqua background
+- Background: Solid mint/aqua color
+- Style: Minimalist, modern, clean lines
+- Mood: Professional, creative, dynamic

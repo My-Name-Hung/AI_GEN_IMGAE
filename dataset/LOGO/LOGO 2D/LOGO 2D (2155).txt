@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng hình vuông có các đường sọc ngang màu đỏ gradient từ đậm đến nhạt. Bên cạnh là văn bản "AN NINH MẠNG" bằng font chữ đậm màu xanh navy, với dòng chữ nhỏ "Luôn an tâm." bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với các đường sọc ngang gradient
+- Kiểu chữ: Font sans-serif đậm cho tiêu đề chính, font nhỏ hơn cho slogan
+- Bảng màu: Đỏ gradient, xanh navy, nền xám nhạt
+- Nền: Nền xám nhạt đơn giản
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, tin cậy, bảo mật
+
+---
+
+Visual Description:
+The logo features a square icon with horizontal gradient stripes transitioning from dark red to light pink. Next to it is the text "AN NINH MẠNG" in bold navy blue font, with a smaller tagline "Luôn an tâm." below.
+
+Design Elements:
+- Shape: Square with horizontal gradient stripes
+- Typography: Bold sans-serif for main title, smaller font for tagline
+- Color Palette: Red gradient, navy blue, light gray background
+- Background: Simple light gray background
+- Style: Modern, minimalist, tech-focused
+- Mood: Professional, trustworthy, secure

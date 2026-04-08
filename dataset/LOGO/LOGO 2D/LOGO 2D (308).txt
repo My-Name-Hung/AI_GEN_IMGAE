@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm ba hình elip/oval màu đen xếp chồng lên nhau theo chiều dọc, với hình trên cùng dài nhất và hình dưới cùng là hình tròn. Bên cạnh là chữ "fringo" viết bằng font chữ đơn giản, hiện đại màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình elip/oval xếp chồng và văn bản
+- Kiểu chữ: Font sans-serif đơn giản, hiện đại
+- Bảng màu: Đen trên nền vàng tươi
+- Nền: Màu vàng rực rỡ
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Năng động, tươi sáng, thân thiện
+
+---
+
+Visual Description:
+The logo features three black elliptical/oval shapes stacked vertically, with the top shape being the longest and the bottom being circular. Adjacent to this is the text "fringo" in a simple, modern black typeface.
+
+Design Elements:
+- Shape: Three stacked ellipses/ovals and text
+- Typography: Simple, modern sans-serif font
+- Color Palette: Black on bright yellow
+- Background: Vibrant yellow
+- Style: Minimalist, modern, geometric
+- Mood: Dynamic, bright, friendly

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế typography đơn giản với tên thương hiệu "Spa Êm Điệu" được sắp xếp thành hai dòng chính. Bên dưới có dòng chữ phụ "LIỆU PHÁP MẶT XA" được viết bằng font chữ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Typography thuần túy, không có icon hay ký hiệu đặc biệt
+- Kiểu chữ: Font chữ serif thanh lịch, có dấu thanh trang trí trên chữ "Ê"
+- Bảng màu: Màu xám đậm trên nền be/kem nhạt
+- Nền: Màu be/kem nhạt, mịn màng
+- Phong cách: Tối giản, thanh lịch, typography-based
+- Tông điệu: Sang trọng, thư giãn, tinh tế
+
+---
+
+Visual Description:
+The logo features a simple typographic design with the brand name "Spa Êm Điệu" arranged in two main lines. Below is a smaller tagline "LIỆU PHÁP MẶT XA" in a smaller font size.
+
+Design Elements:
+- Shape: Pure typography without icons or special symbols
+- Typography: Elegant serif font with decorative accent mark on the "Ê"
+- Color Palette: Dark gray text on light beige/cream background
+- Background: Light beige/cream, smooth and minimal
+- Style: Minimalist, elegant, typography-based
+- Mood: Luxurious, relaxing, sophisticated

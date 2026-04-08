@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình học có dạng vương miện hoặc đám mây với gradient màu xanh dương chuyển sang tím. Ở giữa có khoảng trống màu trắng tạo thành hình silhouette của một người.
+
+Yếu tố Thiết kế:
+- Hình dạng: Đa giác không đều với các cạnh cong, tạo hình vương miện/đám mây
+- Kiểu chữ: Sans-serif đậm, chữ hoa, spacing rộng cho "CERTANAS" và chữ nhỏ hơn cho "EST. 2025"
+- Bảng màu: Gradient từ xanh dương đến tím, đen cho văn bản
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, gradient
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sáng tạo
+
+---
+
+Visual Description:
+The logo features a geometric icon resembling a crown or cloud shape with a blue-to-purple gradient. A white negative space in the center creates the silhouette of a person or figure.
+
+Design Elements:
+- Shape: Irregular polygon with curved edges forming a crown/cloud-like structure
+- Typography: Bold sans-serif, all caps with wide spacing for "CERTANAS" and smaller text for "EST. 2025"
+- Color Palette: Blue to purple gradient, black text
+- Background: White/transparent
+- Style: Modern, minimalist, gradient
+- Mood: Professional, trustworthy, innovative

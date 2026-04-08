@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng con rắn Python được cách điệu hóa với hai phần màu xanh dương và vàng tạo thành hình dạng tròn, được đặt trong một khối vuông trắng 3D. Thiết kế có hiệu ứng đổ bóng tự nhiên trên nền xanh dương gradient.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông 3D bo tròn các góc chứa biểu tượng con rắn hai màu
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương, vàng, trắng
+- Nền: Gradient xanh dương có đổ bóng
+- Phong cách: 3D hiện đại, tối giản
+- Tông điệu: Chuyên nghiệp, công nghệ, thân thiện
+
+---
+
+Visual Description:
+The logo displays a stylized Python snake icon with blue and yellow sections forming a circular shape, placed within a white 3D rounded square block. The design features natural shadow effects on a blue gradient background.
+
+Design Elements:
+- Shape: 3D rounded square block containing a two-toned snake symbol
+- Typography: None (icon only)
+- Color Palette: Blue, yellow, white
+- Background: Blue gradient with shadow
+- Style: Modern 3D, minimalist
+- Mood: Professional, technological, approachable

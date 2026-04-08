@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "ALIVE" được thiết kế với kiểu chữ góc cạnh, hiện đại. Các chữ cái được tô màu gradient từ xanh dương sang tím hồng, tạo hiệu ứng neon sáng trên nền đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái góc cạnh với các đường thẳng và góc nhọn
+- Kiểu chữ: Font sans-serif hiện đại, in hoa, có tính thẩm mỹ cao
+- Bảng màu: Gradient xanh cyan, xanh dương, tím và hồng magenta
+- Nền: Đen thuần
+- Phong cách: Neon, futuristic, điện tử, cyberpunk
+- Tông điệu: Năng động, hiện đại, công nghệ, sống động
+
+---
+
+Visual Description:
+The logo displays the word "ALIVE" in angular, modern typography. The letters feature a gradient coloring from cyan blue to magenta pink, creating a neon glow effect against a black background.
+
+Design Elements:
+- Shape: Angular letterforms with straight lines and sharp corners
+- Typography: Modern sans-serif font, uppercase, with high aesthetic appeal
+- Color Palette: Gradient of cyan, blue, purple, and magenta
+- Background: Pure black
+- Style: Neon, futuristic, electronic, cyberpunk
+- Mood: Dynamic, modern, technological, vibrant

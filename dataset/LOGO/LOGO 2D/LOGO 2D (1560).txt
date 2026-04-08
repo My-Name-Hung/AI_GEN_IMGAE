@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng ở bên trái với các đường cong và hình dạng đan xen tạo thành một khối vuông. Bên cạnh là chữ "osmos" được viết bằng font chữ hiện đại, đơn giản với màu trắng trên nền đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình vuông trừu tượng với các đường cong đan xen, chữ viết thường
+- Kiểu chữ: Sans-serif hiện đại, đơn giản, viết thường
+- Bảng màu: Biểu tượng đa màu (xanh lá, hồng, xanh dương, vàng), chữ màu trắng
+- Nền: Đen
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon on the left composed of interwoven curved shapes forming a square block. Next to it is the word "osmos" written in a clean, modern font in white against a black background.
+
+Design Elements:
+- Shape: Abstract square icon with interwoven curved elements, lowercase text
+- Typography: Modern sans-serif, clean and simple, lowercase
+- Color Palette: Multicolored icon (green, pink, blue, yellow), white text
+- Background: Black
+- Style: Modern, minimalist, tech-oriented
+- Mood: Professional, creative, dynamic

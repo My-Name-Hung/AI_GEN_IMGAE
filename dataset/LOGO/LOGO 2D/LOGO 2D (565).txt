@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng lục giác được tạo bởi các đường viền màu nâu đậm, với chữ "G" lớn màu nâu nằm ở trung tâm. Thiết kế đơn giản và hiện đại với các góc cạnh rõ ràng tạo thành một khung hình học bao quanh ký tự chính.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác với đường viền dày, chứa chữ G ở giữa
+- Kiểu chữ: Sans-serif đậm, hiện đại
+- Bảng màu: Nâu đậm (#5D4037)
+- Nền: Trắng trong suốt
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Chuyên nghiệp, ổn định, tin cậy
+
+---
+
+Visual Description:
+The logo features a hexagonal shape created by thick brown outlines, with a large brown letter "G" positioned at the center. The design is simple and modern with clean angular lines forming a geometric frame around the central character.
+
+Design Elements:
+- Shape: Hexagonal border with thick outline containing centered letter G
+- Typography: Bold, modern sans-serif
+- Color Palette: Dark brown (#5D4037)
+- Background: Transparent white
+- Style: Minimalist, geometric, modern
+- Mood: Professional, stable, trustworthy

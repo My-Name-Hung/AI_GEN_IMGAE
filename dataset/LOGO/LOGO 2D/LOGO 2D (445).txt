@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "MONEY" được viết bằng chữ in hoa màu đen đậm. Chữ "O" được thay thế bằng biểu tượng đồng tiền có ký hiệu đô la "$" ở giữa, tạo thành một hình tròn với đường viền dày.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái kết hợp với biểu tượng tròn đồng tiền
+- Kiểu chữ: Sans-serif đậm, vuông vắn
+- Bảng màu: Đen trên nền trắng
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, biểu tượng
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, trực tiếp
+
+---
+
+Visual Description:
+The logo displays the word "MONEY" written in bold black capital letters. The letter "O" is replaced with a circular coin symbol featuring a dollar sign "$" in the center, creating a round shape with thick borders.
+
+Design Elements:
+- Shape: Typography combined with circular coin symbol
+- Typography: Bold, square sans-serif
+- Color Palette: Black on white
+- Background: White/transparent
+- Style: Minimalist, modern, symbolic
+- Mood: Strong, professional, direct

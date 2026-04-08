@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một hình lục giác có viền đen với một hình lục giác nhỏ hơn màu cam ở bên trong. Bên dưới là chữ "BÁO AN" viết bằng font chữ đậm, hiện đại với dấu sắc trên chữ "Á", kèm theo dòng chữ nhỏ "MẠNG ĐỂN SỰ AN TOÀN" màu cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác lồng nhau, typography sans-serif
+- Kiểu chữ: Font chữ đậm, hiện đại, không chân
+- Bảng màu: Đen, cam và trắng
+- Nền: Nền trắng
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, tin cậy, năng động
+
+---
+
+Visual Description:
+The logo features a black outlined hexagon containing a smaller orange hexagon in the center. Below is the text "BÁO AN" in bold, modern typography with an accent mark on "Á", accompanied by smaller orange text reading "MẠNG ĐỂN SỰ AN TOÀN".
+
+Design Elements:
+- Shape: Nested hexagons, sans-serif typography
+- Typography: Bold, modern, sans-serif font
+- Color Palette: Black, orange, and white
+- Background: White background
+- Style: Minimalist, modern, geometric
+- Mood: Professional, trustworthy, dynamic

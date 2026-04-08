@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng sách màu xanh dương với chữ "PB" màu trắng bên trong. Bên cạnh là dòng chữ "Sách Việt" màu vàng cam và dòng chữ phụ "Nhà sách Trực tuyến" màu nhỏ hơn bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng sách hình chữ nhật bo góc với hiệu ứng 3D
+- Kiểu chữ: Font chữ hiện đại, dễ đọc cho tên thương hiệu và slogan
+- Bảng màu: Xanh dương, trắng, cam vàng
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, đơn giản, thân thiện
+- Tông điệu: Chuyên nghiệp, gần gũi, tin cậy
+
+---
+
+Visual Description:
+The logo features a blue book icon with white "PB" letters inside it. Next to it is orange-yellow text reading "Sách Việt" with smaller subtitle text "Nhà sách Trực tuyến" below.
+
+Design Elements:
+- Shape: Rounded rectangular book icon with 3D effect
+- Typography: Modern, readable font for brand name and tagline
+- Color Palette: Blue, white, orange-yellow
+- Background: Transparent/white
+- Style: Modern, simple, approachable
+- Mood: Professional, friendly, trustworthy

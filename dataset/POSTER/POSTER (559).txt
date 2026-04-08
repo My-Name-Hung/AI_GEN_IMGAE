@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "FOOD" với hai vòng tròn đan xen nhau thay thế cho hai chữ "O" ở giữa. Bên dưới có dòng chữ "FESTIVAL" được viết bằng font chữ mỏng và cách đều.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái kết hợp với hai vòng tròn đan xen, bố cục ngang
+- Kiểu chữ: Font sans-serif đậm cho "FOOD", font mỏng cho "FESTIVAL"
+- Bảng màu: Đen trên nền trắng (đơn sắc)
+- Nền: Trắng, sạch sẽ
+- Phong cách: Tối giản, hiện đại, typography
+- Tông điệu: Chuyên nghiệp, sạch sẽ, tinh tế
+
+---
+
+Visual Description:
+The logo displays the word "FOOD" with two interlocking circles replacing the two "O"s in the middle. Below it, the word "FESTIVAL" is written in thin, evenly spaced letters.
+
+Design Elements:
+- Shape: Typography combined with two interlocking circles, horizontal layout
+- Typography: Bold sans-serif for "FOOD", thin font for "FESTIVAL"
+- Color Palette: Black on white (monochrome)
+- Background: Clean white
+- Style: Minimalist, modern, typographic
+- Mood: Professional, clean, sophisticated

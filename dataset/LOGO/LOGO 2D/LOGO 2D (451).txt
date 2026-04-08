@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một hộp quà tặng với dải ruy băng và nơ trang trí ở trên đỉnh. Hộp quà được vẽ theo phong cách đường nét đơn giản với góc nhìn 3D isometric.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hộp vuông góc với nơ ruy băng, góc nhìn isometric
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đỏ san hô trên nền kem nhạt
+- Nền: Màu kem/be nhạt
+- Phong cách: Minimalist, line art, isometric
+- Tông điệu: Thân thiện, ấm áp, lễ hội
+
+---
+
+Visual Description:
+The logo depicts a gift box with a ribbon bow on top. The gift box is rendered in a simple line art style with an isometric 3D perspective.
+
+Design Elements:
+- Shape: Rectangular box with ribbon bow, isometric view
+- Typography: None (icon only)
+- Color Palette: Coral red on light cream background
+- Background: Light cream/beige
+- Style: Minimalist, line art, isometric
+- Mood: Friendly, warm, festive

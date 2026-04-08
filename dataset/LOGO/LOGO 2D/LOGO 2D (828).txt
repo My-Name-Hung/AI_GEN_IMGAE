@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có chữ "N" được thiết kế bằng gradient từ màu hồng sang tím, tạo hiệu ứng 3D với độ nghiêng động. Bên cạnh là dòng chữ "New Runners" được viết bằng font chữ hiện đại, rõ ràng với màu tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ "N" 3D nghiêng với hiệu ứng gradient và typography thẳng
+- Kiểu chữ: Font sans-serif hiện đại, clean cho text "New Runners"
+- Bảng màu: Gradient từ hồng magenta sang tím violet
+- Nền: Nền trắng sạch
+- Phong cách: Hiện đại, động, gradient 3D
+- Tông điệu: Năng động, trẻ trung, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a stylized letter "N" with a pink to purple gradient creating a 3D tilted effect. Adjacent to it is the text "New Runners" in clean, modern purple typography.
+
+Design Elements:
+- Shape: 3D tilted letter "N" with gradient effect and straight typography
+- Typography: Modern sans-serif font for "New Runners" text
+- Color Palette: Gradient from magenta pink to violet purple
+- Background: Clean white background
+- Style: Modern, dynamic, 3D gradient
+- Mood: Energetic, youthful, professional

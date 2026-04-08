@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng một cuốn sách mở với các trang được vẽ theo phong cách đường nét đơn giản. Bên cạnh biểu tượng là chữ "uptake" được viết bằng kiểu chữ sans-serif hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng sách mở với đường viền mỏng, kết hợp với text ngang
+- Kiểu chữ: Sans-serif đơn giản, chữ thường, hiện đại
+- Bảng màu: Đỏ san hô/hồng đỏ nhạt
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, đường nét, hiện đại, sạch sẽ
+- Tông điệu: Thân thiện, giáo dục, tiếp cận, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays an open book icon rendered in a simple line-art style with pages depicted through minimal strokes. Next to the icon is the text "uptake" written in modern sans-serif typography.
+
+Design Elements:
+- Shape: Open book icon with thin outlines, combined with horizontal text
+- Typography: Simple sans-serif, lowercase, modern
+- Color Palette: Coral red/soft red-pink
+- Background: White/transparent
+- Style: Minimalist, line art, modern, clean
+- Mood: Friendly, educational, accessible, professional

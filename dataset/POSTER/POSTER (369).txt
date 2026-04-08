@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "MJ" được stylized trong một hình oval màu xanh navy đậm. Bên dưới logo có dòng chữ "MJ Technical" với font chữ hiện đại, sạch sẽ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình oval chứa monogram "MJ"
+- Kiểu chữ: Font sans-serif hiện đại, đơn giản cho text "MJ Technical"
+- Bảng màu: Xanh navy đậm và trắng
+- Nền: Trong suốt/trắng
+- Phong cách: Tối giản, chuyên nghiệp, corporate
+- Tông điệu: Đáng tin cậy, chuyên nghiệp, tinh tế
+
+---
+
+Visual Description:
+The logo features the letters "MJ" stylized within a dark navy blue oval shape. Below the logo mark is the text "MJ Technical" in a clean, modern typeface.
+
+Design Elements:
+- Shape: Oval containing "MJ" monogram
+- Typography: Modern sans-serif font for "MJ Technical" text
+- Color Palette: Dark navy blue and white
+- Background: Transparent/white
+- Style: Minimalist, professional, corporate
+- Mood: Trustworthy, professional, sophisticated

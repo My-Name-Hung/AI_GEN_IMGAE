@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ký hiệu tiền tệ dollar ($) được cách điệu với các đường nét táo bạo và có phần răng cưa hoặc gai góc ở các cạnh. Thiết kế tạo cảm giác năng động và mạnh mẽ với hình dạng không đều, giống như bị xé hoặc có texture thô ráp.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ký hiệu dollar cách điệu với đường viền răng cưa, không đều
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng trên nền xanh lá cây đậm (teal)
+- Nền: Nền xanh lá cây đậm đồng nhất
+- Phong cách: Hiện đại, táo bạo, cách điệu
+- Tông điệu: Năng động, mạnh mẽ, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a stylized dollar sign ($) symbol with bold, jagged or serrated edges around its perimeter. The design creates a dynamic and powerful impression with its irregular, torn-like or textured appearance that gives it an edgy, aggressive quality.
+
+Design Elements:
+- Shape: Stylized dollar symbol with jagged, irregular serrated edges
+- Typography: None (icon only)
+- Color Palette: White on dark teal/green background
+- Background: Solid dark teal/green
+- Style: Modern, bold, stylized
+- Mood: Dynamic, powerful, professional

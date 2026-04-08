@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tam giác với viền đỏ, bên trong là nền đen chứa hình đầu lâu màu trắng có hai tay skeleton ôm lấy. Bên dưới có dòng chữ "MR. ĐẦU LÂU" màu trắng và dòng phụ "GAME THỦ CHUYÊN NGHIỆP" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Tam giác nhọn có viền đỏ, bên trong chứa biểu tượng đầu lâu
+- Kiểu chữ: Sans-serif đậm cho tên chính, chữ nhỏ đơn giản cho tagline
+- Bảng màu: Đỏ, đen, trắng
+- Nền: Đỏ gradient với hiệu ứng khói/lửa
+- Phong cách: Gaming, gothic, đậm chất horror
+- Tông điệu: Bí ẩn, mạnh mẽ, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a triangular shape with red border containing a white skull with skeleton hands embracing it on a black background. Below is "MR. ĐẦU LÂU" in white text with a smaller tagline "GAME THỦ CHUYÊN NGHIỆP."
+
+Design Elements:
+- Shape: Sharp triangle with red border containing skull emblem
+- Typography: Bold sans-serif for main name, simple smaller text for tagline
+- Color Palette: Red, black, white
+- Background: Red gradient with smoke/fire effects
+- Style: Gaming, gothic, horror-themed
+- Mood: Mysterious, powerful, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hoa stylized màu xanh lá cây ở phía trên với các cánh hoa được vẽ dạng đường nét mảnh. Bên dưới là chữ "Phuong" được viết bằng font chữ thảo màu hồng đậm, kèm theo dòng chữ nhỏ "CÁ KHOANG - SÀ GÒN" màu xám nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hoa stylized với các cánh hoa dạng đường cong
+- Kiểu chữ: Font chữ thảo nghiêng cho tên thương hiệu, font sans-serif nhỏ cho tagline
+- Bảng màu: Xanh lá cây nhạt, hồng magenta, xám nhạt
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, nữ tính
+- Tông điệu: Tươi mới, nhẹ nhàng, thân thiện
+
+---
+
+Visual Description:
+The logo features a stylized green flower icon at the top with petals drawn as thin curved lines. Below it is the word "Phuong" written in a cursive pink font, accompanied by smaller gray text reading "CÁ KHOANG - SÀ GÒN."
+
+Design Elements:
+- Shape: Stylized flower symbol with curved petal lines
+- Typography: Cursive italic font for brand name, small sans-serif font for tagline
+- Color Palette: Light green, magenta pink, light gray
+- Background: White/transparent
+- Style: Minimalist, modern, feminine
+- Mood: Fresh, gentle, friendly

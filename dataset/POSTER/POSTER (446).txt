@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một banner du lịch với hình ảnh phong cảnh núi non và dòng sông đẹp mắt. Chữ "BEAUTY" được thiết kế với font chữ đậm, nổi bật ở phần dưới banner cùng với văn bản mô tả và các yếu tố trang trí hình học.
+
+Yếu tố Thiết kế:
+- Hình dạng: Banner vuông với ảnh phong cảnh tự nhiên và layout typography
+- Kiểu chữ: Font serif đậm cho tiêu đề "BEAUTY", font sans-serif cho text phụ
+- Bảng màu: Tông màu tự nhiên với xanh lá, xanh dương từ phong cảnh, đen trắng cho typography
+- Nền: Nền trắng với ảnh phong cảnh thiên nhiên làm điểm nhấn
+- Phong cách: Editorial design, hiện đại, tối giản
+- Tông điệu: Thanh bình, tự nhiên, sang trọng
+
+---
+
+Visual Description:
+This is a travel banner featuring a scenic landscape image of mountains and a flowing river. The word "BEAUTY" is designed in bold typography at the bottom of the banner, accompanied by descriptive text and geometric decorative elements.
+
+Design Elements:
+- Shape: Square banner with natural landscape photography and typography layout
+- Typography: Bold serif font for "BEAUTY" headline, sans-serif for supporting text
+- Color Palette: Natural tones with greens and blues from landscape, black and white for typography
+- Background: White background with nature photography as focal point
+- Style: Editorial design, modern, minimalist
+- Mood: Serene, natural, sophisticated

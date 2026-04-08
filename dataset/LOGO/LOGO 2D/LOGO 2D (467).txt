@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "fresh" bằng font chữ viết tay màu trắng với chữ "FOOD" bên dưới màu xanh lá. Phía trên có hai chiếc lá xanh trang trí, tạo thành một thiết kế sticker với viền xanh lá cây.
+
+Yếu tố Thiết kế:
+- Hình dạng: Sticker oval với hai chiếc lá trang trí ở phía trên
+- Kiểu chữ: Font chữ viết tay cho "fresh", font sans-serif đậm cho "FOOD"
+- Bảng màu: Xanh lá cây đậm và nhạt, trắng, xanh lime
+- Nền: Trong suốt với viền sticker
+- Phong cách: Tự nhiên, thân thiện, hiện đại
+- Tông điệu: Tươi mới, sức sống, thân thiện với môi trường
+
+---
+
+Visual Description:
+The logo displays "fresh" in white handwritten font with "FOOD" below in green. Two green leaves decorate the top, forming a sticker design with a green leafy border.
+
+Design Elements:
+- Shape: Oval sticker with two decorative leaves on top
+- Typography: Handwritten script for "fresh", bold sans-serif for "FOOD"
+- Color Palette: Dark and light green, white, lime green
+- Background: Transparent with sticker border
+- Style: Natural, friendly, modern
+- Mood: Fresh, vibrant, eco-friendly

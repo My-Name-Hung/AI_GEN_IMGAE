@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có nền màu cam sáng với biểu tượng hình tròn đồng tâm màu trắng ở phía trên. Phần chữ "Tiệm Sáng" được viết bằng font chữ đậm màu trắng, với từ "NHIẾP ẢNH" nhỏ hơn bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn đồng tâm, bố cục vuông vắn
+- Kiểu chữ: Font sans-serif đậm, hiện đại
+- Bảng màu: Cam sáng và trắng
+- Nền: Màu cam gradient từ nhạt đến đậm
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Năng động, ấm áp, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a bright orange background with a white concentric circle icon at the top. The text "Tiệm Sáng" is written in bold white font, with smaller "NHIẾP ẢNH" text below it.
+
+Design Elements:
+- Shape: Concentric circles icon, square layout
+- Typography: Bold sans-serif font, modern
+- Color Palette: Bright orange and white
+- Background: Orange gradient from light to dark
+- Style: Minimalist, modern, friendly
+- Mood: Dynamic, warm, professional

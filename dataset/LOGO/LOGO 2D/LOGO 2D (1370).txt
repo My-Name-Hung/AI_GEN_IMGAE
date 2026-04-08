@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một nhân vật hoạt hình có hai sừng nhọn đặt trong một vòng xoáy hoặc lốc xoáy màu tím gradient. Nhân vật có hai mắt trắng hình chữ nhật và được bao quanh bởi các vòng tròn đồng tâm tạo hiệu ứng chuyển động xoáy.
+
+Yếu tố Thiết kế:
+- Hình dạng: Nhân vật có sừng kết hợp với vòng xoáy tròn, có bóng đổ oval ở dưới
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient tím từ đậm đến nhạt, với điểm nhấn trắng
+- Nền: Trong suốt
+- Phong cách: Flat design, cartoon, minimalist
+- Tông điệu: Vui tươi, thân thiện, năng động
+
+---
+
+Visual Description:
+The logo depicts a cartoon character with two pointed horns positioned within a purple gradient swirl or vortex. The character features two white rectangular eyes and is surrounded by concentric circles creating a spinning motion effect.
+
+Design Elements:
+- Shape: Horned character combined with circular swirl, with oval shadow below
+- Typography: None (icon only)
+- Color Palette: Purple gradient from dark to light, with white accents
+- Background: Transparent
+- Style: Flat design, cartoon, minimalist
+- Mood: Playful, friendly, dynamic

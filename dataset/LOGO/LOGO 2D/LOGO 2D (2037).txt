@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "CÔNG TY TRANG PHỤC HƯNG CHUNG" được sắp xếp thành ba dòng trên nền màu xanh lá cây nhạt. Thiết kế sử dụng kiểu chữ đơn giản, hiện đại với màu sắc nhẹ nhàng tạo cảm giác thanh lịch và chuyên nghiệp.
+
+Yếu tố Thiết kế:
+- Hình dạng: Văn bản được căn chỉnh theo khối chữ nhật
+- Kiểu chữ: Sans-serif hiện đại, mỏng, khoảng cách chữ rộng
+- Bảng màu: Chữ màu trắng/xám nhạt trên nền xanh lá cây olive
+- Nền: Màu xanh lá cây nhạt đồng nhất
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Chuyên nghiệp, tinh tế, thân thiện
+
+---
+
+Visual Description:
+The logo displays the text "CÔNG TY TRANG PHỤC HƯNG CHUNG" arranged in three lines on a muted green background. The design uses clean, modern typography with soft coloring that creates an elegant and professional appearance.
+
+Design Elements:
+- Shape: Text arranged in rectangular block alignment
+- Typography: Modern sans-serif, thin weight, wide letter spacing
+- Color Palette: White/light gray text on olive green background
+- Background: Solid muted green color
+- Style: Minimalist, modern, elegant
+- Mood: Professional, sophisticated, approachable

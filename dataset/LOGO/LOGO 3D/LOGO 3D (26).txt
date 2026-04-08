@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo Samsung được thiết kế dưới dạng một khối hình vuông bo tròn màu trắng với hiệu ứng 3D nổi bật. Bên trong khối trắng có một hình oval màu xanh đậm chứa tên thương hiệu "SAMSUNG" bằng chữ trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông bo góc 3D với hình oval bên trong
+- Kiểu chữ: Sans-serif đậm, in hoa, màu trắng
+- Bảng màu: Trắng và xanh navy đậm
+- Nền: Xanh dương gradient
+- Phong cách: 3D, hiện đại, tối giản
+- Tông điệu: Công nghệ, chuyên nghiệp, đáng tin cậy
+
+---
+
+Visual Description:
+The Samsung logo is designed as a white rounded square block with prominent 3D effects. Inside the white block is a dark blue oval containing the "SAMSUNG" brand name in white letters.
+
+Design Elements:
+- Shape: 3D rounded square block with internal oval
+- Typography: Bold sans-serif, uppercase, white color
+- Color Palette: White and dark navy blue
+- Background: Blue gradient
+- Style: 3D, modern, minimalist
+- Mood: Technological, professional, trustworthy

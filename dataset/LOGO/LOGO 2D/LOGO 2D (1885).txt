@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế tối giản với văn bản "Lan Ngoc" đặt ở trung tâm, được bao quanh bởi một vòng tròn trang trí. Vòng tròn này được tạo thành từ các hình dạng hình học nhỏ như hình tròn, hình vuông và hình thoi màu trắng, cùng với các chấm nhỏ tạo hiệu ứng lấp lánh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục tròn với các yếu tố hình học đối xứng
+- Kiểu chữ: Font chữ không serif, thanh mảnh, hiện đại
+- Bảng màu: Xanh lá cây tươi sáng làm nền, các yếu tố trang trí màu trắng
+- Nền: Màu xanh lá cây đồng nhất
+- Phong cách: Tối giản, hiện đại, trang nhã
+- Tông điệu: Tươi mới, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a minimalist design with "Lan Ngoc" text centered within a decorative circular border. The circular arrangement consists of small geometric shapes including circles, squares, and diamonds in white, along with tiny dots creating a sparkling effect around the perimeter.
+
+Design Elements:
+- Shape: Circular layout with symmetrical geometric elements
+- Typography: Sans-serif, thin, modern font
+- Color Palette: Bright green background with white decorative elements
+- Background: Solid bright green
+- Style: Minimalist, modern, elegant
+- Mood: Fresh, refined, professional

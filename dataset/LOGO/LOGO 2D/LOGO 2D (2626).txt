@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình vuông được tạo thành từ các đường cong mềm mại, trông giống như những dải băng hoặc lá cây xoắn lại với nhau. Bên dưới biểu tượng là dòng chữ "BARBARA" viết hoa và từ "couche" viết thường.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng vuông tạo từ các đường cong mềm mại, uốn lượn
+- Kiểu chữ: Sans-serif hiện đại, chữ hoa cho tên thương hiệu, chữ thường cho từ mô tả
+- Bảng màu: Màu nâu đỏ (burgundy/maroon) đồng nhất
+- Nền: Trắng, trong suốt
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Sang trọng, tinh tế, ấm áp
+
+---
+
+Visual Description:
+The logo features a square icon formed by flowing, curved lines that intertwine like ribbons or leaves creating an organic pattern. Below the icon is the text "BARBARA" in uppercase letters followed by "couche" in lowercase.
+
+Design Elements:
+- Shape: Square icon made of flowing, curved organic lines
+- Typography: Modern sans-serif, uppercase for brand name, lowercase for descriptor
+- Color Palette: Burgundy/maroon monochrome
+- Background: White/transparent
+- Style: Minimalist, modern, elegant
+- Mood: Luxurious, sophisticated, warm

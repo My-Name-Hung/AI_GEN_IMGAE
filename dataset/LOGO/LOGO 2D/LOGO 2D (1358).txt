@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hai đôi cánh thiên thần được vẽ theo phong cách đường nét tối giản, đối xứng nhau. Các đường cánh được thể hiện bằng những nét vẽ mảnh, tạo thành hình dáng thanh thoát và bay bổng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Đôi cánh thiên thần đối xứng, đường nét cong mềm mại
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trắng, đường nét màu đen đậm
+- Nền: Màu be nhạt/kem
+- Phong cách: Tối giản, đường nét, hiện đại
+- Tông điệu: Thanh thoát, thiêng liêng, nhẹ nhàng
+
+---
+
+Visual Description:
+The logo displays two symmetrical angel wings rendered in a minimalist line art style. The wings are depicted with clean, thin strokes that create an elegant and ethereal silhouette.
+
+Design Elements:
+- Shape: Symmetrical angel wings with soft curved lines
+- Typography: None (icon only)
+- Color Palette: Black and white with bold black outlines
+- Background: Light beige/cream color
+- Style: Minimalist, line art, modern
+- Mood: Elegant, spiritual, graceful

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một quả táo xanh lá cây phong cách hóa với hai chiếc lá màu đen ở phía trên. Xung quanh quả táo có hai hình tia sáng màu vàng nhạt tạo hiệu ứng rạng rỡ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Quả táo đơn giản hóa với tia sáng xung quanh
+- Kiểu chữ: Font chữ serif thanh lịch cho tên thương hiệu, font sans-serif nhỏ cho slogan
+- Bảng màu: Xanh lá cây, đen, vàng nhạt, nâu đậm
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, tự nhiên, hiện đại
+- Tông điệu: Tươi mới, khỏe mạnh, thanh lịch
+
+---
+
+Visual Description:
+The logo features a stylized green apple with two black leaves on top. Surrounding the apple are two golden sunburst patterns that create a radiant effect.
+
+Design Elements:
+- Shape: Simplified apple with radiating sunbursts
+- Typography: Elegant serif font for brand name, smaller sans-serif for tagline
+- Color Palette: Green, black, light gold, dark brown
+- Background: White/transparent
+- Style: Minimalist, natural, modern
+- Mood: Fresh, healthy, elegant

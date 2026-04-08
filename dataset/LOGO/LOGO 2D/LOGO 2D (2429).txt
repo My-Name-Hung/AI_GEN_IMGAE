@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "VĨNH KIẾN" bằng chữ in hoa màu đen đậm trên nền hình chữ nhật màu xanh lá neon sáng. Bên dưới có dòng chữ nhỏ hơn "TRUNG TÂM THỂ HÌNH" cũng bằng màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật ngang đơn giản
+- Kiểu chữ: Chữ sans-serif đậm, in hoa, rõ ràng
+- Bảng màu: Xanh lá neon sáng và đen
+- Nền: Xanh lá neon với viền tối
+- Phong cách: Hiện đại, tối giản, in ấn
+- Tông điệu: Năng động, mạnh mẽ, thu hút
+
+---
+
+Visual Description:
+The logo displays "VĨNH KIẾN" in bold black uppercase letters on a bright neon green rectangular background. Below it appears smaller text "TRUNG TÂM THỂ HÌNH" also in black.
+
+Design Elements:
+- Shape: Simple horizontal rectangle
+- Typography: Bold sans-serif, uppercase, clean
+- Color Palette: Bright neon green and black
+- Background: Neon green with dark border
+- Style: Modern, minimal, print-ready
+- Mood: Dynamic, strong, eye-catching

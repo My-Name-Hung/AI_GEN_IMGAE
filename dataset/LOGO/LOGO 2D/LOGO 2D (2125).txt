@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với chữ "SIÊU NHANH" màu trắng được đặt ở trung tâm trên nền đen. Bên dưới có một thanh ngang màu vàng chứa dòng chữ "DỊCH VỤ ĐÓNG GÓI" màu đen, và toàn bộ được bao quanh bởi viền vuông màu vàng neon.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với viền ngoài, thanh ngang chữ nhật bên dưới
+- Kiểu chữ: Font chữ in hoa, đậm, không chân (sans-serif), rõ ràng và dễ đọc
+- Bảng màu: Vàng neon, trắng, đen
+- Nền: Nền đen với viền vàng
+- Phong cách: Tối giản, hiện đại, rõ ràng
+- Tông điệu: Nhanh chóng, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo features a simple design with white text "SIÊU NHANH" centered on a black background. Below it is a yellow horizontal bar containing "DỊCH VỤ ĐÓNG GÓI" in black text, and the entire design is surrounded by a bright yellow square border.
+
+Design Elements:
+- Shape: Square with outer border, rectangular banner below
+- Typography: Bold uppercase sans-serif font, clear and legible
+- Color Palette: Neon yellow, white, black
+- Background: Black background with yellow border
+- Style: Minimalist, modern, clean
+- Mood: Fast, professional, dynamic

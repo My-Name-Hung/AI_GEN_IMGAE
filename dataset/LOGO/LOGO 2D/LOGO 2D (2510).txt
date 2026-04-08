@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "MỸ THANH" bằng chữ in hoa với kích thước lớn, màu nâu đậm. Bên dưới có dòng chữ nhỏ hơn "BẤT ĐỘNG SẢN" cùng màu, được căn giữa trên nền hồng pastel nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục văn bản đơn giản, phân cấp rõ ràng
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa cho tên chính, chữ thường cho tagline
+- Bảng màu: Nâu đậm trên nền hồng pastel
+- Nền: Màu hồng pastel nhạt, đồng nhất
+- Phong cách: Tối giản, sang trọng, đương đại
+- Tông điệu: Thanh lịch, chuyên nghiệp, ấm áp
+
+---
+
+Visual Description:
+The logo displays "MỸ THANH" in large, dark brown capital letters. Below it is smaller text reading "BẤT ĐỘNG SẢN" in the same color, centered on a soft pink pastel background.
+
+Design Elements:
+- Shape: Simple text layout with clear hierarchy
+- Typography: Modern sans-serif, uppercase for main name, lowercase for tagline
+- Color Palette: Dark brown text on soft pink pastel background
+- Background: Uniform soft pink pastel color
+- Style: Minimalist, elegant, contemporary
+- Mood: Sophisticated, professional, warm

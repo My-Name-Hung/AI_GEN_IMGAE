@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "SWISH" bằng chữ in hoa màu trắng, được đặt ở phần dưới của hình ảnh. Bên cạnh chữ "SWISH" có một biểu tượng dấu cộng màu đỏ nhỏ, tạo điểm nhấn cho thương hiệu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng với biểu tượng dấu cộng đơn giản
+- Kiểu chữ: Sans-serif hiện đại, in hoa, đậm
+- Bảng màu: Trắng chủ đạo với điểm nhấn đỏ
+- Nền: Trong suốt trên nền tối
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sạch sẽ, tin cậy, công nghệ
+
+---
+
+Visual Description:
+The logo displays the brand name "SWISH" in white capital letters, positioned at the bottom of the image. Next to "SWISH" there is a small red plus symbol that serves as a distinctive brand accent.
+
+Design Elements:
+- Shape: Straight typography with simple plus symbol
+- Typography: Modern sans-serif, uppercase, bold weight
+- Color Palette: Primarily white with red accent
+- Background: Transparent on dark background
+- Style: Minimalist, modern, professional
+- Mood: Clean, trustworthy, technological

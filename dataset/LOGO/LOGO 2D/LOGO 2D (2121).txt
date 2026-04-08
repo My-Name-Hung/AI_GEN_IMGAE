@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Việt An" bằng chữ trắng nổi bật trên nền xanh gradient. Bên cạnh có thêm từ "TIN TỨC" nhỏ hơn, tạo thành một logo truyền thông đơn giản và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục ngang, chữ viết liền mạch
+- Kiểu chữ: Sans-serif hiện đại, chữ "Việt An" to rõ, "TIN TỨC" nhỏ hơn
+- Bảng màu: Chữ trắng trên nền gradient xanh đậm đến xanh lam
+- Nền: Gradient xanh với họa tiết đường cong mờ ảo
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Tin cậy, nghiêm túc, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays "Việt An" in prominent white text on a blue gradient background. The smaller text "TIN TỨC" appears alongside, creating a simple and modern media logo design.
+
+Design Elements:
+- Shape: Horizontal layout with flowing text arrangement
+- Typography: Modern sans-serif, large "Việt An" text with smaller "TIN TỨC"
+- Color Palette: White text on blue to teal gradient background
+- Background: Blue gradient with subtle curved line patterns
+- Style: Minimalist, professional, contemporary
+- Mood: Trustworthy, serious, professional

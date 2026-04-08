@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tròn với các đường kẻ hình học màu vàng gold bên trái và dòng chữ "MAI & THÀNH" bằng font chữ đậm màu đen. Phía dưới có dòng chữ nhỏ hơn "PHÒNG VIÊM VẬY NỨN & ẨM SẮNG" màu xám nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn với họa tiết đường thẳng hình học
+- Kiểu chữ: Font chữ in hoa đậm, hiện đại cho tên chính; font chữ nhỏ cho tagline
+- Bảng màu: Vàng gold, đen, xám nhạt
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Sang trọng, đáng tin cậy, y tế
+
+---
+
+Visual Description:
+The logo features a circular icon with geometric gold lines on the left and "MAI & THÀNH" text in bold black typography. Below is smaller gray text reading "PHÒNG VIÊM VẬY NỨN & ẨM SẮNG" as a tagline.
+
+Design Elements:
+- Shape: Circular icon with geometric linear patterns
+- Typography: Bold uppercase modern font for main text; smaller font for tagline
+- Color Palette: Gold, black, light gray
+- Background: White/transparent
+- Style: Minimalist, professional, modern
+- Mood: Elegant, trustworthy, medical

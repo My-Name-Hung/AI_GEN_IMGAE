@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một chiếc tàu thủy màu xanh đậm đang di chuyển trên mặt nước với khói bay lên từ ống khói. Tàu có thiết kế đơn giản với cửa sổ và được vẽ theo phong cách biểu tượng minimalist trên nền xanh da trời sáng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon tàu thủy với ống khói, cửa sổ và gợn sóng nước
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh da trời sáng làm nền, xanh navy đậm cho icon tàu
+- Nền: Xanh da trời đồng nhất
+- Phong cách: Minimalist, flat design, biểu tượng
+- Tông điệu: Thân thiện, chuyên nghiệp, hàng hải
+
+---
+
+Visual Description:
+The logo displays a dark blue ship sailing on water with smoke rising from its smokestack. The vessel features a simple design with windows and is rendered in a minimalist icon style against a bright cyan blue background.
+
+Design Elements:
+- Shape: Ship icon with smokestack, windows, and water ripples
+- Typography: None (icon only)
+- Color Palette: Bright cyan blue background with dark navy blue ship
+- Background: Solid cyan blue
+- Style: Minimalist, flat design, iconic
+- Mood: Friendly, professional, nautical

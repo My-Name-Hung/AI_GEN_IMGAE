@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình chữ nhật màu xám đen nằm trên nền cam sáng. Văn bản "PHƯƠNG NAM" được hiển thị bằng chữ trắng lớn ở trên, với dòng chữ nhỏ hơn "PHONG TẬP ELITE" màu cam ở bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật đơn giản, rõ ràng
+- Kiểu chữ: Sans-serif hiện đại, chữ hoa, bold và clean
+- Bảng màu: Cam sáng, xám đen, trắng
+- Nền: Cam sáng đồng nhất
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Năng động, tự tin, cao cấp
+
+---
+
+Visual Description:
+The logo features a dark gray-black rectangular banner positioned on a bright orange background. The main text "PHƯƠNG NAM" appears in large white letters, with smaller orange text "PHONG TẬP ELITE" positioned below it.
+
+Design Elements:
+- Shape: Simple, clean rectangular banner
+- Typography: Modern sans-serif, uppercase, bold and clean
+- Color Palette: Bright orange, dark gray-black, white
+- Background: Solid bright orange
+- Style: Minimalist, modern, professional
+- Mood: Dynamic, confident, premium

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "ALIVE" được thiết kế với các đường nét hình học góc cạnh và hiệu ứng ánh sáng neon rực rỡ. Các chữ cái được tạo thành từ những đường thẳng và góc nhọn, tạo cảm giác năng động và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái góc cạnh, hình học với các đường thẳng và góc nhọn
+- Kiểu chữ: Font tùy chỉnh với thiết kế hình học, không serif
+- Bảng màu: Gradient neon từ xanh dương, tím đến hồng magenta
+- Nền: Nền đen hoàn toàn
+- Phong cách: Neon, synthwave, futuristic, hình học
+- Tông điệu: Năng động, hiện đại, sôi động, công nghệ cao
+
+---
+
+Visual Description:
+The logo displays the word "ALIVE" designed with sharp geometric lines and vibrant neon light effects. The letters are constructed from straight lines and sharp angles, creating a dynamic and modern appearance.
+
+Design Elements:
+- Shape: Angular, geometric letterforms with straight lines and sharp points
+- Typography: Custom geometric font, sans-serif style
+- Color Palette: Neon gradient from blue, purple to magenta pink
+- Background: Solid black background
+- Style: Neon, synthwave, futuristic, geometric
+- Mood: Dynamic, modern, vibrant, high-tech

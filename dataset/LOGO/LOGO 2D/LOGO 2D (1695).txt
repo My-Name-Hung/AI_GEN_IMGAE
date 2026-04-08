@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng giống như một bông hoa hoặc cánh quạt với ba cánh cong được sắp xếp theo hình tròn. Ở trung tâm có một ngôi sao nhỏ màu trắng tạo điểm nhấn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba cánh cong tạo thành hình tròn, có tính đối xứng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient tím từ tím nhạt đến tím đậm, điểm nhấn trắng
+- Nền: Đen
+- Phong cách: Hiện đại, tối giản, gradient mượt mà
+- Tông điệu: Sáng tạo, công nghệ, tinh tế
+
+---
+
+Visual Description:
+The logo features a flower-like or propeller shape with three curved petals arranged in a circular formation. A small white star sits at the center as a focal point.
+
+Design Elements:
+- Shape: Three curved petals forming a circular, symmetrical design
+- Typography: None (icon only)
+- Color Palette: Purple gradient from light to dark purple with white accent
+- Background: Black
+- Style: Modern, minimalist, smooth gradient
+- Mood: Creative, technological, sophisticated

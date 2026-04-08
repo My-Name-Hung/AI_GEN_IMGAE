@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng hình tròn màu xanh lá cây với hai hình oval xanh lá và vàng xanh được liên kết bên trong. Bên cạnh là tên thương hiệu "vitangon" viết bằng chữ thường màu đen, kèm dòng chữ nhỏ "Thực phẩm Chức năng" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn chứa hai hình oval liên kết, kết hợp với text ngang
+- Kiểu chữ: Chữ thường hiện đại, đơn giản, không chân
+- Bảng màu: Xanh lá cây chủ đạo, màu xanh ngọc, đen và vàng xanh
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, hiện đại, y tế
+- Tông điệu: Tươi mới, tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a circular green icon containing two connected oval shapes in green and teal colors. Next to it is the brand name "vitangon" in lowercase black letters, with a smaller tagline "Thực phẩm Chức năng" below.
+
+Design Elements:
+- Shape: Circular icon with two connected ovals, combined with horizontal text
+- Typography: Modern, simple, lowercase sans-serif font
+- Color Palette: Predominantly green, with teal, black and lime accents
+- Background: Clean white/transparent background
+- Style: Minimalist, modern, medical/health-focused
+- Mood: Fresh, trustworthy, professional

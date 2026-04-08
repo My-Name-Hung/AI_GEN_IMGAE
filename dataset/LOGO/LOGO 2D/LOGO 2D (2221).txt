@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn với viền vàng chanh bao quanh một vùng trắng ở giữa. Tên "Phương Phan" được viết bằng chữ đen đậm nổi bật, kèm theo dòng chữ phụ "Giao thoa nhạc Jazz và Indie" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn đồng tâm với viền dày
+- Kiểu chữ: Font sans-serif đậm, rõ ràng cho tên chính, font nhỏ hơn cho tagline
+- Bảng màu: Vàng chanh chủ đạo, đen và trắng
+- Nền: Vùng tròn trắng ở giữa, viền vàng
+- Phong cách: Tối giản, hiện đại, rõ ràng
+- Tông điệu: Năng động, sáng tạo, thu hút
+
+---
+
+Visual Description:
+The logo features a circular design with a bright yellow ring surrounding a white central area. The name "Phương Phan" is prominently displayed in bold black text, with the subtitle "Giao thoa nhạc Jazz và Indie" appearing below in smaller text.
+
+Design Elements:
+- Shape: Concentric circle with thick border
+- Typography: Bold sans-serif font for main name, smaller font for tagline
+- Color Palette: Bright yellow primary, black and white
+- Background: White circular center with yellow ring
+- Style: Minimalist, modern, clean
+- Mood: Dynamic, creative, engaging

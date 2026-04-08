@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tam giác stylized với các màu gradient chuyển từ xanh cyan sang tím và hồng, kết hợp với chữ "NetPly" màu tím đậm. Biểu tượng có thiết kế hiện đại với các đường cong mềm mại tạo cảm giác chuyển động và năng động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Tam giác stylized với các đường cong mềm mại và hiệu ứng gradient
+- Kiểu chữ: Sans-serif hiện đại, in đậm, chữ thường trừ chữ N và P viết hoa
+- Bảng màu: Gradient từ xanh cyan sang tím và hồng, chữ màu tím đậm
+- Nền: Trắng, trong suốt
+- Phong cách: Hiện đại, tối giản, công nghệ, gradient
+- Tông điệu: Năng động, sáng tạo, chuyên nghiệp, thân thiện
+
+---
+
+Visual Description:
+The logo features a stylized triangular icon with gradient colors transitioning from cyan to purple and pink, combined with "NetPly" text in dark purple. The icon has a modern design with smooth curves that create a sense of movement and dynamism.
+
+Design Elements:
+- Shape: Stylized triangle with smooth curves and gradient effects
+- Typography: Modern sans-serif, bold, lowercase except for capital N and P
+- Color Palette: Gradient from cyan to purple and pink, dark purple text
+- Background: White, transparent
+- Style: Modern, minimalist, tech, gradient
+- Mood: Dynamic, creative, professional, friendly

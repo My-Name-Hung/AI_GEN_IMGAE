@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Làng Nam Bộ" bằng chữ màu trắng trên nền đỏ, với dòng phụ "NHÀ HÀNG BUFFET" bên dưới. Bên phải có hình oval chứa hình ảnh stylized của ngôi nhà truyền thống và cây cối, tạo cảm giác về một ngôi làng miền Nam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo chữ với biểu tượng oval chứa hình ngôi nhà và cây
+- Kiểu chữ: Sans-serif hiện đại, in hoa cho tên chính, chữ nhỏ cho dòng phụ
+- Bảng màu: Đỏ và trắng (đỏ làm nền, trắng cho chữ và biểu tượng)
+- Nền: Màu đỏ đậm
+- Phong cách: Truyền thống, thân thiện, văn hóa Việt Nam
+- Tông điệu: Ấm áp, mời gọi, gần gũi
+
+---
+
+Visual Description:
+The logo displays "Làng Nam Bộ" in white text on a red background, with "NHÀ HÀNG BUFFET" subtitle below. On the right side is an oval containing a stylized illustration of traditional houses and trees, evoking the image of a southern Vietnamese village.
+
+Design Elements:
+- Shape: Text logo with oval icon containing house and tree imagery
+- Typography: Modern sans-serif, uppercase for main name, smaller text for subtitle
+- Color Palette: Red and white (red background, white text and icon)
+- Background: Deep red
+- Style: Traditional, friendly, Vietnamese cultural
+- Mood: Warm, inviting, welcoming

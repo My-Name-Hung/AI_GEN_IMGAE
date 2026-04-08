@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "CUỐI DUYÊN" bằng màu xanh ngọc nổi bật ở trên cùng. Bên dưới có đường nét sóng uốn lượn màu xám nhạt, tiếp theo là dòng chữ nhỏ "DIỆU TRI CHÍNH NHA" màu xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Text chính với đường sóng trang trí
+- Kiểu chữ: Sans-serif hiện đại, đơn giản, có khoảng cách chữ rộng
+- Bảng màu: Xanh ngọc, xám nhạt
+- Nền: Trắng
+- Phong cách: Tối giản, thanh lịch, hiện đại
+- Tông điệu: Chuyên nghiệp, tinh tế, nhẹ nhàng
+
+---
+
+Visual Description:
+The logo features "CUỐI DUYÊN" text in teal color prominently displayed at the top. Below it is a flowing wavy line in light gray, followed by smaller gray text reading "DIỆU TRI CHÍNH NHA".
+
+Design Elements:
+- Shape: Text-based with decorative wave element
+- Typography: Modern sans-serif, clean, with wide letter spacing
+- Color Palette: Teal, light gray
+- Background: White
+- Style: Minimalist, elegant, contemporary
+- Mood: Professional, refined, gentle

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "COOK BOOK" được sắp xếp thành hai hàng, với hai hình tròn thay thế cho các chữ "O" trong từng từ. Bên dưới có dòng chữ nhỏ bằng tiếng Nga và một câu slogan.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái được stylized với hai hình tròn làm điểm nhấn, bố cục vuông vắn
+- Kiểu chữ: Font sans-serif hiện đại, thanh mảnh, các chữ cái được kéo dài theo chiều dọc
+- Bảng màu: Đen trắng đơn sắc
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hiện đại, typography-based
+- Tông điệu: Chuyên nghiệp, tinh tế, sạch sẽ
+
+---
+
+Visual Description:
+The logo displays "COOK BOOK" text arranged in two lines, with two circles replacing the "O" letters in each word. Below is small Russian text and a slogan phrase.
+
+Design Elements:
+- Shape: Stylized letters with two circles as focal points, square-format layout
+- Typography: Modern sans-serif font, thin strokes, vertically elongated letterforms
+- Color Palette: Monochromatic black and white
+- Background: Clean white background
+- Style: Minimalist, modern, typography-based
+- Mood: Professional, refined, clean

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "ZARA" được in màu đen trên một khối hình vuông bo góc màu trắng với hiệu ứng 3D. Khối logo được đặt nghiêng một góc tạo cảm giác động và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông bo gón 3D nghiêng
+- Kiểu chữ: Serif cổ điển, in hoa, nét mảnh thanh lịch
+- Bảng màu: Đen trắng tối giản
+- Nền: Xám nhạt trung tính
+- Phong cách: Tối giản, hiện đại, 3D
+- Tông điệu: Sang trọng, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays "ZARA" in black text on a white rounded square block with 3D effects. The logo block is positioned at an angle creating a dynamic and modern appearance.
+
+Design Elements:
+- Shape: 3D rounded square block, tilted
+- Typography: Classic serif, uppercase, elegant thin strokes
+- Color Palette: Minimalist black and white
+- Background: Neutral light gray
+- Style: Minimalist, modern, 3D
+- Mood: Luxurious, sophisticated, professional

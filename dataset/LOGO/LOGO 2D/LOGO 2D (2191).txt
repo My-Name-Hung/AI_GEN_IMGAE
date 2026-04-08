@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng được tạo thành từ hai mảnh ghép có hình dạng như mũi tên hoặc chevron đan xen vào nhau. Bên dưới biểu tượng là dòng chữ "THANHNAM" và số "2025" được sắp xếp theo chiều dọc.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai mảnh ghép hình học đan xen tạo thành hình lục giác không hoàn chỉnh
+- Kiểu chữ: Font chữ sans-serif đậm, in hoa
+- Bảng màu: Xanh olive và nâu đồng
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, ổn định
+
+---
+
+Visual Description:
+The logo features an abstract geometric symbol composed of two interlocking arrow or chevron-shaped pieces that fit together like puzzle pieces. Below the icon is the text "THANHNAM" with "2025" arranged vertically underneath.
+
+Design Elements:
+- Shape: Two interlocking geometric pieces forming an incomplete hexagonal shape
+- Typography: Bold sans-serif font in all caps
+- Color Palette: Olive green and bronze/brown
+- Background: White/transparent
+- Style: Modern, minimalist, geometric
+- Mood: Professional, strong, stable

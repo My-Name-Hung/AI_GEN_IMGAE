@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo nhà hàng với tên "Quán xưa" được viết bằng font chữ thảo màu trắng trên nền đỏ. Phía trên có dòng chữ "NHÀ MINH" được sắp xếp theo hình cung, và phía dưới có slogan "NÉM MÚI VỊ CỦA SỰ HOÀN HẢO NGAY HÔM NAY".
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo hình vuông với bố cục đối xứng
+- Kiểu chữ: Font thảo tay cho tên chính, font san-serif cho text phụ
+- Bảng màu: Đỏ và trắng
+- Nền: Nền đỏ đậm
+- Phong cách: Truyền thống, thân thiện, ấm cúng
+- Tông điệu: Gần gũi, gia đình, hoài cổ
+
+---
+
+Visual Description:
+A restaurant logo featuring "Quán xưa" written in white handwritten script on a red background. Above the main text, "NHÀ MINH" is arranged in an arc, and below is the tagline "NÉM MÚI VỊ CỦA SỰ HOÀN HẢO NGAY HÔM NAY".
+
+Design Elements:
+- Shape: Square format with centered, symmetrical layout
+- Typography: Handwritten script for main name, sans-serif for supporting text
+- Color Palette: Red and white
+- Background: Solid deep red
+- Style: Traditional, friendly, homey
+- Mood: Welcoming, familial, nostalgic

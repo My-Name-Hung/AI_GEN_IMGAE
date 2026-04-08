@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình vuông xanh lá cây tươi sáng được xoay 45 độ tạo thành hình thoi, với biểu tượng máy bay màu xanh dương nằm chéo phía trên. Bên dưới có dòng chữ "Thảo Việt" màu xanh dương và dòng chữ nhỏ hơn "CÔNG TY DU LỊCH" màu xanh lá.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình thoi (vuông xoay 45°) kết hợp với biểu tượng máy bay
+- Kiểu chữ: Sans-serif hiện đại, in hoa và thường
+- Bảng màu: Xanh lá cây tươi, xanh dương và trắng
+- Nền: Trắng trong suốt
+- Phong cách: Hiện đại, tối giản, năng động
+- Tông điệu: Chuyên nghiệp, tin cậy, thân thiện
+
+---
+
+Visual Description:
+The logo features a bright lime green square rotated 45 degrees to form a diamond shape, with a blue airplane icon positioned diagonally across it. Below are the text "Thảo Việt" in blue and smaller text "CÔNG TY DU LỊCH" in green.
+
+Design Elements:
+- Shape: Diamond (rotated square) combined with airplane symbol
+- Typography: Modern sans-serif, mixed case and uppercase
+- Color Palette: Bright lime green, blue, and white
+- Background: Transparent white
+- Style: Modern, minimalist, dynamic
+- Mood: Professional, trustworthy, friendly

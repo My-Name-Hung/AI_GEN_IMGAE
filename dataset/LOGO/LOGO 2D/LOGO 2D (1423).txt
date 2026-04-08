@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một chiếc cốc cà phê hoặc trà stylized với đường viền màu nâu đậm và phần trong màu trắng. Có một biểu tượng mặt cười nhỏ được tạo bởi hai chấm đen đơn giản trên bề mặt của cốc.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình cốc uống với quai cầm bo tròn, thiết kế đơn giản và hiện đại
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng tươi (nền), nâu đậm (viền), trắng (nội dung)
+- Nền: Màu vàng rực rỡ đồng nhất
+- Phong cách: Flat design, minimalist, thân thiện
+- Tông điệu: Vui vẻ, ấm áp, năng động
+
+---
+
+Visual Description:
+The logo shows a stylized coffee or tea cup with a dark brown outline and white interior. There's a small smiley face created by two simple black dots on the surface of the cup.
+
+Design Elements:
+- Shape: Cup shape with rounded handle, simple and modern design
+- Typography: None (icon only)
+- Color Palette: Bright yellow (background), dark brown (outline), white (interior)
+- Background: Solid bright yellow
+- Style: Flat design, minimalist, friendly
+- Mood: Cheerful, warm, energetic

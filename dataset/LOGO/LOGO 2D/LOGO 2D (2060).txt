@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với văn bản tiếng Việt được sắp xếp thành các dòng khác nhau. Toàn bộ nội dung được bao quanh bởi các đường viền mảnh tạo thành hình chữ nhật.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật với đường viền mảnh
+- Kiểu chữ: Sans-serif đơn giản, in hoa cho tiêu đề chính
+- Bảng màu: Màu nâu/cam nhạt trên nền kem
+- Nền: Màu kem/be nhạt
+- Phong cách: Tối giản, thanh lịch, typography-based
+- Tông điệu: Chuyên nghiệp, ấm áp, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a simple design with Vietnamese text arranged in multiple lines. The entire content is framed by thin border lines forming a rectangular shape.
+
+Design Elements:
+- Shape: Rectangle with thin border lines
+- Typography: Simple sans-serif, uppercase for main title
+- Color Palette: Light brown/orange on cream background
+- Background: Light cream/beige
+- Style: Minimalist, elegant, typography-based
+- Mood: Professional, warm, trustworthy

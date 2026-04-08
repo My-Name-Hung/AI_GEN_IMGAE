@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng 3D hình vuông bo góc màu trắng với chữ "W" màu trắng nổi bật trên nền xanh dương gradient. Toàn bộ logo được đặt trên nền xanh đậm với hiệu ứng đổ bóng tạo chiều sâu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối hình vuông bo góc 3D với hiệu ứng chiều sâu
+- Kiểu chữ: Chữ "W" sans-serif đơn giản, dày, màu trắng
+- Bảng màu: Xanh dương gradient, trắng, xanh đậm
+- Nền: Xanh dương đậm với hiệu ứng gradient và đổ bóng
+- Phong cách: 3D hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, công nghệ
+
+---
+
+Visual Description:
+The logo displays a 3D white rounded square icon with a prominent white "W" letter on a blue gradient background. The entire logo is set against a deep blue background with shadow effects creating depth and dimension.
+
+Design Elements:
+- Shape: 3D rounded square block with depth effects
+- Typography: Simple, bold, white sans-serif "W" letter
+- Color Palette: Blue gradient, white, deep blue
+- Background: Deep blue with gradient and shadow effects
+- Style: Modern 3D, minimalist, tech-focused
+- Mood: Professional, trustworthy, technological

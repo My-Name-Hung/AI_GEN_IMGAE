@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một con thiên nga trắng thanh lịch đang bơi trên nền màu tím gradient. Bên dưới hình thiên nga là tên thương hiệu "sevastel HOTEL" được viết bằng chữ màu trắng với font chữ hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Thiên nga stylized với đường cong mềm mại và cánh hơi mở
+- Kiểu chữ: Sans-serif hiện đại, chữ thường cho "sevastel", chữ hoa cho "HOTEL"
+- Bảng màu: Tím gradient từ đậm đến nhạt, thiên nga và chữ màu trắng
+- Nền: Gradient tím từ xanh tím đậm chuyển sang tím sáng
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Sang trọng, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features an elegant white swan swimming gracefully on a purple gradient background. Below the swan is the brand name "sevastel HOTEL" written in white text with modern typography.
+
+Design Elements:
+- Shape: Stylized swan with smooth curves and slightly open wings
+- Typography: Modern sans-serif, lowercase for "sevastel", uppercase for "HOTEL"
+- Color Palette: Purple gradient from deep to light, white swan and text
+- Background: Purple gradient transitioning from deep blue-purple to bright purple
+- Style: Minimalist, modern, elegant
+- Mood: Luxurious, refined, professional

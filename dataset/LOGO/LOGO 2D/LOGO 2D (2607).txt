@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "BaeYoung" được viết bằng phông chữ thảo mảnh mai và thanh lịch. Bên dưới có từ "BEAUTY" được in bằng chữ in hoa nhỏ, gọn gàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết tay dạng thảo với đường nét mềm mại
+- Kiểu chữ: Chữ thảo script cho tên chính, chữ in hoa sans-serif cho "BEAUTY"
+- Bảng màu: Đen trên nền trắng
+- Nền: Trắng, trong suốt
+- Phong cách: Tối giản, thanh lịch, nữ tính
+- Tông điệu: Tinh tế, sang trọng, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the brand name "BaeYoung" written in elegant, flowing script lettering. Below it, the word "BEAUTY" appears in smaller, clean capital letters.
+
+Design Elements:
+- Shape: Handwritten script with flowing, curved lines
+- Typography: Script font for main name, sans-serif capitals for "BEAUTY"
+- Color Palette: Black on white
+- Background: White/transparent
+- Style: Minimalist, elegant, feminine
+- Mood: Sophisticated, luxurious, professional

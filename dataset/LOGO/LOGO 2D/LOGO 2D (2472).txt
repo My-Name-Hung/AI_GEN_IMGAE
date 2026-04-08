@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản tiếng Việt được sắp xếp theo kiểu phân cấp trên nền đen. Phần chữ chính "BẤT ĐỘNG SẢN CÁT TƯỜNG" được đặt ở trung tâm với kích thước lớn, trong khi các dòng chữ phụ "CÔNG TY ĐĂNG TÍN CẤY" và "TỪ NĂM 2003" được bố trí ở trên và dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ hình chữ nhật, sắp xếp đối xứng theo trục dọc
+- Kiểu chữ: Font chữ serif thanh lịch, có khoảng cách chữ rộng
+- Bảng màu: Chữ trắng trên nền đen, tạo độ tương phản cao
+- Nền: Nền đen hoàn toàn
+- Phong cách: Tối giản, sang trọng, cổ điển
+- Tông điệu: Chuyên nghiệp, uy tín, lịch lãm
+
+---
+
+Visual Description:
+The logo displays Vietnamese text arranged in a hierarchical layout on a black background. The main text "BẤT ĐỘNG SẢN CÁT TƯỜNG" is centrally positioned in large size, while supporting text "CÔNG TY ĐĂNG TÍN CẤY" and "TỪ NĂM 2003" are positioned above and below respectively.
+
+Design Elements:
+- Shape: Rectangular text layout, symmetrically arranged along vertical axis
+- Typography: Elegant serif font with wide letter spacing
+- Color Palette: White text on black background, high contrast
+- Background: Solid black
+- Style: Minimalist, luxurious, classic
+- Mood: Professional, trustworthy, sophisticated

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "Pure" được viết bằng chữ nghiêng màu xanh lá cây với những chiếc lá nhỏ trang trí phía trên. Bên dưới có dòng chữ "BY NATURE" màu xám và toàn bộ được bao quanh bởi một đường viền hình oval màu xanh lá.
+
+Yếu tố Thiết kế:
+- Hình dạng: Oval với các yếu tố lá tự nhiên
+- Kiểu chữ: Chữ nghiêng thanh lịch cho "Pure", chữ in hoa đơn giản cho "BY NATURE"
+- Bảng màu: Xanh lá cây và xám
+- Nền: Trong suốt/trắng
+- Phong cách: Tự nhiên, hữu cơ, thanh lịch
+- Tông điệu: Sạch sẽ, tự nhiên, thân thiện với môi trường
+
+---
+
+Visual Description:
+The logo features the word "Pure" written in green italic script lettering with decorative leaves above it. Below is "BY NATURE" in smaller gray capital letters, all enclosed within a green oval border.
+
+Design Elements:
+- Shape: Oval with natural leaf elements
+- Typography: Elegant italic script for "Pure", simple capitals for "BY NATURE"
+- Color Palette: Green and gray
+- Background: Transparent/white
+- Style: Natural, organic, elegant
+- Mood: Clean, natural, eco-friendly

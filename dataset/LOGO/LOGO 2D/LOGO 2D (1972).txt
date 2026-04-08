@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng biểu đồ cột tăng dần từ trái sang phải với màu xanh lá neon nổi bật. Bên dưới là dòng chữ "Tư vấn An Tâm" với font chữ hiện đại màu trắng và dòng mô tả nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu đồ cột tăng trưởng với 4 cột có chiều cao khác nhau
+- Kiểu chữ: Font chữ đậm, hiện đại cho tiêu đề chính và font mỏng cho dòng phụ
+- Bảng màu: Xanh lá neon (#00FF80), trắng, nền gradient xanh dương-tím
+- Nền: Gradient từ xanh dương sang tím đậm
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, tin cậy, tăng trưởng
+
+---
+
+Visual Description:
+The logo features a rising bar chart with four columns of increasing height in bright neon green. Below is the text "Tư vấn An Tâm" in modern white typography with a smaller descriptive line underneath.
+
+Design Elements:
+- Shape: Growth bar chart with 4 columns of varying heights
+- Typography: Bold, modern font for main title and thin font for subtitle
+- Color Palette: Neon green (#00FF80), white, blue-purple gradient background
+- Background: Gradient from blue to deep purple
+- Style: Modern, minimalist, tech-oriented
+- Mood: Professional, trustworthy, growth-focused

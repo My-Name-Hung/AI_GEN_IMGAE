@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng chữ A được cách điệu với các góc bo tròn và thiết kế gradient. Ở trung tâm có biểu tượng tia chớp màu trắng nằm trong hình tam giác nhỏ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ A cách điệu với góc bo tròn, có lỗ tam giác ở giữa
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ đỏ cam đến cam sáng
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, gradient mượt mà
+- Tông điệu: Năng động, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo features a stylized letter "A" with rounded corners and a gradient design. A white lightning bolt symbol is positioned within a triangular cutout in the center of the letter.
+
+Design Elements:
+- Shape: Stylized letter A with rounded corners and triangular negative space
+- Typography: None (icon only)
+- Color Palette: Gradient from red-orange to bright orange
+- Background: White/transparent
+- Style: Modern, minimalist, smooth gradient
+- Mood: Dynamic, creative, technological

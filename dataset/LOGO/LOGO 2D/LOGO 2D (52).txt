@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "W" được tạo thành từ các dải băng 3D có độ dốc màu sắc. Các dải băng này uốn cong và xoắn tạo thành hình dạng chữ W với hiệu ứng chiều sâu và chuyển động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ W được tạo từ các dải băng 3D uốn cong, xoắn ốc
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ xanh dương đến tím, xanh cyan đến xanh dương
+- Nền: Trắng trong suốt
+- Phong cách: Hiện đại, 3D, gradient, năng động
+- Tông điệu: Sáng tạo, công nghệ, chuyên nghiệp, năng lượng
+
+---
+
+Visual Description:
+The logo displays the letter "W" formed by gradient-colored 3D ribbon strips. These ribbons curve and twist to create the W shape with depth effects and a sense of movement.
+
+Design Elements:
+- Shape: Letter W created from curved, twisted 3D ribbon strips
+- Typography: None (icon only)
+- Color Palette: Gradient from blue to purple, cyan to blue
+- Background: Transparent white
+- Style: Modern, 3D, gradient, dynamic
+- Mood: Creative, technological, professional, energetic

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Thẩm mỹ viện Mai Dung" bằng chữ màu đen đậm trên nền trắng. Bên dưới có dòng chữ nhỏ hơn "Tóc & Trang điểm" làm mô tả dịch vụ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung chữ nhật ngang đơn giản
+- Kiểu chữ: Font serif truyền thống, chữ hoa cho tên chính, chữ thường cho tagline
+- Bảng màu: Đen trắng cơ bản
+- Nền: Trắng tinh với viền màu hồng pastel
+- Phong cách: Tối giản, thanh lịch, cổ điển
+- Tông điệu: Chuyên nghiệp, sang trọng, nữ tính
+
+---
+
+Visual Description:
+The logo displays "Thẩm mỹ viện Mai Dung" in bold black text on a white background. Below it is smaller text reading "Tóc & Trang điểm" describing the services offered.
+
+Design Elements:
+- Shape: Simple horizontal rectangular frame
+- Typography: Traditional serif font, uppercase for main name, lowercase for tagline
+- Color Palette: Basic black and white
+- Background: Clean white with pastel pink border
+- Style: Minimalist, elegant, classic
+- Mood: Professional, luxurious, feminine

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình thoi gradient với các lớp màu chuyển từ xanh cyan sang tím và hồng, tạo hiệu ứng chiều sâu. Bên cạnh là dòng chữ "Etherlinx" được thiết kế với kiểu chữ hiện đại, màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình thoi gradient đa lớp với hiệu ứng chiều sâu
+- Kiểu chữ: Sans-serif hiện đại, đậm, chữ thường
+- Bảng màu: Gradient từ cyan sang tím và hồng magenta, chữ đen
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, công nghệ, gradient, tối giản
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo features a diamond-shaped gradient icon with layered colors transitioning from cyan to purple and pink, creating a depth effect. Next to it is the text "Etherlinx" in a modern, black typeface.
+
+Design Elements:
+- Shape: Multi-layered gradient diamond with depth effect
+- Typography: Modern sans-serif, bold, lowercase
+- Color Palette: Cyan to purple to magenta gradient, black text
+- Background: White/transparent
+- Style: Modern, tech, gradient, minimalist
+- Mood: Professional, innovative, dynamic

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ cái "k" viết tay màu trắng bên trong một hình tròn có viền răng cưa màu tím. Bên dưới là dòng chữ "Kiệt Trương" được viết bằng font chữ thảo nghiêng màu tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn có viền răng cưa/hoa, kết hợp với typography
+- Kiểu chữ: Font chữ thảo nghiêng cho tên, chữ viết tay cho monogram
+- Bảng màu: Tím gradient và trắng
+- Nền: Nền trắng/trong suốt
+- Phong cách: Cá nhân hóa, thủ công, nghệ thuật
+- Tông điệu: Sang trọng, sáng tạo, tinh tế
+
+---
+
+Visual Description:
+The logo features a handwritten white letter "k" inside a purple scalloped circular badge. Below is the text "Kiệt Trương" written in purple script typography.
+
+Design Elements:
+- Shape: Scalloped circular badge combined with typography
+- Typography: Script font for the name, handwritten style for monogram
+- Color Palette: Purple gradient and white
+- Background: White/transparent background
+- Style: Personal branding, handcrafted, artistic
+- Mood: Elegant, creative, sophisticated

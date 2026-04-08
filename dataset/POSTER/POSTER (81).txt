@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo Jotun xuất hiện ở góc trên bên phải với chữ "JOTUN" màu trắng nằm trong hình chữ nhật màu cam/đỏ. Logo RTC ở góc trên bên trái hiển thị chữ "rtc" màu trắng với dòng text "RAAB TRADING COMPANY" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ nhật đơn giản cho logo Jotun, kiểu chữ sans-serif cho RTC
+- Kiểu chữ: Sans-serif đậm cho "JOTUN", chữ thường hiện đại cho "rtc"
+- Bảng màu: Cam/đỏ và trắng cho Jotun, trắng cho RTC
+- Nền: Logo Jotun trên nền cam/đỏ, RTC trên nền trong suốt
+- Phong cách: Hiện đại, công nghiệp, chuyên nghiệp
+- Tông điệu: Mạnh mẽ, đáng tin cậy, năng động
+
+---
+
+Visual Description:
+The Jotun logo appears in the top right corner featuring white "JOTUN" text within an orange/red rectangular background. The RTC logo in the top left shows lowercase "rtc" in white with "RAAB TRADING COMPANY" text below it.
+
+Design Elements:
+- Shape: Simple rectangle for Jotun, clean sans-serif lettering for RTC
+- Typography: Bold sans-serif for "JOTUN", modern lowercase for "rtc"
+- Color Palette: Orange/red and white for Jotun, white for RTC
+- Background: Jotun on orange/red background, RTC on transparent
+- Style: Modern, industrial, professional
+- Mood: Strong, reliable, dynamic

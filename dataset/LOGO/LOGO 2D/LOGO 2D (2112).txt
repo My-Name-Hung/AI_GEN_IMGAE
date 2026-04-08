@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một hình tròn màu xanh đen với chữ "C/D" màu trắng bên trong, được bao quanh bởi viền tròn mỏng. Phía dưới là dòng chữ "CHÍNH DANH" in hoa và website "www.chinhclanh.org" được đặt ở dưới cùng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với viền mỏng, thiết kế đối xứng và cân đối
+- Kiểu chữ: Sans-serif đậm cho tên thương hiệu, chữ nhỏ cho website
+- Bảng màu: Xanh navy đậm và trắng tương phản trên nền be nhạt
+- Nền: Màu be/kem nhạt, tối giản
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Nghiêm túc, đáng tin cậy, thanh lịch
+
+---
+
+Visual Description:
+The logo features a dark navy circular badge with white "C/D" letters inside, surrounded by a thin circular border. Below is the text "CHÍNH DANH" in capital letters, with the website "www.chinhclanh.org" displayed underneath.
+
+Design Elements:
+- Shape: Circular with thin border, symmetrical and balanced design
+- Typography: Bold sans-serif for brand name, smaller text for website
+- Color Palette: Dark navy blue and white contrast on light beige background
+- Background: Light beige/cream, minimalist
+- Style: Minimalist, modern, professional
+- Mood: Serious, trustworthy, elegant

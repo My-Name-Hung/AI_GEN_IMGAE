@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng hai tài liệu chồng lên nhau ở bên trái, với góc gấp nhỏ ở trang trên cùng. Bên phải là chữ "PY" được viết bằng font chữ đậm, hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình chữ nhật chồng lấp, góc gấp tam giác, chữ cái đơn giản
+- Kiểu chữ: Sans-serif đậm, hiện đại, không chân
+- Bảng màu: Đen trắng đơn sắc
+- Nền: Trắng trong suốt
+- Phong cách: Tối giản, biểu tượng phẳng, corporate
+- Tông điệu: Chuyên nghiệp, rõ ràng, công nghệ
+
+---
+
+Visual Description:
+The logo displays an icon of two overlapping document shapes on the left, with a small folded corner on the top page. To the right is "PY" written in bold, modern typography.
+
+Design Elements:
+- Shape: Two overlapping rectangles, triangular fold corner, simple letterforms
+- Typography: Bold sans-serif, modern, clean
+- Color Palette: Monochromatic black and white
+- Background: Transparent white
+- Style: Minimalist, flat icon, corporate
+- Mood: Professional, clear, technological

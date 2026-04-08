@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo National Geographic được thiết kế dưới dạng một khối 3D màu trắng với hình chữ nhật màu vàng đặc trưng ở giữa. Khối logo được đặt nghiêng trên nền vàng, tạo hiệu ứng đổ bóng tự nhiên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông bo góc 3D, chứa hình chữ nhật vàng và text
+- Kiểu chữ: Sans-serif hiện đại, in hoa, bố cục dọc
+- Bảng màu: Vàng đặc trưng National Geographic, trắng, đen
+- Nền: Nền vàng đồng nhất với hiệu ứng đổ bóng
+- Phong cách: 3D hiện đại, tối giản, iconic
+- Tông điệu: Chuyên nghiệp, khám phá, uy tín
+
+---
+
+Visual Description:
+The National Geographic logo is designed as a white 3D cube featuring the iconic yellow rectangle in the center. The logo cube is positioned at an angle on a yellow background, creating a natural shadow effect.
+
+Design Elements:
+- Shape: 3D rounded square block containing yellow rectangle and text
+- Typography: Modern sans-serif, uppercase, vertical layout
+- Color Palette: Signature National Geographic yellow, white, black
+- Background: Solid yellow background with shadow effects
+- Style: Modern 3D, minimalist, iconic
+- Mood: Professional, exploratory, authoritative

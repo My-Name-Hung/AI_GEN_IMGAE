@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản tiếng Việt "CÀ PHÊ LAN MỘC" được sắp xếp trong một khung chữ nhật trắng. Bên dưới có dòng chữ nhỏ hơn "NGHỆ NHÂN CÀ PHÊ" làm slogan hoặc mô tả.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung chữ nhật ngang, bố cục đối xứng
+- Kiểu chữ: Font chữ serif thanh lịch, khoảng cách chữ rộng, phong cách cổ điển
+- Bảng màu: Đen trắng tương phản
+- Nền: Nền đen với khung văn bản trắng
+- Phong cách: Tối giản, thanh lịch, cổ điển
+- Tông điệu: Tinh tế, chuyên nghiệp, sang trọng
+
+---
+
+Visual Description:
+The logo displays Vietnamese text "CÀ PHÊ LAN MỘC" arranged within a white rectangular frame. Below it features smaller text "NGHỆ NHÂN CÀ PHÊ" as a tagline or description.
+
+Design Elements:
+- Shape: Horizontal rectangle frame, symmetrical layout
+- Typography: Elegant serif font with wide letter spacing, classical style
+- Color Palette: Black and white contrast
+- Background: Black background with white text frame
+- Style: Minimalist, elegant, classical
+- Mood: Sophisticated, professional, refined

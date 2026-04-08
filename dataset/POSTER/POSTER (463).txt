@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình vuông bo tròn màu xanh navy với hình ảnh stylized bên trong. Bên cạnh là dòng chữ "GUJARAT TILES" được viết bằng font chữ đơn giản, kèm theo tagline nhỏ bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng vuông bo góc với thiết kế đồ họa bên trong
+- Kiểu chữ: Font sans-serif đơn giản, rõ ràng
+- Bảng màu: Xanh navy, xanh lá nhạt
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, tối giản, công nghiệp
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, công nghệ
+
+---
+
+Visual Description:
+The logo features a rounded square icon in navy blue with a stylized graphic element inside. Adjacent to it is the text "GUJARAT TILES" in clean typography with a small tagline underneath.
+
+Design Elements:
+- Shape: Rounded square icon with internal graphic design
+- Typography: Clean, simple sans-serif font
+- Color Palette: Navy blue, light green accents
+- Background: Transparent/white
+- Style: Modern, minimalist, industrial
+- Mood: Professional, trustworthy, technological

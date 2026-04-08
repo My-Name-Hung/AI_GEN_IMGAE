@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hình sao hoặc bánh xe xanh lá cây với các tia nhọn hướng ra ngoài, tạo cảm giác chuyển động xoay tròn. Bên cạnh là tên thương hiệu "NiftyQuiver" được viết bằng font chữ đậm màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình sao/bánh xe với 8 tia nhọn, bố cục ngang
+- Kiểu chữ: Font sans-serif đậm, hiện đại
+- Bảng màu: Xanh lá cây và đen
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, tech
+- Tông điệu: Năng động, chuyên nghiệp, sáng tạo
+
+---
+
+Visual Description:
+The logo features a green star or wheel-like icon with sharp rays extending outward, creating a sense of rotational movement. Next to it is the brand name "NiftyQuiver" written in bold black typography.
+
+Design Elements:
+- Shape: Star/wheel icon with 8 pointed rays, horizontal layout
+- Typography: Bold sans-serif font, modern
+- Color Palette: Green and black
+- Background: White/transparent
+- Style: Modern, minimalist, tech
+- Mood: Dynamic, professional, innovative

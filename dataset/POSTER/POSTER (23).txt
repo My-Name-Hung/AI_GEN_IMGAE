@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một trang bìa tạp chí thời trang có tên "ОЧКИ" (Kính mắt) với hình ảnh một người phụ nữ đeo kính râm đen. Thiết kế có phong cách hiện đại, tối giản với typography sans-serif in đậm và bố cục sạch sẽ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Typography chữ sans-serif đơn giản, bố cục tạp chí truyền thống
+- Kiểu chữ: Sans-serif in hoa, đậm và rõ ràng cho tiêu đề chính
+- Bảng màu: Đen, trắng, xám với điểm nhấn màu da tự nhiên
+- Nền: Nền trắng sạch với hiệu ứng hình học
+- Phong cách: Hiện đại, tối giản, thời trang cao cấp
+- Tông điệu: Sang trọng, chuyên nghiệp, tinh tế
+
+---
+
+Visual Description:
+This is a fashion magazine cover titled "ОЧКИ" (Glasses) featuring a woman wearing black sunglasses. The design has a modern, minimalist aesthetic with bold sans-serif typography and clean layout.
+
+Design Elements:
+- Shape: Simple sans-serif typography, traditional magazine layout
+- Typography: Bold, clear sans-serif capitals for main title
+- Color Palette: Black, white, gray with natural skin tone accents
+- Background: Clean white background with geometric effects
+- Style: Modern, minimalist, high-fashion editorial
+- Mood: Sophisticated, professional, refined

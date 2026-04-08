@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng như một huy hiệu hoặc khiên tròn với các đường viền màu nâu đậm tạo thành khung bao quanh. Ở trung tâm là hình mặt cáo được stylized với các đường nét góc cạnh, có màu cam đỏ nổi bật trên nền trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Huy hiệu tròn với viền răng cưa, chứa biểu tượng mặt cáo geometric
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Cam đỏ, trắng, nâu đậm
+- Nền: Cam đỏ
+- Phong cách: Minimalist, geometric, flat design, modern
+- Tông điệu: Năng động, thân thiện, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a circular badge or shield shape with dark brown borders forming a decorative frame around the edges. At the center is a stylized fox face rendered in geometric lines, displayed in orange-red color against a white background.
+
+Design Elements:
+- Shape: Circular badge with serrated edges containing a geometric fox face icon
+- Typography: None (icon only)
+- Color Palette: Orange-red, white, dark brown
+- Background: Orange-red
+- Style: Minimalist, geometric, flat design, modern
+- Mood: Dynamic, friendly, professional

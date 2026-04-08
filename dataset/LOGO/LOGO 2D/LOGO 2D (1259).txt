@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hai phần chính: bên trái là một hình tròn màu đen được chia thành bốn phần với các chữ cái "A" và "C" màu cam ở hai phần đối diện nhau. Bên phải là một khối chữ nhật màu đen chứa dòng chữ "Skate Art Club" màu cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn chia làm tư và hình chữ nhật
+- Kiểu chữ: Sans-serif hiện đại, in hoa
+- Bảng màu: Cam rực rỡ và đen
+- Nền: Cam đồng nhất
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Năng động, trẻ trung, thể thao
+
+---
+
+Visual Description:
+The logo features two main components: on the left is a black circle divided into four sections with orange letters "A" and "C" positioned in opposite quarters. On the right is a black rectangular block containing "Skate Art Club" text in orange.
+
+Design Elements:
+- Shape: Quartered circle and rectangle
+- Typography: Modern sans-serif, uppercase
+- Color Palette: Vibrant orange and black
+- Background: Solid orange
+- Style: Minimalist, modern, geometric
+- Mood: Dynamic, youthful, athletic

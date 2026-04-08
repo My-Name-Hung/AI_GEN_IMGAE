@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "ANH SỸ" được viết bằng font chữ in hoa màu trắng trên nền hình vuông màu hồng rực rỡ. Bên dưới có dòng chữ nhỏ hơn "Nằm thiết kế đồ họa" cũng bằng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông đơn giản
+- Kiểu chữ: Font sans-serif in hoa, đơn giản và rõ ràng
+- Bảng màu: Hồng rực rỡ và trắng
+- Nền: Màu hồng đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, typography-focused
+- Tông điệu: Năng động, trẻ trung, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays "ANH SỸ" written in white capital letters on a vibrant pink square background. Below the main text is smaller white text reading "Nằm thiết kế đồ họa" (graphic design).
+
+Design Elements:
+- Shape: Simple square format
+- Typography: Clean sans-serif uppercase font, simple and clear
+- Color Palette: Vibrant pink and white
+- Background: Solid bright pink
+- Style: Minimalist, modern, typography-focused
+- Mood: Dynamic, youthful, professional

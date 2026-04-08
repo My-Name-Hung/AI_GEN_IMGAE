@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "INTERIOR" bằng font chữ in hoa đậm màu nâu, với dòng chữ "MODERN DESIGN" nhỏ hơn bên dưới. Đây là một thiết kế typography đơn giản và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Typography chữ thẳng, không có biểu tượng đồ họa
+- Kiểu chữ: Font sans-serif in hoa, đậm và rõ ràng
+- Bảng màu: Nâu đậm chủ đạo
+- Nền: Trong suốt
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sang trọng, ấm áp, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays "INTERIOR" in bold brown uppercase letters, with smaller "MODERN DESIGN" text underneath. It's a simple and modern typography-based design.
+
+Design Elements:
+- Shape: Straight typography without graphic symbols
+- Typography: Bold, clear sans-serif uppercase font
+- Color Palette: Dominant dark brown
+- Background: Transparent
+- Style: Minimalist, modern, professional
+- Mood: Elegant, warm, trustworthy

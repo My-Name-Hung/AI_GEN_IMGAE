@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học phức tạp bên trái được tạo từ các đường zic-zac và hình thoi đan xen nhau. Bên phải là text "MARITIME MUSEUM" in đậm và "of Montenegro" in nghiêng bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học trừu tượng với các đường zic-zac và hình thoi đan xen
+- Kiểu chữ: Sans-serif đậm cho tiêu đề chính, serif nghiêng cho dòng phụ
+- Bảng màu: Xanh navy đậm (monochrome)
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Chuyên nghiệp, học thuật, tinh tế
+
+---
+
+Visual Description:
+The logo features a complex geometric icon on the left made of interwoven zigzag lines and diamond shapes. On the right is "MARITIME MUSEUM" in bold text with "of Montenegro" in italics below.
+
+Design Elements:
+- Shape: Abstract geometric symbol with interlocking zigzag patterns and diamond forms
+- Typography: Bold sans-serif for main title, italic serif for subtitle
+- Color Palette: Deep navy blue (monochrome)
+- Background: White/transparent
+- Style: Modern, minimalist, geometric
+- Mood: Professional, academic, sophisticated

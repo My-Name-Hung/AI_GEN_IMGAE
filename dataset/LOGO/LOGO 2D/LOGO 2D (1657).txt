@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế hình vuông với các đường cong phức tạp tạo thành một mẫu hình học đối xứng. Các đường trắng tương tác và đan xen với nhau tạo thành một cấu trúc giống như mê cung hoặc nút thắt Celtic.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với các đường cong đan xen đối xứng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng trên nền đen
+- Nền: Đen đặc
+- Phong cách: Hình học, tối giản, đối xứng
+- Tông điệu: Thanh lịch, bí ẩn, tinh tế
+
+---
+
+Visual Description:
+The logo features a square design with intricate curved lines forming a symmetrical geometric pattern. The white lines interweave and intersect to create a structure resembling a maze or Celtic knot design.
+
+Design Elements:
+- Shape: Square with interwoven symmetrical curves
+- Typography: None (icon only)
+- Color Palette: White on black
+- Background: Solid black
+- Style: Geometric, minimalist, symmetrical
+- Mood: Elegant, mysterious, sophisticated

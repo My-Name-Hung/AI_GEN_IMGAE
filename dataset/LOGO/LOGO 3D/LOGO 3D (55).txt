@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng ba chiều với hình dạng hình vuông bo tròn màu trắng nổi bật trên nền xanh dương. Ở giữa có một hình chữ "J" stylized với hiệu ứng gradient từ xanh navy sang xanh nhạt, tạo cảm giác chiều sâu và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông bo tròn 3D với lỗ cắt hình chữ J
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng, xanh navy, xanh nhạt
+- Nền: Xanh dương đậm có bóng đổ
+- Phong cách: Minimalist, 3D, hiện đại
+- Tông điệu: Chuyên nghiệp, công nghệ, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a three-dimensional white rounded square floating against a blue background. In the center is a stylized letter "J" with a gradient effect from dark blue to light blue, creating depth and a modern appearance.
+
+Design Elements:
+- Shape: 3D rounded square with J-shaped cutout
+- Typography: None (icon only)
+- Color Palette: White, navy blue, light blue
+- Background: Deep blue with shadow
+- Style: Minimalist, 3D, modern
+- Mood: Professional, technological, trustworthy

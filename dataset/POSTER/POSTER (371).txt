@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "elica" được viết bằng chữ thường với font chữ hiện đại, tối giản. Có một biểu tượng nhỏ ở bên trái tên thương hiệu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng hàng với biểu tượng hình học đơn giản
+- Kiểu chữ: Sans-serif hiện đại, chữ thường, gọn gàng
+- Bảng màu: Trắng trên nền tối
+- Nền: Tích hợp trên hình ảnh sản phẩm màu tối
+- Phong cách: Tối giản, hiện đại, công nghiệp
+- Tông điệu: Chuyên nghiệp, tinh tế, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays the brand name "elica" written in lowercase letters with a modern, minimalist font. There is a small geometric symbol to the left of the brand name.
+
+Design Elements:
+- Shape: Linear text with simple geometric icon
+- Typography: Modern sans-serif, lowercase, clean
+- Color Palette: White on dark background
+- Background: Integrated on dark product image
+- Style: Minimalist, modern, industrial
+- Mood: Professional, sophisticated, reliable

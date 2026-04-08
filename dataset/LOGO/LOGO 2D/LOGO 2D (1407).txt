@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hình tròn ở trên với ký hiệu hòa bình được cách điệu thành hình con chim bay. Bên dưới là dòng chữ "BIRD OF PEACE" được sắp xếp thành hai hàng với font chữ đậm, rõ ràng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn chứa ký hiệu hòa bình kết hợp silhouette chim bay
+- Kiểu chữ: Sans-serif đậm, in hoa, sắp xếp căn giữa
+- Bảng màu: Đen trắng đơn sắc
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, biểu tượng, hiện đại
+- Tông điệu: Hòa bình, thanh thoát, ý nghĩa
+
+---
+
+Visual Description:
+The logo features a circular icon at the top with a peace symbol creatively transformed into a flying bird silhouette. Below is the text "BIRD OF PEACE" arranged in two lines with bold, clear typography.
+
+Design Elements:
+- Shape: Circle containing peace symbol combined with bird silhouette
+- Typography: Bold sans-serif, uppercase, center-aligned
+- Color Palette: Monochromatic black and white
+- Background: Clean white background
+- Style: Minimalist, symbolic, modern
+- Mood: Peaceful, graceful, meaningful

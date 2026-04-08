@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình vuông màu trắng với thiết kế hình học đơn giản, kết hợp cùng chữ "DỌN DẸP NHANH" và dòng phụ "và các dịch vụ khác" bên phải. Toàn bộ logo được đặt trên nền xanh tím gradient.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng vuông với các đường chéo và dấu cộng tạo hiệu ứng động
+- Kiểu chữ: Font sans-serif đậm, rõ ràng cho tên chính, font nhỏ hơn cho dòng phụ
+- Bảng màu: Trắng cho icon và chữ, nền gradient xanh tím
+- Nền: Gradient từ xanh tím đậm đến sáng
+- Phong cách: Hiện đại, tối giản, chuyên nghiệp
+- Tông điệu: Sạch sẽ, đáng tin cậy, năng động
+
+---
+
+Visual Description:
+The logo features a white geometric square icon with dynamic diagonal lines and plus symbols, positioned alongside the text "DỌN DẸP NHANH" (Quick Cleaning) with the tagline "và các dịch vụ khác" (and other services). The entire design is set against a purple-blue gradient background.
+
+Design Elements:
+- Shape: Square icon with diagonal lines and plus signs creating movement
+- Typography: Bold sans-serif font for main text, smaller font for tagline
+- Color Palette: White for icon and text, purple-blue gradient background
+- Background: Gradient from deep to light purple-blue
+- Style: Modern, minimalist, professional
+- Mood: Clean, trustworthy, dynamic

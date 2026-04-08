@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình hộp vuông bo góc 3D màu trắng với phần trung tâm lõm xuống tạo thành hình khiên. Bên trong khiên có ký hiệu "<" màu cam đỏ trên nền gradient từ cam sang đỏ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hộp vuông 3D bo gón với hình khiên lõm ở trung tâm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng, cam, đỏ với gradient
+- Nền: Màu đỏ cam đồng nhất
+- Phong cách: 3D, hiện đại, isometric, gradient
+- Tông điệu: Năng động, bảo mật, công nghệ, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays a 3D white rounded square box with a recessed shield shape in the center. Inside the shield is an orange-red "<" symbol on a gradient background transitioning from orange to red.
+
+Design Elements:
+- Shape: 3D rounded square box with recessed shield in center
+- Typography: None (icon only)
+- Color Palette: White, orange, red with gradient
+- Background: Solid orange-red
+- Style: 3D, modern, isometric, gradient
+- Mood: Dynamic, security, technology, professional

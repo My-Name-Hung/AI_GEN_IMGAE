@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng trừu tượng giống như ba khối hình học uốn cong xếp chồng lên nhau. Các hình khối tạo thành một cấu trúc động và có độ gradient mượt mà, tạo cảm giác như đang chuyển động hoặc biến hình.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba khối hình học cong, xếp chồng theo chiều từ lớn đến nhỏ
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ cam/vàng chuyển sang hồng và tím
+- Nền: Trắng, trong suốt
+- Phong cách: Hiện đại, tối giản, gradient mượt
+- Tông điệu: Năng động, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo features an abstract shape composed of three curved, geometric blocks stacked on top of each other. The forms create a dynamic structure with smooth gradients, giving the impression of movement or transformation.
+
+Design Elements:
+- Shape: Three curved geometric blocks, layered from largest to smallest
+- Typography: None (icon only)
+- Color Palette: Gradient transitioning from orange/yellow to pink to purple
+- Background: White, transparent
+- Style: Modern, minimalist, smooth gradients
+- Mood: Dynamic, creative, technological

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "CRAB" được viết bằng chữ cái màu vàng trên nền xanh đậm chuyển sắc. Có các đường cong trang trí màu vàng bao quanh chữ "C" tạo thành hình dạng giống như móng cua hoặc yếu tố biển.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái với các đường cong trang trí bao quanh
+- Kiểu chữ: Font chữ in hoa, đậm, hiện đại
+- Bảng màu: Vàng chủ đạo trên nền xanh navy gradient
+- Nền: Nền xanh đậm có hiệu ứng chuyển sắc gradient
+- Phong cách: Hiện đại, tối giản, biển cả
+- Tông điệu: Chuyên nghiệp, năng động, liên quan đến hải sản
+
+---
+
+Visual Description:
+The logo displays the word "CRAB" in yellow letters on a dark blue gradient background. Decorative yellow curved lines wrap around the letter "C" creating shapes reminiscent of crab claws or nautical elements.
+
+Design Elements:
+- Shape: Typography with decorative curved elements surrounding it
+- Typography: Bold, uppercase, modern sans-serif font
+- Color Palette: Golden yellow on navy blue gradient
+- Background: Deep blue with gradient effect
+- Style: Modern, minimalist, nautical
+- Mood: Professional, dynamic, seafood-related

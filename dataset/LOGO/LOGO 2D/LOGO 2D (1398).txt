@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học màu cam được tạo thành từ hai hình tam giác ghép lại tạo thành hình vuông có đường chéo. Bên cạnh biểu tượng là chữ "Syntask" viết bằng font sans-serif màu đen, hiện đại và rõ ràng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông được chia đôi bởi đường chéo, tạo thành hai tam giác
+- Kiểu chữ: Font sans-serif hiện đại, in đậm, chữ thường
+- Bảng màu: Cam/đỏ cam chủ đạo, đen cho text
+- Nền: Trắng/xám nhạt
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo features a geometric orange icon composed of two triangles forming a square with a diagonal line through it. Next to the icon is the text "Syntask" rendered in a clean, modern black sans-serif typeface.
+
+Design Elements:
+- Shape: Square divided diagonally creating two triangular forms
+- Typography: Modern sans-serif, bold weight, lowercase
+- Color Palette: Orange/red-orange primary, black text
+- Background: White/light gray
+- Style: Minimalist, geometric, modern
+- Mood: Professional, dynamic, tech-oriented

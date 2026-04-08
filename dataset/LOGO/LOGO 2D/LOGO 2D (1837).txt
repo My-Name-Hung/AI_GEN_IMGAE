@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng nguyên tử với các quỹ đạo electron màu vàng được sắp xếp theo hình dạng cách điệu. Phần text "KHỞI NGUỒN" được đặt bên dưới với slogan "PHÒNG NGHIÊN CỨU VÀ PHÁT TRIỂN".
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng nguyên tử với các đường quỹ đạo ellipse và hạt nhân trung tâm
+- Kiểu chữ: Sans-serif hiện đại, chữ hoa cho tên chính, chữ thường cho slogan
+- Bảng màu: Vàng cho biểu tượng và slogan, trắng cho tên chính
+- Nền: Xanh navy đậm
+- Phong cách: Khoa học, hiện đại, tối giản
+- Tông điệu: Chuyên nghiệp, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo features an atomic symbol with yellow orbital rings arranged in a stylized pattern. The text "KHỞI NGUỒN" is placed below with the tagline "PHÒNG NGHIÊN CỨU VÀ PHÁT TRIỂN".
+
+Design Elements:
+- Shape: Atomic symbol with elliptical orbital paths and central nucleus
+- Typography: Modern sans-serif, uppercase for main name, lowercase for tagline
+- Color Palette: Yellow for symbol and tagline, white for main text
+- Background: Dark navy blue
+- Style: Scientific, modern, minimalist
+- Mood: Professional, innovative, technological

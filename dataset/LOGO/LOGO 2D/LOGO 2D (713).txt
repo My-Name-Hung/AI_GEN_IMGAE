@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tròn màu xanh đậm với hình ảnh máy bay và đường bay bên trong. Bên cạnh là dòng chữ "Birize" được viết bằng font chữ sans-serif hiện đại với màu xanh đậm tương tự.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn kết hợp với kiểu chữ ngang
+- Kiểu chữ: Sans-serif hiện đại, đậm, chữ thường
+- Bảng màu: Xanh lá cây đậm (teal) và màu be nhạt
+- Nền: Màu be/kem nhạt
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, năng động, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a circular dark teal icon containing an airplane and flight path design. Adjacent to it is the text "Birize" rendered in a modern sans-serif typeface using the same dark teal color.
+
+Design Elements:
+- Shape: Circular icon combined with horizontal text
+- Typography: Modern sans-serif, bold, lowercase
+- Color Palette: Dark teal and light beige
+- Background: Light beige/cream
+- Style: Modern, minimalist, tech-oriented
+- Mood: Professional, dynamic, trustworthy

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là thiết kế poster/tạp chí với chữ "SUPRA" được đặt ở vị trí trung tâm bằng font chữ in hoa to và đậm màu đỏ. Bên dưới có hình ảnh một chiếc xe thể thao Toyota Supra màu đỏ được đặt trên nền tối với hiệu ứng grunge và các yếu tố đô thị.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ in hoa hình chữ nhật với đường nét vuông vức, mạnh mẽ
+- Kiểu chữ: Font sans-serif đậm, in hoa, phong cách công nghiệp hiện đại
+- Bảng màu: Đỏ chủ đạo, đen, trắng và xám
+- Nền: Nền tối với texture grunge và các yếu tố đô thị
+- Phong cách: Hiện đại, công nghiệp, thể thao, năng động
+- Tông điệu: Mạnh mẽ, táo bạo, tốc độ, hiệu suất cao
+
+---
+
+Visual Description:
+This is a magazine/poster design featuring the word "SUPRA" prominently displayed in large, bold red capital letters at the center. Below it shows a red Toyota Supra sports car positioned on a dark background with grunge effects and urban elements.
+
+Design Elements:
+- Shape: Rectangular capital letters with strong, angular lines
+- Typography: Bold sans-serif font, all caps, industrial modern style
+- Color Palette: Dominant red, black, white, and gray
+- Background: Dark background with grunge texture and urban elements
+- Style: Modern, industrial, sporty, dynamic
+- Mood: Powerful, bold, speed, high-performance

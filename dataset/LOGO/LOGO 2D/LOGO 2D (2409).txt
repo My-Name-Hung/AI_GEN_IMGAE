@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một hình lục giác màu vàng với biểu tượng phần trăm bên trong. Phía dưới có dòng chữ "Siêu thị Metro" và slogan "MỸ PHẨM XỊN, GIÁ MÊ LY!" cùng thông tin ngày khuyến mãi.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác 3D với hiệu ứng đổ bóng, chứa ký hiệu phần trăm
+- Kiểu chữ: Sans-serif đơn giản, dễ đọc cho tên thương hiệu và thông tin
+- Bảng màu: Vàng cam chủ đạo, nâu đậm cho văn bản, nền kem nhạt
+- Nền: Màu kem/be nhạt, tạo độ tương phản nhẹ nhàng
+- Phong cách: Hiện đại, tối giản, có chiều sâu 3D
+- Tông điệu: Thân thiện, ấm áp, thu hút, gợi cảm giác tiết kiệm
+
+---
+
+Visual Description:
+The logo features a golden hexagonal shape with a percentage symbol inside. Below it displays "Siêu thị Metro" text along with the slogan "MỸ PHẨM XỊN, GIÁ MÊ LY!" and promotional date information.
+
+Design Elements:
+- Shape: 3D hexagon with drop shadow effect containing a percentage symbol
+- Typography: Simple, readable sans-serif font for brand name and information
+- Color Palette: Golden orange primary, dark brown for text, light cream background
+- Background: Light cream/beige color creating gentle contrast
+- Style: Modern, minimalist, with 3D depth effect
+- Mood: Friendly, warm, attractive, savings-oriented

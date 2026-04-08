@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Freshleaf" với hai chiếc lá xanh nhỏ được đặt phía trên chữ "Fresh". Toàn bộ logo được thiết kế bằng màu xanh lá cây tươi sáng trên nền xanh đậm với các hình lá mờ trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết kết hợp với biểu tượng lá đôi đơn giản
+- Kiểu chữ: Font chữ hiện đại, không chân, có độ đậm vừa phải
+- Bảng màu: Xanh lá cây tươi trên nền xanh đậm
+- Nền: Nền gradient xanh đậm với họa tiết lá mờ
+- Phong cách: Tự nhiên, hiện đại, thân thiện môi trường
+- Tông điệu: Tươi mới, sinh động, gần gũi với thiên nhiên
+
+---
+
+Visual Description:
+The logo displays "Freshleaf" text with two small green leaves positioned above the "Fresh" portion. The entire logo is rendered in bright green against a dark green background featuring subtle leaf silhouettes.
+
+Design Elements:
+- Shape: Text-based design with simple dual leaf icon
+- Typography: Modern, sans-serif font with medium weight
+- Color Palette: Fresh green on dark green background
+- Background: Dark green gradient with faded leaf patterns
+- Style: Natural, contemporary, eco-friendly
+- Mood: Fresh, vibrant, nature-connected

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Bệnh viện Nhi đồng Bình An" bằng chữ màu cam/đỏ cam trên nền xanh nhạt. Bên dưới có dòng chữ "VIỆN NHI ĐỒNG CAO CẤP" màu xanh đậm hơn với đường gạch ngang trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Thiết kế chữ đơn giản, có đường gạch ngang trang trí
+- Kiểu chữ: Font chữ đơn giản, dễ đọc, không có chân
+- Bảng màu: Cam/đỏ cam cho tên chính, xanh navy cho phụ đề, nền xanh nhạt
+- Nền: Màu xanh nhạt đồng nhất
+- Phong cách: Đơn giản, hiện đại, y tế
+- Tông điệu: Chuyên nghiệp, tin cậy, thân thiện
+
+---
+
+Visual Description:
+The logo displays "Bệnh viện Nhi đồng Bình An" in orange/coral text on a light blue background. Below it shows "VIỆN NHI ĐỒNG CAO CẤP" in darker blue with decorative horizontal lines.
+
+Design Elements:
+- Shape: Simple text-based design with decorative horizontal lines
+- Typography: Clean, readable sans-serif font
+- Color Palette: Orange/coral for main title, navy blue for subtitle, light blue background
+- Background: Solid light blue
+- Style: Simple, modern, medical
+- Mood: Professional, trustworthy, approachable

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình silhouette của quái vật hoặc sinh vật lông xù với hai mắt tròn trắng ở trên cùng. Bên dưới là dòng chữ "HUNGRY" được viết bằng font chữ đậm, khỏe khoắn và từ "TEAM" nhỏ hơn ở cuối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette quái vật lông xù với các tia tỏa ra xung quanh
+- Kiểu chữ: Font sans-serif đậm, khỏe khoắn cho "HUNGRY", font nhỏ hơn cho "TEAM"
+- Bảng màu: Đen trắng (monochrome)
+- Nền: Xám nhạt
+- Phong cách: Gaming, mascot, cartoon, bold
+- Tông điệu: Năng lượng, vui tươi, mạnh mẽ
+
+---
+
+Visual Description:
+The logo features a black silhouette of a furry monster or creature with two round white eyes at the top. Below it is the text "HUNGRY" in bold, strong lettering with "TEAM" in smaller text underneath.
+
+Design Elements:
+- Shape: Furry monster silhouette with radiating lines around it
+- Typography: Bold sans-serif font for "HUNGRY", smaller font for "TEAM"
+- Color Palette: Black and white (monochrome)
+- Background: Light gray
+- Style: Gaming, mascot, cartoon, bold
+- Mood: Energetic, playful, strong

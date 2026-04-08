@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "ENOMIZ" được viết bằng chữ in hoa màu đen đậm. Bên dưới có từ "FOOD" được viết bằng chữ nhỏ hơn với khoảng cách rộng giữa các ký tự.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ ngang, thiết kế typographic đơn giản
+- Kiểu chữ: Sans-serif đậm cho tên chính, chữ nhỏ có khoảng cách cho từ "FOOD"
+- Bảng màu: Đen trên nền trắng
+- Nền: Nền trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, typography-based
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, rõ ràng
+
+---
+
+Visual Description:
+The logo displays the brand name "ENOMIZ" written in bold black uppercase letters. Below it, the word "FOOD" appears in smaller, spaced-out lettering.
+
+Design Elements:
+- Shape: Horizontal text layout, simple typographic design
+- Typography: Bold sans-serif for main name, smaller spaced lettering for "FOOD"
+- Color Palette: Black on white
+- Background: White/transparent background
+- Style: Minimalist, modern, typography-based
+- Mood: Professional, strong, clear

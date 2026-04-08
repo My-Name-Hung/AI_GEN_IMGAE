@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên công ty "CÔNG TY DỊCH VỤ GIÚP VIỆC NHÀ" bằng chữ in hoa màu vàng nổi bật. Phía dưới có dòng slogan "DỊCH VỤ SỬA CHỮA TOÀN DIỆN, QUANH NĂM" bằng chữ nhỏ màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Layout chữ thẳng hàng, không có biểu tượng đồ họa
+- Kiểu chữ: Font sans-serif đậm, chữ in hoa cho tên công ty, chữ thường cho slogan
+- Bảng màu: Vàng chủ đạo cho tiêu đề, trắng cho phụ đề
+- Nền: Màu xám đen tối
+- Phong cách: Tối giản, typography-based, doanh nghiệp
+- Tông điệu: Chuyên nghiệp, rõ ràng, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays the company name "CÔNG TY DỊCH VỤ GIÚP VIỆC NHÀ" in bold yellow capital letters. Below it is a tagline "DỊCH VỤ SỬA CHỮA TOÀN DIỆN, QUANH NĂM" in smaller white text.
+
+Design Elements:
+- Shape: Straight text alignment with no graphic symbols
+- Typography: Bold sans-serif font, uppercase for company name, lowercase for tagline
+- Color Palette: Dominant yellow for headline, white for subtitle
+- Background: Dark gray-black
+- Style: Minimalist, typography-based, corporate
+- Mood: Professional, clear, trustworthy

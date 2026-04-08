@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng trái tim xanh lá cây với hai chiếc lá nhỏ ở phía trên đỉnh. Bên trong trái tim có chữ "Healthy FOOD" viết bằng font chữ thảo màu trắng, kèm theo dòng chữ "FRESH & ORGANIC" ở dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Trái tim stylized với hai lá cây trang trí
+- Kiểu chữ: Font chữ thảo (script) cho "Healthy", in đậm cho "FOOD" và "FRESH & ORGANIC"
+- Bảng màu: Xanh lá cây đậm, xanh lá cây nhạt, trắng
+- Nền: Trong suốt/trắng
+- Phong cách: Organic, tự nhiên, thân thiện môi trường
+- Tông điệu: Tươi mới, khỏe khoắn, tin cậy
+
+---
+
+Visual Description:
+The logo features a green heart shape with two small leaves at the top. Inside the heart, "Healthy FOOD" is written in white script lettering, accompanied by "FRESH & ORGANIC" text below.
+
+Design Elements:
+- Shape: Stylized heart with decorative leaf elements
+- Typography: Script font for "Healthy", bold sans-serif for "FOOD" and "FRESH & ORGANIC"
+- Color Palette: Dark green, light green, white
+- Background: Transparent/white
+- Style: Organic, natural, eco-friendly
+- Mood: Fresh, healthy, trustworthy

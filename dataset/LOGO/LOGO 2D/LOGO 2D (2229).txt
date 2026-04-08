@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "ban mai" được viết bằng chữ thường màu xanh dương trên nền vàng tươi. Bên dưới có dòng chữ "CÔNG TY DỊCH VỤ" được viết bằng chữ in hoa nhỏ hơn cùng màu xanh dương.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ đơn giản, thẳng hàng
+- Kiểu chữ: Chữ sans-serif hiện đại, tên thương hiệu viết thường, slogan viết hoa
+- Bảng màu: Xanh dương và vàng tươi
+- Nền: Nền vàng tươi đồng nhất
+- Phong cách: Tối giản, hiện đại, rõ ràng
+- Tông điệu: Năng động, tươi sáng, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the brand name "ban mai" in lowercase blue text on a bright yellow background. Below it appears "CÔNG TY DỊCH VỤ" in smaller blue uppercase letters.
+
+Design Elements:
+- Shape: Simple text layout, aligned formatting
+- Typography: Modern sans-serif font, lowercase brand name, uppercase tagline
+- Color Palette: Blue and bright yellow
+- Background: Solid bright yellow background
+- Style: Minimalist, modern, clean
+- Mood: Energetic, bright, professional

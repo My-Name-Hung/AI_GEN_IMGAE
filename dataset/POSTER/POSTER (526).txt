@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng tròn với khung viền màu xanh lá cây, bên trong là không gian màu xanh da trời với chữ "200HA XANH MÁT" màu vàng nổi bật ở trung tâm. Xung quanh viền tròn có các hình ảnh nhỏ về cảnh quan, gia đình và hoạt động giải trí, với logo "OCEAN CITY" ở phía trên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với viền xanh lá, tạo cảm giác như cửa sổ nhìn vào không gian xanh
+- Kiểu chữ: Font chữ sans-serif đậm, dễ đọc cho text chính màu vàng
+- Bảng màu: Xanh lá cây, xanh da trời, vàng, với các điểm nhấn màu sắc từ hình ảnh
+- Nền: Gradient từ xanh lá đậm ở viền đến xanh da trời nhạt ở trung tâm
+- Phong cách: Hiện đại, thân thiện, mang tính quảng cáo bất động sản
+- Tông điệu: Tươi mới, thoáng đãng, gần gũi với thiên nhiên
+
+---
+
+Visual Description:
+The logo features a circular design with a green border frame, containing a blue sky background with prominent yellow text "200HA XANH MÁT" in the center. Small images of landscapes, families, and recreational activities are arranged around the circular border, with the "OCEAN CITY" logo at the top.
+
+Design Elements:
+- Shape: Circular form with green border, creating a window-like view into green space
+- Typography: Bold sans-serif font, easily readable for the main yellow text
+- Color Palette: Green, blue sky, yellow, with colorful accents from surrounding images
+- Background: Gradient from deep green at the border to light blue in the center
+- Style: Modern, friendly, real estate promotional design
+- Mood: Fresh, airy, nature-connected, inviting

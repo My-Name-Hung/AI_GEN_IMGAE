@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng khiên bảo vệ màu xanh lá cây gradient với đường tim điện có nhịp đập bên trong. Bên cạnh là dòng chữ "Phòng khám Châu Long" màu vàng xanh, kèm theo slogan nhỏ bằng tiếng Việt bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khiên bảo vệ kết hợp với đường tim điện và nhịp đập
+- Kiểu chữ: Font chữ hiện đại, sans-serif, dễ đọc
+- Bảng màu: Xanh lá cây gradient, vàng xanh cho chữ, nền xanh teal đậm
+- Nền: Màu xanh teal/lục lam đậm, đồng nhất
+- Phong cách: Y tế hiện đại, chuyên nghiệp, tối giản
+- Tông điệu: Tin cậy, an toàn, chăm sóc sức khỏe
+
+---
+
+Visual Description:
+The logo features a green gradient shield icon with a heartbeat/pulse line running through it. Adjacent to the icon is the text "Phòng khám Châu Long" in yellow-green color, with a smaller Vietnamese tagline underneath.
+
+Design Elements:
+- Shape: Shield combined with medical heartbeat/pulse line
+- Typography: Modern, clean sans-serif font, highly readable
+- Color Palette: Green gradient, yellow-green text, dark teal background
+- Background: Solid dark teal/blue-green color
+- Style: Modern medical, professional, minimalist
+- Mood: Trustworthy, secure, healthcare-focused

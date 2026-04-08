@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo du lịch với tiêu đề "GLOBAL TRAVEL TOURISM" được thiết kế trên nền trắng có hiệu ứng cuộn trang. Bao gồm các yếu tố như cây dừa, máy bay, tàu thuyền và hình ảnh thành phố hiện đại bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục cuộn trang với các icon du lịch (cây dừa, máy bay, tàu) và hình ảnh thành phố
+- Kiểu chữ: Font chữ in hoa đậm cho tiêu đề chính, font nhỏ hơn cho thông tin phụ
+- Bảng màu: Xanh dương chủ đạo, trắng, xanh lá cây cho cây dừa
+- Nền: Trắng với hiệu ứng cuộn trang, hình ảnh thành phố và bầu trời xanh
+- Phong cách: Hiện đại, chuyên nghiệp, du lịch
+- Tông điệu: Năng động, chuyên nghiệp, hấp dẫn
+
+---
+
+Visual Description:
+A travel logo featuring "GLOBAL TRAVEL TOURISM" text designed on a white background with a page curl effect. It includes travel elements like palm trees, airplane, boats, and a modern cityscape image below.
+
+Design Elements:
+- Shape: Page curl layout with travel icons (palm trees, airplane, ships) and cityscape imagery
+- Typography: Bold uppercase font for main title, smaller fonts for additional information
+- Color Palette: Predominantly blue, white, green for palm trees
+- Background: White with page curl effect, cityscape image and blue sky
+- Style: Modern, professional, travel-themed
+- Mood: Dynamic, professional, appealing

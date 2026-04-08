@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một hình chữ nhật màu be chứa biểu tượng ly rượu vang đơn giản được vẽ bằng đường nét mảnh màu đen. Bên cạnh là dòng chữ "NGHIỆP ĐOÀN RƯỢU" được sắp xếp theo chiều dọc bằng font chữ không chân hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật vuông chứa biểu tượng ly rượu tối giản
+- Kiểu chữ: Sans-serif hiện đại, in hoa, xếp dọc
+- Bảng màu: Tím đậm, be/kem, đen
+- Nền: Nền tím đậm sang trọng
+- Phong cách: Tối giản, hiện đại, tinh tế
+- Tông điệu: Sang trọng, chuyên nghiệp, thanh lịch
+
+---
+
+Visual Description:
+The logo features a beige rectangular box containing a simple wine glass icon drawn with thin black lines. Adjacent to it is the text "NGHIỆP ĐOÀN RƯỢU" arranged vertically in a modern sans-serif font.
+
+Design Elements:
+- Shape: Square rectangle containing minimalist wine glass symbol
+- Typography: Modern sans-serif, uppercase, vertically stacked
+- Color Palette: Deep purple, beige/cream, black
+- Background: Rich deep purple background
+- Style: Minimalist, modern, refined
+- Mood: Elegant, professional, sophisticated

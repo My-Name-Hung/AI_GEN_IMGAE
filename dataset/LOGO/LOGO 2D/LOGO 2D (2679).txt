@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "HẢI PHÒNG" bằng chữ in hoa màu trắng nổi bật trên nền xanh teal. Phía trên có biểu tượng quả bóng đá được bao quanh bởi cành lá và ba ngôi sao, cùng với dòng chữ phụ "CÂU LẠC BỘ BÓNG ĐÁ" ở dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo hình chữ nhật với biểu tượng bóng đá trung tâm được trang trí bởi cành lá và ngôi sao
+- Kiểu chữ: Chữ serif thanh lịch, in hoa, có dấu thanh điệu tiếng Việt
+- Bảng màu: Xanh teal làm nền chủ đạo, chữ và biểu tượng màu trắng
+- Nền: Nền đồng nhất màu xanh teal đậm
+- Phong cách: Trang trọng, thể thao, thiết kế cân đối
+- Tông điệu: Chuyên nghiệp, uy tín, thể thao
+
+---
+
+Visual Description:
+The logo displays "HẢI PHÒNG" in bold white uppercase letters on a teal background. Above the text is a soccer ball icon surrounded by decorative wheat branches and three stars, with the subtitle "CÂU LẠC BỘ BÓNG ĐÁ" below.
+
+Design Elements:
+- Shape: Rectangular logo with central soccer ball emblem decorated with laurel branches and stars
+- Typography: Elegant serif font in uppercase with Vietnamese diacritical marks
+- Color Palette: Dominant teal background with white text and symbols
+- Background: Solid deep teal color
+- Style: Formal, athletic, balanced design
+- Mood: Professional, prestigious, sporty

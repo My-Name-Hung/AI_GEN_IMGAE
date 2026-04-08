@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn màu xanh lá cây đậm với đường viền thô ráp, không đều. Chữ "màu xanh" được viết bằng font chữ thảo màu vàng nhạt ở giữa, với hai dòng chữ "CHIẾN DỊCH" và "HY VỌNG" bằng font chữ in hoa nhỏ hơn phía trên và dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với đường viền thô ráp, không hoàn hảo
+- Kiểu chữ: Kết hợp font chữ thảo cho từ chính và font sans-serif cho chữ phụ
+- Bảng màu: Xanh lá cây đậm làm nền, chữ màu vàng nhạt/kem
+- Nền: Màu xanh lá cây đậm đặc
+- Phong cách: Thủ công, tự nhiên, organic
+- Tông điệu: Thân thiện, hy vọng, gần gũi với thiên nhiên
+
+---
+
+Visual Description:
+The logo features a dark green circular shape with rough, uneven hand-drawn edges. The main text "màu xanh" is written in a light yellow script font in the center, with smaller uppercase text "CHIẾN DỊCH" above and "HY VỌNG" below in a clean sans-serif typeface.
+
+Design Elements:
+- Shape: Circular with rough, imperfect hand-drawn border
+- Typography: Combination of script font for main text and clean sans-serif for supporting text
+- Color Palette: Dark forest green background with light yellow/cream text
+- Background: Solid dark green
+- Style: Handcrafted, natural, organic
+- Mood: Friendly, hopeful, nature-connected

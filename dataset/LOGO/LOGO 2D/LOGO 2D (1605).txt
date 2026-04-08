@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm biểu tượng hình học trừu tượng bên trái với các hình thoi chồng lên nhau tạo thành hình dạng ba chiều. Bên phải là chữ "FlowAI" được viết bằng font chữ hiện đại, đơn giản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Các hình thoi/kim cương chồng lên nhau tạo hiệu ứng ba chiều, kết hợp với typography đơn giản
+- Kiểu chữ: Sans-serif hiện đại, in đậm, rõ ràng
+- Bảng màu: Gradient từ xanh lá cây đến xanh dương với các sắc độ khác nhau
+- Nền: Nền trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon on the left consisting of overlapping diamond/rhombus shapes that create a three-dimensional effect. To the right is the text "FlowAI" rendered in clean, modern typography.
+
+Design Elements:
+- Shape: Overlapping diamond/rhombus forms creating a 3D layered effect, combined with clean typography
+- Typography: Modern sans-serif font, bold and clear
+- Color Palette: Gradient from green to blue with various tonal variations
+- Background: White/transparent background
+- Style: Modern, minimalist, tech-focused
+- Mood: Professional, dynamic, innovative

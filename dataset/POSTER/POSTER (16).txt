@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một thiết kế menu nhà hàng với hình ảnh món ăn được bày trí đẹp mắt trong đĩa tròn màu trắng. Bên trái có các yếu tố trang trí bao gồm rau củ và gia vị, cùng với text "HOT & DELICIOUS" được sắp xếp theo phong cách typography hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật với đĩa tròn làm điểm nhấn trung tâm
+- Kiểu chữ: Font chữ bold hiện đại, có sự kết hợp giữa chữ in hoa và chữ thường
+- Bảng màu: Tông màu nâu đất, be, trắng và các màu tự nhiên của thực phẩm
+- Nền: Nền gradient từ be sang nâu với texture nhẹ
+- Phong cách: Hiện đại, sạch sẽ, thương mại
+- Tông điệu: Ấm áp, hấp dẫn, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays a restaurant menu design featuring an artfully plated dish in a white circular plate as the centerpiece. The left side includes decorative elements with vegetables and spices, along with "HOT & DELICIOUS" text arranged in modern typography style.
+
+Design Elements:
+- Shape: Rectangular layout with a circular plate as the central focal point
+- Typography: Bold modern font combining uppercase and lowercase letters
+- Color Palette: Earth tones of brown, beige, white, and natural food colors
+- Background: Gradient background from beige to brown with subtle texture
+- Style: Modern, clean, commercial
+- Mood: Warm, appetizing, professional

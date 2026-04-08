@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một bóng đèn màu vàng được bao quanh bởi các biểu tượng dấu cộng nhỏ, tạo cảm giác như những tia sáng hoặc năng lượng tỏa ra. Phần text "SÁNG TẠO" được viết bằng chữ in hoa màu trắng đậm, kèm theo dòng phụ "NHỮNG Ý TƯỞNG THIẾT THỰC" màu vàng bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bóng đèn đơn giản với các dấu cộng trang trí xung quanh
+- Kiểu chữ: Sans-serif đậm, chữ in hoa cho text chính, chữ thường cho slogan
+- Bảng màu: Vàng và trắng trên nền xanh đậm
+- Nền: Màu xanh đậm, phẳng
+- Phong cách: Tối giản, hiện đại, minh họa vector
+- Tông điệu: Năng động, sáng tạo, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a yellow lightbulb surrounded by small plus sign symbols, creating the impression of radiating light or energy. The text "SÁNG TẠO" is displayed in bold white capital letters, with the tagline "NHỮNG Ý TƯỞNG THIẾT THỰC" in yellow below it.
+
+Design Elements:
+- Shape: Simple lightbulb with decorative plus signs around it
+- Typography: Bold sans-serif, uppercase for main text, lowercase for tagline
+- Color Palette: Yellow and white on dark blue background
+- Background: Flat dark blue
+- Style: Minimalist, modern, vector illustration
+- Mood: Dynamic, creative, professional

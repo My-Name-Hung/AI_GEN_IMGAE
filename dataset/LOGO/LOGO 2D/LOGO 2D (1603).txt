@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn với biểu tượng cờ lê và đường ống nước ở trung tâm. Text "SN PLUMBING SOLUTIONS" được bố trí vòng quanh theo hình cung tròn bao quanh biểu tượng trung tâm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với biểu tượng công cụ sửa chữa ở giữa
+- Kiểu chữ: Sans-serif đậm, kiểu chữ in hoa
+- Bảng màu: Xanh dương đậm trên nền trắng
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, chuyên nghiệp, công nghiệp
+- Tông điệu: Đáng tin cậy, chuyên nghiệp, kỹ thuật
+
+---
+
+Visual Description:
+The logo features a circular design with a wrench and pipe symbol at the center. The text "SN PLUMBING SOLUTIONS" is arranged in a curved arc around the central icon, creating a badge-like appearance.
+
+Design Elements:
+- Shape: Circular with plumbing tools icon in center
+- Typography: Bold sans-serif, all capitals
+- Color Palette: Deep blue on white background
+- Background: Transparent white
+- Style: Minimalist, professional, industrial
+- Mood: Trustworthy, professional, technical

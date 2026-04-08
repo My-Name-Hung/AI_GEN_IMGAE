@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "tea" màu trắng với chữ "a" được stylized thành hình túi trà. Một đường thẳng màu vàng kết nối từ túi trà xuống một chiếc cốc trà màu trắng ở phía dưới, tạo thành hình ảnh túi trà đang được nhúng vào cốc.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái kết hợp với biểu tượng túi trà và cốc trà
+- Kiểu chữ: Sans-serif đơn giản, chữ thường
+- Bảng màu: Trắng, vàng, đen
+- Nền: Nền đen
+- Phong cách: Tối giản, sáng tạo, biểu tượng hóa
+- Tông điệu: Thân thiện, sáng tạo, ấm cúng
+
+---
+
+Visual Description:
+The logo displays the word "tea" in white text with the letter "a" stylized as a tea bag. A yellow string connects from the tea bag down to a white teacup below, creating the image of a tea bag being dipped into a cup.
+
+Design Elements:
+- Shape: Typography combined with tea bag and teacup symbols
+- Typography: Simple sans-serif, lowercase letters
+- Color Palette: White, yellow, black
+- Background: Black background
+- Style: Minimalist, creative, symbolic
+- Mood: Friendly, creative, cozy

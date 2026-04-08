@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình lục giác màu trắng với một hình tròn ở trung tâm, đặt trên nền xanh lá cây tươi sáng. Bên dưới biểu tượng là dòng chữ "ĐÒ NGHỀ ĐỨC TOÀN" được viết bằng font chữ in hoa màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác với hình tròn trung tâm, bố cục đối xứng
+- Kiểu chữ: Sans-serif in hoa, đậm, rõ ràng
+- Bảng màu: Xanh lá cây tươi và trắng
+- Nền: Nền xanh lá cây đồng nhất
+- Phong cách: Tối giản, hiện đại, công nghiệp
+- Tông điệu: Chuyên nghiệp, tin cậy, thân thiện với môi trường
+
+---
+
+Visual Description:
+The logo features a white hexagonal icon with a circle in the center, set against a bright green background. Below the symbol is the text "ĐÒ NGHỀ ĐỨC TOÀN" written in white uppercase letters.
+
+Design Elements:
+- Shape: Hexagon with central circle, symmetrical layout
+- Typography: Sans-serif uppercase, bold and clear
+- Color Palette: Fresh green and white
+- Background: Solid green background
+- Style: Minimalist, modern, industrial
+- Mood: Professional, trustworthy, eco-friendly

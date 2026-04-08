@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình oval màu xanh với chữ "GD" được tích hợp bên trong, tạo thành một thiết kế liền mạch. Bên dưới là dòng chữ "GIGA DATA" với màu xanh gradient và dòng phụ đề "LUU TRU TAI NGUYEN SO" màu xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Oval bo tròn với chữ cái "GD" được tích hợp
+- Kiểu chữ: Sans-serif đậm cho "GIGA DATA", font mảnh hơn cho slogan
+- Bảng màu: Gradient xanh dương từ nhạt đến đậm, xám cho text phụ
+- Nền: Trắng sạch
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, tin cậy, công nghệ số
+
+---
+
+Visual Description:
+The logo features a blue oval-shaped icon with integrated "GD" letters forming a seamless design. Below is "GIGA DATA" text in blue gradient colors and a gray subtitle "LUU TRU TAI NGUYEN SO".
+
+Design Elements:
+- Shape: Rounded oval with integrated "GD" letterforms
+- Typography: Bold sans-serif for "GIGA DATA", thinner font for tagline
+- Color Palette: Blue gradient from light to dark, gray for subtitle
+- Background: Clean white
+- Style: Modern, minimalist, tech-focused
+- Mood: Professional, trustworthy, digital technology

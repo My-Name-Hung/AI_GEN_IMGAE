@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo được thiết kế dưới dạng một khối hình tròn vuông màu trắng với các góc bo tròn, được đặt nghiêng trên nền xanh lá cây. Trên bề mặt khối có logo "7UP" với chữ số "7" và "UP" được thiết kế 3D nổi bật, kèm theo một hình oval màu đỏ nằm giữa.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối 3D hình tròn vuông với góc bo tròn, được đặt nghiêng
+- Kiểu chữ: Font chữ sans-serif đậm, có hiệu ứng 3D và đổ bóng
+- Bảng màu: Trắng, xanh lá cây, đỏ, xám bóng
+- Nền: Màu xanh lá cây đậm với gradient
+- Phong cách: 3D, hiện đại, isometric
+- Tông điệu: Năng động, tươi mới, thu hút
+
+---
+
+Visual Description:
+The logo is designed as a white rounded square block with curved corners, positioned at an angle on a green background. The "7UP" logo appears on the block's surface with the number "7" and "UP" rendered in prominent 3D style, accompanied by a red oval shape positioned between them.
+
+Design Elements:
+- Shape: 3D rounded square block with curved corners, positioned at an angle
+- Typography: Bold sans-serif font with 3D effect and shadow
+- Color Palette: White, green, red, gray shadow
+- Background: Deep green with gradient
+- Style: 3D, modern, isometric
+- Mood: Dynamic, fresh, eye-catching

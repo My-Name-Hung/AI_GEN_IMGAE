@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ viết tắt "K/T" được đặt trong một hình tròn mỏng bên trái. Bên phải là dòng text tiếng Việt "Đại học Mở, Trường KẾ toán" được sắp xếp thành hai hàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn chứa chữ viết tắt, kết hợp với text ngang
+- Kiểu chữ: Sans-serif hiện đại, đơn giản và rõ ràng
+- Bảng màu: Trắng trên nền vàng olive/vàng đồng
+- Nền: Màu vàng olive/vàng đồng đồng nhất
+- Phong cách: Tối giản, chuyên nghiệp, giáo dục
+- Tông điệu: Học thuật, tin cậy, nghiêm túc
+
+---
+
+Visual Description:
+The logo displays the initials "K/T" enclosed in a thin circular outline on the left side. To the right is Vietnamese text reading "Đại học Mở, Trường KẾ toán" arranged in two lines.
+
+Design Elements:
+- Shape: Circular emblem containing initials, combined with horizontal text layout
+- Typography: Modern sans-serif, clean and legible
+- Color Palette: White on olive/golden yellow background
+- Background: Solid olive/golden yellow color
+- Style: Minimalist, professional, educational
+- Mood: Academic, trustworthy, serious

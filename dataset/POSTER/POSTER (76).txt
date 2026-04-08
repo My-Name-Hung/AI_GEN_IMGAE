@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một poster quảng cáo giày thể thao với dòng chữ "SNEAKERS" lớn màu trắng nổi bật trên nền đen. Hình ảnh chính là một đôi giày chạy bộ màu trắng và xanh lá được trình bày với góc chụp nghiêng, có các nhãn chỉ dẫn về các tính năng kỹ thuật.
+
+Yếu tố Thiết kế:
+- Hình dạng: Layout poster dọc với typography chính ở phần trên
+- Kiểu chữ: Font sans-serif đậm, hiện đại cho tiêu đề "SNEAKERS"
+- Bảng màu: Đen, trắng và xanh lá cây
+- Nền: Nền đen với hiệu ứng gradient nhẹ
+- Phong cách: Hiện đại, thể thao, marketing sản phẩm
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ cao
+
+---
+
+Visual Description:
+This is a sneaker advertisement poster featuring large white "SNEAKERS" text prominently displayed on a black background. The main image shows a white and green running shoe presented at an angled view with technical feature callouts and labels.
+
+Design Elements:
+- Shape: Vertical poster layout with primary typography at top
+- Typography: Bold, modern sans-serif font for "SNEAKERS" headline
+- Color Palette: Black, white, and green
+- Background: Black background with subtle gradient effects
+- Style: Modern, athletic, product marketing
+- Mood: Professional, dynamic, high-tech

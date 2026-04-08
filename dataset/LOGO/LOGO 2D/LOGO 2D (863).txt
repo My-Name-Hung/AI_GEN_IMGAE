@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "SEAGULL" được viết bằng chữ in hoa đậm, màu đen. Điểm nhấn đặc biệt là chữ "A" được thiết kế với một điểm nhấn màu cam/da cam ở phần đỉnh của ký tự.
+
+Yếu tố Thiết kế:
+- Hình dạng: Kiểu chữ đậm, hiện đại với chữ "A" có điểm nhấn hình học
+- Kiểu chữ: Sans-serif đậm, in hoa, tỷ lệ rộng
+- Bảng màu: Đen chủ đạo với điểm nhấn cam/da cam
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, công nghiệp
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, uy tín
+
+---
+
+Visual Description:
+The logo displays the brand name "SEAGULL" in bold, black uppercase letters. A distinctive feature is the letter "A" which has an orange/amber accent point at the top of the character.
+
+Design Elements:
+- Shape: Bold, modern typography with geometric accent on letter "A"
+- Typography: Bold sans-serif, uppercase, wide proportions
+- Color Palette: Predominantly black with orange/amber accent
+- Background: White/transparent
+- Style: Minimalist, modern, industrial
+- Mood: Strong, professional, authoritative

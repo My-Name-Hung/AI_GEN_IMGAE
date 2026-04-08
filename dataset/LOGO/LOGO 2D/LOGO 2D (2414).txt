@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có nền màu vàng với biểu tượng hình tròn nhỏ màu trắng ở trung tâm, bên trong có hình vương miện. Bên dưới là dòng chữ "Thiên Dương" được viết bằng font chữ nghiêng màu trắng, kèm theo dòng chữ nhỏ hơn "Giao xu" ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật với biểu tượng tròn chứa vương miện ở trên cùng
+- Kiểu chữ: Font chữ nghiêng, thanh lịch, có chân (serif) cho tên chính, font đơn giản cho dòng phụ
+- Bảng màu: Vàng chủ đạo, trắng cho chữ và biểu tượng
+- Nền: Màu vàng đồng nhất
+- Phong cách: Tôn giáo, cổ điển, trang trọng
+- Tông điệu: Thiêng liêng, uy nghi, thanh tịnh
+
+---
+
+Visual Description:
+The logo features a golden background with a small white circular icon at the center containing a crown symbol. Below it is the text "Thiên Dương" written in white italic lettering, with smaller text "Giao xu" underneath.
+
+Design Elements:
+- Shape: Rectangular format with circular crown emblem at top
+- Typography: Elegant italic serif font for main text, simple font for subtitle
+- Color Palette: Golden yellow primary color with white text and icon
+- Background: Solid golden yellow
+- Style: Religious, classical, formal
+- Mood: Sacred, dignified, pure

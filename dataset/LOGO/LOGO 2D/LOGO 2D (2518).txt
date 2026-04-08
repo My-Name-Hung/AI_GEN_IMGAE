@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Giao Hàng Uu Tiên" bằng chữ màu trắng trên nền tím gradient. Bên dưới có dòng text nhỏ hơn và một biểu tượng mặt cười đơn giản ở góc phải dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Text chính với icon mặt cười nhỏ
+- Kiểu chữ: Sans-serif hiện đại, in đậm cho tên chính, font nhỏ hơn cho text phụ
+- Bảng màu: Chữ trắng trên nền tím gradient
+- Nền: Gradient tím từ đậm đến nhạt
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, tích cực
+
+---
+
+Visual Description:
+The logo displays the brand name "Giao Hàng Uu Tiên" in white text on a purple gradient background. Below the main text is smaller descriptive text and a simple smiley face icon in the bottom right corner.
+
+Design Elements:
+- Shape: Text-based logo with small smiley icon
+- Typography: Modern sans-serif, bold for main name, smaller font for subtitle
+- Color Palette: White text on purple gradient background
+- Background: Purple gradient from dark to light
+- Style: Minimalist, modern, friendly
+- Mood: Professional, trustworthy, positive

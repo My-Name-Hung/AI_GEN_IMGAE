@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn với nhiều biểu tượng nhỏ được sắp xếp xung quanh văn bản trung tâm "WEB DE CAPACIDADES ULS". Các biểu tượng bao gồm dấu cộng y tế, bánh răng, mũi tên, hình học và các ký hiệu khoa học được vẽ bằng đường nét trắng mảnh trên nền gradient.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với các biểu tượng line art được phân bố đều
+- Kiểu chữ: Font chữ đậm, in hoa, màu trắng
+- Bảng màu: Gradient từ tím navy đậm đến tím hồng
+- Nền: Gradient tím từ tối đến sáng
+- Phong cách: Hiện đại, tối giản, line art, tech
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo features a circular design with numerous small icons arranged around central text reading "WEB DE CAPACIDADES ULS". The icons include medical crosses, gears, arrows, geometric shapes, and scientific symbols drawn in thin white lines against a gradient background.
+
+Design Elements:
+- Shape: Circular composition with evenly distributed line art icons
+- Typography: Bold, uppercase, white font
+- Color Palette: Gradient from deep navy purple to magenta pink
+- Background: Purple gradient from dark to light
+- Style: Modern, minimalist, line art, tech-inspired
+- Mood: Professional, innovative, dynamic

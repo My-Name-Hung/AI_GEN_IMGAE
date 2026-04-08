@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Nza" được đặt trong một hình oval màu xanh lá cây với viền vàng cam. Có một chiếc lá nhỏ màu cam được đặt trên chữ "a" và các hiệu ứng ánh sáng lấp lánh xung quanh logo.
+
+Yếu tố Thiết kế:
+- Hình dạng: Oval/ellipse với đường viền cong mềm mại
+- Kiểu chữ: Script/thảo viết nghiêng, chữ viết tay hiện đại
+- Bảng màu: Xanh lá cây, vàng cam, trắng với gradient
+- Nền: Gradient xanh lá từ đậm đến sáng với hiệu ứng tỏa sáng
+- Phong cách: Hiện đại, tự nhiên, glossy/bóng loáng
+- Tông điệu: Tươi mới, thân thiện, tự nhiên, năng động
+
+---
+
+Visual Description:
+The logo displays the name "Nza" placed within a green oval shape with an orange-yellow border. A small orange leaf is positioned above the letter "a" and sparkling light effects surround the logo.
+
+Design Elements:
+- Shape: Oval/ellipse with smooth curved borders
+- Typography: Script/cursive italic, modern handwritten style
+- Color Palette: Green, orange-yellow, white with gradients
+- Background: Green gradient from dark to light with radial glow effect
+- Style: Modern, natural, glossy/shiny
+- Mood: Fresh, friendly, natural, energetic

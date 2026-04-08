@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một chiếc đèn pin màu đen được đặt trên nền hình tròn màu đỏ hồng. Bên dưới là tên thương hiệu "VĨNH LONG" bằng chữ đen đậm và dòng slogan "CÔNG ĐỒNG THỂ THAO" bằng chữ nhỏ màu hồng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn kết hợp với biểu tượng đèn pin stylized
+- Kiểu chữ: Chữ sans-serif đậm cho tên thương hiệu, chữ mảnh hơn cho slogan
+- Bảng màu: Đỏ hồng, đen, trắng
+- Nền: Nền trắng sạch
+- Phong cách: Hiện đại, tối giản, biểu tượng rõ ràng
+- Tông điệu: Năng động, chuyên nghiệp, thể thao
+
+---
+
+Visual Description:
+The logo features a black flashlight icon positioned on a pink-red circular background. Below the icon is the brand name "VĨNH LONG" in bold black letters, followed by the tagline "CÔNG ĐỒNG THỂ THAO" in smaller pink text.
+
+Design Elements:
+- Shape: Circular background with stylized flashlight symbol
+- Typography: Bold sans-serif for brand name, thinner weight for tagline
+- Color Palette: Pink-red, black, white
+- Background: Clean white background
+- Style: Modern, minimalist, clear iconography
+- Mood: Dynamic, professional, athletic

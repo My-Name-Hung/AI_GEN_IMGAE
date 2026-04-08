@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "goodmo" bằng chữ màu trắng với một hình tròn màu vàng thay thế cho chữ "o" đầu tiên. Bên dưới có từ "CLUB" được viết bằng chữ màu tím nhạt, tất cả được đặt trên nền tím đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng hàng với điểm nhấn hình tròn màu vàng
+- Kiểu chữ: Sans-serif hiện đại, chữ thường cho "goodmo", chữ hoa cho "CLUB"
+- Bảng màu: Tím đậm, trắng, vàng, và tím nhạt
+- Nền: Tím gradient từ đậm đến sáng
+- Phong cách: Hiện đại, tối giản, thân thiện
+- Tông điệu: Tích cực, năng động, dễ tiếp cận
+
+---
+
+Visual Description:
+The logo displays the word "goodmo" in white text with a bright yellow circle replacing the first "o". Below it, the word "CLUB" appears in lighter purple text, all set against a deep purple background.
+
+Design Elements:
+- Shape: Linear text layout with circular yellow accent
+- Typography: Modern sans-serif, lowercase for "goodmo", uppercase for "CLUB"
+- Color Palette: Deep purple, white, bright yellow, and light purple
+- Background: Purple gradient from dark to light
+- Style: Modern, minimalist, friendly
+- Mood: Positive, energetic, accessible

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "SELTOS" được viết bằng chữ in hoa với kiểu chữ đậm, hiện đại. Bên dưới có dòng chữ nhỏ "KITCHENWARE" để làm rõ lĩnh vực hoạt động của thương hiệu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng hàng, cân đối với khoảng cách đều giữa các ký tự
+- Kiểu chữ: Sans-serif đậm, hiện đại, góc cạnh rõ ràng
+- Bảng màu: Đen trên nền trắng (đơn sắc)
+- Nền: Trắng, sạch sẽ
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Mạnh mẽ, tin cậy, sang trọng
+
+---
+
+Visual Description:
+The logo displays the brand name "SELTOS" in bold, uppercase letters with a modern typeface. Below it features smaller text reading "KITCHENWARE" to clarify the brand's business sector.
+
+Design Elements:
+- Shape: Straight aligned text with consistent spacing between characters
+- Typography: Bold sans-serif, modern, with sharp angular features
+- Color Palette: Black on white (monochromatic)
+- Background: White, clean
+- Style: Minimalist, professional, modern
+- Mood: Strong, trustworthy, sophisticated

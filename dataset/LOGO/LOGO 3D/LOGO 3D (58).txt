@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình khối 3D màu trắng với các góc bo tròn, chứa biểu tượng của chữ "N" màu đen được đặt trong một khung hình vuông có viền đen. Toàn bộ logo có hiệu ứng đổ bóng tạo chiều sâu và được đặt trên nền xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông 3D bo góc với icon chữ N trong khung vuông
+- Kiểu chữ: Sans-serif đậm, hiện đại
+- Bảng màu: Trắng, đen, xám
+- Nền: Xám gradient với đổ bóng
+- Phong cách: 3D, tối giản, hiện đại, app icon
+- Tông điệu: Chuyên nghiệp, rõ ràng, công nghệ
+
+---
+
+Visual Description:
+The logo displays a white 3D rounded square block containing a black letter "N" icon set within a black-bordered square frame. The entire logo features shadow effects for depth and is positioned on a gray background.
+
+Design Elements:
+- Shape: 3D rounded cube with N letter icon in square frame
+- Typography: Bold sans-serif, modern
+- Color Palette: White, black, gray
+- Background: Gray gradient with drop shadow
+- Style: 3D, minimalist, modern, app icon
+- Mood: Professional, clear, technological

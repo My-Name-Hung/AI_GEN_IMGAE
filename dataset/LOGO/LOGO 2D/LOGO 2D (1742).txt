@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một cây đàn guitar điện được cách điệu với các yếu tố biển như sóng nước cuộn tròn ở phần thân đàn. Bên cạnh là dòng chữ "SEA LEVEL" với tagline "Music and Arts Festival" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Guitar điện được thiết kế với đường cong mềm mại kết hợp hình ảnh sóng biển
+- Kiểu chữ: Sans-serif đậm, hiện đại cho "SEA LEVEL", chữ nhỏ hơn cho tagline
+- Bảng màu: Gradient từ xanh dương đến tím, icon màu trắng
+- Nền: Gradient chuyển màu từ xanh dương sang tím
+- Phong cách: Hiện đại, tối giản, biểu tượng hóa
+- Tông điệu: Năng động, sôi nổi, âm nhạc
+
+---
+
+Visual Description:
+The logo features a stylized electric guitar with decorative wave elements curling within the guitar body, creating a sea-themed musical instrument. The text "SEA LEVEL" appears alongside with "Music and Arts Festival" as a tagline below.
+
+Design Elements:
+- Shape: Electric guitar with flowing curves incorporating ocean wave motifs
+- Typography: Bold, modern sans-serif for "SEA LEVEL", smaller text for tagline
+- Color Palette: Blue to purple gradient background with white iconography
+- Background: Smooth gradient transition from blue to purple
+- Style: Modern, minimalist, symbolic
+- Mood: Energetic, vibrant, musical

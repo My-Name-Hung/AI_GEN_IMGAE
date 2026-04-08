@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là thiết kế poster menu thức ăn với tiêu đề "Delicious Food Menu" được đặt ở phía trên. Hình ảnh chính là một đĩa thức ăn tròn chứa các món ăn đầy màu sắc như rau xanh, cà chua và các thành phần khác, được đặt trên một nét vẽ màu xanh lá cây có phong cách brush stroke.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục dọc với đĩa tròn làm trung tâm, có các lá nhỏ trang trí ở góc
+- Kiểu chữ: Font chữ script cho "Delicious", font sans-serif đậm cho "Food Menu"
+- Bảng màu: Xanh lá cây, kem, trắng với các màu thực phẩm tự nhiên
+- Nền: Màu kem/be nhạt
+- Phong cách: Tự nhiên, organic, hiện đại, minimalist
+- Tông điệu: Tươi mới, khỏe mạnh, hấp dẫn
+
+---
+
+Visual Description:
+This is a food menu poster design featuring the title "Delicious Food Menu" at the top. The main image shows a circular plate containing colorful food items like greens, tomatoes, and other ingredients, placed over a green brushstroke design element.
+
+Design Elements:
+- Shape: Vertical layout with circular plate as centerpiece, small leaf decorations in corners
+- Typography: Script font for "Delicious", bold sans-serif for "Food Menu"
+- Color Palette: Green, cream, white with natural food colors
+- Background: Light cream/beige
+- Style: Natural, organic, modern, minimalist
+- Mood: Fresh, healthy, appetizing

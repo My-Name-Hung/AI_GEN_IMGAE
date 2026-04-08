@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "eat" được viết bằng chữ thảo màu cam/đỏ cam với đường cong mềm mại và nét vẽ tự nhiên. Bên dưới có dòng chữ "Any Time" được viết bằng font chữ đơn giản, cùng với ký hiệu trademark "TM" ở góc trên bên phải.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết tay với đường nét cong, có đường gạch dưới trang trí
+- Kiểu chữ: Chữ thảo cho "eat", sans-serif đơn giản cho "Any Time"
+- Bảng màu: Cam đỏ (coral/orange-red)
+- Nền: Trắng/trong suốt
+- Phong cách: Thân thiện, viết tay, tối giản
+- Tông điệu: Ấm áp, gần gũi, năng động
+
+---
+
+Visual Description:
+The logo features the word "eat" written in a warm coral/orange script font with flowing, handwritten-style curves. Below it, "Any Time" appears in a simple sans-serif font, with a "TM" trademark symbol positioned in the upper right corner.
+
+Design Elements:
+- Shape: Handwritten script lettering with curved flourish underline
+- Typography: Script font for "eat", simple sans-serif for "Any Time"
+- Color Palette: Coral/orange-red
+- Background: White/transparent
+- Style: Friendly, handwritten, minimalist
+- Mood: Warm, approachable, energetic

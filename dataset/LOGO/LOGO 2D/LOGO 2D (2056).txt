@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng lá cây cách điệu màu hồng rực rỡ ở phía trên, với các lá được sắp xếp đối xứng tạo thành hình dạng như cánh hoa. Bên dưới là tên thương hiệu "AN NHIÊN SPA" được viết bằng chữ in hoa màu tím nhạt, kèm theo dòng chữ nhỏ "Từ năm 2003".
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng lá cây cách điệu đối xứng, bố cục dọc
+- Kiểu chữ: Chữ sans-serif in hoa, đơn giản và thanh lịch
+- Bảng màu: Hồng magenta cho biểu tượng, tím nhạt cho văn bản
+- Nền: Trắng hoặc trong suốt
+- Phong cách: Tối giản, thiên nhiên, thanh lịch
+- Tông điệu: Thư giãn, yên bình, nữ tính
+
+---
+
+Visual Description:
+The logo features a stylized pink leaf icon at the top, with symmetrically arranged leaves forming a flower-like pattern. Below is the brand name "AN NHIÊN SPA" written in light purple uppercase letters, accompanied by the small text "Từ năm 2003" (Since 2003).
+
+Design Elements:
+- Shape: Symmetrical stylized leaf icon, vertical layout
+- Typography: Simple, elegant sans-serif uppercase font
+- Color Palette: Magenta pink for icon, light purple for text
+- Background: White or transparent
+- Style: Minimalist, natural, elegant
+- Mood: Relaxing, peaceful, feminine

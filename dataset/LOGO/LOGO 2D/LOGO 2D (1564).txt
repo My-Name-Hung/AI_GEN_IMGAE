@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình lá cần sa phong cách hóa với các đường vân chi tiết bên trong. Lá được tô màu gradient từ vàng đến cam và đỏ, tạo cảm giác mùa thu, với văn bản "AUTUMN..." màu đen đặt bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lá cần sa 7 cánh với đường viền đen và vân lá chi tiết
+- Kiểu chữ: Sans-serif đậm, chữ in hoa
+- Bảng màu: Gradient vàng-cam-đỏ trên nền xanh nhạt
+- Nền: Màu xanh mint/xám nhạt
+- Phong cách: Minh họa vector, phong cách retro
+- Tông điệu: Ấm áp, mùa thu, tự nhiên
+
+---
+
+Visual Description:
+The logo features a stylized cannabis leaf with detailed vein lines inside. The leaf displays a gradient coloring from yellow to orange to red, creating an autumn feel, with black "AUTUMN..." text positioned below.
+
+Design Elements:
+- Shape: 7-pointed cannabis leaf with black outline and detailed leaf veins
+- Typography: Bold sans-serif, uppercase lettering
+- Color Palette: Yellow-orange-red gradient on light blue background
+- Background: Light mint/pale gray color
+- Style: Vector illustration, retro aesthetic
+- Mood: Warm, autumnal, natural

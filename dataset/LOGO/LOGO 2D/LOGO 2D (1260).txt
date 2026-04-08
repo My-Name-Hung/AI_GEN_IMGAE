@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng răng được cách điệu với đường nét đơn giản, được đặt trên nền đen. Bên dưới biểu tượng răng là tên thương hiệu "DENTIWA" được viết bằng chữ in hoa màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng răng đơn giản với đường viền mượt mà
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa, khoảng cách đều
+- Bảng màu: Trắng và đen (tương phản cao)
+- Nền: Nền đen đồng nhất
+- Phong cách: Tối giản, hiện đại, y tế
+- Tông điệu: Chuyên nghiệp, sạch sẽ, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a stylized tooth icon with clean, simple lines positioned above the brand name on a black background. Below the tooth symbol, the brand name "DENTIWA" is displayed in white uppercase letters.
+
+Design Elements:
+- Shape: Simple tooth icon with smooth outline
+- Typography: Modern sans-serif, uppercase letters, evenly spaced
+- Color Palette: White and black (high contrast)
+- Background: Solid black background
+- Style: Minimalist, modern, medical
+- Mood: Professional, clean, trustworthy

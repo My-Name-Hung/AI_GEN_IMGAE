@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với nốt nhạc đen làm trung tâm, được bao quanh bởi dòng chữ cong "NHẠC VIỆN ÂM NHẠC HÀ NỘI" phía trên. Phía dưới có dòng chữ "Dương Cầm" làm tên chính, kèm các thông tin "10 NĂM" và "1957" ở hai bên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Nốt nhạc đen đơn giản, bố cục tròn cân đối
+- Kiểu chữ: Font chữ serif cổ điển cho tên chính, sans-serif cho thông tin phụ
+- Bảng màu: Đen trắng tối giản
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, cổ điển, học thuật
+- Tông điệu: Trang trọng, nghệ thuật, truyền thống
+
+---
+
+Visual Description:
+The logo features a simple black musical note at the center, surrounded by curved text "NHẠC VIỆN ÂM NHẠC HÀ NỘI" at the top. Below the note is "Dương Cầm" as the main text, with "10 NĂM" and "1957" flanking it on either side.
+
+Design Elements:
+- Shape: Simple black musical note, balanced circular layout
+- Typography: Classic serif font for main name, sans-serif for supplementary information
+- Color Palette: Minimalist black and white
+- Background: Clean white background
+- Style: Minimalist, classic, academic
+- Mood: Formal, artistic, traditional

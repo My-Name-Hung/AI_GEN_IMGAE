@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hai chữ cái "J" và "P" được thiết kế theo phong cách hiện đại với hiệu ứng gradient rực rỡ. Các chữ cái có hình dạng bo tròn mềm mại và được kết hợp chồng lấp một cách sáng tạo.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai chữ cái viết hoa J và P bo góc tròn, có độ dày đồng đều
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ xanh lá cây sang tím và hồng tím
+- Nền: Nền xanh navy đậm
+- Phong cách: Hiện đại, gradient, tối giản, 3D nhẹ
+- Tông điệu: Sáng tạo, công nghệ, năng động, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays two letters "J" and "P" designed in a modern style with vibrant gradient effects. The letters have soft rounded shapes and are creatively overlapped and interconnected.
+
+Design Elements:
+- Shape: Two uppercase letters J and P with rounded corners and consistent stroke weight
+- Typography: None (icon only)
+- Color Palette: Gradient from cyan to purple and magenta
+- Background: Deep navy blue background
+- Style: Modern, gradient, minimalist, subtle 3D
+- Mood: Creative, technological, dynamic, professional

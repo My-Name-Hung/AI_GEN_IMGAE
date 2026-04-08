@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình chữ nhật với hai phần màu riêng biệt. Phần trên màu xanh ngọc chứa tên "NGUYỄN THIỆN THẠNH" bằng chữ in hoa màu trắng, phần dưới màu hồng san hô có dòng chữ "BẦU CHỦ TỊCH TỈNH 2020" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật phân đôi theo chiều ngang
+- Kiểu chữ: Sans-serif in hoa, bold, có dấu tiếng Việt
+- Bảng màu: Xanh ngọc (turquoise), hồng san hô, trắng
+- Nền: Hai màu block rõ ràng, không gradient
+- Phong cách: Đơn giản, hiện đại, political branding
+- Tông điệu: Chuyên nghiệp, uy tín, dễ tiếp cận
+
+---
+
+Visual Description:
+The logo features a rectangular design divided into two distinct color sections. The top turquoise section displays "NGUYỄN THIỆN THẠNH" in white capital letters, while the bottom coral pink section contains the smaller text "BẦU CHỦ TỊCH TỈNH 2020".
+
+Design Elements:
+- Shape: Horizontal rectangular block divided into two sections
+- Typography: Sans-serif capital letters, bold weight, with Vietnamese diacritical marks
+- Color Palette: Turquoise, coral pink, white
+- Background: Clean two-tone color blocks without gradients
+- Style: Simple, modern, political campaign branding
+- Mood: Professional, trustworthy, accessible

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng khiên với các chữ cái "KW" được tạo thành từ các đường cắt âm bên trong. Thiết kế sử dụng hiệu ứng gradient từ đỏ đậm chuyển sang cam nhạt, tạo cảm giác chiều sâu 3D.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình khiên với các chữ cái "KW" được cắt âm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient đỏ đậm đến cam nhạt
+- Nền: Trong suốt
+- Phong cách: Hiện đại, 3D, tối giản
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo features a shield-shaped design with the letters "KW" created through negative space cutouts within the shield. The design uses a gradient effect transitioning from deep red to light orange, creating a 3D dimensional appearance.
+
+Design Elements:
+- Shape: Shield with negative space letters "KW"
+- Typography: None (icon only)
+- Color Palette: Deep red to light orange gradient
+- Background: Transparent
+- Style: Modern, 3D, minimalist
+- Mood: Strong, professional, dynamic

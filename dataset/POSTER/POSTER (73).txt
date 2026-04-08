@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo Invoke được thiết kế với biểu tượng ngôi nhà đơn giản bên trái và tên thương hiệu "Invoke" bằng chữ hiện đại, sạch sẽ. Logo xuất hiện trên nền tối của một poster quảng cáo sản phẩm gạch lát.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng ngôi nhà hình học đơn giản kết hợp với typography ngang
+- Kiểu chữ: Font chữ không chân (sans-serif) hiện đại, in hoa, đậm
+- Bảng màu: Trắng trên nền xanh đen/xám tối
+- Nền: Nền gradient tối từ xanh đen sang xám
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sang trọng, đáng tin cậy, tinh tế
+
+---
+
+Visual Description:
+The Invoke logo features a simple house icon on the left paired with the brand name "Invoke" in clean, modern typography. The logo appears in white against the dark background of a flooring product advertisement.
+
+Design Elements:
+- Shape: Simple geometric house symbol combined with horizontal typography
+- Typography: Modern sans-serif font, uppercase, bold weight
+- Color Palette: White on dark blue-gray/charcoal background
+- Background: Dark gradient from blue-black to gray
+- Style: Minimalist, contemporary, professional
+- Mood: Sophisticated, trustworthy, refined

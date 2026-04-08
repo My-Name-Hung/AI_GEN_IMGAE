@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình chữ "D" được tạo thành từ gradient màu tím từ đậm đến sáng. Bên trong chữ "D" có ba hình chữ nhật màu trắng được sắp xếp theo chiều dọc, tạo thành hình dạng giống như các thanh ngang của chữ "E".
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ "D" bo tròn với các thanh ngang bên trong
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient tím từ tím đậm đến tím sáng, các element màu trắng
+- Nền: Trong suốt
+- Phong cách: Hiện đại, tối giản, gradient
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo features a "D" shape created with a purple gradient from dark to light. Inside the "D" are three white rectangular bars arranged vertically, resembling the horizontal strokes of the letter "E".
+
+Design Elements:
+- Shape: Rounded "D" with internal horizontal bars
+- Typography: None (icon only)
+- Color Palette: Purple gradient from dark to light purple, white elements
+- Background: Transparent
+- Style: Modern, minimalist, gradient
+- Mood: Professional, dynamic, tech-forward

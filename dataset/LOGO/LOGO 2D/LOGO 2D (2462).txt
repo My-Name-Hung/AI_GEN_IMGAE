@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế tối giản với chữ "NHÂN BÙI" được viết bằng font chữ không chân màu trắng trên nền nâu. Bên dưới có một khung hình chữ nhật màu trắng chứa dòng chữ "NGHỆ NHÂN CÀ PHÊ" màu nâu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục hình chữ nhật đơn giản, có khung chữ nhật nổi bật
+- Kiểu chữ: Font sans-serif hiện đại, đơn giản, chữ hoa và chữ thường
+- Bảng màu: Nâu đất (nền) và trắng tương phản
+- Nền: Màu nâu đất đồng nhất
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Ấm áp, chuyên nghiệp, sang trọng
+
+---
+
+Visual Description:
+The logo features a minimalist design with "NHÂN BÙI" written in white sans-serif typography on a brown background. Below it is a white rectangular banner containing "NGHỆ NHÂN CÀ PHÊ" in brown text.
+
+Design Elements:
+- Shape: Simple rectangular layout with prominent rectangular banner
+- Typography: Modern sans-serif font, clean and simple, uppercase and lowercase
+- Color Palette: Earthy brown background with white contrast
+- Background: Solid earthy brown
+- Style: Minimalist, modern, elegant
+- Mood: Warm, professional, sophisticated

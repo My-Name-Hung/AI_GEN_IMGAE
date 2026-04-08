@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một hình tam giác màu cam với chữ "A" màu trắng bên trong. Phía dưới là dòng chữ "ÁI HUỆ" được viết bằng font chữ đen in hoa.
+
+Yếu tố Thiết kế:
+- Hình dạng: Tam giác đều với chữ cái A ở trung tâm
+- Kiểu chữ: Font sans-serif đậm, in hoa
+- Bảng màu: Cam gradient (từ cam đỏ đến cam sáng), đen, trắng
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Năng động, chuyên nghiệp, ấm áp
+
+---
+
+Visual Description:
+The logo features an orange triangular shape with a white letter "A" inside. Below it is the text "ÁI HUỆ" written in bold black uppercase letters.
+
+Design Elements:
+- Shape: Equilateral triangle with centered letter A
+- Typography: Bold sans-serif, uppercase
+- Color Palette: Orange gradient (orange-red to bright orange), black, white
+- Background: White/transparent
+- Style: Modern, minimalist, geometric
+- Mood: Dynamic, professional, warm

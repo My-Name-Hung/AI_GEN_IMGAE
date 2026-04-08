@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Lallamotion" được viết bằng chữ thảo màu nâu đậm, kèm theo tagline tiếng Việt bên dưới. Phía trên có hai chiếc lá nhỏ màu xám nhạt được vẽ một cách tinh tế và tối giản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Kiểu chữ thảo kết hợp với icon lá đơn giản
+- Kiểu chữ: Chữ thảo cursive thanh lịch cho tên chính, chữ sans-serif nhỏ cho tagline
+- Bảng màu: Nâu đậm và xám nhạt
+- Nền: Nền màu be/kem nhạt
+- Phong cách: Tối giản, thanh lịch, tự nhiên
+- Tông điệu: Nhẹ nhàng, tinh tế, thân thiện
+
+---
+
+Visual Description:
+The logo displays the brand name "Lallamotion" written in elegant brown cursive script with a Vietnamese tagline below. Above the text are two delicate, minimalist gray leaves that add a natural touch to the design.
+
+Design Elements:
+- Shape: Cursive script combined with simple leaf icons
+- Typography: Elegant cursive script for main name, small sans-serif for tagline
+- Color Palette: Deep brown and light gray
+- Background: Light beige/cream background
+- Style: Minimalist, elegant, natural
+- Mood: Gentle, refined, friendly

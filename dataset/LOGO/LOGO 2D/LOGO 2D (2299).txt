@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "PHẠM BÌNH MINH" bằng chữ in hoa màu xanh navy đậm, được sắp xếp thành hai dòng. Bên dưới có một đường gạch ngang màu đỏ và dòng chữ "Phó Thủ Tướng" nhỏ hơn màu xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật đơn giản với các dòng text được căn giữa
+- Kiểu chữ: Font chữ serif truyền thống, in hoa cho tên chính, viết thường cho chức danh
+- Bảng màu: Xanh navy, đỏ và xám trên nền trắng
+- Nền: Nền trắng sạch
+- Phong cách: Chính thức, truyền thống, tối giản
+- Tông điệu: Trang trọng, uy quyền, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the name "PHẠM BÌNH MINH" in bold navy blue capital letters arranged in two lines. Below is a red horizontal line and smaller gray text reading "Phó Thủ Tướng" (Deputy Prime Minister).
+
+Design Elements:
+- Shape: Simple rectangular layout with centered text alignment
+- Typography: Traditional serif font, capitals for main name, lowercase for title
+- Color Palette: Navy blue, red, and gray on white background
+- Background: Clean white background
+- Style: Formal, traditional, minimalist
+- Mood: Dignified, authoritative, professional

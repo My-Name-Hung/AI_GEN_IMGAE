@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản tiếng Việt "PHẪN ĐẤU ĐẸP KHỎE" bằng chữ trắng in hoa làm dòng chính. Bên dưới có dòng phụ "PHÒNG TẬP 24 GIỜ" được viết bằng chữ xanh dương nhỏ hơn trên nền đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục văn bản phân tầng với dòng chính và dòng phụ
+- Kiểu chữ: Sans-serif đậm, in hoa cho dòng chính; chữ nhỏ hơn cho dòng phụ
+- Bảng màu: Trắng và xanh dương trên nền đen
+- Nền: Đen đồng nhất
+- Phong cách: Tối giản, hiện đại, typography
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo displays Vietnamese text "PHẪN ĐẤU ĐẸP KHỎE" in white capital letters as the main line. Below it, there's a smaller blue subtitle "PHÒNG TẬP 24 GIỜ" set against a black background.
+
+Design Elements:
+- Shape: Hierarchical text layout with main heading and subtitle
+- Typography: Bold sans-serif capitals for main text; smaller text for subtitle
+- Color Palette: White and blue on black background
+- Background: Solid black
+- Style: Minimalist, modern, typography-focused
+- Mood: Strong, professional, energetic

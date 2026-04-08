@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "havlo" được viết bằng font chữ đơn giản, màu trắng. Phía trước chữ "havlo" là một biểu tượng hình học gồm hai thanh màu xanh dương và vàng cam xếp chồng lên nhau tạo thành hình chữ nhật nghiêng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học gồm hai thanh chữ nhật nghiêng chồng lên nhau
+- Kiểu chữ: Sans-serif đơn giản, in thường, font tròn
+- Bảng màu: Xanh dương, vàng cam, trắng
+- Nền: Tím đậm gradient
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Năng động, sáng tạo, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the text "havlo" written in simple white typography. In front of the "havlo" text is a geometric icon consisting of two overlapping rectangular bars in cyan blue and orange-yellow that form an angled rectangular shape.
+
+Design Elements:
+- Shape: Geometric icon with two overlapping angled rectangular bars
+- Typography: Simple sans-serif, lowercase, rounded font
+- Color Palette: Cyan blue, orange-yellow, white
+- Background: Deep purple gradient
+- Style: Modern, minimalist, tech-oriented
+- Mood: Dynamic, creative, professional

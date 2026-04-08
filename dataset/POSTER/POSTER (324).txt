@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một thiết kế quảng cáo sản phẩm cho một thiết bị nhà bếp thông minh. Hình ảnh chính là một nồi điện có màn hình hiển thị LED, được đặt trên bàn bếp màu trắng trong không gian bếp hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Layout dọc với sản phẩm trung tâm và các biểu tượng tính năng xung quanh
+- Kiểu chữ: Font sans-serif đậm cho tiêu đề "NEW KITCHEN GADGET", font nhỏ hơn cho mô tả tính năng
+- Bảng màu: Chủ yếu trắng, đen, xám với điểm nhấn vàng/cam từ sản phẩm
+- Nền: Không gian bếp trắng sạch sẽ, tối giản
+- Phong cách: Hiện đại, tối giản, công nghệ cao
+- Tông điệu: Chuyên nghiệp, sạch sẽ, đáng tin cậy
+
+---
+
+Visual Description:
+This is a product advertisement design for a smart kitchen appliance. The main image features an electric pot with LED display, placed on a white kitchen counter in a modern kitchen setting.
+
+Design Elements:
+- Shape: Vertical layout with centered product and surrounding feature icons
+- Typography: Bold sans-serif for "NEW KITCHEN GADGET" headline, smaller fonts for feature descriptions
+- Color Palette: Predominantly white, black, and gray with yellow/orange accents from the product
+- Background: Clean white kitchen space, minimalist
+- Style: Modern, minimalist, high-tech
+- Mood: Professional, clean, trustworthy

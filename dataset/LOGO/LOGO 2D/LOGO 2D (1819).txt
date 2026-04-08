@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm hai hình tròn gradient chồng lên nhau và một thanh chữ nhật dọc. Hình tròn trên có màu xanh dương, hình tròn dưới có màu từ xanh ngọc đến xanh lá, và thanh dọc có màu tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình tròn gradient chồng lấp và một thanh chữ nhật dọc
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương, xanh ngọc, xanh lá và tím với hiệu ứng gradient
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, gradient
+- Tông điệu: Năng động, công nghệ, sáng tạo
+
+---
+
+Visual Description:
+The logo features two overlapping gradient circles and a vertical rectangular bar. The upper circle is blue, the lower circle transitions from teal to green, and the vertical bar is purple.
+
+Design Elements:
+- Shape: Two overlapping gradient circles with a vertical rectangular bar
+- Typography: None (icon only)
+- Color Palette: Blue, teal, green, and purple with gradient effects
+- Background: White/transparent
+- Style: Modern, minimalist, gradient
+- Mood: Dynamic, technological, creative

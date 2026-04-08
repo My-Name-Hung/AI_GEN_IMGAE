@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng chữ "M" được cách điệu thành hình khối 3D với các mặt phẳng góc cạnh. Bên dưới là tên thương hiệu "MINH LONG" với slogan "BẤT ĐỘNG SẢN" được sắp xếp theo cấu trúc phân tầng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ M hình học, khối 3D với các mặt phẳng và góc sắc nét
+- Kiểu chữ: Sans-serif đậm, in hoa, khoảng cách chữ rộng
+- Bảng màu: Nâu đất, be nhạt
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Chuyên nghiệp, ổn định, sang trọng
+
+---
+
+Visual Description:
+The logo features a stylized letter "M" rendered as a 3D geometric form with angular facets and clean lines. Below it, the brand name "MINH LONG" appears with the tagline "BẤT ĐỘNG SẢN" arranged in a hierarchical layout.
+
+Design Elements:
+- Shape: Geometric M letterform, 3D block with angular facets and sharp edges
+- Typography: Bold sans-serif, uppercase, wide letter spacing
+- Color Palette: Earth brown, light beige
+- Background: White/transparent
+- Style: Modern, minimalist, geometric
+- Mood: Professional, stable, sophisticated

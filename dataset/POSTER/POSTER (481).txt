@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một banner quảng cáo salad với thiết kế hiện đại, bao gồm tiêu đề "Fresh & Healthy SALAD" ở trên cùng. Banner hiển thị ba món salad khác nhau với giá cả và tên gọi, được bố trí trên nền gradient màu xanh lá cây.
+
+Yếu tố Thiết kế:
+- Hình dạng: Banner dọc với bố cục nhiều tầng, có các hình tròn chứa hình ảnh salad
+- Kiểu chữ: Font chữ in hoa đậm cho tiêu đề chính, font sans-serif cho các thông tin khác
+- Bảng màu: Gradient xanh lá cây từ nhạt đến đậm, màu trắng, màu be nhạt
+- Nền: Gradient màu xanh lá cây với các yếu tố trang trí lá cây ở góc
+- Phong cách: Hiện đại, sạch sẽ, thân thiện với môi trường
+- Tông điệu: Tươi mới, khỏe mạnh, hấp dẫn
+
+---
+
+Visual Description:
+This is a salad advertisement banner with a modern design, featuring the headline "Fresh & Healthy SALAD" at the top. The banner displays three different salad dishes with prices and names, arranged on a green gradient background.
+
+Design Elements:
+- Shape: Vertical banner with multi-layered layout, featuring circular frames containing salad images
+- Typography: Bold uppercase font for main headline, sans-serif font for other information
+- Color Palette: Green gradient from light to dark, white, light beige
+- Background: Green gradient with decorative leaf elements in corners
+- Style: Modern, clean, eco-friendly
+- Mood: Fresh, healthy, appetizing

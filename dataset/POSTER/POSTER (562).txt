@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một chiếc drone FPV màu đen với thiết kế hiện đại, có bốn cánh quạt và camera gắn phía trước. Drone được thể hiện trong tư thế bay động với góc nhìn 3/4, tạo cảm giác chuyển động và công nghệ tiên tiến.
+
+Yếu tố Thiết kế:
+- Hình dạng: Drone quadcopter với khung hình tròn, cánh quạt bảo vệ và camera gimbal
+- Kiểu chữ: Font sans-serif hiện đại, in hoa cho "DJI AVATA 2"
+- Bảng màu: Đen chủ đạo cho drone, nền trắng/xám nhạt
+- Nền: Nền gradient từ trắng đến xám nhạt, tối giản
+- Phong cách: Hiện đại, công nghệ, tối giản, thực tế
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ cao
+
+---
+
+Visual Description:
+The logo displays a black FPV drone with a modern design, featuring four propellers and a front-mounted camera. The drone is shown in a dynamic flying position from a 3/4 angle view, creating a sense of movement and advanced technology.
+
+Design Elements:
+- Shape: Quadcopter drone with circular frame, propeller guards, and gimbal camera
+- Typography: Modern sans-serif font, uppercase for "DJI AVATA 2"
+- Color Palette: Predominantly black for drone, white/light gray background
+- Background: White to light gray gradient, minimalist
+- Style: Modern, technological, minimalist, realistic
+- Mood: Professional, dynamic, high-tech

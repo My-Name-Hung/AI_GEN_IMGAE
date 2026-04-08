@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Nông Trại" được viết bằng phông chữ tay nghệ thuật màu trắng trên nền xanh lá cây. Hai cành lá stylized được đặt ở phía trên và dưới của văn bản, tạo thành khung trang trí. Dòng chữ phụ "THỰC PHẨM CHAY" xuất hiện ở giữa với kích thước nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo chữ nhật với các cành lá trang trí đối xứng
+- Kiểu chữ: Chữ viết tay nghệ thuật cho tên chính, chữ in hoa đơn giản cho tagline
+- Bảng màu: Xanh lá cây và trắng
+- Nền: Màu xanh lá cây đồng nhất
+- Phong cách: Tự nhiên, hữu cơ, thủ công
+- Tông điệu: Thân thiện, tươi mát, gần gũi với thiên nhiên
+
+---
+
+Visual Description:
+The logo displays the brand name "Nông Trại" written in white artistic handwriting on a green background. Two stylized leaf branches are positioned above and below the text, creating decorative framing. The tagline "THỰC PHẨM CHAY" appears in the middle in smaller text.
+
+Design Elements:
+- Shape: Rectangular logo with symmetrical decorative leaf branches
+- Typography: Artistic handwritten font for main name, simple uppercase for tagline
+- Color Palette: Green and white
+- Background: Solid green color
+- Style: Natural, organic, handcrafted
+- Mood: Friendly, fresh, nature-connected

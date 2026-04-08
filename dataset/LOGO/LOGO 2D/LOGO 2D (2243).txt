@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng cây cách điệu với ba lá màu vàng trên thân cây đen, được đặt phía trên dòng chữ "CÔNG TY VƯỜN QUÊ". Bên dưới có dòng chữ nhỏ "TỪ NĂM 1950" màu xám, tất cả được bố trí trên nền trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng cây đơn giản với ba lá tròn và thân thẳng
+- Kiểu chữ: Font chữ sans-serif đậm, in hoa
+- Bảng màu: Vàng chủ đạo, đen cho thân cây, xám cho tagline
+- Nền: Trắng
+- Phong cách: Tối giản, hiện đại, tự nhiên
+- Tông điệu: Thân thiện, ấm áp, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a stylized tree icon with three yellow leaves on a black stem, positioned above the text "CÔNG TY VƯỜN QUÊ". Below is smaller gray text reading "TỪ NĂM 1950", all arranged on a white background.
+
+Design Elements:
+- Shape: Simple tree symbol with three circular leaves and straight trunk
+- Typography: Bold sans-serif font in uppercase
+- Color Palette: Dominant yellow, black for tree trunk, gray for tagline
+- Background: White
+- Style: Minimalist, modern, natural
+- Mood: Friendly, warm, trustworthy

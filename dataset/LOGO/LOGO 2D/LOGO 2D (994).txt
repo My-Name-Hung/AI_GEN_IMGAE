@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng tròn với hai phần tử cong uốn lượn tạo thành ký hiệu âm dương stylized. Hai hình tròn nhỏ được đặt ở vị trí đối xứng trong thiết kế, tạo cảm giác cân bằng và chuyển động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với các đường cong spiraling và hai điểm tròn nhỏ
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Màu cam đậm và cam nhạt với gradient
+- Nền: Nền đen
+- Phong cách: Hiện đại, tối giản, biểu tượng
+- Tông điệu: Năng động, cân bằng, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a circular design with two curved, swirling elements that form a stylized yin-yang symbol. Two small circles are positioned symmetrically within the design, creating a sense of balance and movement.
+
+Design Elements:
+- Shape: Circular with spiraling curves and two small circular dots
+- Typography: None (icon only)
+- Color Palette: Deep orange and lighter orange with gradient
+- Background: Black background
+- Style: Modern, minimalist, symbolic
+- Mood: Dynamic, balanced, professional

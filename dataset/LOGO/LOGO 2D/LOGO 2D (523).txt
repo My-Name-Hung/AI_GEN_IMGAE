@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một cấu trúc hình học 3D phức tạp được tạo thành từ nhiều khối lập phương và hình tam giác nhỏ xếp chồng lên nhau. Thiết kế có hiệu ứng đẳng cự với các mảnh ghép hình học tạo cảm giác chuyển động và chiều sâu trên nền xanh dương đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Cấu trúc hình học 3D phức tạp, khối lập phương và tam giác đẳng cự
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương đậm, xanh lam, xanh ngọc lục bảo, trắng
+- Nền: Xanh dương đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, hình học, đẳng cự
+- Tông điệu: Công nghệ, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo features a complex 3D geometric structure composed of multiple interlocking cubes and triangular fragments arranged in an isometric perspective. The design creates a sense of movement and depth with geometric puzzle-like pieces floating and assembling on a solid blue background.
+
+Design Elements:
+- Shape: Complex 3D geometric structure, isometric cubes and triangular fragments
+- Typography: None (icon only)
+- Color Palette: Deep blue, royal blue, turquoise, white
+- Background: Solid deep blue
+- Style: Modern, minimalist, geometric, isometric
+- Mood: Technological, professional, dynamic

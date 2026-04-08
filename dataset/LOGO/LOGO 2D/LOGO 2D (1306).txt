@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một con gà mái được stylized với đường nét đơn giản, có mào đỏ trên đầu. Bên dưới hình con gà là dòng chữ "GALINARIUM" với từ "FARM" nhỏ hơn ở dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Con gà mái được vẽ theo phong cách line art đơn giản, tròn trịa
+- Kiểu chữ: Font chữ sans-serif đậm, chữ in hoa cho "GALINARIUM", chữ nhỏ màu cam cho "FARM"
+- Bảng màu: Xanh teal đậm, đỏ cam cho mào gà, cam nhạt cho chữ "FARM"
+- Nền: Màu be/kem nhạt
+- Phong cách: Tối giản, line art, hiện đại
+- Tông điệu: Thân thiện, tự nhiên, nông trại
+
+---
+
+Visual Description:
+The logo features a stylized hen drawn in simple line art style with a red comb on its head. Below the chicken illustration is the text "GALINARIUM" with smaller "FARM" text underneath.
+
+Design Elements:
+- Shape: Simplified, rounded line art chicken/hen illustration
+- Typography: Bold sans-serif font in all caps for "GALINARIUM", smaller orange text for "FARM"
+- Color Palette: Dark teal/navy blue, red-orange for comb, light orange for "FARM" text
+- Background: Light beige/cream color
+- Style: Minimalist, line art, modern
+- Mood: Friendly, natural, farm-fresh

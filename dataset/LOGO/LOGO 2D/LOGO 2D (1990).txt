@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm biểu tượng hai mũi tên màu xanh lá cây chồng lên nhau hướng lên trên, tạo thành hình dạng giống như hai ngọn núi hoặc mái nhà. Bên cạnh là dòng chữ "Yêu Thiên Nhiên" bằng font chữ hiện đại và địa chỉ website bằng chữ nhỏ màu xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai tam giác/mũi tên chồng lên nhau, hướng lên trên
+- Kiểu chữ: Sans-serif hiện đại, đậm, dễ đọc
+- Bảng màu: Xanh lá cây (hai tông khác nhau), đen, xám
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, thân thiện với môi trường
+- Tông điệu: Tự nhiên, tích cực, năng động, thân thiện
+
+---
+
+Visual Description:
+The logo features two overlapping green arrow-like shapes pointing upward, resembling mountains or roof peaks. Next to it is the text "Yêu Thiên Nhiên" in modern typography with a small gray website address below.
+
+Design Elements:
+- Shape: Two overlapping triangular/arrow forms pointing upward
+- Typography: Modern sans-serif, bold, readable
+- Color Palette: Green (two different shades), black, gray
+- Background: White/transparent
+- Style: Minimalist, modern, eco-friendly
+- Mood: Natural, positive, dynamic, friendly

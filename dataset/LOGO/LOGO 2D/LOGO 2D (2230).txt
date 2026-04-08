@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm hai dòng text được sắp xếp theo chiều dọc. Dòng trên là tên "Như Ý" được viết bằng font chữ màu xanh dương đậm, trong khi dòng dưới "ĐA TIỆC PHONG CÁCH Ý" được viết bằng chữ màu vàng nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Layout text hai tầng đơn giản
+- Kiểu chữ: Font serif cổ điển cho tên chính, font nhỏ hơn cho slogan
+- Bảng màu: Xanh dương đậm và vàng nhạt
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, thanh lịch, cổ điển
+- Tông điệu: Sang trọng, tinh tế, đẳng cấp
+
+---
+
+Visual Description:
+The logo features two lines of text arranged vertically. The top line shows "Như Ý" in bold blue typography, while the bottom line displays "ĐA TIỆC PHONG CÁCH Ý" in lighter golden text.
+
+Design Elements:
+- Shape: Simple two-tier text layout
+- Typography: Classic serif font for main name, smaller font for tagline
+- Color Palette: Deep blue and light gold
+- Background: White/transparent
+- Style: Minimalist, elegant, classical
+- Mood: Luxurious, refined, sophisticated

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh đầu của một chiến binh La Mã với vòng nguyệt quế màu vàng cam bao quanh. Khuôn mặt được stylized với các nét góc cạnh, thể hiện vẻ uy nghiêm và mạnh mẽ của một vị tướng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Đầu người kết hợp vòng nguyệt quế tạo thành biểu tượng tròn
+- Kiểu chữ: Serif cổ điển, in hoa, khoảng cách chữ rộng
+- Bảng màu: Cam vàng cho biểu tượng, đen cho chữ
+- Nền: Trắng sạch
+- Phong cách: Cổ điển, hoàng gia, lịch sử
+- Tông điệu: Uy quyền, mạnh mẽ, thanh lịch
+
+---
+
+Visual Description:
+The logo features a stylized head of a Roman warrior surrounded by a golden-orange laurel wreath. The face is rendered in an angular, geometric style that conveys authority and strength of a military commander.
+
+Design Elements:
+- Shape: Human head combined with laurel wreath forming circular emblem
+- Typography: Classical serif, all caps, wide letter spacing
+- Color Palette: Golden orange for icon, black for text
+- Background: Clean white
+- Style: Classical, regal, historical
+- Mood: Authoritative, powerful, elegant

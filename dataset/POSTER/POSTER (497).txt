@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một trang web hoặc ứng dụng đặt đồ ăn với bố cục hiện đại. Hình ảnh hiển thị nhiều món ăn hấp dẫn như mì ống, khoai tây chiên và salad được bày trí một cách nghệ thuật trên nền cam ấm áp.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục trang web với các phần tử tròn và hình học
+- Kiểu chữ: Typography hiện đại, in hoa cho tiêu đề chính
+- Bảng màu: Cam, be, vàng với điểm nhấn màu xanh lá
+- Nền: Gradient cam sang be với các hình tròn trang trí
+- Phong cách: Hiện đại, tối giản, thân thiện
+- Tông điệu: Ấm áp, hấp dẫn, chuyên nghiệp
+
+---
+
+Visual Description:
+This is a modern food delivery website or app interface displaying an appetizing array of dishes including pasta, french fries, and salads artistically arranged on a warm orange background. The layout features clean typography with the main headline "DELICIOUS FOOD IS WAITING FOR YOU" prominently displayed.
+
+Design Elements:
+- Shape: Web layout with circular and geometric elements
+- Typography: Modern sans-serif, bold uppercase for main heading
+- Color Palette: Orange, beige, yellow with green accents
+- Background: Orange to beige gradient with decorative circles
+- Style: Modern, minimalist, user-friendly
+- Mood: Warm, appetizing, professional

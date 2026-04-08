@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình thoi màu xanh dương với hình ảnh một con chim trắng bên trong. Phần text "DAI BẰNG" được hiển thị bằng font chữ đậm màu xanh dương, với dòng chữ phụ "CÔNG TY XÂY DỰNG" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình thoi kết hợp với silhouette chim
+- Kiểu chữ: Font sans-serif đậm, chữ hoa cho tên chính
+- Bảng màu: Xanh dương đậm, trắng, xám nhạt
+- Nền: Nền xanh nhạt/xám nhạt
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Tin cậy, ổn định, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a diamond-shaped dark blue icon with a white bird silhouette inside. The text "DAI BẰNG" is displayed in bold blue typography, with the subtitle "CÔNG TY XÂY DỰNG" below in smaller text.
+
+Design Elements:
+- Shape: Diamond icon combined with bird silhouette
+- Typography: Bold sans-serif font, uppercase for main name
+- Color Palette: Dark blue, white, light gray
+- Background: Light blue/gray background
+- Style: Minimalist, professional, modern
+- Mood: Trustworthy, stable, professional

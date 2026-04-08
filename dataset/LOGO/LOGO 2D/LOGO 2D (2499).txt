@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế tối giản với chữ "XUÂN" được viết bằng font chữ in hoa màu trắng nổi bật trên nền cam đỏ. Số "25" được đặt ở giữa với kích thước lớn, cùng với các dòng chữ nhỏ hơn "TỪ NĂM" và "CA PHÊ SÁCH & NGÓN" ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông đơn giản, bố cục đối xứng
+- Kiểu chữ: Font sans-serif hiện đại, in hoa, có độ tương phản rõ ràng
+- Bảng màu: Cam đỏ (nền) và trắng (chữ)
+- Nền: Màu cam đỏ đồng nhất, không có họa tiết
+- Phong cách: Tối giản, hiện đại, typography-focused
+- Tông điệu: Ấm áp, thân thiện, năng động
+
+---
+
+Visual Description:
+The logo features a minimalist design with "XUÂN" written in white capital letters prominently displayed on an orange-red background. The number "25" is centrally placed in large font, accompanied by smaller text reading "TỪ NĂM" and "CA PHÊ SÁCH & NGÓN" below.
+
+Design Elements:
+- Shape: Simple square format with symmetrical layout
+- Typography: Modern sans-serif font, uppercase, high contrast
+- Color Palette: Orange-red background with white text
+- Background: Solid orange-red color without patterns
+- Style: Minimalist, modern, typography-focused
+- Mood: Warm, friendly, energetic

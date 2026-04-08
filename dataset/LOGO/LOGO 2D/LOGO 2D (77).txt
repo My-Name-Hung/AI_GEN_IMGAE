@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng chữ nhật dọc với thiết kế đối xứng, bao gồm hai hình tròn lớn được kết nối bởi một đường chéo mảnh. Bên trong mỗi hình tròn có các chi tiết trang trí phức tạp giống như họa tiết cổ điển hoặc biểu tượng hoàng gia.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung chữ nhật dọc chứa hai hình tròn đối xứng với đường chéo xuyên qua
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trắng (monochrome)
+- Nền: Trắng với viền đen
+- Phong cách: Cổ điển, trang trọng, đối xứng, họa tiết trang trí
+- Tông điệu: Sang trọng, uy quyền, lịch lãm, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a vertical rectangular frame with a symmetrical design containing two large circles connected by a thin diagonal line. Each circle contains intricate decorative details resembling classical ornaments or royal emblems.
+
+Design Elements:
+- Shape: Vertical rectangular frame containing two symmetrical circles with a diagonal line passing through
+- Typography: None (icon only)
+- Color Palette: Black and white (monochrome)
+- Background: White with black border
+- Style: Classical, formal, symmetrical, ornamental
+- Mood: Elegant, authoritative, sophisticated, professional

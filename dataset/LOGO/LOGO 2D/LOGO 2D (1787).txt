@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm chữ cái "a" màu trắng được cách điệu với một chiếc lá nhỏ màu đen tích hợp bên trong. Bên dưới là dòng chữ "ADVANCE HYPNOTHERAPY" được sắp xếp thành hai dòng với màu trắng trên nền gradient xanh lá cây.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái "a" được bo tròn với lá nhỏ tích hợp
+- Kiểu chữ: Sans-serif hiện đại, in hoa, font chữ sạch sẽ
+- Bảng màu: Trắng, đen, và các tông xanh lá cây gradient
+- Nền: Gradient xanh lá cây từ nhạt đến đậm
+- Phong cách: Tối giản, hiện đại, tự nhiên
+- Tông điệu: Chuyên nghiệp, thư giãn, gần gũi với thiên nhiên
+
+---
+
+Visual Description:
+The logo features a stylized white lowercase "a" with an integrated small black leaf element within the letterform. Below it, "ADVANCE HYPNOTHERAPY" is displayed in two lines of clean white typography against a green gradient background.
+
+Design Elements:
+- Shape: Rounded lowercase "a" with integrated leaf motif
+- Typography: Modern sans-serif, uppercase, clean font
+- Color Palette: White, black, and green gradient tones
+- Background: Green gradient from light to dark
+- Style: Minimalist, modern, natural
+- Mood: Professional, calming, nature-connected

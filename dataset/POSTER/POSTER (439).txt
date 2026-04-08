@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một thiết kế flyer vuông với chủ đề sức khỏe và lối sống. Thiết kế có hình ảnh một người phụ nữ đang tập yoga trên thảm trong không gian sạch sẽ, với các yếu tố đồ họa hình học màu xanh dương bao quanh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với các đường cong và hình tròn trang trí
+- Kiểu chữ: Font sans-serif đậm cho tiêu đề chính, font mảnh cho văn bản phụ
+- Bảng màu: Xanh dương đậm, xanh nhạt, trắng
+- Nền: Gradient từ xanh dương đến trắng với họa tiết hình học
+- Phong cách: Hiện đại, tối giản, chuyên nghiệp
+- Tông điệu: Tích cực, năng động, thư giãn
+
+---
+
+Visual Description:
+This is a square flyer design with a health and lifestyle theme. The design features an image of a woman doing yoga on a mat in a clean space, surrounded by blue geometric graphic elements and decorative patterns.
+
+Design Elements:
+- Shape: Square format with curved lines and circular decorative elements
+- Typography: Bold sans-serif for main headline, lighter font for body text
+- Color Palette: Deep blue, light blue, white
+- Background: Gradient from blue to white with geometric patterns
+- Style: Modern, minimalist, professional
+- Mood: Positive, energetic, relaxing

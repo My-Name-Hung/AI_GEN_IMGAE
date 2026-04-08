@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng chữ "t" được cách điệu với phần trên là hai hình thang song song màu xanh lá và xanh teal. Phần dưới là một hình bán nguyệt màu xanh dương có phần cắt tròn ở bên phải.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ "t" hiện đại với các hình khối hình học
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ xanh lá sang xanh teal và xanh dương
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Công nghệ, năng động, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a stylized lowercase "t" with the top portion consisting of two parallel parallelogram shapes in green and teal colors. The bottom portion is a semi-circular form in blue with a circular cutout on the right side.
+
+Design Elements:
+- Shape: Modern geometric interpretation of letter "t"
+- Typography: None (icon only)
+- Color Palette: Gradient from bright green to teal to blue
+- Background: Transparent/white
+- Style: Modern, minimalist, geometric
+- Mood: Tech-forward, dynamic, professional

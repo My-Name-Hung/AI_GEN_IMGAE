@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn màu hồng chứa biểu tượng tạ gym màu đen ở trung tâm. Bên dưới là tên thương hiệu "TRUNG ANH" được viết bằng chữ in hoa màu trắng, kèm theo dòng chữ nhỏ "NHA TRANG" ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn chứa biểu tượng tạ, bố cục dọc
+- Kiểu chữ: Sans-serif đậm, in hoa, phụ chữ nhỏ
+- Bảng màu: Hồng, đen, trắng trên nền tím đậm
+- Nền: Gradient tím từ đậm đến nhạt
+- Phong cách: Tối giản, thể thao, hiện đại
+- Tông điệu: Năng động, chuyên nghiệp, mạnh mẽ
+
+---
+
+Visual Description:
+The logo features a pink circular badge containing a black dumbbell icon at its center. Below this is the brand name "TRUNG ANH" in white capital letters, with smaller text "NHA TRANG" underneath.
+
+Design Elements:
+- Shape: Circular badge with dumbbell icon, vertical layout
+- Typography: Bold sans-serif capitals with smaller subtitle text
+- Color Palette: Pink, black, white on dark purple background
+- Background: Purple gradient from dark to lighter tones
+- Style: Minimalist, athletic, modern
+- Mood: Energetic, professional, strong

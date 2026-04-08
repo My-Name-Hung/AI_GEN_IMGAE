@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình cầu với các đường lưới kinh tuyến và vĩ tuyến, tượng trưng cho địa cầu. Bên dưới là dòng chữ "CÔNG TY XÂY DỰNG TOÀN CẦU" được sắp xếp thành hai dòng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình cầu địa lý với đường lưới kinh tuyến và vĩ tuyến
+- Kiểu chữ: Font sans-serif, chữ hoa, khoảng cách đều
+- Bảng màu: Cam/vàng cam trên nền xám đen
+- Nền: Màu xám đen đậm
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Uy tín, toàn cầu, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a globe icon with meridian and latitude grid lines representing the Earth. Below it is the Vietnamese text "CÔNG TY XÂY DỰNG TOÀN CẦU" arranged in two lines.
+
+Design Elements:
+- Shape: Spherical globe with meridian and latitude grid lines
+- Typography: Sans-serif font, uppercase letters, even spacing
+- Color Palette: Orange/amber on dark gray background
+- Background: Dark charcoal gray
+- Style: Minimalist, modern, professional
+- Mood: Authoritative, global, professional

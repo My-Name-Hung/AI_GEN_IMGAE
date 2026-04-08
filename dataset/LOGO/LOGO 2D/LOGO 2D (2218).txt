@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "NGUYỄN QUY CHÂU" bằng chữ in hoa màu đỏ với dấu thanh rõ ràng. Bên dưới có một thanh ngang màu đỏ chứa dòng chữ "ỦNG HỘ ĐẠI BIỂU QUỐC HỘI" bằng chữ trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật đơn giản với thanh ngang làm điểm nhấn
+- Kiểu chữ: Chữ sans-serif đậm, in hoa, rõ ràng và dễ đọc
+- Bảng màu: Đỏ chủ đạo và trắng
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, chính thức, kiểu công sở
+- Tông điệu: Nghiêm túc, uy tín, chính trị
+
+---
+
+Visual Description:
+The logo displays "NGUYỄN QUY CHÂU" in bold red uppercase letters with clear Vietnamese diacritical marks. Below is a red horizontal bar containing "ỦNG HỘ ĐẠI BIỂU QUỐC HỘI" in white text.
+
+Design Elements:
+- Shape: Simple rectangular layout with horizontal bar accent
+- Typography: Bold sans-serif, uppercase, clear and legible
+- Color Palette: Primary red and white
+- Background: Clean white background
+- Style: Minimalist, formal, institutional
+- Mood: Serious, authoritative, political

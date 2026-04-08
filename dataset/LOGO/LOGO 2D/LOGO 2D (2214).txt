@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hình trái tim được tạo thành từ hai hình tròn chồng lên nhau với màu xanh dương và xanh lam. Tên thương hiệu "Vân An" được viết bằng chữ trắng hiện đại bên cạnh, kèm theo dòng chữ phụ "PHÒNG KHÁM CHĂM SÓC CHÍNH" trong khung bo tròn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng trái tim từ hai hình tròn, khung chữ nhật bo góc cho text
+- Kiểu chữ: Sans-serif hiện đại, rõ ràng, chữ hoa cho slogan
+- Bảng màu: Xanh dương, xanh lam gradient, chữ trắng
+- Nền: Gradient xanh dương đậm chuyển sang xanh lam nhạt
+- Phong cách: Hiện đại, tối giản, y tế
+- Tông điệu: Tin cậy, chăm sóc, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a heart symbol created from two overlapping circles in blue and teal colors. The brand name "Vân An" is written in modern white text alongside, with the tagline "PHÒNG KHÁM CHĂM SÓC CHÍNH" enclosed in a rounded rectangle frame below.
+
+Design Elements:
+- Shape: Heart icon from two circles, rounded rectangle frame for text
+- Typography: Modern sans-serif, clean and readable, uppercase for tagline
+- Color Palette: Blue, teal gradient, white text
+- Background: Dark blue to light teal gradient
+- Style: Modern, minimalist, medical
+- Mood: Trustworthy, caring, professional

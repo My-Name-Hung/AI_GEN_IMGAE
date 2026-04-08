@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng màu xanh dương được sắp xếp theo kiểu đối xứng, tạo thành hình dạng giống như ampersand (&) cách điệu. Bên dưới biểu tượng là tên thương hiệu "VinaTech" được viết bằng font chữ hiện đại, trong đó "Vina" màu đen và "Tech" màu xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng trừu tượng gồm các hình oval và dải cong đối xứng
+- Kiểu chữ: Font sans-serif hiện đại, clean
+- Bảng màu: Xanh dương chủ đạo, đen và xám cho chữ
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sáng tạo
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon in blue arranged symmetrically to form a stylized ampersand-like shape. Below the icon is the brand name "VinaTech" written in modern typography, with "Vina" in black and "Tech" in gray.
+
+Design Elements:
+- Shape: Abstract symbol composed of oval forms and curved bands in symmetrical arrangement
+- Typography: Modern, clean sans-serif font
+- Color Palette: Dominant blue, black and gray for text
+- Background: White/transparent
+- Style: Minimalist, modern, tech-focused
+- Mood: Professional, trustworthy, innovative

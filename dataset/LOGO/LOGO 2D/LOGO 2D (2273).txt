@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình đầu trâu với cặp sừng cong đặc trưng, được thiết kế theo phong cách mascot gaming hiện đại. Phần text "TRẬN CHIẾN PRO" và "CHƠI THẬT" được đặt trong một hình khiên ở phía dưới đầu trâu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Đầu trâu stylized với khiên chứa text
+- Kiểu chữ: Font sans-serif đậm, chữ in hoa
+- Bảng màu: Cam, nâu, trắng với outline đen
+- Nền: Nền tròn gradient nâu
+- Phong cách: Gaming mascot, esports, hiện đại
+- Tông điệu: Mạnh mẽ, quyết đoán, thể thao điện tử
+
+---
+
+Visual Description:
+The logo features a stylized bull's head with characteristic curved horns, designed in a modern gaming mascot style. The text "TRẬN CHIẾN PRO" and "CHƠI THẬT" is placed within a shield beneath the bull's head.
+
+Design Elements:
+- Shape: Stylized bull head with text shield
+- Typography: Bold sans-serif font, uppercase letters
+- Color Palette: Orange, brown, white with black outlines
+- Background: Circular brown gradient background
+- Style: Gaming mascot, esports, modern
+- Mood: Strong, determined, competitive gaming

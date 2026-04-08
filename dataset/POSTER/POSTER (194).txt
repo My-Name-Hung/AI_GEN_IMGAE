@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình bát giác được tạo từ các mảnh hình học xếp chồng lên nhau tạo thành hiệu ứng 3D. Ở trung tâm có một hình thoi màu trắng được bao quanh bởi các lớp hình học màu xanh dương và xanh lam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bát giác đa lớp với hiệu ứng xoắn ốc và hình thoi trung tâm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient xanh dương đến xanh lam với điểm nhấn trắng
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, tối giản, hình học, gradient
+- Tông điệu: Chuyên nghiệp, công nghệ, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features an octagonal shape created from overlapping geometric segments that create a 3D spiral effect. At the center is a white diamond shape surrounded by layers of blue and teal geometric forms.
+
+Design Elements:
+- Shape: Multi-layered octagon with spiral effect and central diamond
+- Typography: None (icon only)
+- Color Palette: Blue to teal gradient with white accent
+- Background: Transparent/white
+- Style: Modern, minimalist, geometric, gradient
+- Mood: Professional, technological, trustworthy

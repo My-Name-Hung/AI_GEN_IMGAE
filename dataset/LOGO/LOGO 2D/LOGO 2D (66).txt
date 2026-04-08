@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả hành tinh Saturn với vành đai xung quanh, được thể hiện bằng gradient màu từ xanh cyan đến xanh dương đậm. Xung quanh hành tinh có các ngôi sao nhỏ và những hình tròn trang trí tạo cảm giác không gian vũ trụ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn (hành tinh) với vành đai nghiêng, các ngôi sao 4 cánh và chấm tròn
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient xanh cyan sang xanh dương, xanh navy, trắng
+- Nền: Trong suốt
+- Phong cách: Hiện đại, phẳng, gradient, không gian
+- Tông điệu: Công nghệ, khám phá, tương lai, năng động
+
+---
+
+Visual Description:
+The logo depicts planet Saturn with its characteristic ring system, rendered in a gradient from cyan to deep blue. Small stars and circular elements surround the planet, creating a cosmic space atmosphere.
+
+Design Elements:
+- Shape: Circular planet with diagonal ring, 4-pointed stars and dots
+- Typography: None (icon only)
+- Color Palette: Cyan to blue gradient, navy blue, white
+- Background: Transparent
+- Style: Modern, flat design, gradient, space-themed
+- Mood: Technological, exploratory, futuristic, dynamic

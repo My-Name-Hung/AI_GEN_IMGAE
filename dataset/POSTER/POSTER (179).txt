@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "HIỆN ĐẠI" bằng chữ in hoa màu xanh dương đậm, được đặt dưới dòng chữ "Gia đình" viết bằng font chữ nghiêng màu trắng thanh lịch. Phía dưới có dòng chữ nhỏ "Chon Kosmen KM-30N" màu xanh nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục văn bản đơn giản, sắp xếp theo chiều dọc
+- Kiểu chữ: Kết hợp chữ nghiêng thanh lịch và chữ in hoa đậm
+- Bảng màu: Trắng, xanh dương đậm, xanh nhạt
+- Nền: Trong suốt/không có nền riêng biệt
+- Phong cách: Hiện đại, tối giản, gia đình
+- Tông điệu: Thân thiện, tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays "HIỆN ĐẠI" in bold blue capital letters, positioned below "Gia đình" written in elegant white italic script. Below is smaller text "Chon Kosmen KM-30N" in light blue.
+
+Design Elements:
+- Shape: Simple text layout arranged vertically
+- Typography: Combination of elegant italic script and bold capitals
+- Color Palette: White, bold blue, light blue
+- Background: Transparent/no distinct background
+- Style: Modern, minimalist, family-oriented
+- Mood: Friendly, trustworthy, professional

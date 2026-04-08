@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với hình bán nguyệt màu kem/vàng nhạt nằm trên nền xanh lá cây đậm. Phần text "An & Cháu" được đặt trong vùng bán nguyệt cùng với dòng chữ nhỏ "THƯƠNG ÂN NHẠC" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình bán nguyệt/nửa hình tròn làm khung chính
+- Kiểu chữ: Font chữ đậm, dễ đọc cho tên thương hiệu, font nhỏ hơn cho slogan
+- Bảng màu: Xanh lá cây đậm làm nền chính, màu kem/vàng nhạt cho khung bán nguyệt
+- Nền: Nền xanh lá cây đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Thân thiện, ấm áp, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a simple design with a cream/light yellow semicircle positioned on a deep green background. The text "An & Cháu" is placed within the semicircular area along with smaller text "THƯƠNG ÂN NHẠC" below it.
+
+Design Elements:
+- Shape: Semicircle/half-circle as the main frame element
+- Typography: Bold, readable font for brand name, smaller font for tagline
+- Color Palette: Deep green background with cream/light yellow semicircle
+- Background: Solid deep green background
+- Style: Minimalist, modern, geometric
+- Mood: Friendly, warm, professional

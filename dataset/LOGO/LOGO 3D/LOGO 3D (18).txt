@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo được thiết kế dưới dạng khối 3D màu trắng với hiệu ứng đổ bóng, trôi nổi trên nền xanh dương. Trên bề mặt khối có hình ảnh con đại bàng màu xanh dương cách điệu và chữ "BARCLAYS" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông bo góc 3D, con đại bàng cách điệu
+- Kiểu chữ: Sans-serif hiện đại, in hoa, đậm
+- Bảng màu: Xanh dương và trắng
+- Nền: Xanh dương đồng nhất với hiệu ứng gradient nhẹ
+- Phong cách: Hiện đại, tối giản, 3D
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, năng động
+
+---
+
+Visual Description:
+The logo features a white 3D rounded square block floating against a blue background with shadow effects. On the block's surface is a stylized blue eagle silhouette positioned above the "BARCLAYS" text.
+
+Design Elements:
+- Shape: 3D rounded square block, stylized eagle
+- Typography: Modern sans-serif, uppercase, bold weight
+- Color Palette: Blue and white
+- Background: Solid blue with subtle gradient effects
+- Style: Modern, minimalist, 3D rendering
+- Mood: Professional, trustworthy, dynamic

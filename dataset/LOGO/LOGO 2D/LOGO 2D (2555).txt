@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một hình khiên màu đỏ với chữ "j" màu vàng bên trong, đặt bên trái của dòng chữ "Bức Tường". Phía trên có dòng text nhỏ ghi "TRƯỜNG TRUNG HỌC PHỔ THÔNG LÊ LỢI".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình khiên kết hợp với typography
+- Kiểu chữ: Sans-serif hiện đại cho tên chính, serif nhỏ cho text mô tả
+- Bảng màu: Đỏ chủ đạo, vàng cho điểm nhấn, xám cho text phụ
+- Nền: Trắng/trong suốt
+- Phong cách: Giáo dục, chính thức, truyền thống
+- Tông điệu: Uy tín, học thuật, nghiêm túc
+
+---
+
+Visual Description:
+The logo features a red shield containing a yellow letter "j", positioned to the left of the text "Bức Tường". Above the main elements is smaller text reading "TRƯỜNG TRUNG HỌC PHỔ THÔNG LÊ LỢI".
+
+Design Elements:
+- Shape: Shield emblem combined with typography
+- Typography: Modern sans-serif for main name, smaller serif for descriptive text
+- Color Palette: Primary red, yellow accent, gray for secondary text
+- Background: White/transparent
+- Style: Educational, formal, traditional
+- Mood: Authoritative, academic, serious

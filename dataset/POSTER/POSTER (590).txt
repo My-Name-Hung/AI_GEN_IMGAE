@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "BIG DAY SALE" với hiệu ứng 3D nổi bật trên nền màu cam gradient. Chữ có màu vàng óng ánh với viền đen và được bao quanh bởi các tia sáng phát ra từ trung tâm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ 3D có độ dày, tia sáng hình tròn phát ra xung quanh
+- Kiểu chữ: Font chữ đậm, bo tròn, phong cách hiện đại có hiệu ứng 3D
+- Bảng màu: Vàng kim loại, cam, đen, trắng
+- Nền: Gradient cam từ nhạt đến đậm với texture kim cương
+- Phong cách: 3D, hiệu ứng ánh sáng, hiện đại, năng động
+- Tông điệu: Hào hứng, thu hút, khuyến mãi mạnh mẽ
+
+---
+
+Visual Description:
+The logo displays "BIG DAY SALE" text with prominent 3D effects on an orange gradient background. The text features shiny golden color with black outlines and is surrounded by radiating light rays emanating from the center.
+
+Design Elements:
+- Shape: 3D dimensional text with thickness, circular radiating light rays
+- Typography: Bold, rounded modern font with 3D effects
+- Color Palette: Metallic gold, orange, black, white
+- Background: Orange gradient from light to dark with diamond texture
+- Style: 3D, lighting effects, modern, dynamic
+- Mood: Exciting, attention-grabbing, strong promotional

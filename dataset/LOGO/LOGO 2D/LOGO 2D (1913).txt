@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Minh Ngọc" bằng chữ serif màu trắng thanh lịch trên nền đen. Bên cạnh có một hình tròn màu vàng đồng và dòng chữ nhỏ "TU VẤN VÀ PHÂN TÍCH TÀI CHÍNH" ở góc phải.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ serif và hình tròn đơn giản
+- Kiểu chữ: Serif cổ điển cho tên chính, sans-serif cho tagline
+- Bảng màu: Đen, trắng và vàng đồng
+- Nền: Đen thuần
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Sang trọng, đáng tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays "Minh Ngọc" in elegant white serif typography on a black background. It features a golden circular element and small text reading "TU VẤN VÀ PHÂN TÍCH TÀI CHÍNH" in the right corner.
+
+Design Elements:
+- Shape: Simple serif text and circular form
+- Typography: Classic serif for main name, sans-serif for tagline
+- Color Palette: Black, white, and golden yellow
+- Background: Pure black
+- Style: Minimalist, professional, modern
+- Mood: Luxurious, trustworthy, professional

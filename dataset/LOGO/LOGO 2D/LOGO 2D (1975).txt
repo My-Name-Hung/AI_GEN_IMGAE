@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ba hình học đơn giản gồm tam giác màu cam, hình tròn màu xanh cyan và hình bán nguyệt màu tím xanh được sắp xếp theo hàng ngang. Bên dưới là tên thương hiệu "An Phú" bằng chữ trắng in đậm, kèm dòng chữ phụ "ĐẠI HỌC TRỰC TUYẾN" và slogan "Tri thức không biên giới."
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình học cơ bản (tam giác, tròn, bán nguyệt) sắp xếp ngang
+- Kiểu chữ: Font sans-serif hiện đại, in đậm cho tên chính, thường cho dòng phụ
+- Bảng màu: Nền xanh navy đậm, cam, xanh cyan, tím xanh, trắng
+- Nền: Màu xanh navy đậm gradient
+- Phong cách: Tối giản, hình học, hiện đại, giáo dục
+- Tông điệu: Chuyên nghiệp, tin cậy, sáng tạo, tiếp cận
+
+---
+
+Visual Description:
+The logo features three simple geometric shapes - an orange triangle, cyan circle, and purple-blue semicircle arranged horizontally. Below is the brand name "An Phú" in bold white text, accompanied by the subtitle "ĐẠI HỌC TRỰC TUYẾN" and tagline "Tri thức không biên giới."
+
+Design Elements:
+- Shape: Three basic geometric forms (triangle, circle, semicircle) arranged horizontally
+- Typography: Modern sans-serif font, bold for main name, regular for subtitle
+- Color Palette: Deep navy blue background, orange, cyan, purple-blue, white
+- Background: Deep navy blue gradient
+- Style: Minimalist, geometric, modern, educational
+- Mood: Professional, trustworthy, innovative, accessible

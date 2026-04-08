@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng quả địa cầu màu trắng với các đường lưới kinh tuyến và vĩ tuyến, được đặt trên nền xanh ngọc sáng. Bên dưới biểu tượng là dòng chữ "TỔ CHỨC ĐỊA CẦU XANH" bằng font chữ đơn giản màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với đường lưới tạo thành quả địa cầu
+- Kiểu chữ: Font sans-serif đơn giản, không chân
+- Bảng màu: Trắng và xanh ngọc/turquoise
+- Nền: Màu xanh ngọc đồng nhất
+- Phong cách: Tối giản, hiện đại, biểu tượng
+- Tông điệu: Chuyên nghiệp, toàn cầu, thân thiện môi trường
+
+---
+
+Visual Description:
+The logo features a white globe icon with meridian and latitude grid lines, set against a bright turquoise background. Below the symbol is the text "TỔ CHỨC ĐỊA CẦU XANH" in simple white typography.
+
+Design Elements:
+- Shape: Circular globe with grid lines forming a sphere
+- Typography: Simple sans-serif font
+- Color Palette: White and turquoise/teal
+- Background: Solid turquoise color
+- Style: Minimalist, modern, iconic
+- Mood: Professional, global, environmentally-friendly

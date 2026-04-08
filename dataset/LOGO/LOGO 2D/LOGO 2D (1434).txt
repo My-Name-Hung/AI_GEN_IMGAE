@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm ba hình lục giác chồng lên nhau với màu sắc gradient từ xanh lá cây, xanh dương đến tím. Ở trung tâm có một biểu tượng tam giác trắng hướng về bên phải, tạo thành hình mũi tên play.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình lục giác xếp chồng và một tam giác trắng ở giữa
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ xanh lá cây sang xanh dương và tím, tam giác trắng
+- Nền: Nền xám nhạt
+- Phong cách: Hiện đại, gradient, hình học, phẳng
+- Tông điệu: Năng động, công nghệ, sáng tạo
+
+---
+
+Visual Description:
+The logo consists of three overlapping hexagons with a gradient color scheme transitioning from green to blue to purple. A white triangular play button symbol is positioned in the center, pointing to the right.
+
+Design Elements:
+- Shape: Three overlapping hexagons with a central white triangle
+- Typography: None (icon only)
+- Color Palette: Gradient from green to blue to purple, with white triangle
+- Background: Light gray background
+- Style: Modern, gradient, geometric, flat design
+- Mood: Dynamic, technological, creative

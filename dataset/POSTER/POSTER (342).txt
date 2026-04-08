@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình bóng đen của một chiếc giày cao gót nữ thanh lịch với dây đeo mảnh. Bên dưới là dòng chữ "CATWALK" được viết bằng font chữ đơn giản, hiện đại với khoảng cách đều giữa các ký tự.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette giày cao gót với đường cong mềm mại và gót nhọn
+- Kiểu chữ: Sans-serif tối giản, chữ hoa, khoảng cách rộng
+- Bảng màu: Đen trắng đơn sắc
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Sang trọng, nữ tính, thời trang
+
+---
+
+Visual Description:
+The logo features a black silhouette of an elegant high-heeled women's shoe with a thin ankle strap. Below the shoe is the text "CATWALK" rendered in clean, modern typography with even letter spacing.
+
+Design Elements:
+- Shape: High heel shoe silhouette with curved lines and pointed heel
+- Typography: Minimalist sans-serif, uppercase, wide letter spacing
+- Color Palette: Monochromatic black and white
+- Background: White/transparent
+- Style: Minimalist, modern, elegant
+- Mood: Luxurious, feminine, fashion-forward

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình mũ giáp chiến binh Spartan màu trắng được đặt trong vòng tròn trắng có viền xanh lá cây. Phần text "CUỘC CHINH PHỤC CỦA HIỆP SĨ" được thiết kế bằng font chữ in hoa màu trắng đặt dưới biểu tượng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn chứa mũ giáp Spartan cách điệu
+- Kiểu chữ: Font sans-serif in hoa, đậm, màu trắng
+- Bảng màu: Xanh lá cây, trắng
+- Nền: Gradient xanh lá từ sáng đến tối
+- Phong cách: Tối giản, biểu tượng, thể thao
+- Tông điệu: Mạnh mẽ, quyết đoán, chiến đấu
+
+---
+
+Visual Description:
+The logo features a white Spartan warrior helmet icon placed within a white circle with a green border. The text "CUỘC CHINH PHỤC CỦA HIỆP SĨ" is designed in white uppercase letters positioned below the symbol.
+
+Design Elements:
+- Shape: Circular containing stylized Spartan helmet
+- Typography: Bold sans-serif uppercase font in white
+- Color Palette: Green, white
+- Background: Green gradient from light to dark
+- Style: Minimalist, symbolic, athletic
+- Mood: Strong, determined, warrior-like

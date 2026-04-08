@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một nốt nhạc được thiết kế sáng tạo với phần thân nốt nhạc được biến đổi thành hình bàn tay đang thực hiện cử chỉ "rock and roll" với ngón út và ngón trỏ dang ra. Thiết kế kết hợp khéo léo giữa ký hiệu âm nhạc và biểu tượng văn hóa rock, tạo nên một hình ảnh vừa âm nhạc vừa năng động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Nốt nhạc kép với cần nhạc biến thành bàn tay rock
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đỏ đậm đơn sắc
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, sáng tạo, biểu tượng
+- Tông điệu: Năng động, rock, sôi nổi, độc đáo
+
+---
+
+Visual Description:
+The logo displays a creatively designed musical note where the note stem transforms into a hand making the "rock and roll" gesture with the pinky and index fingers extended. The design cleverly combines musical notation with rock culture symbolism, creating an image that's both musical and energetic.
+
+Design Elements:
+- Shape: Double musical note with stem transforming into rock hand gesture
+- Typography: None (icon only)
+- Color Palette: Solid deep red
+- Background: White/transparent
+- Style: Minimalist, creative, symbolic
+- Mood: Dynamic, rock, energetic, unique

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trên cùng với hai hình thoi xếp chồng - một màu đen và một màu vàng/cam. Bên dưới là tên thương hiệu "Chiếc Hộp Nhỏ" được viết bằng font chữ đậm màu đen, kèm theo dòng chữ phụ "TỔ CHỨC TRẺ EM" màu vàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình thoi chồng lên nhau tạo thành biểu tượng hình học
+- Kiểu chữ: Font sans-serif đậm, dễ đọc, hiện đại
+- Bảng màu: Đen, vàng/cam, trắng
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Thân thiện, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo features a geometric icon at the top with two overlapping diamond shapes - one black and one yellow/orange. Below is the brand name "Chiếc Hộp Nhỏ" written in bold black font, accompanied by a smaller yellow tagline "TỔ CHỨC TRẺ EM".
+
+Design Elements:
+- Shape: Two overlapping diamonds forming a geometric symbol
+- Typography: Bold, readable sans-serif font, modern
+- Color Palette: Black, yellow/orange, white
+- Background: Clean white background
+- Style: Minimalist, modern, geometric
+- Mood: Friendly, professional, dynamic

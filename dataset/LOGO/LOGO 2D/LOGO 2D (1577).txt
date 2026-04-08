@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình dáng ngọn lửa với gradient màu từ cam đến đỏ. Ở trung tâm ngọn lửa có biểu tượng hình hộp 3D màu trắng được vẽ theo phong cách đường nét đơn giản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ngọn lửa cách điệu với hình hộp 3D ở giữa
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient cam đến đỏ, trắng cho biểu tượng hộp
+- Nền: Trong suốt
+- Phong cách: Phẳng, tối giản, hiện đại
+- Tông điệu: Năng động, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo displays a flame shape with an orange to red gradient. At the center of the flame is a white 3D cube icon rendered in a simple line art style.
+
+Design Elements:
+- Shape: Stylized flame with 3D cube in center
+- Typography: None (icon only)
+- Color Palette: Orange to red gradient, white for cube icon
+- Background: Transparent
+- Style: Flat, minimalist, modern
+- Mood: Dynamic, creative, technological

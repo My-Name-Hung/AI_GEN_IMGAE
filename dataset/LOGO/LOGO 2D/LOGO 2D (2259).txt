@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "E" cách điệu bằng màu cam kết hợp với một dấu chấm tròn màu xanh dương. Bên cạnh là dòng chữ "E-TECH" màu xanh dương và dòng chữ phụ "CÔNG TY CÔNG NGHỆ SỐ" màu xám bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ E hình học cách điệu với các đường nét vuông vắn, kết hợp dấu chấm tròn
+- Kiểu chữ: Font sans-serif hiện đại, in hoa cho tên chính, chữ thường cho tagline
+- Bảng màu: Cam, xanh dương và xám
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, năng động, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a stylized orange letter "E" combined with a blue circular dot. Adjacent to it is the text "E-TECH" in blue, with a smaller gray tagline "CÔNG TY CÔNG NGHỆ SỐ" below.
+
+Design Elements:
+- Shape: Geometric stylized letter E with clean lines, combined with circular dot
+- Typography: Modern sans-serif font, uppercase for main name, lowercase for tagline
+- Color Palette: Orange, blue, and gray
+- Background: White/transparent
+- Style: Modern, minimalist, tech-focused
+- Mood: Professional, dynamic, trustworthy

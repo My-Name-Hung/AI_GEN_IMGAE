@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tòa nhà stylized với các màu sắc gradient từ xanh lam đến xanh lục, đặt bên trái chữ "SHUBH". Chữ "SHUBH" được thiết kế với font chữ hiện đại, trong đó chữ "U" có màu đỏ cam nổi bật so với các chữ cái khác màu xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tòa nhà geometric với các khối hình chữ nhật xếp chồng
+- Kiểu chữ: Font sans-serif hiện đại, clean và đơn giản
+- Bảng màu: Gradient xanh lam-xanh lục cho icon, đỏ cam cho chữ "U", xám cho các chữ còn lại
+- Nền: Nền trắng sạch
+- Phong cách: Hiện đại, tối giản, geometric
+- Tông điệu: Chuyên nghiệp, tin cậy, năng động
+
+---
+
+Visual Description:
+The logo features a stylized building icon with a blue-to-green gradient positioned to the left of the text "SHUBH". The text "SHUBH" is designed in a modern font where the letter "U" is highlighted in orange-red while the other letters are in gray.
+
+Design Elements:
+- Shape: Geometric building icon with stacked rectangular blocks
+- Typography: Modern sans-serif font, clean and simple
+- Color Palette: Blue-to-green gradient for icon, orange-red for "U", gray for remaining letters
+- Background: Clean white background
+- Style: Modern, minimalist, geometric
+- Mood: Professional, trustworthy, dynamic

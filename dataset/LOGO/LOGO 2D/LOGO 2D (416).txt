@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "STREET FOOD" với kiểu chữ viết tay táo bạo màu vàng nổi bật. Phía trên có chữ "MICHALOVCЕ" và phía dưới có chữ "FESTIVAL" được viết bằng font chữ đơn giản hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục tròn, chữ cái được sắp xếp theo dạng cong
+- Kiểu chữ: Chữ viết tay táo bạo cho từ chính, font sans-serif cho văn bản phụ
+- Bảng màu: Vàng tươi trên nền xám đậm
+- Nền: Nền xám đậm/than chì
+- Phong cách: Thủ công, năng động, hiện đại
+- Tông điệu: Vui tươi, thân thiện, hấp dẫn
+
+---
+
+Visual Description:
+The logo displays "STREET FOOD" in bold, hand-lettered yellow typography that dominates the design. Above and below are "MICHALOVCЕ" and "FESTIVAL" respectively, rendered in simpler fonts.
+
+Design Elements:
+- Shape: Circular layout with curved text arrangement
+- Typography: Bold hand-lettered script for main text, clean sans-serif for supporting text
+- Color Palette: Bright yellow on dark gray background
+- Background: Dark gray/charcoal
+- Style: Handcrafted, energetic, contemporary
+- Mood: Cheerful, approachable, appetizing

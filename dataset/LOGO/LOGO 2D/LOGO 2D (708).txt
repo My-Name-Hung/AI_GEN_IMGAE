@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một con bạch tuộc hoạt hình màu tím với đôi mắt tròn trắng ở bên trái. Bên cạnh là chữ "occy" viết thường bằng font chữ đơn giản, trong đó chữ "o" đầu tiên được thiết kế như một vòng tròn rỗng màu hồng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Con bạch tuộc hoạt hình với 8 xúc tu uốn cong và chữ viết thường
+- Kiểu chữ: Font chữ tròn, đơn giản, hiện đại không chân serif
+- Bảng màu: Tím đậm cho bạch tuộc, hồng magenta cho chữ, trắng cho mắt
+- Nền: Trắng/trong suốt
+- Phong cách: Hoạt hình, thân thiện, tối giản
+- Tông điệu: Vui tươi, đáng yêu, gần gũi
+
+---
+
+Visual Description:
+The logo features a purple cartoon octopus with round white eyes on the left side. Next to it is the lowercase text "occy" in a simple font, where the first "o" is designed as a hollow pink circle.
+
+Design Elements:
+- Shape: Cartoon octopus with 8 curved tentacles and lowercase lettering
+- Typography: Rounded, simple, modern sans-serif font
+- Color Palette: Deep purple for octopus, magenta pink for text, white for eyes
+- Background: White/transparent
+- Style: Cartoon, friendly, minimalist
+- Mood: Playful, cute, approachable

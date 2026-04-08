@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình vuông với nền màu xám đen và đường viền trắng mỏng. Văn bản "CHỢ QUAN" được hiển thị bằng chữ in hoa màu trắng ở trung tâm, với dòng chữ nhỏ hơn "NHÀ THỚ" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với đường viền
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa cho tên chính, chữ nhỏ có khoảng cách rộng
+- Bảng màu: Xám đen chủ đạo với chữ và viền màu trắng
+- Nền: Xám đen đậm
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Tinh tế, chuyên nghiệp, sang trọng
+
+---
+
+Visual Description:
+The logo features a square format with a dark charcoal gray background and thin white border. The text "CHỢ QUAN" appears in white uppercase letters at the center, with smaller text "NHÀ THỚ" below it.
+
+Design Elements:
+- Shape: Square with border frame
+- Typography: Modern sans-serif, uppercase for main title, smaller spaced text below
+- Color Palette: Dark charcoal gray with white text and border
+- Background: Dark charcoal gray
+- Style: Minimalist, modern, elegant
+- Mood: Sophisticated, professional, upscale

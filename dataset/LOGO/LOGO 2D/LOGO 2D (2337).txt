@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với hình chữ nhật được chia thành hai phần bằng đường viền trắng mỏng. Bên trái là ô vuông màu đen chứa chữ "O" màu trắng, bên phải là phần chữ "NHÀ CÀ PHÊ" với dòng phụ "CÀ PHÊ Ủ LẠNH" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật ngang được phân chia thành hai phần vuông và chữ nhật
+- Kiểu chữ: Chữ in hoa sans-serif đậm và rõ ràng cho tên thương hiệu, chữ nhỏ hơn cho slogan
+- Bảng màu: Đen và trắng tương phản mạnh
+- Nền: Nền đen hoàn toàn
+- Phong cách: Tối giản, hiện đại, geometry
+- Tông điệu: Chuyên nghiệp, tinh tế, sang trọng
+
+---
+
+Visual Description:
+The logo features a simple rectangular design divided into two sections with thin white borders. The left side contains a black square with a white "O", while the right side displays "NHÀ CÀ PHÊ" with the tagline "CÀ PHÊ Ủ LẠNH" below.
+
+Design Elements:
+- Shape: Horizontal rectangle divided into square and rectangular sections
+- Typography: Bold, clean sans-serif uppercase for brand name, smaller text for tagline
+- Color Palette: High contrast black and white
+- Background: Solid black background
+- Style: Minimalist, modern, geometric
+- Mood: Professional, sophisticated, elegant

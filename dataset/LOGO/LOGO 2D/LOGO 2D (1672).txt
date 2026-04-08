@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một con chuột máy tính được stylize hóa màu trắng với bánh xe cuộn ở giữa. Bên cạnh biểu tượng là dòng chữ "FIFA MOUSE" được viết bằng font chữ in hoa, đậm và rõ ràng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Con chuột máy tính oval với bánh xe cuộn tròn ở trung tâm
+- Kiểu chữ: Font sans-serif đậm, in hoa, hiện đại
+- Bảng màu: Trắng trên nền xanh lá cây đậm
+- Nền: Màu xanh lá cây đậm, đồng nhất
+- Phong cách: Minimalist, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, sạch sẽ, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a stylized white computer mouse icon with a scroll wheel in the center. Next to the icon is the text "FIFA MOUSE" written in bold, clear uppercase letters.
+
+Design Elements:
+- Shape: Oval computer mouse with circular scroll wheel in center
+- Typography: Bold sans-serif font, uppercase, modern
+- Color Palette: White on dark green background
+- Background: Solid dark green
+- Style: Minimalist, modern, tech-focused
+- Mood: Professional, clean, trustworthy

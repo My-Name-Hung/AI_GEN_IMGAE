@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "SAC FIT" được sắp xếp thành hai dòng với kiểu chữ in hoa màu xanh navy đậm. Bên trái văn bản có một biểu tượng hình chữ S cách điệu màu cam với các đường cong động và các dấu sóng nhỏ xung quanh tạo cảm giác chuyển động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng chữ S cách điệu với đường cong và dấu sóng, kết hợp văn bản hai dòng
+- Kiểu chữ: Sans-serif in hoa, đậm và rõ ràng
+- Bảng màu: Xanh navy đậm và cam/đỏ cam
+- Nền: Màu be/kem nhạt
+- Phong cách: Hiện đại, tối giản, năng động
+- Tông điệu: Chuyên nghiệp, năng lượng, thể thao
+
+---
+
+Visual Description:
+The logo displays "SAC FIT" arranged in two lines with bold navy blue uppercase letters. To the left of the text is a stylized orange S-shaped icon with flowing curves and small wave marks around it, creating a sense of movement and energy.
+
+Design Elements:
+- Shape: Stylized S icon with curves and wave elements, combined with two-line text layout
+- Typography: Bold, clean sans-serif uppercase lettering
+- Color Palette: Deep navy blue and orange/coral
+- Background: Light beige/cream
+- Style: Modern, minimalist, dynamic
+- Mood: Professional, energetic, fitness-oriented

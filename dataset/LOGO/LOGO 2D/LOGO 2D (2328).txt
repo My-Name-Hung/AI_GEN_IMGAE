@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "TÙNG MAI" bằng chữ in hoa màu vàng gold trên nền xám đậm. Bên dưới có dòng chữ nhỏ hơn "CÔNG TY LUẬT" và một đường kẻ ngang mảnh màu vàng ngăn cách giữa hai dòng text.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật, thiết kế đối xứng với đường kẻ ngang làm điểm nhấn
+- Kiểu chữ: Serif cổ điển, thanh lịch, chữ in hoa cho tên chính, chữ thường cho dòng phụ
+- Bảng màu: Vàng gold và xám đậm (charcoal)
+- Nền: Xám đậm đồng nhất
+- Phong cách: Tối giản, sang trọng, chuyên nghiệp
+- Tông điệu: Uy tín, đẳng cấp, nghiêm túc
+
+---
+
+Visual Description:
+The logo displays "TÙNG MAI" in gold uppercase letters on a dark gray background. Below it features smaller text reading "CÔNG TY LUẬT" with a thin horizontal gold line separating the two text elements.
+
+Design Elements:
+- Shape: Rectangular layout with symmetrical design and horizontal divider line
+- Typography: Classic serif font, elegant, uppercase for main name, lowercase for subtitle
+- Color Palette: Gold and dark charcoal gray
+- Background: Solid dark gray
+- Style: Minimalist, luxurious, professional
+- Mood: Authoritative, prestigious, serious

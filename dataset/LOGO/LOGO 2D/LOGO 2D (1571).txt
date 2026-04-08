@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị số "1" lớn màu xanh navy đậm với chữ "MAY" nhỏ được đặt ở phía trên bên phải. Thiết kế đơn giản với số "1" chiếm phần lớn không gian logo.
+
+Yếu tố Thiết kế:
+- Hình dạng: Số "1" đứng thẳng với phần chân rộng
+- Kiểu chữ: Sans-serif đậm cho cả số và chữ
+- Bảng màu: Xanh navy đậm trên nền xanh lá cây tươi
+- Nền: Xanh lá cây tươi sáng
+- Phong cách: Tối giản, hiện đại, typography
+- Tông điệu: Năng động, tươi mới, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a large dark navy "1" with small "MAY" text positioned in the upper right area. The design is simple and clean with the numeral "1" dominating the logo space.
+
+Design Elements:
+- Shape: Upright numeral "1" with wide base
+- Typography: Bold sans-serif for both number and text
+- Color Palette: Dark navy blue on bright lime green
+- Background: Bright lime green
+- Style: Minimalist, modern, typographic
+- Mood: Dynamic, fresh, trustworthy

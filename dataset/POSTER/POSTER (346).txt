@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng huy hiệu màu vàng cam với chữ "SUPER SALE" nổi bật ở giữa, được bao quanh bởi những đồng xu vàng bay lượn. Phần trên có dòng chữ "SPECIAL OFFER" và phía dưới ghi "ONLY TODAY" trên nền xanh dương gradient.
+
+Yếu tố Thiết kế:
+- Hình dạng: Huy hiệu lục giác bo tròn với hiệu ứng 3D
+- Kiểu chữ: Font chữ đậm, nổi bật kiểu block letter với hiệu ứng gradient
+- Bảng màu: Vàng cam chủ đạo, xanh dương nền, đỏ cho "SPECIAL OFFER"
+- Nền: Gradient xanh dương với các chấm tròn trắng trang trí
+- Phong cách: 3D, hiện đại, năng động
+- Tông điệu: Hấp dẫn, khuyến mãi, cấp bách
+
+---
+
+Visual Description:
+The logo features a golden-orange badge with prominent "SUPER SALE" text in the center, surrounded by floating golden coins. It includes "SPECIAL OFFER" text at the top and "ONLY TODAY" at the bottom, set against a blue gradient background.
+
+Design Elements:
+- Shape: Rounded hexagonal badge with 3D effects
+- Typography: Bold, prominent block letters with gradient effects
+- Color Palette: Dominant golden-orange, blue background, red accent for "SPECIAL OFFER"
+- Background: Blue gradient with decorative white dots
+- Style: 3D, modern, dynamic
+- Mood: Eye-catching, promotional, urgent

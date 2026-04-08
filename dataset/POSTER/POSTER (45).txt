@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "PRIME" được đặt trên một hình vuông màu xanh lá cây đậm với biểu tượng vương miện nhỏ phía trên. Bên trong hình vuông có chữ "NVORK" màu trắng được đặt cùng với một biểu tượng hình tròn có dấu kiểm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với các góc vuông, vương miện đơn giản phía trên
+- Kiểu chữ: Font chữ sans-serif hiện đại, in hoa, đậm
+- Bảng màu: Xanh lá cây đậm, trắng, đen
+- Nền: Trong suốt/trắng
+- Phong cách: Tối giản, hiện đại, doanh nghiệp
+- Tông điệu: Chuyên nghiệp, uy tín, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays "PRIME" text positioned above a dark green square containing "NVORK" in white lettering along with a circular checkmark symbol. A small crown icon sits above the word "PRIME" at the top.
+
+Design Elements:
+- Shape: Square with sharp corners, simple crown icon above
+- Typography: Modern sans-serif font, uppercase, bold weight
+- Color Palette: Dark green, white, black
+- Background: Transparent/white
+- Style: Minimalist, modern, corporate
+- Mood: Professional, authoritative, trustworthy

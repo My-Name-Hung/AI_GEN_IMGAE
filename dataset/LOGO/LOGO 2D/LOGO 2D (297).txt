@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tròn màu trắng có thiết kế giống như chữ "Q" cách điệu với một đuôi cong ở dưới. Bên cạnh biểu tượng là chữ "Quantum" được viết bằng font chữ sans-serif màu trắng, sạch sẽ và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn cách điệu dạng chữ Q với đuôi cong
+- Kiểu chữ: Sans-serif hiện đại, đơn giản, chữ hoa đầu tiên
+- Bảng màu: Trắng trên nền xanh navy đậm
+- Nền: Xanh navy đậm, gradient nhẹ
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sáng tạo
+
+---
+
+Visual Description:
+The logo features a white circular icon designed as a stylized "Q" with a curved tail extending from the bottom. Next to the icon is the word "Quantum" written in clean, modern white sans-serif typography.
+
+Design Elements:
+- Shape: Stylized circular Q-shaped icon with curved tail
+- Typography: Modern sans-serif, clean and simple, title case
+- Color Palette: White on deep navy blue
+- Background: Deep navy blue with subtle gradient
+- Style: Minimalist, modern, tech-focused
+- Mood: Professional, trustworthy, innovative

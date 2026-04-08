@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tam giác màu đen với hình ảnh một con hổ trắng bên trong. Bên dưới tam giác là dòng chữ "UN VERANO NARANJA" được viết bằng font chữ đậm màu trắng trên nền cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Tam giác đen chứa biểu tượng con hổ
+- Kiểu chữ: Font sans-serif đậm, chữ hoa
+- Bảng màu: Cam, đen, trắng
+- Nền: Màu cam rực rỡ
+- Phong cách: Hiện đại, năng động, đồ họa vector
+- Tông điệu: Mạnh mẽ, tươi trẻ, mùa hè
+
+---
+
+Visual Description:
+The logo features a black triangle containing a white tiger illustration. Below the triangle is the text "UN VERANO NARANJA" written in bold white letters against an orange background.
+
+Design Elements:
+- Shape: Black triangle containing tiger symbol
+- Typography: Bold sans-serif, uppercase lettering
+- Color Palette: Orange, black, white
+- Background: Vibrant orange
+- Style: Modern, dynamic, vector graphics
+- Mood: Bold, youthful, summery

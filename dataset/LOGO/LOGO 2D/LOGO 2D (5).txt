@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "T" được stylized với thiết kế đường viền nhiều lớp chồng lên nhau. Các đường viền tạo thành hiệu ứng chiều sâu và chuyển động với gradient màu sắc rực rỡ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái "T" với đường viền đa lớp, góc cạnh hiện đại
+- Kiểu chữ: Sans-serif đơn giản, đậm
+- Bảng màu: Gradient đa sắc từ cam, hồng, tím, xanh lam đến xanh lá
+- Nền: Trắng trong suốt
+- Phong cách: Hiện đại, gradient, tối giản, đa chiều
+- Tông điệu: Năng động, sáng tạo, công nghệ, trẻ trung
+
+---
+
+Visual Description:
+The logo displays a stylized letter "T" with multiple overlapping outline layers. The outlines create a depth effect and sense of movement with vibrant gradient coloring throughout the design.
+
+Design Elements:
+- Shape: Letter "T" with multi-layered outlines, modern angular edges
+- Typography: Simple, bold sans-serif
+- Color Palette: Multi-colored gradient from orange, pink, purple, blue to green
+- Background: Transparent white
+- Style: Modern, gradient, minimalist, dimensional
+- Mood: Dynamic, creative, tech-forward, youthful

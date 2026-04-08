@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm hai khối hình chữ nhật nằm ngang với kích thước khác nhau. Khối chính màu đỏ tươi chứa chữ "Huy Bách" màu trắng, bên cạnh là khối nhỏ hơn màu xám chứa dòng chữ nhỏ "Phòng trang bày nghệ thuật".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai khối chữ nhật nằm ngang, kích thước khác nhau
+- Kiểu chữ: Sans-serif đơn giản, dễ đọc
+- Bảng màu: Đỏ tươi chủ đạo, xám nhạt và trắng
+- Nền: Trong suốt
+- Phong cách: Tối giản, hiện đại, khối hình học
+- Tông điệu: Chuyên nghiệp, nổi bật, rõ ràng
+
+---
+
+Visual Description:
+The logo consists of two horizontal rectangular blocks of different sizes. The main block is bright red containing white text "Huy Bách", accompanied by a smaller gray block with small text "Phòng trang bày nghệ thuật".
+
+Design Elements:
+- Shape: Two horizontal rectangles of different sizes
+- Typography: Simple, readable sans-serif
+- Color Palette: Dominant bright red, light gray, and white
+- Background: Transparent
+- Style: Minimalist, modern, geometric blocks
+- Mood: Professional, prominent, clear

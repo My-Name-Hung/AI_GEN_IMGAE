@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "GIAO NHANH" với font chữ sans-serif đậm màu xanh lá cây đậm. Bên trái có biểu tượng hình con chim cách điệu màu xanh lá cây, tạo cảm giác chuyển động nhanh nhẹn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Con chim cách điệu với cánh xòe, kết hợp chữ viết hoa
+- Kiểu chữ: Sans-serif đậm, rõ ràng, dễ đọc
+- Bảng màu: Xanh lá cây đậm (teal) làm chủ đạo
+- Nền: Màu be nhạt/kem
+- Phong cách: Hiện đại, tối giản, biểu tượng động vật
+- Tông điệu: Năng động, nhanh nhẹn, tin cậy
+
+---
+
+Visual Description:
+The logo displays the brand name "GIAO NHANH" in bold teal sans-serif typography. On the left side, there's a stylized bird icon in the same teal color, suggesting swift movement and delivery.
+
+Design Elements:
+- Shape: Stylized bird with spread wings combined with uppercase text
+- Typography: Bold, clean sans-serif font
+- Color Palette: Dominant teal/dark green
+- Background: Light beige/cream color
+- Style: Modern, minimalist, animal symbol
+- Mood: Dynamic, swift, reliable

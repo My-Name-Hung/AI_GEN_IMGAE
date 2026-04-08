@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng nhịp tim màu trắng ở trung tâm với các đường zigzag mô phỏng đồ thị điện tim. Bên dưới là tên "HOÀN MỸ" bằng chữ in hoa màu trắng, theo sau là dòng chữ nhỏ hơn "TRUNG TÂM Y TẾ".
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng nhịp tim/sóng điện tim với đường nét góc cạnh
+- Kiểu chữ: Sans-serif in hoa, đậm và rõ ràng
+- Bảng màu: Cam đỏ và trắng
+- Nền: Màu cam đỏ đồng nhất
+- Phong cách: Tối giản, y tế, hiện đại
+- Tông điệu: Chuyên nghiệp, tin cậy, sức khỏe
+
+---
+
+Visual Description:
+The logo features a white heartbeat/pulse line icon in the center with zigzag lines mimicking an ECG rhythm. Below it displays "HOÀN MỸ" in white capital letters, followed by smaller text reading "TRUNG TÂM Y TẾ".
+
+Design Elements:
+- Shape: Heartbeat/pulse wave icon with angular geometric lines
+- Typography: Sans-serif uppercase, bold and clear
+- Color Palette: Orange-red and white
+- Background: Solid orange-red
+- Style: Minimalist, medical, modern
+- Mood: Professional, trustworthy, health-focused

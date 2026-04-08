@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ngọn hải đăng màu trắng được vẽ theo phong cách đơn giản và tinh tế. Bên dưới ngọn hải đăng có dòng chữ "Lighthouse" với phông chữ thanh lịch, và từ "STUDIO" được đặt nhỏ hơn bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ngọn hải đăng đơn giản hóa với các đường nét mảnh
+- Kiểu chữ: Phông chữ serif thanh lịch cho "Lighthouse", sans-serif đơn giản cho "STUDIO"
+- Bảng màu: Màu trắng chủ đạo trên nền xanh olive
+- Nền: Màu xanh olive/xanh lục nhạt
+- Phong cách: Tối giản, hiện đại, tinh tế
+- Tông điệu: Thanh lịch, chuyên nghiệp, yên bình
+
+---
+
+Visual Description:
+The logo features a simple white lighthouse icon drawn in a clean, minimalist style. Below the lighthouse is the text "Lighthouse" in an elegant font, with "STUDIO" in smaller text underneath.
+
+Design Elements:
+- Shape: Simplified lighthouse with thin, clean lines
+- Typography: Elegant serif font for "Lighthouse", simple sans-serif for "STUDIO"
+- Color Palette: Primarily white on olive green background
+- Background: Olive/sage green color
+- Style: Minimalist, modern, refined
+- Mood: Elegant, professional, serene

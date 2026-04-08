@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng hình tám (số 8) được tạo thành từ các đường kẻ ngang không liền mạch, có hiệu ứng như bị rách hoặc glitch. Bên dưới là dòng chữ "EIGHTH NOTE" được thiết kế với phong cách tương tự, có các phần bị đứt gãy tạo hiệu ứng độc đáo.
+
+Yếu tố Thiết kế:
+- Hình dạng: Số 8 lớn được tạo từ các đoạn thẳng không liền mạch
+- Kiểu chữ: Sans-serif đậm với hiệu ứng glitch/rách
+- Bảng màu: Đơn sắc đen trên nền trắng
+- Nền: Nền trắng sạch
+- Phong cách: Hiện đại, glitch, minimalist
+- Tông điệu: Sáng tạo, công nghệ, độc đáo
+
+---
+
+Visual Description:
+The logo features a large number "8" created from disconnected horizontal lines with a glitch or torn effect. Below it is the text "EIGHTH NOTE" designed in a similar fragmented style with broken segments creating a distinctive visual impact.
+
+Design Elements:
+- Shape: Large numeral 8 formed by disconnected horizontal line segments
+- Typography: Bold sans-serif with glitch/fragmented effect
+- Color Palette: Monochromatic black on white
+- Background: Clean white background
+- Style: Modern, glitch, minimalist
+- Mood: Creative, technological, distinctive

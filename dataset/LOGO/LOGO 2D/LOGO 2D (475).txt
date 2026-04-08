@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "done" được viết bằng font chữ đậm, hiện đại với màu đen trên nền xám nhạt. Ký tự "e" cuối cùng được thiết kế đặc biệt với dấu kiểm tích hợp vào trong, tạo thành một hộp vuông có dấu tick bên trong.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ thường kết hợp với hình vuông có dấu kiểm
+- Kiểu chữ: Font sans-serif đậm, hiện đại, các ký tự có độ rộng đồng đều
+- Bảng màu: Đen và xám nhạt
+- Nền: Xám nhạt đơn sắc
+- Phong cách: Tối giản, hiện đại, typography-based
+- Tông điệu: Chuyên nghiệp, hoàn thành, hiệu quả
+
+---
+
+Visual Description:
+The logo displays the word "done" in bold, modern black lettering on a light gray background. The final "e" character is specially designed with an integrated checkmark, forming a square box with a tick mark inside it.
+
+Design Elements:
+- Shape: Lowercase text combined with square checkbox element
+- Typography: Bold, modern sans-serif font with uniform character width
+- Color Palette: Black and light gray
+- Background: Solid light gray
+- Style: Minimalist, modern, typography-based
+- Mood: Professional, completion, efficiency

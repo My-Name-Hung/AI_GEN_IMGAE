@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là poster phim với chữ "SERENITY" được thiết kế như logo chính. Logo được đặt ở giữa poster, nằm trên một dải màu đỏ thẳng đứng tạo hiệu ứng chia đôi hình ảnh hai nhân vật chính.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết hoa thẳng, kéo dài theo chiều ngang
+- Kiểu chữ: Font sans-serif đậm, các chữ cái được khoảng cách đều nhau
+- Bảng màu: Chữ trắng nổi bật trên nền đỏ sẫm
+- Nền: Dải màu đỏ textured, có vết nứt hoặc vết xước
+- Phong cách: Hiện đại, tối giản, điện ảnh
+- Tông điệu: Căng thẳng, bí ẩn, kịch tính
+
+---
+
+Visual Description:
+This is a movie poster with "SERENITY" designed as the main logo. The logo is positioned in the center of the poster, placed on a vertical red stripe that creates a splitting effect between the two main characters' images.
+
+Design Elements:
+- Shape: Uppercase lettering, horizontally extended
+- Typography: Bold sans-serif font with evenly spaced letters
+- Color Palette: White text standing out against deep red background
+- Background: Textured dark red stripe with cracks or scratches
+- Style: Modern, minimalist, cinematic
+- Mood: Tense, mysterious, dramatic

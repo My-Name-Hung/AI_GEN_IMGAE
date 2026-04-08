@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo HSBC được thiết kế dưới dạng khối 3D màu trắng đặt trên nền đỏ tươi. Biểu tượng hình lục giác màu đỏ với hai tam giác trắng tạo thành hình mũi tên được đặt ở trung tâm, bên dưới là chữ "HSBC" màu đen in đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông bo góc 3D với biểu tượng lục giác và tam giác
+- Kiểu chữ: Sans-serif in hoa, phông chữ đậm và rõ ràng
+- Bảng màu: Đỏ, trắng và đen
+- Nền: Nền đỏ tươi đồng nhất
+- Phong cách: Hiện đại, 3D, tối giản, chuyên nghiệp
+- Tông điệu: Mạnh mẽ, tin cậy, năng động
+
+---
+
+Visual Description:
+The HSBC logo is designed as a white 3D block placed on a bright red background. A red hexagonal symbol with two white triangular arrows pointing toward each other is centered above the bold black "HSBC" text.
+
+Design Elements:
+- Shape: 3D rounded square block with hexagonal and triangular symbols
+- Typography: Bold sans-serif uppercase letters, clean and strong
+- Color Palette: Red, white, and black
+- Background: Solid bright red
+- Style: Modern, 3D, minimalist, corporate
+- Mood: Strong, trustworthy, dynamic

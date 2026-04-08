@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có một bông hoa lớn được vẽ bằng nét mảnh, tinh tế với các cánh hoa và nhụy hoa rõ ràng. Bên cạnh là một cành lá nhỏ được vẽ theo phong cách line art đơn giản và thanh lịch.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hoa và lá được vẽ theo phong cách line art với các đường nét mảnh
+- Kiểu chữ: Font chữ viết tay thanh lịch cho tên chính, font sans-serif đơn giản cho text phụ
+- Bảng màu: Màu nâu/đen cho chữ và hình vẽ, nền màu be/hồng nhạt
+- Nền: Nền màu be/hồng pastel nhẹ nhàng
+- Phong cách: Tối giản, nữ tính, organic, hand-drawn
+- Tông điệu: Lãng mạn, tinh tế, ấm áp
+
+---
+
+Visual Description:
+The logo features a delicate line-drawn flower with detailed petals and stamen, accompanied by a simple branch with leaves. The botanical elements are rendered in a minimalist, hand-drawn style with thin, elegant lines.
+
+Design Elements:
+- Shape: Floral and botanical line art with thin, delicate strokes
+- Typography: Elegant script font for main names, simple sans-serif for subtitle
+- Color Palette: Brown/black for text and illustrations, soft beige/pink background
+- Background: Light beige/pink pastel tone
+- Style: Minimalist, feminine, organic, hand-drawn
+- Mood: Romantic, delicate, warm

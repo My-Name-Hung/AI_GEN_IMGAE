@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một khối hình học trắng với các hình thoi màu vàng ở phần dưới, đang bị va chạm bởi một quả cầu phá hủy treo trên dây xích. Cảnh tượng tạo ra hiệu ứng nổ với các mảnh vỡ bay tung tóe xung quanh trong không gian xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối hộp chữ nhật với các hình thoi trang trí và quả cầu kim loại
+- Kiểu chữ: Chữ sans-serif đơn giản màu đen với các chữ cái H, P, U trong hình thoi
+- Bảng màu: Trắng, vàng, xám và đen
+- Nền: Nền xám nhạt với hiệu ứng khói mờ
+- Phong cách: Hiện đại, công nghiệp, 3D render
+- Tông điệu: Mạnh mẽ, năng động, ấn tượng
+
+---
+
+Visual Description:
+The logo shows a white geometric block with yellow diamond shapes at the bottom being struck by a suspended wrecking ball on a chain. The impact creates an explosive effect with debris and fragments scattered around in a gray atmospheric space.
+
+Design Elements:
+- Shape: Rectangular block with diamond decorations and metallic wrecking ball
+- Typography: Simple black sans-serif text with letters H, P, U within diamonds
+- Color Palette: White, yellow, gray, and black
+- Background: Light gray background with smoky atmospheric effects
+- Style: Modern, industrial, 3D rendered
+- Mood: Powerful, dynamic, impactful

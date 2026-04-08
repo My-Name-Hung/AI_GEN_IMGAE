@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm ba hình tròn được sắp xếp thành hình tam giác, mỗi hình tròn chứa một biểu tượng stylized giống như lá hoặc giọt nước. Các biểu tượng được thiết kế với đường nét cong mềm mại và có lỗ hổng ở trung tâm, tạo cảm giác động và hữu cơ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình tròn sắp xếp tam giác, chứa các biểu tượng giống lá/giọt nước
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trắng, tương phản cao
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hữu cơ, hiện đại
+- Tông điệu: Tự nhiên, cân bằng, tinh tế
+
+---
+
+Visual Description:
+The logo consists of three circles arranged in a triangular formation, each containing a stylized leaf or droplet-like symbol. The symbols feature curved, flowing lines with hollow centers, creating a sense of movement and organic flow.
+
+Design Elements:
+- Shape: Three circles in triangular arrangement containing leaf/droplet symbols
+- Typography: None (icon only)
+- Color Palette: Black and white, high contrast
+- Background: White/transparent
+- Style: Minimalist, organic, modern
+- Mood: Natural, balanced, refined

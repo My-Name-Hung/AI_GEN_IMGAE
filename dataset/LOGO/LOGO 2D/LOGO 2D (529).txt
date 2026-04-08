@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học tạo thành từ hai hình tam giác chồng lấp nhau bên trái, với văn bản "havlo" viết bằng chữ thường màu trắng. Hai hình tam giác có màu xanh dương và vàng cam tạo hiệu ứng gradient và độ sâu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình tam giác chồng lấp tạo thành biểu tượng hình học, kết hợp với chữ viết thẳng
+- Kiểu chữ: Sans-serif hiện đại, chữ thường, đơn giản và dễ đọc
+- Bảng màu: Xanh dương, vàng cam, trắng trên nền tím đậm
+- Nền: Tím đậm gradient
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Năng động, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo features a geometric icon made of two overlapping triangular shapes on the left, paired with the lowercase text "havlo" in white. The two triangular forms display blue and orange-yellow colors creating a gradient effect and dimensional depth.
+
+Design Elements:
+- Shape: Two overlapping triangular forms creating a geometric icon, combined with straight text
+- Typography: Modern sans-serif, lowercase, simple and clean
+- Color Palette: Blue, orange-yellow, white on dark purple background
+- Background: Deep purple gradient
+- Style: Modern, minimalist, geometric
+- Mood: Dynamic, creative, technological

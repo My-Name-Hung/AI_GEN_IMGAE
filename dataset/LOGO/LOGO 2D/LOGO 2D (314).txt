@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình đầu cáo hoặc sói được cách điệu với các đường nét góc cạnh và sắc nét. Thiết kế sử dụng màu đỏ tươi nổi bật trên nền đen, tạo ra hình ảnh động vật hung dữ với đôi tai nhọn và đôi mắt hẹp đầy uy hiếp.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình đầu cáo/sói cách điệu với các góc nhọn, tai dựng thẳng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đỏ tươi (#FF3366) trên nền đen
+- Nền: Nền đen trơn
+- Phong cách: Tối giản, cách điệu, hiện đại, gaming
+- Tông điệu: Hung dữ, mạnh mẽ, táo bạo, bí ẩn
+
+---
+
+Visual Description:
+The logo displays a stylized fox or wolf head with sharp, angular lines and pointed features. The design uses bright red color against a black background, creating a fierce animal image with pointed ears and narrow, threatening eyes.
+
+Design Elements:
+- Shape: Stylized fox/wolf head with sharp angles, upright pointed ears
+- Typography: None (icon only)
+- Color Palette: Bright red (#FF3366) on black background
+- Background: Solid black background
+- Style: Minimalist, stylized, modern, gaming-inspired
+- Mood: Fierce, powerful, bold, mysterious

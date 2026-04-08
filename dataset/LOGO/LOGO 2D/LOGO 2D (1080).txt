@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình silhouette của một người thợ săn hoặc chiến binh cầm súng trường màu xanh dương đậm, đứng trên một mảnh đất nhỏ. Bên cạnh hình ảnh là dòng chữ "ASHDLI" bằng font chữ đậm màu đen, với dòng chữ "STUDIOS" nhỏ hơn màu tím phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette người cầm súng, chữ cái vuông vức
+- Kiểu chữ: Font sans-serif đậm, chữ hoa
+- Bảng màu: Đen, xanh dương đậm, tím nhạt
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, game/studio
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo features a black silhouette of a hunter or warrior holding a dark blue rifle, standing on a small patch of ground. Next to the figure is the text "ASHDLI" in bold black letters, with smaller purple text reading "STUDIOS" below it.
+
+Design Elements:
+- Shape: Human silhouette with rifle, block letterforms
+- Typography: Bold sans-serif, uppercase
+- Color Palette: Black, dark blue, light purple
+- Background: White/transparent
+- Style: Minimalist, modern, gaming/studio aesthetic
+- Mood: Strong, professional, dynamic

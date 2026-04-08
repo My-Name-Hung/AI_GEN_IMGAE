@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình tròn màu trắng với biểu tượng tạ đơn giản ở trung tâm, được vẽ bằng đường nét đen mảnh. Xung quanh biểu tượng tạ là các dòng chữ tiếng Việt được sắp xếp theo hình vòng cung, với hai ngôi sao nhỏ trang trí ở hai bên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với biểu tượng tạ ở giữa
+- Kiểu chữ: Font sans-serif đơn giản, chữ in hoa và thường
+- Bảng màu: Đen trắng đơn sắc
+- Nền: Nền trắng với viền tròn
+- Phong cách: Tối giản, hiện đại, đơn giản
+- Tông điệu: Chuyên nghiệp, thể thao, năng động
+
+---
+
+Visual Description:
+The logo features a white circular design with a simple dumbbell icon in the center, drawn with thin black lines. Vietnamese text is arranged in curved arcs around the dumbbell symbol, with two small decorative stars positioned on either side.
+
+Design Elements:
+- Shape: Circular with central dumbbell icon
+- Typography: Simple sans-serif font, mix of uppercase and lowercase
+- Color Palette: Monochrome black and white
+- Background: White background with circular border
+- Style: Minimalist, modern, simple
+- Mood: Professional, athletic, energetic

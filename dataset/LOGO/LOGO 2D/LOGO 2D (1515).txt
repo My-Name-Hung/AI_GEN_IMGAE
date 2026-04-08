@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một hình khối 3D có dạng hộp vuông được stylize với các đường cong mềm mại. Trên mặt của khối có hai chấm tròn nhỏ tạo thành khuôn mặt đơn giản, bên cạnh là một phần tử hình học có dạng mũi tên hoặc dải băng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối hộp 3D isometric với góc cạnh bo tròn
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh navy đậm và xanh cyan sáng
+- Nền: Xanh cyan đồng nhất
+- Phong cách: Minimalist, isometric, hiện đại
+- Tông điệu: Thân thiện, công nghệ, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo depicts a stylized 3D cube or box with soft, rounded edges rendered in an isometric perspective. The cube features two small circular dots on its face creating a simple face expression, accompanied by a geometric ribbon-like or arrow element.
+
+Design Elements:
+- Shape: Isometric 3D cube with rounded corners
+- Typography: None (icon only)
+- Color Palette: Dark navy blue and bright cyan
+- Background: Solid cyan
+- Style: Minimalist, isometric, modern
+- Mood: Friendly, tech-savvy, professional

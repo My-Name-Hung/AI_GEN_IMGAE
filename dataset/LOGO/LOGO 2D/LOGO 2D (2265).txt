@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một bác sĩ đeo mũ có đèn khám phản quang và ống nghe trên nền màu xanh dương gradient. Phía dưới là tên thương hiệu "Hoàng An & Con trai" được viết bằng chữ màu trắng với kiểu chữ hiện đại, đơn giản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette bác sĩ đơn giản, icon hóa với mũ khám và ống nghe
+- Kiểu chữ: Sans-serif hiện đại, đơn giản, màu trắng
+- Bảng màu: Xanh dương gradient, trắng cho icon và text
+- Nền: Gradient xanh dương từ đậm đến nhạt
+- Phong cách: Tối giản, icon hóa, y tế
+- Tông điệu: Chuyên nghiệp, tin cậy, thân thiện
+
+---
+
+Visual Description:
+The logo features a simplified silhouette of a doctor wearing a head mirror and stethoscope against a blue gradient background. Below the icon is the brand name "Hoàng An & Con trai" written in clean white typography with modern, simple lettering.
+
+Design Elements:
+- Shape: Simple doctor silhouette iconography with head mirror and stethoscope
+- Typography: Modern sans-serif, clean and simple in white
+- Color Palette: Blue gradient background with white icon and text
+- Background: Blue gradient from dark to light
+- Style: Minimalist, iconographic, medical
+- Mood: Professional, trustworthy, approachable

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một dấu thập đơn giản màu vàng/gold ở trên cùng, bên dưới là dòng chữ "SÀI GÒN" với font chữ serif cổ điển, và dòng phụ "HỘI THÁNH BÁP TÍT" bằng chữ nhỏ hơn. Toàn bộ thiết kế được bố trí theo chiều dọc trên nền xanh navy đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Dấu thập đơn giản, bố cục dọc đối xứng
+- Kiểu chữ: Serif cổ điển, thanh lịch, có độ tương phản cao
+- Bảng màu: Vàng/gold và xanh navy đậm
+- Nền: Xanh navy đồng nhất
+- Phong cách: Tôn giáo, cổ điển, trang nghiêm
+- Tông điệu: Uy tín, thiêng liêng, thanh lịch
+
+---
+
+Visual Description:
+The logo features a simple golden cross at the top, followed by "SÀI GÒN" in classical serif typography, with a smaller subtitle "HỘI THÁNH BÁP TÍT" below. The entire design is arranged vertically in a centered, symmetrical layout on a deep navy blue background.
+
+Design Elements:
+- Shape: Simple cross, vertical symmetrical layout
+- Typography: Classical serif, elegant, high contrast
+- Color Palette: Gold/yellow and deep navy blue
+- Background: Solid navy blue
+- Style: Religious, classical, formal
+- Mood: Authoritative, sacred, elegant

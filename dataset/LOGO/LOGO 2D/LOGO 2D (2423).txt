@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế tối giản với 4 hình vuông nhỏ màu cam/vàng được sắp xếp thành lưới 2x2 ở phía trên. Phần văn bản hiển thị tên công ty "Manh & Quốc" bằng font chữ serif thanh lịch màu trắng, kèm dòng chữ "CÔNG TY LUẬT" màu cam bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: 4 hình vuông sắp xếp thành ma trận 2x2, layout dọc
+- Kiểu chữ: Font serif thanh lịch cho tên chính, font sans-serif cho tagline
+- Bảng màu: Nền xám đậm, chữ trắng, điểm nhấn cam/vàng
+- Nền: Màu xám đậm/nâu xám
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Uy tín, tin cậy, nghiêm túc
+
+---
+
+Visual Description:
+The logo features a minimalist design with four small orange/yellow squares arranged in a 2x2 grid at the top. The text displays the company name "Manh & Quốc" in elegant white serif font, with "CÔNG TY LUẬT" (Law Firm) in orange below.
+
+Design Elements:
+- Shape: Four squares in 2x2 matrix arrangement, vertical layout
+- Typography: Elegant serif font for main name, sans-serif for tagline
+- Color Palette: Dark gray background, white text, orange/yellow accents
+- Background: Dark gray/charcoal
+- Style: Minimalist, professional, modern
+- Mood: Trustworthy, reliable, serious

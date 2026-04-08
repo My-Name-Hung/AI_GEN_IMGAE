@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ viết tắt "NVL" bằng font chữ in hoa đậm màu trắng, kèm theo một đường thẳng dọc phân cách với dòng chữ "Nam Việt & liên danh" bằng font chữ mảnh hơn. Toàn bộ logo được đặt trên nền màu tím gradient từ sáng đến đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục ngang với đường phân cách dọc
+- Kiểu chữ: Font sans-serif hiện đại, chữ viết tắt đậm và tên công ty mảnh
+- Bảng màu: Trắng trên nền tím gradient
+- Nền: Gradient màu tím từ sáng đến đậm
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Sang trọng, đáng tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the initials "NVL" in bold white capital letters, followed by a vertical divider line and the text "Nam Việt & liên danh" in a thinner font. The entire logo is set against a purple gradient background transitioning from light to dark.
+
+Design Elements:
+- Shape: Horizontal layout with vertical divider
+- Typography: Modern sans-serif font, bold initials with thinner company name
+- Color Palette: White text on purple gradient
+- Background: Purple gradient from light to dark
+- Style: Minimalist, professional, contemporary
+- Mood: Sophisticated, trustworthy, professional

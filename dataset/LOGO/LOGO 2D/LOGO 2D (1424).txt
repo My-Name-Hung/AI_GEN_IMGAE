@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một chú cá màu xanh dương có đuôi và vây màu cam/vàng, được vẽ theo phong cách hoạt hình dễ thương. Bên cạnh hình cá là dòng chữ "BLOOM CLUB" được viết bằng font chữ in hoa màu xanh navy.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon cá hoạt hình với đuôi và vây trang trí
+- Kiểu chữ: Font sans-serif in hoa, đậm và rõ ràng
+- Bảng màu: Xanh dương, cam/vàng, xanh navy
+- Nền: Trắng/trong suốt
+- Phong cách: Hoạt hình, thân thiện, đơn giản
+- Tông điệu: Vui tươi, năng động, gần gũi
+
+---
+
+Visual Description:
+The logo features a cute cartoon-style blue fish with orange/yellow tail and fins positioned to the left of the text. Next to the fish illustration is the text "BLOOM CLUB" written in bold navy blue capital letters.
+
+Design Elements:
+- Shape: Cartoon fish icon with decorative tail and fins
+- Typography: Bold sans-serif uppercase font
+- Color Palette: Blue, orange/yellow, navy blue
+- Background: White/transparent
+- Style: Cartoon, friendly, minimalist
+- Mood: Playful, energetic, approachable

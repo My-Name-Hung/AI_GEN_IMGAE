@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình oval màu xanh lá cây với gradient từ xanh đậm đến xanh nhạt, được bao quanh bởi viền màu be/vàng nhạt. Chữ "Alvalle" được viết bằng font chữ trắng đậm nổi bật trên nền xanh, với ký hiệu ® ở cuối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Oval/ellipse ngang với viền kép
+- Kiểu chữ: Sans-serif đậm, chữ trắng có hiệu ứng nổi 3D
+- Bảng màu: Xanh lá cây gradient, trắng, be/vàng nhạt
+- Nền: Gradient xanh lá từ đậm đến nhạt
+- Phong cách: Hiện đại, gradient, hiệu ứng 3D
+- Tông điệu: Tự nhiên, tươi mới, thân thiện
+
+---
+
+Visual Description:
+The logo features an oval-shaped design in green with a gradient from dark to light green, surrounded by a cream/light yellow border. The word "Alvalle" is written in bold white letters that appear raised against the green background, with a registered trademark symbol at the end.
+
+Design Elements:
+- Shape: Horizontal oval/ellipse with double border
+- Typography: Bold sans-serif, white text with 3D raised effect
+- Color Palette: Green gradient, white, cream/light yellow
+- Background: Green gradient from dark to light
+- Style: Modern, gradient, 3D effects
+- Mood: Natural, fresh, friendly

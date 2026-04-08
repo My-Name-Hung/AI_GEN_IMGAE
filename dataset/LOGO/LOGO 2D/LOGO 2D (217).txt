@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "K" lớn màu đen với hình chim bồ câu trắng được tích hợp vào phần trên của chữ cái. Bên cạnh có một vòng tròn đen chứa hình chim bồ câu trắng đang bay với đôi cánh xòe rộng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ K kết hợp với hình chim bồ câu và vòng tròn
+- Kiểu chữ: Chữ sans-serif đậm cho chữ K, chữ serif cho text "Dove Letter K"
+- Bảng màu: Đen và trắng
+- Nền: Nền trắng với lưới hướng dẫn màu đỏ nhạt
+- Phong cách: Tối giản, biểu tượng, hiện đại
+- Tông điệu: Thanh lịch, hòa bình, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a large black letter "K" with a white dove silhouette integrated into the upper portion of the letter. Adjacent to it is a black circle containing a white dove in flight with spread wings.
+
+Design Elements:
+- Shape: Letter K combined with dove imagery and circular element
+- Typography: Bold sans-serif for the K, serif font for "Dove Letter K" text
+- Color Palette: Black and white
+- Background: White background with light red grid guidelines
+- Style: Minimalist, symbolic, modern
+- Mood: Elegant, peaceful, professional

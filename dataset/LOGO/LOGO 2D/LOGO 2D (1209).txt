@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng bướm được tạo thành từ bốn cánh bướm đối xứng. Thiết kế sử dụng hiệu ứng gradient từ hồng nhạt đến đỏ đậm, tạo cảm giác chiều sâu và sự chuyển động mượt mà.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bướm đối xứng với bốn cánh tạo thành hình chữ X
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ hồng nhạt đến đỏ sậm
+- Nền: Nền trắng
+- Phong cách: Tối giản, gradient, hiện đại
+- Tông điệu: Năng động, thanh lịch, nữ tính
+
+---
+
+Visual Description:
+The logo features a butterfly shape formed by four symmetrical wings. The design uses a gradient effect transitioning from light pink to deep red, creating a sense of depth and smooth movement.
+
+Design Elements:
+- Shape: Symmetrical butterfly with four wings forming an X pattern
+- Typography: None (icon only)
+- Color Palette: Pink to deep red gradient
+- Background: White background
+- Style: Minimalist, gradient, modern
+- Mood: Dynamic, elegant, feminine

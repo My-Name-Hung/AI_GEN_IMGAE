@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình vuông bo tròn 3D với viền màu trắng và phần trung tâm màu vàng cam. Bên trong có một hình vuông nhỏ hơn màu trắng được đặt ở vị trí hơi lệch về phía dưới bên phải, tạo hiệu ứng thị giác độc đáo.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông bo tròn 3D với hiệu ứng chiều sâu và đổ bóng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng cam chủ đạo, trắng cho viền và icon nhỏ
+- Nền: Gradient vàng cam từ sáng đến đậm
+- Phong cách: Hiện đại, 3D, tối giản, isometric
+- Tông điệu: Năng động, sáng tạo, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays a 3D rounded square with a white border and an orange-yellow center. Inside, there's a smaller white square positioned slightly offset toward the bottom right, creating a unique visual effect.
+
+Design Elements:
+- Shape: 3D rounded square with depth effect and shadow
+- Typography: None (icon only)
+- Color Palette: Orange-yellow dominant, white for border and small icon
+- Background: Orange-yellow gradient from light to deep
+- Style: Modern, 3D, minimalist, isometric
+- Mood: Dynamic, creative, professional

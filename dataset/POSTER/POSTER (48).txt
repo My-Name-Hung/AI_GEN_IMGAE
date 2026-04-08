@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình tam giác đơn giản và tối giản với đường viền màu đen. Bên dưới tam giác là dòng chữ "AADINATH" viết bằng chữ in hoa với font chữ hiện đại, sạch sẽ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Tam giác đối xứng, hình học đơn giản
+- Kiểu chữ: Chữ in hoa sans-serif, hiện đại và tối giản
+- Bảng màu: Đen trắng, đơn sắc
+- Nền: Nền trắng, trong suốt
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Chuyên nghiệp, thanh lịch, đơn giản
+
+---
+
+Visual Description:
+The logo displays a simple, minimalist triangle with black outline. Below the triangle is the text "AADINATH" written in uppercase letters with a modern, clean font.
+
+Design Elements:
+- Shape: Symmetrical triangle, simple geometric form
+- Typography: Uppercase sans-serif, modern and minimalist
+- Color Palette: Black and white, monochrome
+- Background: White, transparent background
+- Style: Minimalist, geometric, modern
+- Mood: Professional, elegant, simple

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "HẠNH PHÚC" bằng chữ in hoa màu trắng trên nền xanh lá cây đậm. Bên dưới có dòng chữ "PHÒNG KHÁM PHU SAN" và một câu slogan về chăm sóc sức khỏe phụ nữ, tất cả được sắp xếp theo kiểu căn giữa với các đường kẻ trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục hình chữ nhật với text được căn giữa, có các đường kẻ ngang làm điểm nhấn
+- Kiểu chữ: Serif thanh lịch cho tên chính, sans-serif đơn giản cho text phụ
+- Bảng màu: Chữ trắng trên nền xanh lá cây đậm
+- Nền: Xanh lá cây đậm, đồng nhất
+- Phong cách: Tối giản, y tế, chuyên nghiệp
+- Tông điệu: Tin cậy, an toàn, chăm sóc sức khỏe
+
+---
+
+Visual Description:
+The logo displays the brand name "HẠNH PHÚC" in white uppercase letters on a dark green background. Below it features "PHÒNG KHÁM PHU SAN" and a healthcare slogan, all center-aligned with decorative horizontal lines as design elements.
+
+Design Elements:
+- Shape: Rectangular layout with centered text arrangement, featuring horizontal line accents
+- Typography: Elegant serif for main title, simple sans-serif for supporting text
+- Color Palette: White text on dark green background
+- Background: Solid dark green
+- Style: Minimalist, medical, professional
+- Mood: Trustworthy, safe, healthcare-focused

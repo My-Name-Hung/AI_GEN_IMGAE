@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng lục giác với các lớp gradient chồng lên nhau tạo hiệu ứng chiều sâu. Trung tâm có màu tím đậm chuyển dần ra màu hồng nhạt ở các cạnh ngoài, tạo cảm giác như một hố xoáy hoặc đường hầm 3D.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác đồng tâm với hiệu ứng gradient xếp lớp
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ tím đậm đến hồng magenta và hồng nhạt
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, geometric, 3D
+- Tông điệu: Sáng tạo, công nghệ, năng động, tinh tế
+
+---
+
+Visual Description:
+The logo features a hexagonal shape with layered gradient effects creating a sense of depth. The center displays deep purple transitioning to light pink at the outer edges, resembling a swirl or 3D tunnel effect.
+
+Design Elements:
+- Shape: Concentric hexagons with layered gradient effect
+- Typography: None (icon only)
+- Color Palette: Gradient from deep purple to magenta and light pink
+- Background: White/transparent
+- Style: Modern, minimalist, geometric, 3D
+- Mood: Creative, technological, dynamic, sophisticated

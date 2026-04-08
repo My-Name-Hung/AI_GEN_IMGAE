@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng khiên màu trắng với dấu tick màu đỏ bên trong, đặt trên nền đỏ. Bên dưới là tên thương hiệu "BKAV" bằng chữ in hoa màu trắng đậm, kèm theo dòng tagline "PHẦN MỀM DIỆT VI RÚT" bằng chữ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khiên bảo vệ với dấu tick xác nhận
+- Kiểu chữ: Sans-serif đậm, in hoa cho tên thương hiệu, chữ nhỏ cho tagline
+- Bảng màu: Đỏ và trắng
+- Nền: Đỏ đồng nhất
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Tin cậy, bảo mật, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays a white shield icon with a red checkmark inside, set against a red background. Below it is the brand name "BKAV" in bold white capital letters, followed by the Vietnamese tagline "PHẦN MỀM DIỆT VI RÚT" in smaller text.
+
+Design Elements:
+- Shape: Shield with checkmark symbol
+- Typography: Bold sans-serif capitals for brand name, smaller text for tagline
+- Color Palette: Red and white
+- Background: Solid red
+- Style: Minimalist, modern, tech-oriented
+- Mood: Trustworthy, secure, professional

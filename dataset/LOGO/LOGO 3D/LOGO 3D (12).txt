@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng nơ-papillon vàng kim loại được đặt trên một khối vuông màu trắng ba chiều. Toàn bộ thiết kế có hiệu ứng đổ bóng và được trình bày trên nền màu vàng cam nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông bo góc 3D màu trắng với biểu tượng nơ-papillon vàng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng kim loại, trắng, nền vàng cam
+- Nền: Màu vàng cam gradient mềm mại
+- Phong cách: Ba chiều, hiện đại, tối giản
+- Tông điệu: Sang trọng, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays a golden metallic bowtie symbol positioned on a three-dimensional white rounded square block. The entire design features shadow effects and is presented against a soft golden-orange background.
+
+Design Elements:
+- Shape: 3D white rounded square block with golden bowtie emblem
+- Typography: None (icon only)
+- Color Palette: Metallic gold, white, golden-orange background
+- Background: Soft golden-orange gradient
+- Style: Three-dimensional, modern, minimalist
+- Mood: Luxurious, sophisticated, professional

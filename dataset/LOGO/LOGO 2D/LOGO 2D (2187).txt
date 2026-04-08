@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "HANH PHÚC" được viết bằng chữ in hoa màu trắng trên nền tím pastel. Bên dưới có dòng chữ "PHÒNG KHÁM PHỤ SẢN" cùng một câu slogan nhỏ hơn về chăm sóc sức khỏe phụ nữ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật đơn giản, căn giữa
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa cho tên chính, chữ thường cho slogan
+- Bảng màu: Chữ trắng trên nền tím lavender nhẹ nhàng
+- Nền: Màu tím pastel đồng nhất
+- Phong cách: Tối giản, y tế, chuyên nghiệp
+- Tông điệu: Nhẹ nhàng, tin cậy, ấm áp, nữ tính
+
+---
+
+Visual Description:
+The logo displays "HANH PHÚC" in white capital letters on a soft lavender background. Below it shows "PHÒNG KHÁM PHỤ SẢN" with a smaller tagline about women's healthcare in Vietnamese.
+
+Design Elements:
+- Shape: Simple rectangular layout, center-aligned
+- Typography: Modern sans-serif, uppercase for main name, lowercase for tagline
+- Color Palette: White text on soft lavender purple background
+- Background: Solid pastel purple
+- Style: Minimalist, medical, professional
+- Mood: Gentle, trustworthy, warm, feminine

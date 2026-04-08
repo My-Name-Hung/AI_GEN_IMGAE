@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một hình tròn đơn giản chứa các chữ cái "H" và "Q" được sắp xếp theo chiều dọc, với ba đường gạch ngắn ở phía trên. Bên cạnh là tên thương hiệu "HỒNG QUANG" với dòng slogan "Tư vấn trang trí nội thất" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn đơn giản với các yếu tố typography bên trong
+- Kiểu chữ: Font sans-serif đậm, rõ ràng cho tên thương hiệu và font nhỏ hơn cho slogan
+- Bảng màu: Đen trắng, tối giản
+- Nền: Màu be/cream nhạt
+- Phong cách: Tối giản, hiện đại, sạch sẽ
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, thanh lịch
+
+---
+
+Visual Description:
+The logo features a simple circular design containing the letters "H" and "Q" arranged vertically, with three short lines above them. Adjacent to this is the brand name "HỒNG QUANG" with the tagline "Tư vấn trang trí nội thất" below.
+
+Design Elements:
+- Shape: Simple circle with typographic elements inside
+- Typography: Bold, clear sans-serif font for brand name and smaller font for tagline
+- Color Palette: Black and white, minimalist
+- Background: Light beige/cream color
+- Style: Minimalist, modern, clean
+- Mood: Professional, trustworthy, elegant

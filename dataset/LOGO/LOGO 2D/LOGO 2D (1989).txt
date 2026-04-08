@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo văn bản tối giản với dòng chữ "nhà thờ an nam" được sắp xếp theo kiểu căn giữa trên nền màu be/vàng nhạt. Bên dưới có dòng chữ nhỏ hơn "GIAO HỘI VINH AN" và các đường kẻ ngang trang trí đơn giản ở hai bên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật với văn bản căn giữa, có đường kẻ ngang trang trí
+- Kiểu chữ: Font serif thanh lịch cho chữ chính, font sans-serif cho chữ phụ
+- Bảng màu: Chữ trắng trên nền màu be/vàng cát
+- Nền: Màu be/vàng cát đồng nhất
+- Phong cách: Tối giản, tinh tế, cổ điển
+- Tông điệu: Trang trọng, thanh lịch, tâm linh
+
+---
+
+Visual Description:
+A minimalist text-based logo featuring "nhà thờ an nam" centered on a beige/tan background. Below the main text is smaller text reading "GIAO HỘI VINH AN" with simple horizontal line decorations on either side.
+
+Design Elements:
+- Shape: Rectangular layout with centered text and decorative horizontal lines
+- Typography: Elegant serif font for main text, sans-serif for subtitle
+- Color Palette: White text on beige/tan background
+- Background: Solid beige/sand color
+- Style: Minimalist, refined, classical
+- Mood: Dignified, elegant, spiritual

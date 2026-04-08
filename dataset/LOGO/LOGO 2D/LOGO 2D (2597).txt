@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng nhà thờ đơn giản với hai tòa nhà có mái nhọn và tháp chuông, được vẽ bằng đường nét mảnh. Bên dưới là dòng chữ "Nhà thờ Tân Định" với slogan "Xây dựng sức mạnh đức tin".
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng nhà thờ với hai tòa nhà, tháp chuông và thập giá
+- Kiểu chữ: Font chữ hiện đại, thanh lịch cho tên chính, font nhỏ hơn cho slogan
+- Bảng màu: Xanh dương chủ đạo, xám nhạt cho slogan
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, line art
+- Tông điệu: Trang trọng, thanh tịnh, tâm linh
+
+---
+
+Visual Description:
+The logo features a simple church icon with two buildings having pointed roofs and a bell tower, drawn with thin line art. Below is the text "Nhà thờ Tân Định" with the tagline "Xây dựng sức mạnh đức tin".
+
+Design Elements:
+- Shape: Church icon with two buildings, bell tower and cross
+- Typography: Modern, elegant font for main text, smaller font for tagline
+- Color Palette: Primary blue, light gray for tagline
+- Background: White/transparent
+- Style: Minimalist, modern, line art
+- Mood: Dignified, serene, spiritual

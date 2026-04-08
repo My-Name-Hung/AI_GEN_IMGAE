@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn với viền màu xanh ngọc trên nền đen. Bên trong có chữ "Làn Sóng" màu trắng ở giữa, phía dưới là biểu tượng sóng nước stylized và dòng chữ "Phòng thu nhạc" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với viền mỏng, biểu tượng sóng nước cách điệu
+- Kiểu chữ: Font sans-serif hiện đại, chữ chính to nổi bật, chữ phụ nhỏ gọn
+- Bảng màu: Xanh ngọc (cyan), trắng, đen
+- Nền: Nền đen hoàn toàn
+- Phong cách: Tối giản, hiện đại, sạch sẽ
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo features a circular design with a cyan border on a black background. Inside the circle, "Làn Sóng" appears in white text in the center, with a stylized wave symbol below it and smaller text reading "Phòng thu nhạc."
+
+Design Elements:
+- Shape: Circular with thin border, stylized wave symbol
+- Typography: Modern sans-serif font, prominent main text with smaller subtitle
+- Color Palette: Cyan, white, black
+- Background: Solid black
+- Style: Minimalist, modern, clean
+- Mood: Professional, creative, dynamic

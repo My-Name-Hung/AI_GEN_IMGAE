@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một đầu lâu với mũ trùm đầu được đặt trong một khung hình thoi màu trắng, với hai thanh kiếm chéo nhau phía sau. Toàn bộ biểu tượng được đặt trên nền gradient từ tím sang hồng với dòng chữ "SKULL STRIKER1" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Đầu lâu trong khung thoi với thanh kiếm chéo
+- Kiểu chữ: Font chữ in hoa dày, phong cách gaming
+- Bảng màu: Trắng cho biểu tượng, gradient tím-hồng cho nền
+- Nền: Gradient từ tím sang hồng
+- Phong cách: Gaming, esports, gothic
+- Tông điệu: Mạnh mẽ, đe dọa, năng động
+
+---
+
+Visual Description:
+The logo features a hooded skull positioned within a white diamond-shaped frame, with two crossed swords behind it. The entire symbol is placed on a purple-to-pink gradient background with "SKULL STRIKER1" text below.
+
+Design Elements:
+- Shape: Hooded skull in diamond frame with crossed swords
+- Typography: Bold, uppercase gaming-style font
+- Color Palette: White for symbol, purple-pink gradient background
+- Background: Purple to pink gradient
+- Style: Gaming, esports, gothic
+- Mood: Aggressive, threatening, dynamic

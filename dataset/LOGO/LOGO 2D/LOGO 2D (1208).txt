@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng dấu cộng y tế được tạo thành từ bốn hình vuông bo góc. Các hình vuông có gradient màu xanh dương từ đậm đến nhạt, tạo hiệu ứng chiều sâu và chuyển tiếp mượt mà.
+
+Yếu tố Thiết kế:
+- Hình dạng: Dấu cộng y tế được cấu thành từ 4 hình vuông bo góc
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient xanh dương từ đậm đến nhạt, xanh navy đến xanh sky
+- Nền: Nền trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, gradient
+- Tông điệu: Chuyên nghiệp, y tế, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a medical cross shape formed by four rounded square elements. The squares display a blue gradient transitioning from dark navy blue to light sky blue, creating depth and smooth color flow.
+
+Design Elements:
+- Shape: Medical cross composed of 4 rounded squares
+- Typography: None (icon only)
+- Color Palette: Blue gradient from dark navy to light sky blue
+- Background: White/transparent
+- Style: Modern, minimalist, gradient
+- Mood: Professional, medical, trustworthy

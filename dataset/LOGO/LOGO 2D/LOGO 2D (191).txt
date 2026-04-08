@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "QUEST" được thiết kế với các chữ cái có màu sắc rực rỡ khác nhau. Phía trên có biểu tượng tòa nhà màu xanh dương, tạo nên một thiết kế năng động và đầy màu sắc.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái được stylize với các đường cong mềm mại, có biểu tượng kiến trúc ở trên
+- Kiểu chữ: Font chữ tùy chỉnh, bo tròn, hiện đại
+- Bảng màu: Vàng cam, xanh lá, xanh dương, hồng magenta, tím
+- Nền: Nền trắng trong suốt
+- Phong cách: Hiện đại, vui tươi, gradient, đa màu
+- Tông điệu: Năng động, sáng tạo, thân thiện
+
+---
+
+Visual Description:
+The logo displays the word "QUEST" designed with vibrant, multicolored letters in different hues. Above the text sits a blue building icon, creating a dynamic and colorful design composition.
+
+Design Elements:
+- Shape: Stylized letters with smooth curves, featuring an architectural icon above
+- Typography: Custom rounded, modern font
+- Color Palette: Orange-yellow, teal, blue, magenta pink, purple
+- Background: Transparent white background
+- Style: Modern, playful, gradient, multicolored
+- Mood: Dynamic, creative, friendly

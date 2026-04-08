@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế hình tròn với text "SAC FIT" ở phía trên và "GYM CLUB" được bố trí theo đường cong ở phía dưới. Trung tâm logo là hình ảnh một quả tạ với các đường cong động lực học, kết hợp với các biểu tượng nhỏ như dumbbell và ngôi sao.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục tròn với các yếu tố được sắp xếp đối xứng
+- Kiểu chữ: Font chữ in hoa, đậm, sans-serif hiện đại
+- Bảng màu: Xanh navy đậm trên nền cam coral
+- Nền: Màu cam coral đồng nhất
+- Phong cách: Hiện đại, thể thao, tối giản
+- Tông điệu: Năng động, chuyên nghiệp, mạnh mẽ
+
+---
+
+Visual Description:
+The logo features a circular design with "SAC FIT" text at the top and "GYM CLUB" arranged in a curved formation at the bottom. The center displays a stylized weight/barbell with dynamic curved lines, accompanied by small icons including dumbbells and a star.
+
+Design Elements:
+- Shape: Circular layout with symmetrically arranged elements
+- Typography: Bold, uppercase, modern sans-serif font
+- Color Palette: Dark navy blue on coral orange background
+- Background: Solid coral orange
+- Style: Modern, athletic, minimalist
+- Mood: Dynamic, professional, energetic

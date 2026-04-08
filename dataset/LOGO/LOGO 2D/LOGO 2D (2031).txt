@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng như một tấm bảng hiệu với góc trên bo tròn, chứa biểu tượng mặt trời tỏa sáng ở phía trên. Bên dưới là chữ "HL" in đậm và dòng chữ "KHÁCH SẠN HOÀNG LONG" được bố trí gọn gàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật bo góc trên, viền khung đơn giản
+- Kiểu chữ: Sans-serif hiện đại, chữ "HL" in hoa đậm, chữ phụ thanh mảnh
+- Bảng màu: Xanh dương nhạt trên nền be/kem
+- Nền: Màu be/kem nhạt, tối giản
+- Phong cách: Tối giản, chuyên nghiệp, thanh lịch
+- Tông điệu: Sang trọng, tin cậy, thân thiện
+
+---
+
+Visual Description:
+The logo features a badge-like shape with rounded top corners, containing a radiating sun symbol at the top. Below are bold "HL" letters and the text "KHÁCH SẠN HOÀNG LONG" arranged in a clean layout.
+
+Design Elements:
+- Shape: Rounded-top rectangular badge with simple border frame
+- Typography: Modern sans-serif, bold "HL" capitals, thinner supporting text
+- Color Palette: Light blue on beige/cream background
+- Background: Light beige/cream, minimalist
+- Style: Minimalist, professional, elegant
+- Mood: Sophisticated, trustworthy, welcoming

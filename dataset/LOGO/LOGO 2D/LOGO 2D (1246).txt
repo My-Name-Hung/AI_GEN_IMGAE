@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả hình ảnh một cơn lốc xoáy hoặc tornado được cách điệu với các đường cong động. Hình ảnh có màu đỏ đậm ở phần trên và chuyển sang màu xanh dương nhạt ở phần dưới, tạo cảm giác chuyển động xoay tròn mạnh mẽ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình xoáy ốc, tornado được cách điệu với đường cong linh hoạt
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đỏ đậm (maroon) chuyển sang xanh dương nhạt và trắng
+- Nền: Nền trắng, trong suốt
+- Phong cách: Hiện đại, động lực, gradient, cách điệu
+- Tông điệu: Mạnh mẽ, năng động, chuyển động
+
+---
+
+Visual Description:
+The logo depicts a stylized tornado or whirlwind with dynamic curved lines. The image features a dark red color at the top transitioning to light blue at the bottom, creating a sense of powerful rotational movement.
+
+Design Elements:
+- Shape: Spiral tornado form with flowing, dynamic curves
+- Typography: None (icon only)
+- Color Palette: Dark red (maroon) transitioning to light blue and white
+- Background: White, transparent background
+- Style: Modern, dynamic, gradient, stylized
+- Mood: Powerful, energetic, motion-based

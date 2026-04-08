@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "ROAD" với chữ "O" được thay thế bằng biểu tượng vô lăng xe hơi. Vô lăng có thiết kế tròn với ba chấm tay cầm và một chấm nhỏ ở giữa, tạo thành một biểu tượng xe hơi rõ ràng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng kết hợp với vô lăng tròn
+- Kiểu chữ: Chữ in hoa đậm, sans-serif, hiện đại
+- Bảng màu: Đen trên nền trắng (đơn sắc)
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, biểu tượng, hiện đại
+- Tông điệu: Chuyên nghiệp, rõ ràng, liên quan đến ô tô
+
+---
+
+Visual Description:
+The logo displays the word "ROAD" with the letter "O" replaced by a steering wheel icon. The steering wheel features a circular design with three spokes and a center dot, creating a clear automotive symbol.
+
+Design Elements:
+- Shape: Linear text combined with circular steering wheel
+- Typography: Bold, uppercase, sans-serif, modern
+- Color Palette: Black on white (monochrome)
+- Background: Clean white background
+- Style: Minimalist, iconic, modern
+- Mood: Professional, clear, automotive-focused

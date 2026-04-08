@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình hoa năm cánh được tạo thành từ các hình tròn chồng lấp nhau với hiệu ứng gradient từ xanh nhạt đến trong suốt. Bên cạnh là dòng chữ "Nhật Anh" bằng font chữ to, đậm màu trắng và dòng chữ nhỏ hơn "Công ty Đầu tư" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình hoa năm cánh tạo từ các vòng tròn chồng lấp
+- Kiểu chữ: Font sans-serif đậm, rõ ràng cho tên công ty
+- Bảng màu: Xanh lá cây chủ đạo, xanh nhạt cho biểu tượng, trắng cho chữ
+- Nền: Nền xanh lá cây đồng nhất
+- Phong cách: Hiện đại, tối giản, geometric
+- Tông điệu: Chuyên nghiệp, tin cậy, tươi mới
+
+---
+
+Visual Description:
+The logo features a five-petaled flower symbol created from overlapping circles with a gradient effect from light green to transparent. Next to it is the text "Nhật Anh" in large, bold white font with smaller text "Công ty Đầu tư" below.
+
+Design Elements:
+- Shape: Five-petaled flower symbol formed by overlapping circles
+- Typography: Bold, clean sans-serif font for company name
+- Color Palette: Dominant green, light green for symbol, white for text
+- Background: Solid green background
+- Style: Modern, minimalist, geometric
+- Mood: Professional, trustworthy, fresh

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "MAI LINH" được viết bằng chữ in hoa màu vàng nổi bật trên nền đen. Bên dưới có dòng chữ nhỏ hơn "THỂ HÌNH" và "TRUNG TÂM" được phân cách bởi một đường gạch ngang.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật dọc, cân đối và đơn giản
+- Kiểu chữ: Chữ serif cổ điển, in hoa, có độ dày vừa phải
+- Bảng màu: Vàng chủ đạo trên nền đen
+- Nền: Nền đen hoàn toàn
+- Phong cách: Tối giản, cổ điển, chuyên nghiệp
+- Tông điệu: Sang trọng, uy tín, mạnh mẽ
+
+---
+
+Visual Description:
+The logo displays "MAI LINH" written in prominent yellow capital letters against a black background. Below are smaller text elements "THỂ HÌNH" and "TRUNG TÂM" separated by a horizontal line.
+
+Design Elements:
+- Shape: Vertical rectangular layout, balanced and simple
+- Typography: Classical serif typeface, uppercase, medium weight
+- Color Palette: Dominant yellow on black background
+- Background: Solid black
+- Style: Minimalist, classical, professional
+- Mood: Elegant, trustworthy, strong

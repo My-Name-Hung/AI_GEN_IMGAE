@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình tròn với thiết kế cong mềm mại, tạo thành hình dạng giống như biểu tượng âm dương nhưng có các đường cong chảy động hơn. Biểu tượng màu đen nổi bật trên nền cam rực rỡ, tạo ra sự tương phản mạnh mẽ và thu hút.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với các đường cong chảy, giống âm dương cách điệu
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen và cam đậm
+- Nền: Cam rực rỡ, phẳng
+- Phong cách: Tối giản, hiện đại, biểu tượng
+- Tông điệu: Năng động, cân bằng, mạnh mẽ
+
+---
+
+Visual Description:
+The logo displays a circular icon with soft, flowing curved design elements that form a shape reminiscent of a yin-yang symbol but with more dynamic, flowing lines. The black symbol stands out prominently against a vibrant orange background, creating strong contrast and visual appeal.
+
+Design Elements:
+- Shape: Circular with flowing curves, stylized yin-yang form
+- Typography: None (icon only)
+- Color Palette: Black and vibrant orange
+- Background: Bright orange, flat
+- Style: Minimalist, modern, symbolic
+- Mood: Dynamic, balanced, bold

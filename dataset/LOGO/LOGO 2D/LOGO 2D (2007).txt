@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn màu trắng với chữ cái "D" và "T" được sắp xếp theo chiều dọc ở trung tâm, có một đường gạch ngang ngăn cách. Xung quanh vòng tròn là dòng chữ "ĐỨC TIN" ở phía trên và "THỰC ẨM CHỢ CUNG" ở phía dưới, được sắp xếp theo hình cung.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn với typography bao quanh và monogram trung tâm
+- Kiểu chữ: Font chữ thanh mảnh, in hoa, hiện đại
+- Bảng màu: Trắng trên nền hồng pastel
+- Nền: Màu hồng pastel đồng nhất
+- Phong cách: Tối giản, hiện đại, đối xứng
+- Tông điệu: Nhẹ nhàng, thanh lịch, tinh tế
+
+---
+
+Visual Description:
+The logo features a white circular design with the letters "D" and "T" arranged vertically in the center, separated by a horizontal line. Around the circle, text reading "ĐỨC TIN" appears at the top and "THỰC ẨM CHỢ CUNG" at the bottom, arranged in a curved format.
+
+Design Elements:
+- Shape: Circular with surrounding typography and central monogram
+- Typography: Clean, uppercase, modern sans-serif font
+- Color Palette: White on pastel pink background
+- Background: Solid pastel pink
+- Style: Minimalist, modern, symmetrical
+- Mood: Gentle, elegant, refined

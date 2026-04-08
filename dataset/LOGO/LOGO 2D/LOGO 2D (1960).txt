@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm tên thương hiệu "Tư Đông" được viết bằng font chữ màu nâu đậm với dấu mũ trên chữ "ô". Bên dưới có dòng chữ nhỏ "phần cứng & công cụ" và một đường gạch ngang màu cam làm điểm nhấn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng hàng với đường gạch ngang trang trí
+- Kiểu chữ: Font chữ hiện đại, sans-serif, có dấu thanh điệu tiếng Việt
+- Bảng màu: Nâu đậm cho chữ chính, cam cho đường gạch, xám cho chữ phụ
+- Nền: Màu be/kem nhạt
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Tin cậy, ổn định, thân thiện
+
+---
+
+Visual Description:
+The logo features the brand name "Tư Đông" written in dark brown font with Vietnamese diacritical marks including a circumflex accent. Below the main text is a smaller tagline "phần cứng & công cụ" with an orange horizontal line as an accent element.
+
+Design Elements:
+- Shape: Horizontal text layout with decorative underline
+- Typography: Modern sans-serif font with Vietnamese diacritical marks
+- Color Palette: Dark brown for main text, orange for accent line, gray for subtitle
+- Background: Light beige/cream color
+- Style: Minimalist, modern, professional
+- Mood: Trustworthy, stable, approachable

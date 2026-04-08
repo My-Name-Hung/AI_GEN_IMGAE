@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng 3D hình vuông bo góc màu trắng với một màn hình máy tính nhỏ màu hồng ở trung tâm. Màn hình có kim đồng hồ màu đen tạo thành hình chữ V, tượng trưng cho thời gian hoặc tốc độ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông 3D bo tròn các góc, có độ sâu và bóng đổ
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng chủ đạo, hồng neon, đen cho chi tiết
+- Nền: Gradient hồng neon đậm
+- Phong cách: 3D hiện đại, tối giản, isometric
+- Tông điệu: Năng động, công nghệ, sáng tạo
+
+---
+
+Visual Description:
+The logo displays a 3D white rounded square icon with a small pink computer monitor at its center. The monitor features black clock hands forming a V shape, symbolizing time or speed.
+
+Design Elements:
+- Shape: 3D rounded square block with depth and shadow
+- Typography: None (icon only)
+- Color Palette: Dominant white, neon pink, black details
+- Background: Bright neon pink gradient
+- Style: Modern 3D, minimalist, isometric
+- Mood: Dynamic, technological, creative

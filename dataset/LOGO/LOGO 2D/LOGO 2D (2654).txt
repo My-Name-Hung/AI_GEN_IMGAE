@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hình tròn với thiết kế lá cây cách điệu bên trong, được đặt phía trên dòng chữ "NHÀ THỜ TÂN ĐỊNH". Dưới tên chính có dòng chữ nhỏ hơn "XÂY DỰNG SỨC MẠNH ĐỨC TIN" làm slogan.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn với hình lá cây cách điệu, layout dọc
+- Kiểu chữ: Font chữ sans-serif hiện đại, in hoa, có khoảng cách rộng giữa các ký tự
+- Bảng màu: Màu kem/be nhạt trên nền xanh lá đậm
+- Nền: Nền xanh lá cây đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, tôn giáo
+- Tông điệu: Trang nghiêm, thanh tịnh, tự nhiên
+
+---
+
+Visual Description:
+The logo features a circular icon with a stylized leaf design inside, positioned above the text "NHÀ THỜ TÂN ĐỊNH". Below the main name is a smaller tagline "XÂY DỰNG SỨC MẠNH ĐỨC TIN".
+
+Design Elements:
+- Shape: Circular icon with stylized leaf motif, vertical layout
+- Typography: Modern sans-serif font, uppercase, wide letter spacing
+- Color Palette: Light cream/beige on dark green background
+- Background: Solid dark green
+- Style: Minimalist, modern, religious
+- Mood: Dignified, serene, natural

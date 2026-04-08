@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hai chữ cái "G" và "P" được kết hợp một cách sáng tạo với nhau. Chữ "G" có màu tím đậm bao quanh chữ "P" màu hồng tím ở bên trong, tạo thành một thiết kế đan xen và có chiều sâu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai chữ cái đan xen, chữ G bao quanh chữ P với đường cong mềm mại
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Tím đậm và hồng tím/đỏ tím
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, tối giản, gradient
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo displays two letters "G" and "P" creatively combined together. The "G" is in dark purple surrounding a pink-purple "P" inside, creating an interwoven design with depth and dimension.
+
+Design Elements:
+- Shape: Two interlocking letters, G wrapping around P with smooth curves
+- Typography: None (icon only)
+- Color Palette: Dark purple and pink-purple/magenta
+- Background: Transparent/white
+- Style: Modern, minimalist, gradient
+- Mood: Professional, creative, dynamic

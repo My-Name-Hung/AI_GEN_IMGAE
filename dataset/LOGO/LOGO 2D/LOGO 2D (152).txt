@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả hình ảnh một ngôi nhà với đường nét đơn giản được vẽ bằng đường thẳng và góc cạnh. Biểu tượng được đặt trong một vòng tròn với màu gradient chuyển từ đỏ sang cam, tạo hiệu ứng phát sáng trên nền đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng ngôi nhà đơn giản với đường nét hình học, vòng tròn bao quanh
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ đỏ đến cam/vàng cam
+- Nền: Nền đen
+- Phong cách: Minimalist, line art, hiện đại
+- Tông điệu: Chuyên nghiệp, năng động, ấm áp
+
+---
+
+Visual Description:
+The logo depicts a simple house icon drawn with clean geometric lines and angular shapes. The symbol is enclosed within a circular border featuring a gradient effect from red to orange, creating a glowing appearance against a black background.
+
+Design Elements:
+- Shape: Minimalist house icon with geometric lines, circular border
+- Typography: None (icon only)
+- Color Palette: Red to orange gradient
+- Background: Black
+- Style: Minimalist, line art, modern
+- Mood: Professional, dynamic, warm

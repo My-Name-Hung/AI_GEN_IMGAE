@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có ba hình cong màu xanh dương được sắp xếp song song và chồng lên nhau. Các đường cong này tạo thành hình dạng giống như dấu ngoặc kép hoặc ký hiệu trích dẫn, với gradient từ xanh dương đậm đến xanh dương nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba đường cong song song tạo hình dấu ngoặc kép
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient xanh dương từ đậm đến nhạt
+- Nền: Nền trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, gradient
+- Tông điệu: Chuyên nghiệp, năng động, tự tin
+
+---
+
+Visual Description:
+The logo features three curved blue shapes arranged in parallel and overlapping formation. These curves form a shape resembling quotation marks or speech symbols, with a gradient effect transitioning from deep blue to lighter blue.
+
+Design Elements:
+- Shape: Three parallel curved lines forming quotation mark-like symbol
+- Typography: None (icon only)
+- Color Palette: Blue gradient from dark to light blue
+- Background: White/transparent
+- Style: Minimalist, modern, gradient
+- Mood: Professional, dynamic, confident

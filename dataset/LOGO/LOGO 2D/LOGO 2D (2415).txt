@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Cộng Hoa" được viết bằng chữ thảo màu trắng trên nền xanh lá cây đậm. Bên dưới có dòng chữ nhỏ "Dịch vụ làm vườn" và một đường chấm trang trí nằm giữa hai dòng text.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo dạng chữ với đường chấm trang trí ngang
+- Kiểu chữ: Chữ viết tay phong cách thảo cho tên chính, chữ sans-serif cho dòng phụ
+- Bảng màu: Trắng trên nền xanh lá cây đậm
+- Nền: Màu xanh lá cây đậm đồng nhất
+- Phong cách: Tối giản, thanh lịch, tự nhiên
+- Tông điệu: Chuyên nghiệp, gần gũi với thiên nhiên, sang trọng
+
+---
+
+Visual Description:
+The logo displays "Cộng Hoa" written in white script lettering on a dark green background. Below it features smaller text reading "Dịch vụ làm vườn" with a decorative dotted line positioned between the two text elements.
+
+Design Elements:
+- Shape: Text-based logo with horizontal dotted accent line
+- Typography: Handwritten script style for main name, sans-serif for subtitle
+- Color Palette: White text on dark forest green background
+- Background: Solid dark green
+- Style: Minimalist, elegant, natural
+- Mood: Professional, nature-friendly, sophisticated

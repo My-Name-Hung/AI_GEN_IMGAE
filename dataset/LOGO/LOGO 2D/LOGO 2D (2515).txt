@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ký hiệu "&" được thiết kế với phong cách serif cổ điển, có màu be/vàng nhạt nổi bật trên nền xám. Bên dưới có dòng chữ "Dâu và" được sắp xếp theo cùng tone màu và phong cách.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ký hiệu "&" với đường cong mềm mại, có serif
+- Kiểu chữ: Font serif cổ điển cho cả ký hiệu và text
+- Bảng màu: Màu be/vàng nhạt trên nền xám trung tính
+- Nền: Nền xám đơn sắc
+- Phong cách: Cổ điển, tối giản, thanh lịch
+- Tông điệu: Sang trọng, tinh tế, ấm áp
+
+---
+
+Visual Description:
+The logo features an elegantly designed ampersand "&" symbol in a warm beige/light yellow color against a gray background. Below it, the text "Dâu và" appears in the same color scheme and complementary typography.
+
+Design Elements:
+- Shape: Curved ampersand with serif details and flowing lines
+- Typography: Classic serif font for both symbol and text
+- Color Palette: Warm beige/light yellow against neutral gray
+- Background: Solid gray background
+- Style: Classical, minimalist, elegant
+- Mood: Sophisticated, refined, warm

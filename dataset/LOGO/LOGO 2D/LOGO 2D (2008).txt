@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng hình tròn màu xám nhạt với hai chữ cái "P" được xếp chồng lên nhau ở trung tâm. Bên dưới là tên thương hiệu "PAKOCA" viết bằng chữ in hoa màu đen đậm, kèm theo dòng chữ nhỏ "KIẾN TRÚC" ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn kết hợp với monogram chữ P
+- Kiểu chữ: Sans-serif đậm và rõ ràng cho tên thương hiệu, chữ nhỏ cho slogan
+- Bảng màu: Xám nhạt cho biểu tượng, đen cho văn bản
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Thanh lịch, tin cậy, kiến trúc
+
+---
+
+Visual Description:
+The logo features a light gray circular symbol with two overlapping letter "P"s at its center. Below this is the brand name "PAKOCA" in bold black uppercase letters, accompanied by smaller text "KIẾN TRÚC" underneath.
+
+Design Elements:
+- Shape: Circular form with P monogram
+- Typography: Bold sans-serif for brand name, smaller text for tagline
+- Color Palette: Light gray for symbol, black for text
+- Background: White/transparent
+- Style: Minimalist, modern, professional
+- Mood: Elegant, trustworthy, architectural

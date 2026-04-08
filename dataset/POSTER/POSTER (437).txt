@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là thiết kế poster vuông với hình ảnh lá cọ xanh tươi chiếm khoảng một nửa diện tích, được chia cắt theo đường chéo tạo thành hình tam giác. Phần còn lại là nền trắng sạch với typography chữ đen in hoa "EXPLORE THE FOREST" làm tiêu đề chính.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với phân chia đường chéo tạo thành hai tam giác đối xứng
+- Kiểu chữ: Sans-serif đậm, in hoa, kết hợp với text nhỏ hơn ở góc
+- Bảng màu: Xanh lá cây tự nhiên, trắng và đen
+- Nền: Nền trắng sạch kết hợp với hình ảnh lá cọ xanh
+- Phong cách: Hiện đại, tối giản, geometric
+- Tông điệu: Tự nhiên, thám hiểm, năng động
+
+---
+
+Visual Description:
+This is a square poster design featuring fresh green palm leaves occupying roughly half the space, cut diagonally to form a triangle. The remaining area has a clean white background with bold black typography reading "EXPLORE THE FOREST" as the main headline.
+
+Design Elements:
+- Shape: Square format with diagonal division creating two symmetrical triangles
+- Typography: Bold sans-serif, uppercase, combined with smaller text in corners
+- Color Palette: Natural green, white, and black
+- Background: Clean white background combined with green palm leaf imagery
+- Style: Modern, minimalist, geometric
+- Mood: Natural, exploratory, dynamic

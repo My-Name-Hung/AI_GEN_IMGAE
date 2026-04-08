@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "spring church" bằng chữ thường màu xám đậm, được sắp xếp thành hai dòng. Bên phải có một chiếc lá stylized với hai tông màu xanh lá cây tạo hiệu ứng gradient từ xanh lá nhạt đến xanh lá đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng kết hợp với biểu tượng lá đơn giản
+- Kiểu chữ: Sans-serif hiện đại, chữ thường, đậm vừa phải
+- Bảng màu: Xám đậm cho text, xanh lá cây gradient cho lá
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Tươi mới, tự nhiên, ấm áp
+
+---
+
+Visual Description:
+The logo displays "spring church" in lowercase dark gray text arranged in two lines. To the right is a stylized leaf icon featuring two shades of green creating a gradient effect from light to dark green.
+
+Design Elements:
+- Shape: Clean typography combined with simple leaf symbol
+- Typography: Modern sans-serif, lowercase, medium weight
+- Color Palette: Dark gray for text, gradient green for leaf
+- Background: White/transparent
+- Style: Minimalist, modern, approachable
+- Mood: Fresh, natural, welcoming

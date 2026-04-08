@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trắng ở trên có dạng như một chiếc vương miện hoặc ngôi nhà cách điệu với các đường cắt góc sắc nét. Bên dưới là tên thương hiệu "ARNO" được viết bằng chữ in hoa đậm, và dòng chữ nhỏ hơn "PETRONIL" ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học angular, có thể gợi liên tưởng đến vương miện hoặc mái nhà
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa đậm cho tên chính, chữ nhỏ hơn cho tagline
+- Bảng màu: Trắng trên nền đen (monochrome)
+- Nền: Đen hoàn toàn
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, tinh tế
+
+---
+
+Visual Description:
+The logo features a white geometric icon at the top that resembles a stylized crown or angular house shape with sharp, cut edges. Below it is the brand name "ARNO" in bold uppercase letters, followed by smaller text reading "PETRONIL" underneath.
+
+Design Elements:
+- Shape: Angular geometric symbol suggesting a crown or architectural form
+- Typography: Modern sans-serif, bold uppercase for main name, smaller text for tagline
+- Color Palette: White on black (monochrome)
+- Background: Solid black
+- Style: Minimalist, modern, geometric
+- Mood: Professional, strong, sophisticated

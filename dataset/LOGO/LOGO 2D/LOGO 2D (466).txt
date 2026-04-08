@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng oval màu đỏ với chữ "tasty meats" màu trắng in đậm bên trong. Góc trên bên phải có một biểu tượng nhỏ màu trắng giống như tem chứng nhận halal.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình oval 3D với viền màu be/kem tạo hiệu ứng nổi
+- Kiểu chữ: Sans-serif đậm, chữ thường, dễ đọc
+- Bảng màu: Đỏ chủ đạo, trắng cho chữ, be/kem cho viền
+- Nền: Trắng và đỏ đậm (hai phiên bản)
+- Phong cách: Hiện đại, đơn giản, 3D nhẹ
+- Tông điệu: Thân thiện, ấm áp, hấp dẫn
+
+---
+
+Visual Description:
+The logo features a red oval shape with bold white text reading "tasty meats" inside. A small white halal certification symbol appears in the upper right corner of the oval.
+
+Design Elements:
+- Shape: 3D oval with beige/cream border creating a raised effect
+- Typography: Bold sans-serif, lowercase, highly legible
+- Color Palette: Dominant red, white text, beige/cream border
+- Background: White and dark red (two versions shown)
+- Style: Modern, simple, subtle 3D effect
+- Mood: Friendly, warm, appetizing

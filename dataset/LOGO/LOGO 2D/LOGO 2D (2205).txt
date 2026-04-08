@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm biểu tượng bánh răng màu xanh dương ở phía trên và văn bản "KỸ SƯ THÀNH PHÁT" bên dưới. Dòng chữ "XÂY DỰNG ĐỂ VỮNG BỀN" được đặt nhỏ hơn ở cuối logo.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng bánh răng tròn với các răng nhọn xung quanh và tâm tròn
+- Kiểu chữ: Font chữ sans-serif đậm, in hoa cho tên công ty, font mảnh hơn cho slogan
+- Bảng màu: Xanh dương chính, xanh nhạt cho biểu tượng
+- Nền: Trắng/trong suốt
+- Phong cách: Công nghiệp, hiện đại, tối giản
+- Tông điệu: Chuyên nghiệp, tin cậy, kỹ thuật
+
+---
+
+Visual Description:
+The logo features a blue gear icon at the top with the text "KỸ SƯ THÀNH PHÁT" below it. The tagline "XÂY DỰNG ĐỂ VỮNG BỀN" appears in smaller text at the bottom.
+
+Design Elements:
+- Shape: Circular gear icon with pointed teeth around the perimeter and central circle
+- Typography: Bold sans-serif font in caps for company name, thinner font for tagline
+- Color Palette: Primary blue, light blue for icon
+- Background: White/transparent
+- Style: Industrial, modern, minimalist
+- Mood: Professional, trustworthy, technical

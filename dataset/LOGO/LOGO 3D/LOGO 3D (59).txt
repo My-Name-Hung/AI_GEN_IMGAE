@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình hoa hay nút thắt phức tạp màu trắng được đặt trên nền hình vuông bo tròn màu xanh lục bạc hà. Thiết kế có hiệu ứng 3D với bề mặt bóng loáng và đổ bóng, tạo cảm giác như một khối hộp thực tế.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông bo góc với biểu tượng nút thắt đan xen phức tạp
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lục bạc hà và trắng
+- Nền: Gradient xanh lục từ nhạt đến đậm
+- Phong cách: 3D, hiện đại, tối giản
+- Tông điệu: Chuyên nghiệp, sạch sẽ, thân thiện
+
+---
+
+Visual Description:
+The logo displays a white interwoven flower or knot-like symbol placed on a mint green rounded square background. The design features 3D effects with glossy surfaces and shadows, creating the appearance of a realistic block or cube.
+
+Design Elements:
+- Shape: Rounded square with complex interlaced knot symbol
+- Typography: None (icon only)
+- Color Palette: Mint green and white
+- Background: Gradient green from light to darker tones
+- Style: 3D, modern, minimalist
+- Mood: Professional, clean, friendly

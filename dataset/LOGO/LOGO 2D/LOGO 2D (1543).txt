@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng hình tròn màu xanh lam với một chiếc lá màu xanh lá cây ở trên cùng, tạo thành hình ảnh giống như một chiếc chén hoặc bát. Bên cạnh biểu tượng là chữ "growin" viết thường bằng font chữ hiện đại màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn với chiếc lá, kết hợp với chữ viết ngang
+- Kiểu chữ: Font sans-serif hiện đại, chữ thường, đơn giản và dễ đọc
+- Bảng màu: Xanh navy đậm cho nền, xanh lá cây tươi cho lá, xanh lam cho biểu tượng tròn, trắng cho chữ
+- Nền: Màu xanh navy đậm, phẳng
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Tươi mới, tích cực, phát triển, tự nhiên
+
+---
+
+Visual Description:
+The logo features a circular blue icon with a green leaf on top, creating an image resembling a bowl or cup. Next to the icon is the lowercase text "growin" in white modern typography.
+
+Design Elements:
+- Shape: Circular icon with leaf element, combined with horizontal text
+- Typography: Modern sans-serif font, lowercase, clean and legible
+- Color Palette: Deep navy blue background, bright green leaf, blue circular icon, white text
+- Background: Solid deep navy blue
+- Style: Minimalist, modern, friendly
+- Mood: Fresh, positive, growth-oriented, natural

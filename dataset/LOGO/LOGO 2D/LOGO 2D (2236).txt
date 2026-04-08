@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế tối giản với biểu tượng thánh giá màu xanh tím phía trên. Bên dưới là văn bản "NHÀ THỜ TIN LÀNH" với font chữ serif thanh lịch, cùng dòng chữ phụ "CHUAÕ CANH CHÚNG TA" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Thánh giá đơn giản, bố cục dọc đối xứng
+- Kiểu chữ: Serif cổ điển, có khoảng cách chữ rộng
+- Bảng màu: Xanh tím cho thánh giá, nâu xám cho văn bản, nền be nhạt
+- Nền: Màu be/kem trung tính
+- Phong cách: Tối giản, cổ điển, tôn giáo
+- Tông điệu: Trang nghiêm, thanh thản, thiêng liêng
+
+---
+
+Visual Description:
+The logo features a minimalist design with a purple-blue cross symbol positioned above the text. Below is the text "NHÀ THỜ TIN LÀNH" in elegant serif typography, accompanied by smaller subtitle text "CHUAÕ CANH CHÚNG TA".
+
+Design Elements:
+- Shape: Simple cross symbol, vertically aligned symmetrical layout
+- Typography: Classic serif typeface with wide letter spacing
+- Color Palette: Purple-blue for cross, gray-brown for text, light beige background
+- Background: Neutral beige/cream color
+- Style: Minimalist, classical, religious
+- Mood: Solemn, peaceful, sacred

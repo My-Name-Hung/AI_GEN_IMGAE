@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng trừu tượng màu xanh dương ở phía trên, trông giống như một hình người đang tập thể dục hoặc chữ "t" cách điệu. Bên dưới là dòng chữ "turbo fit" được viết bằng font chữ đơn giản, trong đó "fit" có kích thước nhỏ hơn và được đặt ở vị trí trên cao.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng trừu tượng giống hình người tập luyện hoặc chữ "t" với các đường cong mềm mại
+- Kiểu chữ: Font sans-serif đơn giản, chữ thường, "turbo" lớn và "fit" nhỏ hơn
+- Bảng màu: Xanh dương đậm trên nền xám nhạt
+- Nền: Nền xám nhạt/trắng
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Năng động, tích cực, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features an abstract blue icon above the text that resembles a stylized person exercising or a decorative letter "t" with flowing curves. Below is the text "turbo fit" in simple typography, where "fit" is smaller and positioned as a superscript.
+
+Design Elements:
+- Shape: Abstract figure resembling an exercising person or stylized "t" with smooth, curved lines
+- Typography: Simple sans-serif font, lowercase letters, "turbo" large and "fit" smaller
+- Color Palette: Deep blue on light gray/white background
+- Background: Light gray/white
+- Style: Minimalist, modern, friendly
+- Mood: Dynamic, positive, professional

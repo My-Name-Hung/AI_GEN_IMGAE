@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình tròn với các đường viền màu xanh lá nhạt, bên trong chứa text tiếng Việt được sắp xếp theo từng dòng. Trung tâm logo có biểu tượng nhịp tim đơn giản kết hợp với tên thương hiệu "BÁC SĨ LY & LI".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với các đường phân chia ngang
+- Kiểu chữ: Font chữ đơn giản, không chân, màu xanh lá
+- Bảng màu: Xanh lá cây nhạt trên nền trắng
+- Nền: Nền trắng/kem nhạt
+- Phong cách: Tối giản, y tế, chuyên nghiệp
+- Tông điệu: Tin cậy, sạch sẽ, thân thiện
+
+---
+
+Visual Description:
+The logo features a circular design with light green border lines, containing Vietnamese text arranged in horizontal sections. The center displays a simple heartbeat symbol combined with the brand name "BÁC SĨ LY & LI".
+
+Design Elements:
+- Shape: Circular with horizontal dividing lines
+- Typography: Simple, sans-serif font in light green
+- Color Palette: Light green on white/cream background
+- Background: White/light cream
+- Style: Minimalist, medical, professional
+- Mood: Trustworthy, clean, friendly

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình vuông màu trắng với các đường kẻ ngang động, tạo cảm giác chuyển động nhanh. Bên cạnh là chữ "Giao Nhanh" được viết bằng font chữ đậm màu trắng, kèm theo slogan "Luôn giao hàng an toàn" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông stylized với các đường kẻ ngang thể hiện tốc độ
+- Kiểu chữ: Font sans-serif đậm, hiện đại cho tên thương hiệu, font nhỏ hơn cho slogan
+- Bảng màu: Trắng trên nền xanh petrol đậm
+- Nền: Màu xanh petrol/teal đậm, đơn sắc
+- Phong cách: Tối giản, hiện đại, biểu tượng vận chuyển
+- Tông điệu: Chuyên nghiệp, năng động, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a white square with horizontal speed lines creating a sense of fast movement. Next to it is "Giao Nhanh" written in bold white typography, with the tagline "Luôn giao hàng an toàn" below.
+
+Design Elements:
+- Shape: Stylized square with horizontal speed lines indicating velocity
+- Typography: Bold sans-serif font for brand name, smaller font for tagline
+- Color Palette: White on dark teal/petrol background
+- Background: Solid dark teal/petrol blue
+- Style: Minimalist, modern, delivery/logistics symbol
+- Mood: Professional, dynamic, trustworthy

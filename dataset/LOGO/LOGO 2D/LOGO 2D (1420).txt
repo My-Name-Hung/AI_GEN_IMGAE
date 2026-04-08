@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hai hình chữ "D" được kết hợp với nhau, một màu xanh dương và một màu đỏ san hô. Các hình dạng được thiết kế với đường viền đen dày và có một ô vuông nhỏ màu đen ở góc dưới bên trái.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai chữ "D" đan xen, ô vuông nhỏ
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương, đỏ san hô, đen, trắng
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, đối xứng
+- Tông điệu: Chuyên nghiệp, năng động, cân bằng
+
+---
+
+Visual Description:
+The logo displays two interlocking "D" shapes, one in blue and one in coral red. The shapes feature thick black outlines and include a small black square element in the bottom left corner.
+
+Design Elements:
+- Shape: Two interlocking letter "D"s, small square
+- Typography: None (icon only)
+- Color Palette: Blue, coral red, black, white
+- Background: White/transparent
+- Style: Modern, minimalist, symmetrical
+- Mood: Professional, dynamic, balanced

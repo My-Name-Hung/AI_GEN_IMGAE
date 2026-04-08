@@ -79,8 +79,7 @@ artifacts/
 cache/
 .tmp/
 frontend/
-dataset/
-dataset_processed/
+outputs/lora_poster/
 # If you want to keep folder structure, place .gitkeep in them
 !outputs/.gitkeep
 

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm văn bản "an an" được viết bằng font chữ hiện đại, màu xám nhạt, với từ "CÔNG NGHỆ" nhỏ hơn bên dưới. Phía bên phải có biểu tượng sóng wifi hoặc tín hiệu không dây với hai cung tròn màu cam và xanh lá cây, cùng một chấm tròn nhỏ màu cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Cung tròn đồng tâm tạo hình sóng wifi/tín hiệu, chấm tròn
+- Kiểu chữ: Font sans-serif hiện đại, không chân, đơn giản
+- Bảng màu: Xám nhạt, cam, xanh lá cây
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, năng động, kết nối
+
+---
+
+Visual Description:
+The logo features the text "an an" in modern gray typography with "CÔNG NGHỆ" in smaller text below. On the right side, there's a wifi or wireless signal icon consisting of two curved arcs in orange and green colors, along with a small orange dot.
+
+Design Elements:
+- Shape: Concentric curved arcs forming wifi/signal waves, circular dot
+- Typography: Modern sans-serif font, clean and simple
+- Color Palette: Light gray, orange, green
+- Background: White/transparent
+- Style: Minimalist, modern, tech-oriented
+- Mood: Professional, dynamic, connectivity

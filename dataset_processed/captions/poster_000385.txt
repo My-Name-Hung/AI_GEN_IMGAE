@@ -1,0 +1,1 @@
+poster_style, Một green nền với một recal icon. title: a green background with a recal icon

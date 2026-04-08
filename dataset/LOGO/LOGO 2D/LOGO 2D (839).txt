@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ba chiếc bánh quy tròn màu cam với những chấm đen, được sắp xếp theo trình tự từ nguyên vẹn, bị cắn một phần, đến bị cắn nhiều hơn. Bên dưới là chữ "CRUKIS" in hoa màu đen và chữ "cookies" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình tròn biểu diễn bánh quy với các giai đoạn bị ăn dần
+- Kiểu chữ: Font chữ sans-serif đậm, hiện đại cho "CRUKIS", chữ thường mảnh hơn cho "cookies"
+- Bảng màu: Cam, đen, và hồng pastel
+- Nền: Nền hồng pastel đồng nhất
+- Phong cách: Minh họa đơn giản, thân thiện, cartoon
+- Tông điệu: Vui tươi, ngọt ngào, thân thiện
+
+---
+
+Visual Description:
+The logo shows three orange circular cookies with black dots, arranged in a sequence from whole, to partially eaten, to more eaten. Below is the text "CRUKIS" in bold black uppercase letters and smaller "cookies" text.
+
+Design Elements:
+- Shape: Three circles representing cookies in progressive stages of being eaten
+- Typography: Bold, modern sans-serif font for "CRUKIS", thinner lowercase for "cookies"
+- Color Palette: Orange, black, and pastel pink
+- Background: Uniform pastel pink background
+- Style: Simple illustration, friendly, cartoonish
+- Mood: Playful, sweet, approachable

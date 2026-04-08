@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình chữ nhật được chia thành hai phần ngang với màu sắc tương phản. Phần trên màu xanh dương chứa văn bản chính "THỂ THAO 360 ĐỘ" bằng chữ trắng, phần dưới màu vàng cam chứa dòng chữ phụ "KÊNH THỂ THAO".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật được chia thành hai băng ngang
+- Kiểu chữ: Font sans-serif đậm, rõ ràng và dễ đọc
+- Bảng màu: Xanh dương chủ đạo, vàng cam làm điểm nhấn, chữ trắng
+- Nền: Hai màu nền phẳng, không có texture
+- Phong cách: Hiện đại, tối giản, corporate
+- Tông điệu: Chuyên nghiệp, năng động, tin cậy
+
+---
+
+Visual Description:
+The logo features a rectangular design divided into two horizontal sections with contrasting colors. The upper blue section contains the main text "THỂ THAO 360 ĐỘ" in white letters, while the lower orange section displays the subtitle "KÊNH THỂ THAO".
+
+Design Elements:
+- Shape: Rectangle divided into two horizontal bands
+- Typography: Bold, clean sans-serif font that's highly legible
+- Color Palette: Primary blue, accent orange/yellow, white text
+- Background: Flat two-tone background with no texture
+- Style: Modern, minimalist, corporate
+- Mood: Professional, dynamic, trustworthy

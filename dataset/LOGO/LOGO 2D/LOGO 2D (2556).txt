@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình vuông màu trắng với các đường nét hình học bên trong, tạo thành cấu trúc giống như khung cửa sổ hoặc ô vuông lồng nhau. Bên cạnh biểu tượng là dòng chữ "Thương hiệu Van Niên" được sắp xếp thành hai dòng với màu trắng nổi bật trên nền cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng vuông với các đường nét hình học lồng nhau, có hiệu ứng đổ bóng nhẹ
+- Kiểu chữ: Sans-serif hiện đại, in hoa và thường kết hợp, font chữ sạch sẽ
+- Bảng màu: Cam chủ đạo làm nền, trắng cho biểu tượng và chữ
+- Nền: Màu cam rực rỡ, đồng nhất
+- Phong cách: Tối giản, hiện đại, corporate, geometric
+- Tông điệu: Năng động, chuyên nghiệp, thân thiện, ấm áp
+
+---
+
+Visual Description:
+The logo features a white square icon with geometric lines inside creating a structure resembling nested squares or window frames. Adjacent to the icon is the text "Thương hiệu Van Niên" arranged in two lines with white lettering that stands out prominently against the orange background.
+
+Design Elements:
+- Shape: Square icon with nested geometric lines, featuring subtle shadow effects
+- Typography: Modern sans-serif, mixed case lettering, clean font
+- Color Palette: Dominant orange background with white for icon and text
+- Background: Solid vibrant orange
+- Style: Minimalist, modern, corporate, geometric
+- Mood: Dynamic, professional, friendly, warm

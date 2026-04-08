@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn màu cam chứa biểu tượng cây trắng với trái tim làm tán lá và các nhánh nhỏ. Bên dưới là dòng chữ "Yêu Cây" màu cam và "TỔ CHỨC" màu xám nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn chứa biểu tượng cây cách điệu
+- Kiểu chữ: Sans-serif đơn giản, chữ thường và in hoa
+- Bảng màu: Cam chủ đạo, trắng cho icon, xám nhạt cho text phụ
+- Nền: Trắng sạch
+- Phong cách: Tối giản, biểu tượng, hiện đại
+- Tông điệu: Ấm áp, yêu thương, gần gũi với thiên nhiên
+
+---
+
+Visual Description:
+The logo features an orange circular badge containing a white tree icon with a heart-shaped crown and small branches. Below it displays "Yêu Cây" in orange text and "TỔ CHỨC" in light gray.
+
+Design Elements:
+- Shape: Circular badge with stylized tree symbol
+- Typography: Simple sans-serif, lowercase and uppercase combination
+- Color Palette: Primary orange, white for icon, light gray for secondary text
+- Background: Clean white
+- Style: Minimalist, symbolic, modern
+- Mood: Warm, loving, nature-friendly

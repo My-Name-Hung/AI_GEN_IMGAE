@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình chữ "C" màu xanh đậm được cách điệu với thiết kế hiện đại và bo tròn. Bên trong có một hình tròn nhỏ màu trắng chứa văn bản "CLIF FAMILY FARM 1973".
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ "C" cách điệu với các góc bo tròn và hình tròn nhỏ bên trong
+- Kiểu chữ: Font chữ đơn giản, rõ ràng trong hình tròn nhỏ
+- Bảng màu: Xanh lá cây sáng làm nền, xanh đậm cho chữ "C", trắng cho văn bản
+- Nền: Màu xanh lá cây sáng đồng nhất
+- Phong cách: Hiện đại, tối giản, organic
+- Tông điệu: Tự nhiên, thân thiện, năng động
+
+---
+
+Visual Description:
+The logo features a stylized dark green letter "C" with modern, rounded design elements against a bright green background. Inside the "C" is a small white circular badge containing the text "CLIF FAMILY FARM 1973".
+
+Design Elements:
+- Shape: Stylized letter "C" with rounded corners and small circular element inside
+- Typography: Simple, clean font within the circular badge
+- Color Palette: Bright green background, dark green for the "C", white for text
+- Background: Solid bright green
+- Style: Modern, minimalist, organic
+- Mood: Natural, friendly, energetic

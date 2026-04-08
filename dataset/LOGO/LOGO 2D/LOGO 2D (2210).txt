@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng oval màu trắng với đường viền mỏng, nằm trên nền màu xanh nhạt. Bên trong có dòng chữ "THIẾT KẾ MANH ANH" được sắp xếp thành ba dòng, cùng với một đường cong nhỏ trang trí ở phía trên và dòng chữ nhỏ hơn ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Oval dọc với đường viền thanh thoát
+- Kiểu chữ: Font chữ serif thanh lịch, bố cục đối xứng và cân đối
+- Bảng màu: Trắng, đen và xanh pastel nhạt
+- Nền: Màu xanh mint/sage nhạt
+- Phong cách: Tối giản, thanh lịch, hiện đại
+- Tông điệu: Tinh tế, chuyên nghiệp, dịu dàng
+
+---
+
+Visual Description:
+The logo features a white oval shape with thin border lines set against a soft green background. Inside the oval is the text "THIẾT KẾ MANH ANH" arranged in three lines, with a small decorative curved line above and smaller text below.
+
+Design Elements:
+- Shape: Vertical oval with clean border lines
+- Typography: Elegant serif font with symmetrical and balanced layout
+- Color Palette: White, black, and soft pastel green
+- Background: Light mint/sage green
+- Style: Minimalist, elegant, modern
+- Mood: Refined, professional, gentle

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng mỏ neo màu xanh navy ở phần trên, bên dưới là dòng chữ "QUỸ KHUYẾN HỌC" bằng font chữ in hoa màu đỏ. Phía dưới cùng có tagline "Vì một tương lai tốt hơn" bằng chữ nghiêng màu xám nhạt, cùng với đường gạch ngang trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng mỏ neo đơn giản với hai cánh tay cong
+- Kiểu chữ: Font chữ in hoa sans-serif cho tên chính, chữ nghiêng cho tagline
+- Bảng màu: Xanh navy, đỏ, xám nhạt
+- Nền: Nền trắng
+- Phong cách: Đơn giản, chính thức, học thuật
+- Tông điệu: Nghiêm túc, đáng tin cậy, giáo dục
+
+---
+
+Visual Description:
+The logo features a navy blue anchor symbol at the top, below which is the text "QUỸ KHUYẾN HỌC" in red uppercase letters. At the bottom is the tagline "Vì một tương lai tốt hơn" in light gray italics, accompanied by a decorative horizontal line.
+
+Design Elements:
+- Shape: Simple anchor symbol with two curved arms
+- Typography: Sans-serif uppercase font for main text, italics for tagline
+- Color Palette: Navy blue, red, light gray
+- Background: White background
+- Style: Simple, formal, academic
+- Mood: Serious, trustworthy, educational

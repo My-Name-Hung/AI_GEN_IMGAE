@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một nhân vật thợ mỏ đang cầm cuốc, được thiết kế theo phong cách icon đơn giản. Người thợ mỏ đội mũ cứng màu vàng cam, mặc áo xám và có vẻ ngoài thân thiện với khuôn mặt có râu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật zagged với các đường viền bo tròn, nhân vật cartoon
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng cam, xám, nâu, xanh lá nhạt với đường viền đen
+- Nền: Nền trắng trong suốt
+- Phong cách: Cartoon, đơn giản, minh họa vector
+- Tông điệu: Thân thiện, năng động, công nghiệp
+
+---
+
+Visual Description:
+The logo depicts a miner character holding a pickaxe, designed in a simple icon style. The miner wears an orange-yellow hard hat, gray clothing, and has a friendly appearance with facial hair.
+
+Design Elements:
+- Shape: Rectangular frame with rounded corners, cartoon character figure
+- Typography: None (icon only)
+- Color Palette: Orange-yellow, gray, brown, light green with black outlines
+- Background: Transparent white background
+- Style: Cartoon, minimalist, vector illustration
+- Mood: Friendly, energetic, industrial

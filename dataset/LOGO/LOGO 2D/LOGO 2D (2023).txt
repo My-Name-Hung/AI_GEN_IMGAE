@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Linh Nguyên" bằng chữ màu cam rực rỡ, kèm theo dòng slogan "CỬA HÀNG VĂN PHÒNG PHẨM" bằng chữ nhỏ màu xám. Bên phải có biểu tượng là một cành lá xanh nhỏ tạo điểm nhấn tự nhiên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Typography chủ đạo kết hợp với icon lá cây đơn giản
+- Kiểu chữ: Font chữ sans-serif hiện đại, có độ dày vừa phải
+- Bảng màu: Cam chủ đạo, xanh lá cây, xám và trắng
+- Nền: Màu xanh mint nhạt
+- Phong cách: Tối giản, thân thiện, tự nhiên
+- Tông điệu: Ấm áp, gần gũi, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays "Linh Nguyên" in bright orange text, accompanied by the tagline "CỬA HÀNG VĂN PHÒNG PHẨM" in smaller gray text below. A small green leaf branch icon appears to the right, adding a natural accent to the design.
+
+Design Elements:
+- Shape: Typography-focused design with simple leaf icon
+- Typography: Modern sans-serif font with medium weight
+- Color Palette: Orange primary, green leaf, gray, and white
+- Background: Light mint green
+- Style: Minimalist, friendly, natural
+- Mood: Warm, approachable, professional

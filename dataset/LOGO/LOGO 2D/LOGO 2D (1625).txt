@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hình học màu xanh lá cây với các đường nét góc cạnh tạo thành hình dạng giống như chữ "B" cách điệu. Bên cạnh là dòng chữ "ROYAL BOTANIC" màu trắng được sắp xếp thành hai dòng với phông chữ sans-serif đậm và rõ ràng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học góc cạnh kết hợp với typography ngang
+- Kiểu chữ: Sans-serif đậm, chữ hoa, sắp xếp thành hai dòng
+- Bảng màu: Xanh lá cây và trắng
+- Nền: Màu xanh đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, geometric
+- Tông điệu: Chuyên nghiệp, tự nhiên, tin cậy
+
+---
+
+Visual Description:
+The logo features a green geometric icon with angular lines forming a stylized "B" shape. Next to it is white text reading "ROYAL BOTANIC" arranged in two lines with bold, clear sans-serif typography.
+
+Design Elements:
+- Shape: Angular geometric icon combined with horizontal typography
+- Typography: Bold sans-serif, uppercase, arranged in two lines
+- Color Palette: Green and white
+- Background: Solid dark green
+- Style: Modern, minimalist, geometric
+- Mood: Professional, natural, trustworthy

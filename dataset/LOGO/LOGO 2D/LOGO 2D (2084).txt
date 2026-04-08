@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Song Nhi" được viết bằng font chữ nghiêng màu trắng trên nền hồng pastel. Bên dưới có dòng chữ nhỏ hơn cùng màu trắng, tạo nên một thiết kế đơn giản và nữ tính.
+
+Yếu tố Thiết kế:
+- Hình dạng: Typography thuần túy, không có icon hay biểu tượng
+- Kiểu chữ: Font script nghiêng thanh lịch với dòng chữ phụ nhỏ hơn
+- Bảng màu: Chữ trắng trên nền hồng pastel
+- Nền: Màu hồng cam nhạt, đồng nhất
+- Phong cách: Tối giản, nữ tính, thanh lịch
+- Tông điệu: Dịu dàng, ấm áp, tinh tế
+
+---
+
+Visual Description:
+The logo displays the brand name "Song Nhi" written in white script font on a soft peach-pink background. Below the main text is a smaller line of white text, creating a simple and feminine design.
+
+Design Elements:
+- Shape: Pure typography with no icons or symbols
+- Typography: Elegant script font with smaller supporting text below
+- Color Palette: White text on soft peach-pink background
+- Background: Solid light pink-orange gradient
+- Style: Minimalist, feminine, elegant
+- Mood: Gentle, warm, delicate

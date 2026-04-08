@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "BLACK FRIDAY" được sắp xếp theo chiều dọc với "BLACK" ở phía trên và "FRIDAY" ở phía dưới. Có một hình ảnh đen trắng của những người mua sắm được đặt chồng lên phần văn bản, cùng với văn bản "50% OFF" màu trắng ở góc trên bên phải.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật với sắp xếp văn bản theo chiều dọc
+- Kiểu chữ: Font chữ in hoa đậm, hiện đại
+- Bảng màu: Đỏ, trắng, đen
+- Nền: Đỏ với các đường sọc chéo ở góc
+- Phong cách: Hiện đại, quảng cáo khuyến mãi
+- Tông điệu: Khẩn cấp, hấp dẫn, thương mại
+
+---
+
+Visual Description:
+The logo displays "BLACK FRIDAY" text arranged vertically with "BLACK" at the top and "FRIDAY" at the bottom. There's a black and white image of shoppers overlaid on the text, along with "50% OFF" text in white positioned in the upper right corner.
+
+Design Elements:
+- Shape: Rectangular layout with vertical text arrangement
+- Typography: Bold, modern sans-serif uppercase lettering
+- Color Palette: Red, white, black
+- Background: Red with diagonal stripes in corner
+- Style: Modern, promotional advertising
+- Mood: Urgent, enticing, commercial

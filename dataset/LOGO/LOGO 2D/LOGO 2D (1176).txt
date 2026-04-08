@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng bên trái với các hình khối màu hồng và đỏ tạo thành hình dạng giống như ngôi nhà hoặc mái nhà. Bên phải là dòng chữ "Digital Homes" được viết bằng font chữ hiện đại, màu trắng trên nền tím đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học trừu tượng kết hợp các khối tam giác và hình vuông
+- Kiểu chữ: Font sans-serif hiện đại, đơn giản, dễ đọc
+- Bảng màu: Tím đậm (nền), hồng coral, đỏ cam, trắng
+- Nền: Nền tím đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, geometric, công nghệ
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon on the left composed of pink and red angular shapes that form a house-like or roof structure. To the right is the text "Digital Homes" in a clean, modern white typeface against a dark purple background.
+
+Design Elements:
+- Shape: Abstract geometric icon combining triangular and square blocks
+- Typography: Modern sans-serif font, clean and readable
+- Color Palette: Deep purple (background), coral pink, red-orange, white
+- Background: Solid deep purple background
+- Style: Modern, minimalist, geometric, tech-focused
+- Mood: Professional, innovative, dynamic

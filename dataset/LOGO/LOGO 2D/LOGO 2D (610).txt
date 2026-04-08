@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn màu kem với viền màu xanh lá cây, ở trung tâm là biểu tượng chiếc lá đơn giản. Xung quanh viền có các dòng chữ tiếng Việt được sắp xếp theo hình cung và hai biểu tượng ngôi sao nhỏ làm điểm nhấn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với icon lá ở trung tâm
+- Kiểu chữ: Phông chữ sans-serif đơn giản, rõ ràng
+- Bảng màu: Xanh lá cây và màu kem/trắng ngà
+- Nền: Nền xanh lá cây đậm
+- Phong cách: Tối giản, thân thiện với môi trường, tự nhiên
+- Tông điệu: Sạch sẽ, tươi mát, thân thiện
+
+---
+
+Visual Description:
+The logo features a circular cream-colored badge with green borders, centered with a simple leaf icon. Vietnamese text curves around the perimeter, complemented by two small star symbols as decorative elements.
+
+Design Elements:
+- Shape: Circular with centered leaf icon
+- Typography: Clean, simple sans-serif font
+- Color Palette: Green and cream/off-white
+- Background: Dark green background
+- Style: Minimalist, eco-friendly, natural
+- Mood: Clean, fresh, approachable

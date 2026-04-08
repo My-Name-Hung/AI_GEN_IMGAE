@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một ngọn hải đăng được cách điệu ở phía trên với thiết kế đơn giản, có tháp cao và đèn phát sáng. Phía dưới là dòng chữ "NHÀ MÁY ĐIỆN" được sắp xếp theo ba dòng với font chữ đậm và vuông vức.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon hải đăng đơn giản với tháp và đèn, text được sắp xếp thành khối chữ nhật
+- Kiểu chữ: Font sans-serif đậm, chữ hoa, kiểu vuông vức
+- Bảng màu: Màu nâu đậm/xám đen trên nền be/kem
+- Nền: Nền màu be/kem nhạt
+- Phong cách: Tối giản, công nghiệp, retro
+- Tông điệu: Nghiêm túc, tin cậy, mạnh mẽ
+
+---
+
+Visual Description:
+The logo features a stylized lighthouse icon at the top with a simple design showing a tall tower and beacon light. Below it is the text "NHÀ MÁY ĐIỆN" arranged in three lines with bold, square typography.
+
+Design Elements:
+- Shape: Simple lighthouse icon with tower and beacon, text arranged in rectangular block formation
+- Typography: Bold sans-serif font, uppercase letters, blocky style
+- Color Palette: Dark brown/charcoal on cream/beige background
+- Background: Light cream/beige colored background
+- Style: Minimalist, industrial, retro
+- Mood: Serious, reliable, strong

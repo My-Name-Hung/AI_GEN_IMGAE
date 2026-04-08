@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hoa stylized với các cánh hoa gradient màu sắc rực rỡ ở bên trái và tên thương hiệu "Blossom" bằng chữ sans-serif màu trắng ở bên phải. Biểu tượng hoa có thiết kế hiện đại với các cánh hoa chồng lên nhau tạo thành hiệu ứng gradient từ cam, hồng đến tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hoa stylized với cánh hoa chồng lấp, bố cục ngang
+- Kiểu chữ: Sans-serif hiện đại, in thường, font chữ sạch sẽ
+- Bảng màu: Gradient cam, hồng, tím cho icon; chữ trắng
+- Nền: Màu xanh navy đậm
+- Phong cách: Hiện đại, tối giản, gradient trendy
+- Tông điệu: Năng động, sáng tạo, thân thiện
+
+---
+
+Visual Description:
+The logo features a stylized flower icon with vibrant gradient petals on the left side and the brand name "Blossom" in white sans-serif typography on the right. The flower icon has a modern design with overlapping petals creating a gradient effect from orange and pink to purple.
+
+Design Elements:
+- Shape: Stylized flower icon with overlapping petals, horizontal layout
+- Typography: Modern sans-serif, lowercase, clean font
+- Color Palette: Orange, pink, purple gradient for icon; white text
+- Background: Dark navy blue
+- Style: Modern, minimalist, trendy gradient
+- Mood: Dynamic, creative, friendly

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Болгарка" (máy mài góc) với từ "электрическая" (điện) ở phía trên trong một banner màu xanh lá cây. Logo được đặt trên hình ảnh sản phẩm máy mài góc màu xanh dương và đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết đậm, rõ ràng với banner chữ nhật
+- Kiểu chữ: Font chữ đậm, hiện đại, dễ đọc cho chữ Cyrillic
+- Bảng màu: Xanh lá cây cho banner, chữ trắng trên nền xanh, chữ đen cho tên chính
+- Nền: Nền trắng với hình ảnh sản phẩm làm backdrop
+- Phong cách: Công nghiệp, thực tế, thiết kế catalog sản phẩm
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, kỹ thuật
+
+---
+
+Visual Description:
+The logo displays the brand name "Болгарка" (angle grinder) with "электрическая" (electric) above it in a green banner. The logo is positioned over a product image of a blue and black angle grinder.
+
+Design Elements:
+- Shape: Bold, clear lettering with rectangular banner
+- Typography: Bold, modern, readable Cyrillic font
+- Color Palette: Green for banner, white text on green, black for main brand name
+- Background: White background with product image as backdrop
+- Style: Industrial, practical, product catalog design
+- Mood: Professional, reliable, technical

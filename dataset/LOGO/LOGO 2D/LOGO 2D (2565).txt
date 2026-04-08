@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình nửa vòng tròn giống như quạt hay mặt trời mọc với các tia sáng phát ra từ trung tâm. Phần icon sử dụng màu cam và tím tạo hiệu ứng gradient, kết hợp với dòng chữ "Nhóm Tự hào" và "Vì Sự Bình Đẳng" được sắp xếp phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Nửa vòng tròn với các tia phóng xạ từ trung tâm
+- Kiểu chữ: Font sans-serif hiện đại, chữ "Nhóm Tự hào" màu tím, chữ "Vì Sự Bình Đẳng" màu cam
+- Bảng màu: Gradient từ cam sang tím, chữ tím và cam
+- Nền: Nền trắng trong suốt
+- Phong cách: Hiện đại, tối giản, biểu tượng
+- Tông điệu: Tích cực, năng động, đoàn kết
+
+---
+
+Visual Description:
+The logo displays a semicircular shape resembling a fan or rising sun with radiating rays extending from the center. The icon uses orange and purple colors in a gradient effect, combined with the text "Nhóm Tự hào" and "Vì Sự Bình Đẳng" arranged below.
+
+Design Elements:
+- Shape: Semicircle with radiating rays from center
+- Typography: Modern sans-serif font, "Nhóm Tự hào" in purple, "Vì Sự Bình Đẳng" in orange
+- Color Palette: Orange to purple gradient, purple and orange text
+- Background: Clean white/transparent background
+- Style: Modern, minimalist, symbolic
+- Mood: Positive, energetic, united

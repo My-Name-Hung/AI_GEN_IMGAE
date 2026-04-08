@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình ngôi sao năm cánh màu vàng được đặt ở giữa với hai đường kẻ ngang mỏng kéo dài ra hai bên. Bên dưới là dòng chữ "GIANG QUÂN" in đậm màu đen, và cuối cùng là một khối chữ nhật màu vàng chứa dòng text "ĐỘI BÓNG RỔ".
+
+Yếu tố Thiết kế:
+- Hình dạng: Ngôi sao năm cánh làm điểm nhấn trung tâm với các đường kẻ ngang đối xứng
+- Kiểu chữ: Font chữ in hoa đậm, góc cạnh cho tên chính; font nhỏ hơn trong khung màu vàng
+- Bảng màu: Vàng (ngôi sao và khung), đen (chữ chính), trắng (nền)
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, thể thao, chuyên nghiệp
+- Tông điệu: Mạnh mẽ, năng động, tự tin
+
+---
+
+Visual Description:
+The logo features a five-pointed yellow star centered between two thin horizontal lines extending to both sides. Below is the text "GIANG QUÂN" in bold black letters, followed by a yellow rectangular banner containing "ĐỘI BÓNG RỔ".
+
+Design Elements:
+- Shape: Five-pointed star as central focal point with symmetrical horizontal lines
+- Typography: Bold, angular uppercase font for main name; smaller font within yellow banner
+- Color Palette: Yellow (star and banner), black (main text), white (background)
+- Background: Clean white background
+- Style: Minimalist, athletic, professional
+- Mood: Strong, dynamic, confident

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình tròn màu trắng đơn giản ở phần trên, giống như mặt trăng hoặc mặt trời. Bên dưới là dòng chữ "Trăng Ngọc" được viết bằng font chữ thảo thanh lịch, kèm theo dòng text phụ "TRUNG TÂM TẨY RĂNG" bằng chữ in hoa nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn hoàn hảo kết hợp với layout dọc đối xứng
+- Kiểu chữ: Font chữ thảo cursive cho tên chính, font sans-serif đơn giản cho slogan
+- Bảng màu: Trắng tinh khiết trên nền xanh navy đậm
+- Nền: Màu xanh navy đồng nhất
+- Phong cách: Tối giản, thanh lịch, hiện đại
+- Tông điệu: Chuyên nghiệp, tinh tế, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a simple white circle at the top, resembling a moon or sun. Below it is "Trăng Ngọc" written in elegant script lettering, followed by smaller all-caps text reading "TRUNG TÂM TẨY RĂNG".
+
+Design Elements:
+- Shape: Perfect circle combined with symmetrical vertical layout
+- Typography: Cursive script font for main name, simple sans-serif for tagline
+- Color Palette: Pure white on deep navy blue
+- Background: Solid navy blue
+- Style: Minimalist, elegant, modern
+- Mood: Professional, sophisticated, trustworthy

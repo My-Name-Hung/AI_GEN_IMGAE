@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng được tạo thành từ hai hình tam giác - một tam giác đen lớn ở phía trên bên trái và một tam giác đỏ nhỏ hơn ở phía dưới bên phải. Bên dưới biểu tượng là tên thương hiệu "AWERTIS" được viết bằng chữ in hoa đậm màu đen, kèm theo dòng chữ nhỏ hơn "ARCHITECTURE" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai tam giác đan xen tạo thành hình chữ A cách điệu
+- Kiểu chữ: Chữ sans-serif đậm, hiện đại cho tên chính và chữ nhỏ mảnh cho slogan
+- Bảng màu: Đen, đỏ và trắng
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, sáng tạo
+
+---
+
+Visual Description:
+The logo features an abstract geometric symbol composed of two triangles - a larger black triangle on the upper left and a smaller red triangle on the lower right. Below the symbol is the brand name "AWERTIS" in bold black uppercase letters, followed by the smaller text "ARCHITECTURE" underneath.
+
+Design Elements:
+- Shape: Two interlocking triangles forming a stylized letter A
+- Typography: Bold sans-serif for main text and thin lettering for tagline
+- Color Palette: Black, red, and white
+- Background: Clean white background
+- Style: Minimalist, geometric, modern
+- Mood: Professional, strong, creative

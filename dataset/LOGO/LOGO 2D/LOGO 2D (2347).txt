@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm hai hình tròn giao nhau ở phía trên, một màu cam và một màu xám tạo thành vùng chồng lấp. Phía dưới là tên thương hiệu "Lôi Chấn Vũ" bằng chữ đen in đậm và dòng chữ nhỏ "TỪ NĂM 2004" màu cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình tròn giao nhau, typography đơn giản
+- Kiểu chữ: Font sans-serif in đậm, có dấu tiếng Việt
+- Bảng màu: Cam, xám và đen
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, năng động
+
+---
+
+Visual Description:
+The logo features two overlapping circles at the top - one orange and one gray creating an intersection area. Below is the brand name "Lôi Chấn Vũ" in bold black text with a smaller orange tagline "TỪ NĂM 2004".
+
+Design Elements:
+- Shape: Two intersecting circles, clean typography layout
+- Typography: Bold sans-serif font with Vietnamese diacritics
+- Color Palette: Orange, gray, and black
+- Background: White/transparent
+- Style: Minimalist, modern, geometric
+- Mood: Professional, trustworthy, dynamic

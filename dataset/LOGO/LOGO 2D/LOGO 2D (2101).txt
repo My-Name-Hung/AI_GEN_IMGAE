@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với văn bản màu đen trên nền trắng, được đặt trong khung hình chữ nhật. Tên thương hiệu "KHOAI LANG THANG" được viết bằng chữ in hoa với khoảng cách đều, bên dưới có dòng chữ nhỏ hơn "TẬP CHÍ DU LỊCH" và được ngăn cách bởi các đường kẻ ngang.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật đơn giản, bố cục đối xứng
+- Kiểu chữ: Sans-serif, chữ in hoa, khoảng cách rộng, phong cách tối giản
+- Bảng màu: Đen trên nền trắng, viền cam đào
+- Nền: Màu cam đào/hồng cam nhạt
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Chuyên nghiệp, thân thiện, ấm áp
+
+---
+
+Visual Description:
+The logo features simple black text on a white background within a rectangular frame. The brand name "KHOAI LANG THANG" is displayed in uppercase letters with even spacing, followed by smaller text "TẬP CHÍ DU LỊCH" below, separated by horizontal lines.
+
+Design Elements:
+- Shape: Simple rectangle with symmetrical layout
+- Typography: Sans-serif, uppercase, wide letter spacing, minimalist style
+- Color Palette: Black text on white background with peach/coral border
+- Background: Soft peach/coral color
+- Style: Minimalist, modern, elegant
+- Mood: Professional, friendly, warm

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "IROOT" với chữ "Pro" được đặt trong khung màu xanh lá cây ở góc phải trên. Bên dưới logo là hình ảnh một thiết bị nha khoa cầm tay màu đen và xanh lá cây với màn hình hiển thị số.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ sans-serif đơn giản với nhãn "Pro" hình chữ nhật
+- Kiểu chữ: Font chữ hoa đậm, hiện đại, không chân
+- Bảng màu: Trắng cho chữ chính, xanh lá cây cho nhãn "Pro"
+- Nền: Nền tối/đen
+- Phong cách: Y tế, công nghệ, tối giản
+- Tông điệu: Chuyên nghiệp, hiện đại, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays "IROOT" with "Pro" placed in a green rectangular badge in the upper right corner. Below the logo is an image of a black and green handheld dental device with a digital display showing numbers.
+
+Design Elements:
+- Shape: Simple sans-serif lettering with rectangular "Pro" label
+- Typography: Bold, modern, uppercase sans-serif font
+- Color Palette: White for main text, green for "Pro" badge
+- Background: Dark/black background
+- Style: Medical, technological, minimalist
+- Mood: Professional, modern, trustworthy

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "AINSEA" được viết bằng chữ in hoa với phông chữ hiện đại, thanh lịch. Bên dưới có dòng chữ nhỏ hơn "THỜI TRANG" được đặt cách đều và có khoảng cách giữa các ký tự.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo dạng text ngang, bố cục đối xứng
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa, font phụ nhỏ hơn cho slogan
+- Bảng màu: Đen trên nền trắng
+- Nền: Nền trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, tinh tế
+- Tông điệu: Sang trọng, chuyên nghiệp, thanh lịch
+
+---
+
+Visual Description:
+The logo displays the brand name "AINSEA" in uppercase letters using a modern, elegant typeface. Below it is the smaller text "THỜI TRANG" with letter spacing and positioned centrally beneath the main brand name.
+
+Design Elements:
+- Shape: Horizontal text-based logo with symmetrical layout
+- Typography: Modern sans-serif, uppercase primary text, smaller secondary font for tagline
+- Color Palette: Black on white
+- Background: White/transparent background
+- Style: Minimalist, modern, refined
+- Mood: Luxurious, professional, elegant

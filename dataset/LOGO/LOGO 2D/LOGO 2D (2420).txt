@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình tròn gradient màu vàng cam với lỗ trống ở giữa, tạo thành hình dạng giống như chiếc bánh donut. Bên cạnh là tên thương hiệu "Hòa Bình" được viết bằng font chữ sans-serif màu trắng đậm, kèm theo dòng chữ phụ "Trường Kinh doanh" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn rỗng (donut) với hiệu ứng gradient
+- Kiểu chữ: Sans-serif đậm, hiện đại, dễ đọc
+- Bảng màu: Gradient vàng cam, chữ trắng trên nền đen
+- Nền: Nền đen hoàn toàn
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Ấm áp, đáng tin cậy, năng động
+
+---
+
+Visual Description:
+The logo features a golden-orange gradient circular ring with a hollow center, resembling a donut shape. Next to it is the brand name "Hòa Bình" written in bold white sans-serif font, with the tagline "Trường Kinh doanh" below it.
+
+Design Elements:
+- Shape: Hollow circle (donut) with gradient effect
+- Typography: Bold, modern sans-serif, highly legible
+- Color Palette: Golden-orange gradient, white text on black background
+- Background: Solid black
+- Style: Minimalist, modern, professional
+- Mood: Warm, trustworthy, dynamic

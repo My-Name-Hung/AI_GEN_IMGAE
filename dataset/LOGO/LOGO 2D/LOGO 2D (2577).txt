@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng chiếc bánh hamburger được vẽ theo phong cách đường nét đơn giản với màu xanh lá cây. Bên dưới là tên thương hiệu "HỒNG PHÚC" bằng chữ in hoa màu cam đậm, kèm theo dòng slogan "QUÁN BÁNH MÌ KẸP" bằng chữ nhỏ màu xanh lá.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon hamburger tròn với các lớp bánh và nhân
+- Kiểu chữ: Sans-serif đậm cho tên chính, thanh mảnh cho slogan
+- Bảng màu: Xanh lá cây tươi và cam đậm
+- Nền: Trắng trong suốt
+- Phong cách: Tối giản, line art, hiện đại
+- Tông điệu: Tươi mới, thân thiện, ngon miệng
+
+---
+
+Visual Description:
+The logo features a simple line-art hamburger icon in bright green color positioned above the brand name. Below the icon, "HỒNG PHÚC" appears in bold orange capital letters, followed by the tagline "QUÁN BÁNH MÌ KẸP" in smaller green text.
+
+Design Elements:
+- Shape: Circular hamburger icon with layered bun and filling elements
+- Typography: Bold sans-serif for main name, thin weight for tagline
+- Color Palette: Bright green and bold orange
+- Background: White/transparent
+- Style: Minimalist, line art, modern
+- Mood: Fresh, friendly, appetizing

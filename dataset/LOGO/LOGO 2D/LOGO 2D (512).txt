@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một hình dạng trung tâm màu đỏ cam giống như sóng âm hoặc tai cáo được bao quanh bởi các ngôi sao trang trí màu trắng. Bên cạnh là chữ "FOXMUSIC" được viết bằng font chữ sans-serif màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng sóng âm/tai cáo stylized với các ngôi sao trang trí
+- Kiểu chữ: Sans-serif đơn giản, chữ hoa, khoảng cách đều
+- Bảng màu: Tím đậm, đỏ cam, trắng
+- Nền: Tím gradient đậm
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Sáng tạo, năng động, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a central red-orange wave-like or fox ear shape surrounded by white decorative stars. Adjacent to this is the text "FOXMUSIC" rendered in clean white sans-serif typography.
+
+Design Elements:
+- Shape: Stylized sound wave/fox ear icon with decorative star elements
+- Typography: Clean sans-serif, all caps, evenly spaced
+- Color Palette: Deep purple, red-orange, white
+- Background: Deep purple gradient
+- Style: Modern, minimalist, tech-inspired
+- Mood: Creative, dynamic, professional

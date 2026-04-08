@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng ngọn lửa với gradient màu từ đỏ đến cam và vàng. Ở trung tâm có một vòng tròn trắng chứa biểu tượng nhỏ màu cam đỏ bên trong.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ngọn lửa cách điệu với đường cong mềm mại
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ đỏ, cam đến vàng với điểm nhấn trắng
+- Nền: Màu đen thuần
+- Phong cách: Hiện đại, tối giản, gradient mượt mà
+- Tông điệu: Năng động, ấm áp, sáng tạo
+
+---
+
+Visual Description:
+The logo features a flame-shaped icon with a gradient transitioning from red to orange to yellow. At the center is a white circular element containing a small red-orange symbol inside.
+
+Design Elements:
+- Shape: Stylized flame with smooth, flowing curves
+- Typography: None (icon only)
+- Color Palette: Red to orange to yellow gradient with white accent
+- Background: Solid black
+- Style: Modern, minimalist, smooth gradient
+- Mood: Dynamic, warm, creative

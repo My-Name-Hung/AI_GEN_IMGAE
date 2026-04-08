@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một thiết kế menu nhà hàng với dải giấy parchment màu be chạy dọc giữa. Xung quanh dải giấy là các món ăn được bày trí trong những chiếc đĩa tròn, tạo thành bố cục đối xứng trên nền xanh lá cây.
+
+Yếu tố Thiết kế:
+- Hình dạng: Dải giấy dọc chính giữa, các đĩa tròn bao quanh
+- Kiểu chữ: Font chữ đậm, in hoa, màu đen
+- Bảng màu: Be, xanh lá cây đậm, màu thực phẩm đa dạng
+- Nền: Xanh lá cây đậm với các món ăn trang trí
+- Phong cách: Thanh lịch, cổ điển, thực phẩm cao cấp
+- Tông điệu: Sang trọng, hấp dẫn, chuyên nghiệp
+
+---
+
+Visual Description:
+This is a restaurant menu design featuring a beige parchment strip running vertically down the center. Various dishes are arranged in circular plates around the parchment strip, creating a symmetrical layout against a dark green background.
+
+Design Elements:
+- Shape: Vertical parchment strip in center, circular plates surrounding
+- Typography: Bold, uppercase, black font
+- Color Palette: Beige, dark green, various food colors
+- Background: Dark green with decorative food arrangements
+- Style: Elegant, classic, gourmet food presentation
+- Mood: Sophisticated, appetizing, professional

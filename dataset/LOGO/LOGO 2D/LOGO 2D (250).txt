@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình cánh cáo màu cam/đỏ gradient được đặt giữa hai dạng sóng âm thanh màu trắng. Bên phải biểu tượng là dòng chữ "FOXMUSIC" được viết bằng font sans-serif màu trắng, tất cả nằm trên nền tím đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng cánh cáo stylized với các đường sóng âm thanh
+- Kiểu chữ: Sans-serif hiện đại, in hoa, khoảng cách chữ rộng
+- Bảng màu: Tím đậm, cam/đỏ gradient, trắng
+- Nền: Tím đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Năng động, sáng tạo, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features an orange/red gradient fox-like wing or tail icon positioned between white sound wave elements. To the right of the icon is the text "FOXMUSIC" in white sans-serif typography, all set against a deep purple background.
+
+Design Elements:
+- Shape: Stylized fox wing/tail with sound wave elements
+- Typography: Modern sans-serif, uppercase, wide letter spacing
+- Color Palette: Deep purple, orange/red gradient, white
+- Background: Solid deep purple
+- Style: Modern, minimalist, tech-oriented
+- Mood: Dynamic, creative, professional

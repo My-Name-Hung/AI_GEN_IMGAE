@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "LOGO HERE" được đặt trong một khung chữ nhật đơn giản ở góc trên bên trái. Đây là một placeholder logo với thiết kế tối giản, sử dụng phông chữ sans-serif đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung chữ nhật vuông vắn
+- Kiểu chữ: Sans-serif đậm, viết hoa
+- Bảng màu: Đen trên nền trắng
+- Nền: Nền trắng/trong suốt
+- Phong cách: Tối giản, placeholder, công nghiệp
+- Tông điệu: Trung tính, tạm thời, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays "LOGO HERE" text positioned within a simple rectangular frame in the upper left corner. This is a placeholder logo with minimalist design, using bold sans-serif typography.
+
+Design Elements:
+- Shape: Simple rectangular frame
+- Typography: Bold sans-serif, all caps
+- Color Palette: Black on white
+- Background: White/transparent background
+- Style: Minimalist, placeholder, industrial
+- Mood: Neutral, temporary, professional

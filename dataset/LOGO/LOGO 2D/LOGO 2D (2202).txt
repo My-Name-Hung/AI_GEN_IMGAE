@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng mỏ neo màu xanh dương được đặt trong hình tròn ở phía trên. Bên dưới là tên thương hiệu "Sao & Bách" được viết bằng font chữ màu xanh dương, kèm theo dòng chữ nhỏ "THANH KHÊ, ĐN" ở cuối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Mỏ neo trong hình tròn, bố cục dọc đối xứng
+- Kiểu chữ: Font sans-serif hiện đại, có dấu tiếng Việt
+- Bảng màu: Xanh dương đậm trên nền trắng/xám nhạt
+- Nền: Màu xám nhạt/trắng
+- Phong cách: Tối giản, nautical, hiện đại
+- Tông điệu: Chuyên nghiệp, tin cậy, biển cả
+
+---
+
+Visual Description:
+The logo features a blue anchor symbol enclosed in a circle at the top. Below it is the brand name "Sao & Bách" written in blue typography, followed by smaller text "THANH KHÊ, ĐN" at the bottom.
+
+Design Elements:
+- Shape: Anchor within circle, vertical symmetrical layout
+- Typography: Modern sans-serif font with Vietnamese diacritics
+- Color Palette: Deep blue on white/light gray background
+- Background: Light gray/white
+- Style: Minimalist, nautical, modern
+- Mood: Professional, trustworthy, maritime

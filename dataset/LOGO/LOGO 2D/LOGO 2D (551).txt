@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình học trừu tượng được tạo thành từ ba hình dạng chồng lên nhau. Bao gồm hai hình tròn màu xanh lam và xanh lục chồng lên một hình chữ nhật đứng màu tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình học tối giản với hai hình tròn và một hình chữ nhật đứng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lam, xanh lục/cyan, tím
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Năng động, công nghệ, sáng tạo
+
+---
+
+Visual Description:
+The logo features an abstract geometric design composed of three overlapping shapes. It consists of two circles in blue and teal/cyan colors that overlap with a vertical purple rectangle positioned at the bottom center.
+
+Design Elements:
+- Shape: Minimalist geometric forms with two circles and one vertical rectangle
+- Typography: None (icon only)
+- Color Palette: Blue, teal/cyan, purple
+- Background: White/transparent
+- Style: Modern, minimalist, geometric
+- Mood: Dynamic, technological, creative

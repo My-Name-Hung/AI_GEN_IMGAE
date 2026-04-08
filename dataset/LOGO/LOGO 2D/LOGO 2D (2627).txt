@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình ảnh hai quả ớt đỏ đặt trên một chiếc đĩa/bát màu vàng cam, tạo thành biểu tượng đơn giản về ẩm thực. Phần text "Chua Cay" được hiển thị bằng font chữ đậm màu đen, kèm dòng phụ "Quán ăn bình dân" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon hai quả ớt trên đĩa tròn, chữ viết đậm
+- Kiểu chữ: Font sans-serif đậm và rõ ràng
+- Bảng màu: Đỏ (ớt), vàng cam (đĩa và nền), đen (chữ)
+- Nền: Màu vàng nhạt/kem
+- Phong cách: Đơn giản, thân thiện, dân dã
+- Tông điệu: Ấm áp, gần gũi, hấp dẫn
+
+---
+
+Visual Description:
+The logo features two red chili peppers positioned on an orange-yellow plate or bowl, creating a simple culinary icon. The text "Chua Cay" is displayed in bold black font, with the subtitle "Quán ăn bình dân" below it.
+
+Design Elements:
+- Shape: Icon of two chili peppers on a round plate, bold text
+- Typography: Bold, clear sans-serif font
+- Color Palette: Red (chilies), orange-yellow (plate and background), black (text)
+- Background: Light yellow/cream color
+- Style: Simple, friendly, casual
+- Mood: Warm, approachable, appetizing

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một ký hiệu "V" màu xanh dương được tạo thành từ hai hình khối hình học. Phần bên trái là một hình thang nghiêng, trong khi phần bên phải là một hình cong mềm mại tạo thành nửa còn lại của chữ "V".
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ "V" được tạo từ hai khối hình học - một hình thang và một hình cong
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương đậm
+- Nền: Trắng
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Năng động, chuyên nghiệp, tự tin
+
+---
+
+Visual Description:
+The logo displays a blue "V" symbol composed of two geometric shapes. The left portion is an angular trapezoid form, while the right side features a smooth curved shape that completes the other half of the "V".
+
+Design Elements:
+- Shape: "V" letter formed by two geometric blocks - one angular trapezoid and one curved form
+- Typography: None (icon only)
+- Color Palette: Deep blue
+- Background: White
+- Style: Modern, minimalist, geometric
+- Mood: Dynamic, professional, confident

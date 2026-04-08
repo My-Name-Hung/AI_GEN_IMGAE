@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả hai khẩu súng ngắn được vẽ theo phong cách hoạt hình với khuôn mặt biểu cảm vui vẻ, được đặt chéo nhau tạo thành hình chữ X. Phía dưới có một quả bóng baseball nhỏ màu trắng với đường chỉ khâu đặc trưng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai khẩu súng chéo nhau, quả bóng baseball tròn
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xám bạc cho súng, nâu cam cho cán súng, trắng cho bóng baseball
+- Nền: Trong suốt/trắng
+- Phong cách: Hoạt hình, mascot, biểu tượng thể thao
+- Tông điệu: Năng động, thân thiện, vui nhộn
+
+---
+
+Visual Description:
+The logo depicts two cartoon-style pistols with cheerful facial expressions, crossed in an X formation. Below the crossed guns is a small white baseball with characteristic stitching lines.
+
+Design Elements:
+- Shape: Two crossed pistols, circular baseball
+- Typography: None (icon only)
+- Color Palette: Silver gray for guns, brown-orange for handles, white for baseball
+- Background: Transparent/white
+- Style: Cartoon, mascot, sports emblem
+- Mood: Dynamic, friendly, playful

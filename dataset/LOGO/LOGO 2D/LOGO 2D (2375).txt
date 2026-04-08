@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một hình tròn màu trắng với đường viền trắng mỏng trên nền san hô/hồng cam. Bên trong vòng tròn có các chữ cái "AN" và "CA" được sắp xếp theo dạng lưới 2x2 với kiểu chữ sans-serif mảnh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn đơn giản với layout chữ dạng lưới
+- Kiểu chữ: Sans-serif mảnh, hiện đại, viết hoa
+- Bảng màu: San hô/hồng cam và trắng
+- Nền: Màu san hô/hồng cam đồng nhất
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Ấm áp, thân thiện, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a white circle with a thin white border on a coral/salmon pink background. Inside the circle, the letters "AN" and "CA" are arranged in a 2x2 grid format using thin sans-serif typography.
+
+Design Elements:
+- Shape: Simple circle with grid-based letter layout
+- Typography: Thin, modern sans-serif, uppercase
+- Color Palette: Coral/salmon pink and white
+- Background: Solid coral/salmon pink
+- Style: Minimalist, modern, geometric
+- Mood: Warm, friendly, professional

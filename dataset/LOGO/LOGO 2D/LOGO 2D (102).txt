@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện chữ cái "G" được thiết kế với sự kết hợp giữa hình tròn và các đường thẳng vuông góc. Phần bên trái của chữ "G" có dạng hình tròn cong mượt, trong khi phần bên phải được cắt thành các đường thẳng tạo hình chữ nhật.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái "G" với sự kết hợp giữa đường cong tròn và các cạnh vuông góc
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trắng tương phản
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, rõ ràng
+
+---
+
+Visual Description:
+The logo displays the letter "G" designed with a combination of circular curves and straight angular lines. The left portion of the "G" features a smooth circular form, while the right side is cut into straight lines forming rectangular shapes.
+
+Design Elements:
+- Shape: Letter "G" combining curved circular elements with angular geometric edges
+- Typography: None (icon only)
+- Color Palette: Black and white contrast
+- Background: Transparent white background
+- Style: Minimalist, geometric, modern
+- Mood: Bold, professional, clean

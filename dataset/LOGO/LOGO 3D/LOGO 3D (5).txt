@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo là một biểu tượng 3D hình khối vuông bo tròn màu trắng với biểu tượng Dribbble (quả bóng rổ cách điệu) màu hồng ở trung tâm. Toàn bộ logo được đặt trên nền màu hồng gradient và có hiệu ứng đổ bóng tạo chiều sâu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông bo góc 3D với biểu tượng bóng rổ tròn ở giữa
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng, hồng đậm và hồng gradient
+- Nền: Nền hồng gradient đồng nhất
+- Phong cách: 3D, hiện đại, tối giản
+- Tông điệu: Sáng tạo, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo is a 3D white rounded square block with the pink Dribbble icon (stylized basketball) in the center. The entire logo is placed on a pink gradient background with shadow effects creating depth and dimension.
+
+Design Elements:
+- Shape: 3D rounded square block with circular basketball icon in center
+- Typography: None (icon only)
+- Color Palette: White, deep pink, and gradient pink
+- Background: Uniform pink gradient background
+- Style: 3D, modern, minimalist
+- Mood: Creative, professional, dynamic

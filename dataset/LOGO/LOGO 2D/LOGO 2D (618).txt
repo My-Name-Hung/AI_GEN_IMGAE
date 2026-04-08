@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình cây xanh lá cây phong cách hoạt hình với tán lá hình tròn được tạo từ nhiều lớp lá xếp chồng lên nhau. Bên cạnh là chữ "Borcelle" viết bằng font chữ đậm màu hồng và dòng chữ phụ "Chuyên cho thuê phụ kiện" bằng font nhỏ màu tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Cây xanh phong cách vector với tán lá tròn nhiều lớp, chữ có đường viền
+- Kiểu chữ: Font chữ đậm, bo tròn cho tên thương hiệu, font nhỏ đơn giản cho tagline
+- Bảng màu: Xanh lá cây đậm nhạt, hồng fuchsia, tím, trắng
+- Nền: Nền trắng trong suốt
+- Phong cách: Cartoon, thân thiện, hiện đại, vector
+- Tông điệu: Vui tươi, gần gũi, tươi mới
+
+---
+
+Visual Description:
+The logo features a cartoon-style green tree with a round canopy made of layered leaf shapes. Next to it is the text "Borcelle" in bold pink lettering with an outline, and below is smaller purple text reading "Chuyên cho thuê phụ kiện".
+
+Design Elements:
+- Shape: Vector-style tree with layered circular canopy, outlined text
+- Typography: Bold, rounded font for brand name, simple small font for tagline
+- Color Palette: Various shades of green, fuchsia pink, purple, white
+- Background: Transparent white background
+- Style: Cartoon, friendly, modern, vector-based
+- Mood: Cheerful, approachable, fresh

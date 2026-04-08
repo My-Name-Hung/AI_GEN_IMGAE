@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng ngôi nhà đơn giản màu hồng san hô ở phía trên. Bên dưới là dòng chữ "CÀ PHÊ NGON" được viết bằng font chữ đậm màu xanh navy, kèm theo năm thành lập "TỪ NĂM" và "2020" ở hai bên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng ngôi nhà đơn giản với mái nhà và cửa sổ
+- Kiểu chữ: Font sans-serif đậm, rõ ràng và dễ đọc
+- Bảng màu: Hồng san hô cho biểu tượng, xanh navy cho chữ
+- Nền: Màu hồng phấn nhạt
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Ấm cúng, gần gũi, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a simple coral pink house icon at the top with basic architectural elements like a roof and windows. Below it is the text "CÀ PHÊ NGON" in bold navy blue letters, accompanied by "TỪ NĂM" and "2020" on either side.
+
+Design Elements:
+- Shape: Simple house icon with roof and window elements
+- Typography: Bold, clean sans-serif font
+- Color Palette: Coral pink for icon, navy blue for text
+- Background: Light pink/blush background
+- Style: Minimalist, modern, friendly
+- Mood: Cozy, approachable, professional

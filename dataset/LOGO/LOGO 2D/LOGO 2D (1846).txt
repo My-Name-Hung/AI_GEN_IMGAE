@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm ba biểu tượng màu nâu vàng xếp thành hình vuông, đại diện cho các dụng cụ pha chế như shaker cocktail, phễu và cốc có quai. Bên dưới là tên thương hiệu "HENOKI" viết bằng chữ in hoa đậm màu đen, kèm theo năm "2025" bằng chữ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba biểu tượng dụng cụ bar hình học đơn giản xếp thành cụm
+- Kiểu chữ: Sans-serif đậm, chữ in hoa đen cho tên thương hiệu
+- Bảng màu: Nâu vàng (ochre) cho icon, đen cho chữ
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, biểu tượng hóa
+- Tông điệu: Chuyên nghiệp, tinh tế, thanh lịch
+
+---
+
+Visual Description:
+The logo features three golden-brown icons arranged in a square formation, representing bar tools like a cocktail shaker, funnel, and handled cup. Below is the brand name "HENOKI" in bold black uppercase letters, with "2025" in smaller text underneath.
+
+Design Elements:
+- Shape: Three simplified geometric bar tool icons clustered together
+- Typography: Bold sans-serif uppercase for brand name
+- Color Palette: Golden-brown (ochre) for icons, black for text
+- Background: White/transparent
+- Style: Minimalist, modern, iconic
+- Mood: Professional, sophisticated, elegant

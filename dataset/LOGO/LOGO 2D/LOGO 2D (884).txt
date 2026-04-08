@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm tên thương hiệu "umbrella" được viết bằng chữ thường màu xanh navy đậm, với một cung tròn màu xanh lá cây tươi ở phía trên tạo hình như cán ô. Bên dưới có dòng chữ "PLUMBING & HEATING SERVICE" được đặt trong một khung chữ nhật màu xanh lá cây.
+
+Yếu tố Thiết kế:
+- Hình dạng: Cung tròn kết hợp với typography, tạo hình ô đơn giản hóa
+- Kiểu chữ: Chữ thường hiện đại, san-serif cho tên chính; chữ hoa in đậm cho dòng mô tả
+- Bảng màu: Xanh navy đậm và xanh lá cây tươi
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, biểu tượng hóa
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sạch sẽ
+
+---
+
+Visual Description:
+The logo features the brand name "umbrella" written in lowercase dark navy letters, with a bright green arc above creating an umbrella handle shape. Below is the text "PLUMBING & HEATING SERVICE" placed in a green rectangular banner.
+
+Design Elements:
+- Shape: Curved arc combined with typography, creating a simplified umbrella form
+- Typography: Modern, lowercase sans-serif for main name; bold uppercase for service description
+- Color Palette: Dark navy blue and bright green
+- Background: White/transparent
+- Style: Minimalist, modern, symbolic
+- Mood: Professional, trustworthy, clean

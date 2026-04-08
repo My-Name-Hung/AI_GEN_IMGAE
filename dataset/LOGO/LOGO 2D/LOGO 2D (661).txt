@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế hình tròn với đường viền mảnh màu trắng trên nền xanh lá cây đậm. Ở trung tâm là hình vẽ stylized của một cành lá đơn giản với nhiều lá nhỏ, được bao quanh bởi dòng chữ "VƯỜN THẢO MỘC" và "VƯỜN THẢO MỘC" được sắp xếp theo hình cung tròn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn đồng tâm với biểu tượng cành lá ở giữa
+- Kiểu chữ: Chữ in hoa đơn giản, không serif, sắp xếp theo đường cong
+- Bảng màu: Xanh lá cây đậm làm nền, màu trắng cho đường viền và chữ
+- Nền: Màu xanh lá cây đậm đồng nhất
+- Phong cách: Tối giản, tự nhiên, organic, line art
+- Tông điệu: Tươi mát, thân thiện với môi trường, thanh khiết
+
+---
+
+Visual Description:
+The logo features a circular design with thin white line borders on a dark green background. At the center is a stylized illustration of a simple branch with multiple small leaves, surrounded by text "VƯỜN THẢO MỘC" arranged in a circular pattern around the perimeter.
+
+Design Elements:
+- Shape: Concentric circles with a botanical branch icon at center
+- Typography: Simple sans-serif capital letters arranged in curved formation
+- Color Palette: Dark forest green background with white lines and text
+- Background: Solid dark green
+- Style: Minimalist, natural, organic, line art
+- Mood: Fresh, eco-friendly, clean, botanical

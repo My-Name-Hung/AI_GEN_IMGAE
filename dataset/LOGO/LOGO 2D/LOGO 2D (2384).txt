@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một thanh dọc màu trắng kết hợp với văn bản "Khởi Sướng" và dòng chữ nhỏ "TỪ NĂM 1902" bên dưới. Có một thanh ngang màu xanh turquoise ở phía dưới tạo điểm nhấn cho thiết kế.
+
+Yếu tố Thiết kế:
+- Hình dạng: Thanh dọc trắng kết hợp với thanh ngang xanh, tạo hình chữ L đơn giản
+- Kiểu chữ: Font chữ hiện đại, in đậm, dễ đọc với kích thước phân cấp rõ ràng
+- Bảng màu: Tím đậm, trắng, và xanh turquoise
+- Nền: Nền tím đậm (purple) đồng nhất
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sang trọng, tin cậy, lâu đời
+
+---
+
+Visual Description:
+The logo features a white vertical bar combined with the text "Khởi Sướng" and smaller text "TỪ NĂM 1902" below. A turquoise horizontal bar at the bottom serves as an accent element in the design.
+
+Design Elements:
+- Shape: White vertical bar combined with turquoise horizontal bar, forming a simple L-shape
+- Typography: Modern, bold font that's easy to read with clear size hierarchy
+- Color Palette: Deep purple, white, and turquoise
+- Background: Solid deep purple background
+- Style: Minimalist, modern, professional
+- Mood: Elegant, trustworthy, established

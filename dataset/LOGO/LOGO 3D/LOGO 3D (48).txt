@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình khối 3D màu trắng có hình dạng hình vuông bo tròn với lỗ hổng ở giữa, nghiêng một góc. Bên trong lỗ hổng có biểu tượng một người đứng được vẽ bằng đường nét trắng đơn giản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối 3D hình vuông bo góc với lỗ trung tâm hình oval, nghiêng góc
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng, cam/đỏ cam gradient
+- Nền: Màu cam/đỏ cam đồng nhất
+- Phong cách: 3D, hiện đại, tối giản, geometric
+- Tông điệu: Năng động, sáng tạo, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo shows a white 3D geometric form with a rounded square shape featuring a central oval hole, positioned at an angle. Inside the hole is a simple white line drawing of a standing human figure.
+
+Design Elements:
+- Shape: 3D rounded square block with oval central void, tilted at an angle
+- Typography: None (icon only)
+- Color Palette: White, orange/coral gradient
+- Background: Solid orange/coral color
+- Style: 3D, modern, minimalist, geometric
+- Mood: Dynamic, creative, professional

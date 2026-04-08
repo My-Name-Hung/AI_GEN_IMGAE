@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng cuốn sách mở được stylized với các đường nét đơn giản, tạo thành hình dạng giống như trái tim hoặc cánh bướm. Bên cạnh biểu tượng là chữ "uptake" được viết bằng font chữ hiện đại, đơn giản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng sách mở với các trang cong, tạo hình trái tim/cánh bướm
+- Kiểu chữ: Font sans-serif đơn giản, chữ thường, đường nét mảnh
+- Bảng màu: Màu hồng/đỏ coral nhẹ nhàng
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hiện đại, line art
+- Tông điệu: Thân thiện, tiếp cận, học thuật
+
+---
+
+Visual Description:
+The logo features a stylized open book icon with simple line art that forms a heart or butterfly-like shape. Next to the icon is the word "uptake" written in a clean, modern typeface.
+
+Design Elements:
+- Shape: Open book icon with curved pages forming heart/butterfly silhouette
+- Typography: Simple sans-serif lowercase font with thin strokes
+- Color Palette: Soft coral pink/red
+- Background: Clean white background
+- Style: Minimalist, modern, line art
+- Mood: Friendly, approachable, educational

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng huy hiệu hoặc nhãn mác với góc cạnh bo tròn, bao gồm một biểu tượng trừu tượng ở trung tâm và tên thương hiệu "DUY KHANG" bên dưới. Xung quanh viền có dòng chữ "PHUC HAM CAO CẤP" tạo thành một vòng tròn hoàn chỉnh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Huy hiệu hình chữ nhật bo góc với viền kép
+- Kiểu chữ: Sans-serif đậm cho tên thương hiệu, chữ nhỏ viền hoa cho slogan
+- Bảng màu: Đơn sắc nâu/be trên nền kem nhạt
+- Nền: Nền màu be/kem nhạt
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Sang trọng, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a badge or label-shaped design with rounded corners, containing an abstract geometric symbol in the center and "DUY KHANG" text below. The perimeter includes "PHUC HAM CAO CẤP" text arranged in a circular pattern around the border.
+
+Design Elements:
+- Shape: Rounded rectangle badge with double border
+- Typography: Bold sans-serif for main brand name, smaller decorative text for tagline
+- Color Palette: Monochromatic brown/beige on cream background
+- Background: Light cream/beige background
+- Style: Minimalist, modern, geometric
+- Mood: Premium, sophisticated, professional

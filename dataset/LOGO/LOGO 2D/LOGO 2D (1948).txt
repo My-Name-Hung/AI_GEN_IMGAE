@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hai dụng cụ ăn uống (thìa và nĩa) được vẽ theo phong cách đơn giản bằng màu vàng nâu, đặt ở trung tâm giữa hai đường kẻ ngang đen. Bên dưới là tên thương hiệu "NHAI & NHẬU" bằng chữ đen đậm, kèm slogan "Bữa ăn ngon" bằng chữ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon thìa nĩa đơn giản, đường kẻ ngang đối xứng
+- Kiểu chữ: Sans-serif đậm cho tên chính, serif mỏng cho slogan
+- Bảng màu: Vàng nâu cho icon, đen cho chữ, trắng nền
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, đối xứng
+- Tông điệu: Thân thiện, ấm áp, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features two simple dining utensils (spoon and fork) drawn in golden-brown color, centered between two black horizontal lines. Below are the brand name "NHAI & NHẬU" in bold black letters, accompanied by the tagline "Bữa ăn ngon" in smaller text.
+
+Design Elements:
+- Shape: Simple spoon and fork icons, symmetrical horizontal lines
+- Typography: Bold sans-serif for main name, thin serif for tagline
+- Color Palette: Golden-brown for icons, black for text, white background
+- Background: White/transparent
+- Style: Minimalist, modern, symmetrical
+- Mood: Friendly, warm, professional

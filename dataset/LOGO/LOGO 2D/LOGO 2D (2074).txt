@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "NGUYỄN MINH ANH" bằng chữ in hoa màu trắng trên nền xanh navy đậm. Bên dưới tên có dòng chữ nhỏ "ĐẠI BIỂU" và một hàng bốn ngôi sao màu đỏ được viền trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Typography đơn giản với các ngôi sao trang trí
+- Kiểu chữ: Sans-serif hiện đại, in hoa, đậm
+- Bảng màu: Xanh navy, trắng, đỏ
+- Nền: Màu xanh navy đồng nhất
+- Phong cách: Chính thức, tối giản, thể chế
+- Tông điệu: Uy tín, chuyên nghiệp, trang trọng
+
+---
+
+Visual Description:
+The logo displays "NGUYỄN MINH ANH" in white capital letters on a deep navy blue background. Below the name is smaller text reading "ĐẠI BIỂU" and a row of four red stars with white outlines.
+
+Design Elements:
+- Shape: Simple typography with decorative star elements
+- Typography: Modern sans-serif, uppercase, bold weight
+- Color Palette: Navy blue, white, red
+- Background: Solid navy blue
+- Style: Formal, minimalist, institutional
+- Mood: Authoritative, professional, dignified

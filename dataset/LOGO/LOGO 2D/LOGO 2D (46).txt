@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình lục giác được tạo thành từ hai mũi tên chỉ vào nhau, một mũi tên màu xanh lá cây từ bên trái và một mũi tên màu xanh dương từ bên phải. Ở giữa có các đường kẻ ngang màu trắng tạo hiệu ứng chuyển động và kết nối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác được tạo bởi hai mũi tên đối xứng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lá cây, xanh dương, trắng
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Năng động, chuyên nghiệp, cân bằng
+
+---
+
+Visual Description:
+The logo features a hexagonal shape formed by two arrows pointing toward each other - a green arrow from the left and a blue arrow from the right. White horizontal lines in the center create a sense of movement and connection between the two directional elements.
+
+Design Elements:
+- Shape: Hexagon formed by two symmetrical arrows
+- Typography: None (icon only)
+- Color Palette: Green, blue, white
+- Background: Transparent/white
+- Style: Modern, minimalist, geometric
+- Mood: Dynamic, professional, balanced

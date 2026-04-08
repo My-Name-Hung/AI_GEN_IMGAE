@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một chiếc bánh hamburger được stylized với các lớp màu sắc rõ ràng bao gồm bánh mì, rau xanh, thịt đỏ và phô mai vàng. Hamburger được đặt trong một hình tròn với dòng chữ "TAILORED BURGER" bao quanh và từ "Burgers" cùng "Redefined" ở hai bên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn chứa biểu tượng hamburger được cách điệu
+- Kiểu chữ: Font sans-serif hiện đại, đơn giản
+- Bảng màu: Đỏ, vàng, xanh lá cây, nâu, xám trên nền be nhạt
+- Nền: Màu be/kem nhạt
+- Phong cách: Tối giản, hiện đại, flat design
+- Tông điệu: Thân thiện, chuyên nghiệp, hấp dẫn
+
+---
+
+Visual Description:
+The logo displays a stylized hamburger with distinct colorful layers including buns, green lettuce, red meat, and yellow cheese. The hamburger is contained within a circular frame with "TAILORED BURGER" text curved around it and "Burgers" and "Redefined" positioned on either side.
+
+Design Elements:
+- Shape: Circular frame containing a stylized hamburger icon
+- Typography: Modern, clean sans-serif font
+- Color Palette: Red, yellow, green, brown, gray on light beige background
+- Background: Light beige/cream color
+- Style: Minimalist, modern, flat design
+- Mood: Friendly, professional, appetizing

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "VIẾT CHÁNH" được đặt ở trung tâm với kiểu chữ đơn giản, thanh lịch. Hai góc vuông màu cam đỏ được đặt ở góc trên bên trái và góc dưới bên phải, tạo thành khung hình chữ nhật không hoàn chỉnh bao quanh văn bản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai góc vuông đối xứng tạo khung hình chữ nhật
+- Kiểu chữ: Sans-serif đơn giản, khoảng cách chữ rộng, chữ in hoa
+- Bảng màu: Cam đỏ cho các góc, xám đậm cho văn bản, nền be nhạt
+- Nền: Màu be/kem nhạt
+- Phong cách: Tối giản, hiện đại, đối xứng
+- Tông điệu: Tinh tế, chuyên nghiệp, cân bằng
+
+---
+
+Visual Description:
+The logo displays the brand name "VIẾT CHÁNH" centered with simple, elegant typography. Two coral-red corner brackets are positioned at the top-left and bottom-right corners, creating an incomplete rectangular frame around the text.
+
+Design Elements:
+- Shape: Two symmetrical corner brackets forming a rectangular frame
+- Typography: Simple sans-serif with wide letter spacing, uppercase
+- Color Palette: Coral-red for corners, dark gray for text, light beige background
+- Background: Light beige/cream color
+- Style: Minimalist, modern, symmetrical
+- Mood: Refined, professional, balanced

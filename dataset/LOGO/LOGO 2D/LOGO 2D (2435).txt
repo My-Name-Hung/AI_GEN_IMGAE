@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "DA THẢO" được viết bằng chữ in hoa màu vàng neon nổi bật trên nền đen. Bên dưới có một thanh màu hồng fuchsia làm điểm nhấn, kèm theo dòng chữ phụ "CÂU LẠC BỘ VÀ QUÁN RƯỢU" bằng font chữ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ thẳng hàng với thanh màu làm điểm nhấn
+- Kiểu chữ: Font sans-serif đơn giản, chữ in hoa cho tên chính
+- Bảng màu: Vàng neon, hồng fuchsia, đen
+- Nền: Đen hoàn toàn
+- Phong cách: Hiện đại, tối giản, neon
+- Tông điệu: Sôi động, thu hút, năng lượng đêm
+
+---
+
+Visual Description:
+The logo displays the brand name "DA THẢO" in bright neon yellow uppercase letters against a black background. Below it features a vibrant fuchsia pink bar as an accent element, accompanied by smaller subtitle text "CÂU LẠC BỘ VÀ QUÁN RƯỢU".
+
+Design Elements:
+- Shape: Linear text layout with horizontal accent bar
+- Typography: Simple sans-serif font, uppercase for main title
+- Color Palette: Neon yellow, fuchsia pink, black
+- Background: Solid black
+- Style: Modern, minimalist, neon
+- Mood: Vibrant, eye-catching, nightlife energy

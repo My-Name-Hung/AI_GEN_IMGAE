@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình khối 3D màu trắng với các góc bo tròn, được đặt nghiêng trên nền xanh dương gradient. Bên trong khối có biểu tượng sóng âm thanh màu xanh dương với các đường cong động và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối hình vuông bo góc 3D với biểu tượng sóng âm bên trong
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng, xanh dương đậm và xanh dương sáng
+- Nền: Gradient xanh dương từ sáng đến đậm
+- Phong cách: Tối giản, 3D hiện đại, gradient mượt
+- Tông điệu: Công nghệ, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo features a white 3D rounded cube positioned at an angle on a blue gradient background. Inside the cube is a blue sound wave icon with flowing, dynamic curves that creates a modern audio visualization symbol.
+
+Design Elements:
+- Shape: 3D rounded square block with sound wave icon inside
+- Typography: None (icon only)
+- Color Palette: White, deep blue, and bright blue
+- Background: Blue gradient from light to dark
+- Style: Minimalist, modern 3D, smooth gradient
+- Mood: Technological, professional, dynamic

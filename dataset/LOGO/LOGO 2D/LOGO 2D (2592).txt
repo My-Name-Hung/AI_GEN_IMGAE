@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Umendu" được viết bằng chữ in đậm màu đen với phong cách hiện đại. Bên dưới có dòng chữ "GENTLEMAN" được viết bằng chữ hoa nhỏ hơn, tạo thành một logo văn bản đơn giản và tinh tế.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng hàng, bố cục ngang đơn giản
+- Kiểu chữ: Chữ sans-serif đậm cho tên chính, chữ hoa mảnh cho tagline
+- Bảng màu: Đen trên nền trắng (đơn sắc)
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hiện đại, typography-based
+- Tông điệu: Chuyên nghiệp, lịch lãm, sang trọng
+
+---
+
+Visual Description:
+The logo displays the brand name "Umendu" written in bold black letters with a modern typeface. Below it, the word "GENTLEMAN" appears in smaller uppercase letters, creating a simple and sophisticated text-based logo.
+
+Design Elements:
+- Shape: Straight text alignment, simple horizontal layout
+- Typography: Bold sans-serif for main name, thin uppercase for tagline
+- Color Palette: Black on white (monochromatic)
+- Background: Clean white background
+- Style: Minimalist, modern, typography-based
+- Mood: Professional, elegant, sophisticated

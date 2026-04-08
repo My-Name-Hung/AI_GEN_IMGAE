@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế tối giản với tên thương hiệu "Minh+Nguyệt" được đặt trong một hình chữ nhật trắng nổi bật trên nền đen. Bên dưới có dòng chữ "Phòng trưng bày nghệ thuật" bằng font chữ nhỏ hơn màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật trắng đơn giản làm khung cho tên thương hiệu
+- Kiểu chữ: Font chữ serif cổ điển, thanh lịch cho tên chính và font sans-serif cho tagline
+- Bảng màu: Đen và trắng tương phản cao
+- Nền: Nền đen thuần khiết
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Nghệ thuật, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a minimalist design with the brand name "Minh+Nguyệt" placed within a white rectangular frame against a black background. Below it, there's smaller white text reading "Phòng trưng bày nghệ thuật" (art gallery).
+
+Design Elements:
+- Shape: Simple white rectangular frame containing the brand name
+- Typography: Classic serif font for the main name and clean sans-serif for the tagline
+- Color Palette: High contrast black and white
+- Background: Pure black background
+- Style: Minimalist, modern, elegant
+- Mood: Artistic, sophisticated, professional

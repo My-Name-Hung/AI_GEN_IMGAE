@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một nhân vật hộp vuông màu trắng với khuôn mặt đơn giản gồm hai mắt và một miệng nhỏ. Nhân vật có hai chân và tay, tạo cảm giác như đang chạy hoặc di chuyển một cách vui vẻ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Nhân vật hình hộp vuông có bo góc với tứ chi đơn giản
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng trên nền xanh dương gradient
+- Nền: Gradient xanh dương từ nhạt đến đậm
+- Phong cách: Tối giản, phẳng, thân thiện, cartoon
+- Tông điệu: Vui tươi, năng động, gần gũi
+
+---
+
+Visual Description:
+The logo features a white square-shaped character with a simple face consisting of two eyes and a small mouth. The character has stick-like arms and legs, giving it the appearance of running or moving playfully.
+
+Design Elements:
+- Shape: Rounded square character with simple limbs
+- Typography: None (icon only)
+- Color Palette: White on blue gradient background
+- Background: Blue gradient from light to dark
+- Style: Minimalist, flat, friendly, cartoon-like
+- Mood: Cheerful, energetic, approachable

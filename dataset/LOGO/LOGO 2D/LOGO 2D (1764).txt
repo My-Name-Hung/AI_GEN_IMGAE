@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế hình tròn với các chữ cái "O" và "L" được sắp xếp theo kiểu xoay tròn tạo thành một hình khối động. Bên dưới là dòng chữ "EDMONTON STORY SLAM" được viết bằng font chữ hiện đại, trong đó "STORY SLAM" được nhấn mạnh với kích thước lớn hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn xoay với các chữ cái O và L tạo chuyển động
+- Kiểu chữ: Font sans-serif hiện đại, in hoa, có phân cấp kích thước rõ ràng
+- Bảng màu: Xanh dương, xanh lá cây, cam/vàng, trắng
+- Nền: Nền đen
+- Phong cách: Hiện đại, năng động, sáng tạo
+- Tông điệu: Năng lượng, vui tươi, sáng tạo
+
+---
+
+Visual Description:
+The logo features a circular design with the letters "O" and "L" arranged in a rotating pattern that creates a dynamic, swirling motif. Below it is the text "EDMONTON STORY SLAM" in modern typography, with "STORY SLAM" emphasized in larger lettering.
+
+Design Elements:
+- Shape: Circular swirl pattern with O and L letters creating movement
+- Typography: Modern sans-serif font, all caps, with clear size hierarchy
+- Color Palette: Blue, teal, orange/yellow, white
+- Background: Black background
+- Style: Modern, dynamic, creative
+- Mood: Energetic, vibrant, creative

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tròn gradient với các màu tím, xanh lá và xanh dương chuyển tiếp mượt mà. Bên cạnh là dòng chữ "Ngân hàng số VinaBank" bằng font chữ hiện đại màu trắng, kèm theo slogan "Ngân hàng Đẳng tầm cây" ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn gradient đa màu với hiệu ứng chuyển màu mượt
+- Kiểu chữ: Sans-serif hiện đại, in hoa cho tên chính, viết thường cho slogan
+- Bảng màu: Gradient tím-xanh lá-xanh dương cho icon, chữ trắng
+- Nền: Nền đen
+- Phong cách: Hiện đại, công nghệ, tối giản
+- Tông điệu: Chuyên nghiệp, đổi mới, tin cậy
+
+---
+
+Visual Description:
+The logo features a circular gradient icon with smooth transitions between purple, green, and blue colors. Adjacent to it is the text "Ngân hàng số VinaBank" in modern white typography, with the tagline "Ngân hàng Đẳng tầm cây" below.
+
+Design Elements:
+- Shape: Circular multi-colored gradient with smooth color transitions
+- Typography: Modern sans-serif, uppercase for main name, lowercase for tagline
+- Color Palette: Purple-green-blue gradient for icon, white text
+- Background: Black background
+- Style: Modern, technological, minimalist
+- Mood: Professional, innovative, trustworthy

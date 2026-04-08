@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm chữ "Anh Khoa" được viết bằng font chữ màu xanh dương, bên dưới có dòng chữ nhỏ hơn "LUÔN LUÔN DẪN ĐẦU". Bên phải của văn bản là một biểu tượng hình học gồm hai hình tam giác chồng lên nhau với màu cam và vàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai tam giác chồng lấp tạo hiệu ứng chiều sâu
+- Kiểu chữ: Font chữ sans-serif hiện đại, dễ đọc
+- Bảng màu: Xanh dương cho chữ, cam và vàng cho biểu tượng
+- Nền: Nền trắng trong suốt
+- Phong cách: Hiện đại, tối giản, chuyên nghiệp
+- Tông điệu: Năng động, tin cậy, tiến bộ
+
+---
+
+Visual Description:
+The logo features the text "Anh Khoa" in blue typography with a smaller tagline "LUÔN LUÔN DẪN ĐẦU" below it. To the right of the text is a geometric icon consisting of two overlapping triangular shapes in orange and yellow colors.
+
+Design Elements:
+- Shape: Two overlapping triangles creating a dimensional effect
+- Typography: Modern, clean sans-serif font that's easily readable
+- Color Palette: Blue for text, orange and yellow for the icon
+- Background: Clean white/transparent background
+- Style: Modern, minimalist, professional
+- Mood: Dynamic, trustworthy, progressive

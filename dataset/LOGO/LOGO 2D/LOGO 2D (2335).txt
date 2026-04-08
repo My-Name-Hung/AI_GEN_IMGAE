@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "ĐỘNG VẬT" được viết bằng chữ in hoa với kiểu chữ thanh mảnh, hiện đại. Bên dưới có một đường kẻ ngang mỏng và dòng chữ nhỏ "QUYỀN LỢI & NHIỀU HƠN THẾ" làm slogan.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ thẳng hàng với đường kẻ ngang làm điểm nhấn
+- Kiểu chữ: Chữ sans-serif thanh mảnh, hiện đại, có khoảng cách chữ rộng
+- Bảng màu: Đen trắng tối giản
+- Nền: Nền trắng/xám nhạt
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Chuyên nghiệp, sang trọng, tinh tế
+
+---
+
+Visual Description:
+The logo displays the brand name "ĐỘNG VẬT" in uppercase letters with thin, modern typography. Below is a thin horizontal line and smaller text reading "QUYỀN LỢI & NHIỀU HƠN THẾ" as a tagline.
+
+Design Elements:
+- Shape: Linear text layout with horizontal line as accent element
+- Typography: Thin, modern sans-serif with wide letter spacing
+- Color Palette: Minimalist black and white
+- Background: White/light gray background
+- Style: Minimalist, modern, elegant
+- Mood: Professional, sophisticated, refined

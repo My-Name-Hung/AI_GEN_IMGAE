@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình khiên chứa đầu sư tử được cách điệu với vương miện nhỏ trên đầu. Sư tử được thể hiện bằng các đường nét cong mềm mại, tạo nên vẻ uy nghi và quyền lực trong thiết kế đơn sắc.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khiên bảo vệ cổ điển với đầu sư tử và vương miện
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trắng đơn sắc
+- Nền: Nền trắng trong suốt
+- Phong cách: Heraldic, cổ điển, tối giản, line art
+- Tông điệu: Uy nghi, quyền lực, hoàng gia, sang trọng
+
+---
+
+Visual Description:
+The logo displays a shield containing a stylized lion's head with a small crown on top. The lion is rendered with smooth, flowing curved lines that create a sense of majesty and power in a monochromatic design.
+
+Design Elements:
+- Shape: Classic heraldic shield with lion head and crown
+- Typography: None (icon only)
+- Color Palette: Black and white monochrome
+- Background: Transparent white background
+- Style: Heraldic, classic, minimalist, line art
+- Mood: Majestic, powerful, royal, elegant

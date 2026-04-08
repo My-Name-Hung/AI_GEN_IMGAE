@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "FF" được thiết kế theo kiểu hình học, với các đường thẳng và góc cạnh tạo thành hình khối vuông vức. Bên cạnh biểu tượng là dòng chữ "Flexible Film Factory" được sắp xếp thành ba dòng riêng biệt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái "FF" được cách điệu thành khối hình học với các đường cắt và khoảng trống
+- Kiểu chữ: Sans-serif hiện đại, đậm, dễ đọc cho phần text
+- Bảng màu: Màu trắng/xanh nhạt trên nền tím đậm
+- Nền: Nền tím gradient từ tối đến sáng
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Chuyên nghiệp, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo features a stylized "FF" monogram designed in a geometric, block-like form with clean lines and angular cuts. Adjacent to the icon is the text "Flexible Film Factory" arranged in three separate lines.
+
+Design Elements:
+- Shape: Geometric "FF" letterform with cut-out sections and structured angles
+- Typography: Modern sans-serif, bold and clean for the company name
+- Color Palette: White/light blue on deep purple background
+- Background: Purple gradient from dark to light
+- Style: Modern, minimalist, geometric
+- Mood: Professional, innovative, technological

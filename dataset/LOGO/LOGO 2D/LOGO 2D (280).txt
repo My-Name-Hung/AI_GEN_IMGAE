@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình học phức tạp với các đường nét góc cạnh tạo thành hình dạng giống như một mũi tên hoặc kim cương. Thiết kế có cấu trúc đối xứng với các lớp hình học xếp chồng lên nhau, tạo cảm giác chiều sâu và chuyển động hướng lên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình học phức tạp, đối xứng, giống mũi tên hoặc kim cương
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh navy đậm
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, năng động
+
+---
+
+Visual Description:
+The logo displays a complex geometric symbol with angular lines forming an arrow-like or diamond-shaped figure. The design features symmetrical structure with layered geometric forms that create a sense of depth and upward movement.
+
+Design Elements:
+- Shape: Complex geometric, symmetrical, arrow or diamond-like
+- Typography: None (icon only)
+- Color Palette: Deep navy blue
+- Background: White/transparent
+- Style: Modern, minimalist, geometric
+- Mood: Professional, strong, dynamic

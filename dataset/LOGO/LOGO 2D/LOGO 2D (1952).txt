@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình thoi màu đen với các góc bo tròn, chứa một hình dạng trắng bên trong tạo thành một mô típ hình học phức tạp. Bên dưới biểu tượng là dòng chữ "GHIYUO NEIOMS" được sắp xếp thành hai hàng với font chữ đơn giản, màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình thoi xoay 45 độ với góc bo tròn, chứa họa tiết hình học bên trong
+- Kiểu chữ: Font chữ sans-serif đơn giản, viết hoa, khoảng cách đều
+- Bảng màu: Đen và trắng tương phản
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Chuyên nghiệp, tinh tế, đơn giản
+
+---
+
+Visual Description:
+The logo features a black diamond-shaped icon with rounded corners containing a white geometric pattern that forms an intricate interlocking design. Below the symbol is the text "GHIYUO NEIOMS" arranged in two lines using a simple black typeface.
+
+Design Elements:
+- Shape: Rotated diamond with rounded corners containing internal geometric pattern
+- Typography: Simple sans-serif font, uppercase, evenly spaced
+- Color Palette: Black and white contrast
+- Background: Clean white background
+- Style: Minimalist, modern, geometric
+- Mood: Professional, sophisticated, clean

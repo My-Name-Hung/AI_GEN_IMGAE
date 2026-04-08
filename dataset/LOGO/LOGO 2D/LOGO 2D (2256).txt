@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng oval đơn giản với đường viền mảnh màu nâu. Bên trong có dòng chữ "KHÁCH SẠN HOÀNG GIA" được sắp xếp ở giữa, cùng với một đường thẳng đứng nhỏ làm điểm nhấn và dòng chữ nhỏ ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình oval dọc với đường viền mảnh
+- Kiểu chữ: Font chữ sans-serif hiện đại, in hoa, khoảng cách chữ rộng
+- Bảng màu: Màu nâu đất trên nền trắng/kem nhạt
+- Nền: Nền trắng trong logo, đặt trên nền beige nhạt
+- Phong cách: Tối giản, sang trọng, hiện đại
+- Tông điệu: Thanh lịch, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a simple oval shape with a thin brown border. Inside, the text "KHÁCH SẠN HOÀNG GIA" is centered, accompanied by a small vertical line as an accent and smaller text at the bottom.
+
+Design Elements:
+- Shape: Vertical oval with thin border
+- Typography: Modern sans-serif font, uppercase, wide letter spacing
+- Color Palette: Earth brown on white/light cream background
+- Background: White inside the logo, placed on light beige background
+- Style: Minimalist, luxury, modern
+- Mood: Elegant, refined, professional

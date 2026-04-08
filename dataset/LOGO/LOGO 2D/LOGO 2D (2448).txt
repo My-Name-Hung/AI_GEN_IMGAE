@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "Sạch Kin Kit" được sắp xếp theo cách bố trí nghệ thuật với các từ được đặt ở những góc độ khác nhau. Bên dưới có dòng chữ nhỏ hơn "DỊCH VỤ DỌN DẸP CHUYÊN NGHIỆP" được căn giữa.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục văn bản tự do, không có khung viền
+- Kiểu chữ: Font chữ viết tay hiện đại, dễ đọc với kích thước khác nhau
+- Bảng màu: Chữ màu xanh lá cây đậm trên nền tím nhạt
+- Nền: Màu tím pastel nhẹ nhàng
+- Phong cách: Hiện đại, thân thiện, tối giản
+- Tông điệu: Gần gũi, chuyên nghiệp, sạch sẽ
+
+---
+
+Visual Description:
+The logo displays the text "Sạch Kin Kit" arranged in an artistic layout with words positioned at different angles. Below is smaller text reading "DỊCH VỤ DỌN DẸP CHUYÊN NGHIỆP" centered underneath.
+
+Design Elements:
+- Shape: Free-form text layout without borders
+- Typography: Modern handwritten font, readable with varying sizes
+- Color Palette: Dark green text on light purple background
+- Background: Soft pastel purple
+- Style: Modern, friendly, minimalist
+- Mood: Approachable, professional, clean

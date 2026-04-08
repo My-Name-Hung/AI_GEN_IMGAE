@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một hình thoi màu vàng có viền đen mỏng chứa chữ "S" màu đen ở trung tâm. Bên dưới hình thoi là tên thương hiệu "Son" được viết bằng font chữ đậm màu đen, kèm theo dòng chữ nhỏ "kiến trúc" phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình thoi xoay 45 độ làm biểu tượng chính
+- Kiểu chữ: Font sans-serif đậm cho tên thương hiệu, font nhỏ hơn cho tagline
+- Bảng màu: Vàng chủ đạo, đen cho chữ và viền
+- Nền: Màu vàng tươi sáng
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Năng động, chuyên nghiệp, sáng tạo
+
+---
+
+Visual Description:
+The logo features a yellow diamond shape with thin black outline containing a black "S" in the center. Below the diamond is the brand name "Son" written in bold black font, followed by smaller text reading "kiến trúc" underneath.
+
+Design Elements:
+- Shape: Diamond rotated 45 degrees as the main icon
+- Typography: Bold sans-serif for brand name, smaller font for tagline
+- Color Palette: Dominant bright yellow with black text and outline
+- Background: Bright yellow
+- Style: Minimalist, modern, geometric
+- Mood: Dynamic, professional, creative

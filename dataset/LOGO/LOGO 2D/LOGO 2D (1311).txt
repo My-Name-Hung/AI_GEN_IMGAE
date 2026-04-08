@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng bong bóng trò chuyện hiện đại với đuôi hình tam giác ở bên trái. Biểu tượng có ba chấm tròn màu trắng ở trung tâm, tượng trưng cho tin nhắn hoặc cuộc hội thoại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật bo góc với đuôi tam giác, tạo thành bong bóng chat
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ tím hồng sang xanh dương
+- Nền: Trong suốt
+- Phong cách: Tối giản, hiện đại, gradient mượt
+- Tông điệu: Năng động, thân thiện, công nghệ
+
+---
+
+Visual Description:
+The logo displays a modern chat bubble icon with a triangular tail extending to the left. The symbol features three white circular dots in the center, representing messages or conversation.
+
+Design Elements:
+- Shape: Rounded rectangle with triangular tail forming a speech bubble
+- Typography: None (icon only)
+- Color Palette: Gradient from pink-purple to blue
+- Background: Transparent
+- Style: Minimalist, modern, smooth gradient
+- Mood: Dynamic, friendly, technological

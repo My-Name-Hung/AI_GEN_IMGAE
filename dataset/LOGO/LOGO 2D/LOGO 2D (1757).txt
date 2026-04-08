@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng ngôi nhà được vẽ bằng đường nét đơn giản với thiết kế đẳng cự ba chiều. Ngôi nhà có mái nhọn và được đặt trong một khung tròn với hai điểm nhỏ ở vị trí trên và dưới bên phải.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ngôi nhà đẳng cự với mái nhọn trong khung tròn
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ đỏ đến cam/vàng
+- Nền: Đen
+- Phong cách: Tối giản, đường nét, hiện đại, đẳng cự
+- Tông điệu: Chuyên nghiệp, công nghệ, năng động
+
+---
+
+Visual Description:
+The logo displays a house icon drawn with simple line art in an isometric three-dimensional design. The house features a pointed roof and is enclosed within a circular frame with two small dots positioned at the upper and lower right.
+
+Design Elements:
+- Shape: Isometric house with pointed roof in circular frame
+- Typography: None (icon only)
+- Color Palette: Gradient from red to orange/yellow
+- Background: Black
+- Style: Minimalist, line art, modern, isometric
+- Mood: Professional, technological, dynamic

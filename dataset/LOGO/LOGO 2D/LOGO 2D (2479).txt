@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có nền hình vuông màu cam đậm với một biểu tượng tròn đen chứa ba hình tròn trắng bên trong. Phía dưới biểu tượng là tên thương hiệu "Thiên Trường" bằng font chữ đen in đậm, kèm dòng chữ nhỏ "kiến trúc".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với biểu tượng tròn trung tâm
+- Kiểu chữ: Sans-serif hiện đại, in đậm, cỡ chữ lớn cho tên chính
+- Bảng màu: Cam đậm, đen, trắng
+- Nền: Cam đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Năng động, chuyên nghiệp, nổi bật
+
+---
+
+Visual Description:
+The logo features a square orange background with a black circular icon containing three white circles inside. Below the icon is the brand name "Thiên Trường" in bold black typography, accompanied by smaller text reading "kiến trúc".
+
+Design Elements:
+- Shape: Square format with central circular icon
+- Typography: Modern sans-serif, bold weight, large size for main text
+- Color Palette: Bold orange, black, white
+- Background: Solid bold orange
+- Style: Minimalist, modern, geometric
+- Mood: Dynamic, professional, eye-catching

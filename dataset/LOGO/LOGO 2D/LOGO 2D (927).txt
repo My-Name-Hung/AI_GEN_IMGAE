@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình khiên màu xanh dương với hình ảnh đầu ngựa cách điệu màu trắng ở trung tâm. Có một ngôi sao nhỏ màu trắng nằm ở góc trên bên phải của khiên, tạo điểm nhấn cho thiết kế.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khiên bảo vệ với đầu ngựa cách điệu và ngôi sao
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh dương đậm và trắng
+- Nền: Xanh nhạt
+- Phong cách: Hiện đại, tối giản, biểu tượng
+- Tông điệu: Mạnh mẽ, tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a blue shield shape with a stylized white horse head silhouette in the center. A small white star is positioned in the upper right corner of the shield, adding a decorative accent to the design.
+
+Design Elements:
+- Shape: Shield with stylized horse head and star
+- Typography: None (icon only)
+- Color Palette: Deep blue and white
+- Background: Light blue
+- Style: Modern, minimalist, emblematic
+- Mood: Strong, trustworthy, professional

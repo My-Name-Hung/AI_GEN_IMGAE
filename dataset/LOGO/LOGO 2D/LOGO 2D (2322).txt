@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn màu đỏ với ngôi sao trắng ở trung tâm, giống như biểu tượng trên quốc kỳ Việt Nam. Bên dưới là dòng chữ "NGÀY GIẢI PHÓNG" in đậm màu đen, và phía dưới cùng là chữ "MIỀN NAM" in nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với ngôi sao năm cánh ở trung tâm
+- Kiểu chữ: Font chữ đậm, hiện đại cho tiêu đề chính và font mảnh hơn cho phụ đề
+- Bảng màu: Đỏ và trắng cho biểu tượng, đen cho văn bản
+- Nền: Trắng, tối giản
+- Phong cách: Yêu nước, trang trọng, biểu tượng
+- Tông điệu: Lịch sử, tôn nghiêm, ý nghĩa
+
+---
+
+Visual Description:
+The logo features a red circular emblem with a white five-pointed star in the center, resembling the symbol from Vietnam's flag. Below is the text "NGÀY GIẢI PHÓNG" in bold black letters, with "MIỀN NAM" in smaller text underneath.
+
+Design Elements:
+- Shape: Circular with five-pointed star at center
+- Typography: Bold, modern font for main title and thinner font for subtitle
+- Color Palette: Red and white for emblem, black for text
+- Background: White, minimalist
+- Style: Patriotic, formal, symbolic
+- Mood: Historical, dignified, meaningful

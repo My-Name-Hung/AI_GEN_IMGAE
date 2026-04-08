@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng tròn bên trái với các đường tròn đồng tâm và hai hình tròn nhỏ ở giữa, kèm theo dòng chữ "Tập Đoàn Mai Ân" bằng tiếng Việt. Bên dưới có dòng chữ nhỏ hơn mô tả về lĩnh vực hoạt động của công ty.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn với các vòng đồng tâm và hai điểm tròn ở trung tâm
+- Kiểu chữ: Font chữ hiện đại, không chân, màu trắng
+- Bảng màu: Nền xanh dương đậm, biểu tượng màu hồng/tím neon, chữ màu trắng
+- Nền: Nền gradient xanh dương từ đậm đến sáng
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features a circular icon on the left with concentric circles and two small circles in the center, accompanied by Vietnamese text "Tập Đoàn Mai Ân" (Mai An Group). Below is smaller descriptive text about the company's field of operation.
+
+Design Elements:
+- Shape: Circular icon with concentric rings and two central circular points
+- Typography: Modern, sans-serif font in white
+- Color Palette: Deep blue gradient background, pink/purple neon icon, white text
+- Background: Blue gradient from dark to light
+- Style: Modern, minimalist, technological
+- Mood: Professional, dynamic, innovative

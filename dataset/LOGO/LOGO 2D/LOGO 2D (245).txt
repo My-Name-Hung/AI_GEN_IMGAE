@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một nhân vật mang áo choàng giơ tay lên, tạo thành hình bóng người với phong cách nghệ thuật đơn giản. Phía dưới có dòng chữ "PILGRIM company" được thiết kế với kiểu chữ serif thanh lịch.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette người mang áo choàng với tư thế giơ tay
+- Kiểu chữ: Serif truyền thống, chữ hoa cho "PILGRIM", chữ thường cho "company"
+- Bảng màu: Vàng gradient chuyển sang xanh dương, chữ trắng
+- Nền: Đen thuần
+- Phong cách: Tối giản, biểu tượng, gradient hiện đại
+- Tông điệu: Tâm linh, huyền bí, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a silhouette of a robed figure with raised hands in an artistic, simplified style. Below the figure is the text "PILGRIM company" designed with elegant serif typography.
+
+Design Elements:
+- Shape: Silhouette of a robed figure with raised arms
+- Typography: Traditional serif, uppercase for "PILGRIM", lowercase for "company"
+- Color Palette: Golden yellow gradient transitioning to blue, white text
+- Background: Pure black
+- Style: Minimalist, symbolic, modern gradient
+- Mood: Spiritual, mystical, professional

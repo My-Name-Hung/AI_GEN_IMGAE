@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện hình dạng một con mắt với đồng tử màu xanh navy đậm. Bên trong đồng tử có một hình trái tim màu hồng cùng với một vòng tròn nhỏ màu trắng tạo điểm nhấn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình mắt ellipse với đồng tử tròn
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh navy đậm, hồng coral, trắng
+- Nền: Màu be/kem nhạt
+- Phong cách: Hiện đại, tối giản, biểu tượng
+- Tông điệu: Ấm áp, thân thiện, tình cảm
+
+---
+
+Visual Description:
+The logo depicts an eye shape with a dark navy blue pupil. Inside the pupil, there's a pink heart symbol along with a small white circle creating a highlight effect.
+
+Design Elements:
+- Shape: Elliptical eye with circular pupil
+- Typography: None (icon only)
+- Color Palette: Dark navy blue, coral pink, white
+- Background: Light beige/cream
+- Style: Modern, minimalist, symbolic
+- Mood: Warm, friendly, affectionate

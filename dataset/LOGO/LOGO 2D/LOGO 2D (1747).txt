@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả hình ảnh một con sư tử đang đứng với tư thế uy quyền, bờm sư tử được stylized với những đường nét xoắn ốc đặc trưng. Con sư tử được vẽ theo phong cách pixel art với đường viền đen và đuôi cong lên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình sư tử đứng nghiêng, bờm xoắn ốc trang trí
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Màu nâu vàng, cam nhạt với viền đen
+- Nền: Nền trắng trong suốt
+- Phong cách: Pixel art, heraldic, cổ điển
+- Tông điệu: Uy quyền, hoàng gia, mạnh mẽ
+
+---
+
+Visual Description:
+The logo depicts a regal lion standing in a proud stance with a distinctive spiral-styled mane. The lion is rendered in pixel art style with black outlines and features a curved tail positioned upward.
+
+Design Elements:
+- Shape: Standing lion in profile with decorative spiral mane
+- Typography: None (icon only)
+- Color Palette: Golden brown and light orange with black outlines
+- Background: Transparent white background
+- Style: Pixel art, heraldic, classical
+- Mood: Regal, royal, powerful

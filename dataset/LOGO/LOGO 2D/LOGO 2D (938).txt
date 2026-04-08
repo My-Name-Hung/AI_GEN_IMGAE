@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một con đại bàng vàng với đôi cánh xòe rộng, ở giữa là quả bóng chuyền được đặt trong vòng tròn. Phía trên có ba ngôi sao và dải băng cong, tạo nên một biểu tượng uy nghiêm và mạnh mẽ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Con đại bàng với cánh xòe, vòng tròn trung tâm chứa bóng chuyền, ngôi sao và băng trang trí
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng kim, cam vàng với hiệu ứng gradient
+- Nền: Đen tuyền
+- Phong cách: Biểu tượng, cổ điển, thể thao
+- Tông điệu: Uy quyền, mạnh mẽ, chiến thắng
+
+---
+
+Visual Description:
+The logo features a golden eagle with spread wings, with a volleyball placed in a central circle. Above are three stars and curved banners, creating a dignified and powerful emblem.
+
+Design Elements:
+- Shape: Eagle with spread wings, central circle containing volleyball, stars and decorative banners
+- Typography: None (icon only)
+- Color Palette: Golden yellow, orange-yellow with gradient effects
+- Background: Solid black
+- Style: Emblematic, classic, sports
+- Mood: Authoritative, powerful, victorious

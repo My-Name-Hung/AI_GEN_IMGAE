@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng như một bông hoa cách điệu với các cánh hoa trang trí xung quanh viền ngoài. Trung tâm là một vòng tròn chứa tên công ty "Công ty Phong Phú" bằng chữ màu trắng, với dòng chữ "Cửa hàng hoa" nhỏ hơn ở bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với viền hoa văn cách điệu giống cánh hoa
+- Kiểu chữ: Font chữ đơn giản, rõ ràng, màu trắng
+- Bảng màu: Màu xanh ngọc (turquoise) chủ đạo với chữ trắng
+- Nền: Màu trắng trong suốt
+- Phong cách: Trang trí, cổ điển, thủ công
+- Tông điệu: Thanh lịch, truyền thống, tinh tế
+
+---
+
+Visual Description:
+The logo features a decorative circular design resembling a stylized flower with ornamental petal-like elements around the outer border. The center contains a circular area with the company name "Công ty Phong Phú" in white text, with smaller text "Cửa hàng hoa" below it.
+
+Design Elements:
+- Shape: Circular with decorative floral border pattern
+- Typography: Simple, clean font in white
+- Color Palette: Turquoise/cyan dominant with white text
+- Background: Transparent white
+- Style: Decorative, traditional, handcrafted
+- Mood: Elegant, traditional, refined

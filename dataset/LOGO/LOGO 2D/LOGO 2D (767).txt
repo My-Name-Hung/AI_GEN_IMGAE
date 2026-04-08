@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng giống như hai chữ cái được liên kết với nhau, tạo thành một biểu tượng đối xứng. Thiết kế sử dụng các đường nét đậm màu đen làm viền ngoài, với các phần tô màu xanh lam và đỏ san hô bên trong.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình bán nguyệt được kết nối tạo thành cấu trúc đối xứng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen, xanh lam thép, đỏ san hô, trắng
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, cân bằng, năng động
+
+---
+
+Visual Description:
+The logo features two interconnected letter-like shapes that form a symmetrical symbol. The design uses bold black outlines with blue and coral red color fills, creating a balanced and modern appearance.
+
+Design Elements:
+- Shape: Two semi-circular forms connected to create symmetrical structure
+- Typography: None (icon only)
+- Color Palette: Black, steel blue, coral red, white
+- Background: White/transparent
+- Style: Minimalist, modern, geometric
+- Mood: Professional, balanced, dynamic

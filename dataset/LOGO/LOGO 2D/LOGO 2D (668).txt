@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình cầu vồng nhiều màu sắc với hai đám mây trắng ở hai đầu. Bên dưới là dòng chữ "Cầu vồng Tí hon" và slogan "Chương trình đọc viết cho trẻ em".
+
+Yếu tố Thiết kế:
+- Hình dạng: Cầu vồng cong với các dải màu và đám mây phồng
+- Kiểu chữ: Font chữ đậm, đơn giản, màu đen cho tiêu đề và xám cho slogan
+- Bảng màu: Đỏ, cam, vàng, xanh lá, xanh dương với đám mây trắng
+- Nền: Nền trắng/xám nhạt
+- Phong cách: Thiết kế đơn giản, thân thiện, dành cho trẻ em
+- Tông điệu: Vui tươi, ấm áp, giáo dục
+
+---
+
+Visual Description:
+The logo features a colorful rainbow arc with white clouds at both ends. Below is the text "Cầu vồng Tí hon" and the tagline "Chương trình đọc viết cho trẻ em".
+
+Design Elements:
+- Shape: Curved rainbow with colored bands and fluffy clouds
+- Typography: Bold, simple black font for title and gray for tagline
+- Color Palette: Red, orange, yellow, green, blue with white clouds
+- Background: White/light gray background
+- Style: Simple, friendly, child-oriented design
+- Mood: Cheerful, warm, educational

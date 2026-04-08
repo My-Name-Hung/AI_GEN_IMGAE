@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng ngôi sao màu cam/đỏ cam ở trung tâm phía trên. Bên dưới là dòng chữ "Công ty Mai An" bằng font chữ thanh lịch màu trắng, kèm theo dòng chữ nhỏ "TỪ NĂM 1997" phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ngôi sao nhiều cánh đối xứng ở trên, bố cục dọc tập trung
+- Kiểu chữ: Serif thanh lịch, chữ hoa cho tên công ty
+- Bảng màu: Cam đỏ cho biểu tượng, trắng cho chữ
+- Nền: Xanh xám đậm, tông màu chuyên nghiệp
+- Phong cách: Tối giản, doanh nghiệp, cân bằng
+- Tông điệu: Tin cậy, uy tín, lâu đời
+
+---
+
+Visual Description:
+The logo features an orange-red star symbol centered at the top. Below it is the text "Công ty Mai An" in elegant white typography, with smaller text "TỪ NĂM 1997" underneath.
+
+Design Elements:
+- Shape: Multi-pointed symmetrical star above, centered vertical layout
+- Typography: Elegant serif font, uppercase for company name
+- Color Palette: Orange-red for icon, white for text
+- Background: Dark blue-gray, professional tone
+- Style: Minimalist, corporate, balanced
+- Mood: Trustworthy, established, reliable

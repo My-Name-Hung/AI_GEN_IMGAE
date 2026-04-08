@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo văn bản với dòng chữ chính "HÀNH TINH XANH" được viết bằng font chữ đậm màu xanh lá cây đậm. Bên dưới có dòng chữ phụ "CHIẾN DỊCH SINH THÁI" màu xám nhạt hơn, cùng với các yếu tố trang trí hoa văn lá cây ở trên và dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo văn bản với các yếu tố trang trí lá cây đối xứng
+- Kiểu chữ: Font chữ in hoa đậm cho tiêu đề, font mảnh hơn cho dòng phụ
+- Bảng màu: Xanh lá cây đậm và xám nhạt
+- Nền: Nền trắng ngà nhạt
+- Phong cách: Tối giản, thân thiện với môi trường, tự nhiên
+- Tông điệu: Bền vững, sinh thái, chuyên nghiệp
+
+---
+
+Visual Description:
+A text-based logo featuring the main text "HÀNH TINH XANH" in bold dark green typography. Below it is the subtitle "CHIẾN DỊCH SINH THÁI" in lighter gray text, with decorative leaf motif elements positioned above and below the text.
+
+Design Elements:
+- Shape: Text-based logo with symmetrical decorative leaf elements
+- Typography: Bold uppercase font for main title, thinner font for subtitle
+- Color Palette: Dark green and light gray
+- Background: Light cream/off-white background
+- Style: Minimalist, eco-friendly, natural
+- Mood: Sustainable, ecological, professional

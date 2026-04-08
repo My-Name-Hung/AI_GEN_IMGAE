@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một robot hoặc máy móc với khuôn mặt giận dữ, có đôi mắt đỏ sáng và răng nanh nhọn. Robot được trang bị một cái mũ màu đỏ trên đầu và có các chi tiết cơ khí ở hai bên, toàn bộ được đặt trên nền hình lục giác màu vàng cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình lục giác làm nền, robot hình vuông với các chi tiết góc cạnh
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng cam, xanh lam, đỏ, nâu đen
+- Nền: Nền trong suốt với hình lục giác màu vàng cam
+- Phong cách: Cartoon, mascot, retro, pixel art
+- Tông điệu: Hung dữ, mạnh mẽ, năng động
+
+---
+
+Visual Description:
+The logo depicts an angry robot or machine with a fierce expression, featuring glowing red eyes and sharp fangs. The robot wears a red cap on its head and has mechanical details on both sides, all set against a yellow-orange hexagonal background.
+
+Design Elements:
+- Shape: Hexagonal background, square robot with angular mechanical details
+- Typography: None (icon only)
+- Color Palette: Yellow-orange, blue, red, dark brown
+- Background: Transparent with yellow-orange hexagonal shape
+- Style: Cartoon, mascot, retro, pixel art
+- Mood: Fierce, powerful, energetic

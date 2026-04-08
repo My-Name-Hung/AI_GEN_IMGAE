@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm từ "Thanh" được viết bằng chữ nghiêng màu trắng làm chính, với dòng phụ "Hệ thống vi mô" bên dưới cùng màu nhưng nhỏ hơn. Ở góc phải trên có một biểu tượng nhỏ màu xanh lá cây hình tròn với đuôi cong.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ nghiêng kết hợp với biểu tượng tròn có đuôi cong
+- Kiểu chữ: Chữ sans-serif nghiêng, hiện đại và thanh thoát
+- Bảng màu: Trắng chủ đạo, điểm nhấn xanh lá cây
+- Nền: Xám xanh đậm
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, sạch sẽ, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features "Thanh" written in white italic text as the main element, with "Hệ thống vi mô" as a smaller subtitle below in the same color. A small green circular icon with a curved tail appears in the upper right corner.
+
+Design Elements:
+- Shape: Italic text combined with a circular icon with curved tail
+- Typography: Sans-serif italic font, modern and sleek
+- Color Palette: Predominantly white with green accent
+- Background: Dark teal/gray
+- Style: Minimalist, modern, tech-oriented
+- Mood: Professional, clean, trustworthy

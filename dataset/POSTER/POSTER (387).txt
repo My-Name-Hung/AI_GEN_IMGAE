@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dòng chữ "LOREM IPSUM" được thiết kế với kiểu chữ in hoa đậm, trong đó "LOREM" sử dụng màu xanh dương và "IPSUM" màu xám đen. Bên dưới có dòng chữ nhỏ hơn "IPSUM" và tagline "WE ARE KING FOR CONCRETE" cùng với hình ảnh nhóm người trong môi trường văn phòng chuyên nghiệp.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ in hoa thẳng, bố cục ngang đơn giản
+- Kiểu chữ: Sans-serif đậm, hiện đại, dễ đọc
+- Bảng màu: Xanh dương chủ đạo, xám đen, trắng
+- Nền: Trắng sạch
+- Phong cách: Tối giản, chuyên nghiệp, doanh nghiệp
+- Tông điệu: Đáng tin cậy, chuyên nghiệp, hiện đại
+
+---
+
+Visual Description:
+The logo features "LOREM IPSUM" text in bold uppercase letters, with "LOREM" in blue and "IPSUM" in dark gray/black. Below includes smaller "IPSUM" text and tagline "WE ARE KING FOR CONCRETE" along with an image of people in a professional office environment.
+
+Design Elements:
+- Shape: Straight uppercase letters, simple horizontal layout
+- Typography: Bold sans-serif, modern, legible
+- Color Palette: Dominant blue, dark gray/black, white
+- Background: Clean white
+- Style: Minimalist, professional, corporate
+- Mood: Trustworthy, professional, modern

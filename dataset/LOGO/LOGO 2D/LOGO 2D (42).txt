@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng chữ "X" được tạo thành từ hai hình cánh chim hoặc lưỡi liềm cong đối xứng nhau. Toàn bộ thiết kế sử dụng gradient màu xanh dương từ nhạt đến đậm, tạo cảm giác chuyển động và năng động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai đường cong đối xứng tạo thành chữ X, giống cánh chim hay lưỡi liềm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient xanh dương từ nhạt đến đậm
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, gradient mềm mại
+- Tông điệu: Năng động, tự do, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays an "X" symbol formed by two symmetrical curved shapes resembling bird wings or crescents. The entire design uses a blue gradient from light to dark tones, creating a sense of movement and dynamism.
+
+Design Elements:
+- Shape: Two symmetrical curves forming an X, resembling bird wings or crescents
+- Typography: None (icon only)
+- Color Palette: Blue gradient from light to dark shades
+- Background: White/transparent
+- Style: Modern, minimalist, smooth gradients
+- Mood: Dynamic, free, professional

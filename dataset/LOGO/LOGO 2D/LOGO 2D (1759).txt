@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một trái tim được tạo thành từ hai đường cong đan xen với nhau tạo thành một hình dạng gồm nhiều lớp. Bên trong trái tim có một hình vuông nhỏ màu đen được đặt ở trung tâm, tạo điểm nhấn cho thiết kế.
+
+Yếu tố Thiết kế:
+- Hình dạng: Trái tim đan xen với hình vuông trung tâm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trắng đơn sắc
+- Nền: Trắng hoặc trong suốt
+- Phong cách: Tối giản, hiện đại, đường nét sạch
+- Tông điệu: Yêu thương, kết nối, tinh tế
+
+---
+
+Visual Description:
+The logo displays a heart shape formed by two interwoven curved lines creating a layered design. Inside the heart is a small black square positioned at the center, serving as a focal point for the design.
+
+Design Elements:
+- Shape: Interlaced heart with central square
+- Typography: None (icon only)
+- Color Palette: Monochromatic black and white
+- Background: White or transparent
+- Style: Minimalist, modern, clean lines
+- Mood: Loving, connection, sophisticated

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình thoi với ba viên kim cương nhỏ bên trong, được đặt trên nền màu đỏ burgundy. Bên dưới là tên thương hiệu "HOÀNG GIANG & CƯỜNG" với dòng chữ nhỏ "CÔNG TY KẾ TOÁN" ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình thoi chứa ba viên kim cương sắp xếp theo hàng ngang
+- Kiểu chữ: Sans-serif thanh lịch, khoảng cách chữ rộng, có sử dụng dấu móc tiếng Việt
+- Bảng màu: Màu trắng trên nền đỏ burgundy
+- Nền: Màu đỏ burgundy đồng nhất
+- Phong cách: Tối giản, sang trọng, chuyên nghiệp
+- Tông điệu: Đẳng cấp, tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a diamond-shaped emblem containing three small diamonds arranged horizontally, set against a burgundy red background. Below the emblem is the brand name "HOÀNG GIANG & CƯỜNG" with a smaller tagline "CÔNG TY KẾ TOÁN" underneath.
+
+Design Elements:
+- Shape: Diamond shape containing three diamonds arranged in a horizontal row
+- Typography: Elegant sans-serif with wide letter spacing, includes Vietnamese diacritical marks
+- Color Palette: White text and elements on burgundy red background
+- Background: Solid burgundy red
+- Style: Minimalist, luxury, professional
+- Mood: Premium, trustworthy, professional

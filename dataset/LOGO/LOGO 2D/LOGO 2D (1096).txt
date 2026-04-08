@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một lâu đài hoặc pháo đài được cách điệu với hai tháp cao ở hai bên và một phần trung tâm thấp hơn. Bên dưới lâu đài là dòng chữ "GALLERY" được sắp xếp gọn gàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Kiến trúc lâu đài đối xứng với hai tháp và tường thành
+- Kiểu chữ: Chữ sans-serif đậm, in hoa, chỉnh tề
+- Bảng màu: Đen trên nền xám nhạt
+- Nền: Xám nhạt đơn sắc
+- Phong cách: Tối giản, biểu tượng, kiến trúc cổ điển
+- Tông điệu: Mạnh mẽ, lịch sử, uy quyền
+
+---
+
+Visual Description:
+The logo displays a stylized castle or fortress silhouette with two tall towers on either side and a lower central section. Below the castle is the word "GALLERY" arranged neatly in capital letters.
+
+Design Elements:
+- Shape: Symmetrical castle architecture with twin towers and battlements
+- Typography: Bold sans-serif uppercase lettering, clean and structured
+- Color Palette: Black on light gray background
+- Background: Solid light gray
+- Style: Minimalist, iconic, classical architecture
+- Mood: Strong, historical, authoritative

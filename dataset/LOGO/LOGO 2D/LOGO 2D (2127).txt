@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một khung vuông màu vàng trên nền đỏ, bên trong chứa dòng chữ tiếng Việt "TRƯỜNG NGHỆ THUẬT SAO KHUÊ" bằng font chữ in hoa màu trắng. Phía dưới có dòng chữ nhỏ hơn "TỪ NĂM 1950" cùng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung vuông đơn giản với viền màu vàng
+- Kiểu chữ: Sans-serif in hoa, rõ ràng và dễ đọc
+- Bảng màu: Đỏ, vàng và trắng
+- Nền: Màu đỏ tươi
+- Phong cách: Tối giản, cổ điển, chính thống
+- Tông điệu: Trang trọng, uy tín, truyền thống
+
+---
+
+Visual Description:
+The logo features a yellow square frame on a red background, containing white text in Vietnamese reading "TRƯỜNG NGHỆ THUẬT SAO KHUÊ" in capital letters. Below this is smaller white text stating "TỪ NĂM 1950".
+
+Design Elements:
+- Shape: Simple square frame with yellow border
+- Typography: Clean sans-serif uppercase lettering
+- Color Palette: Red, yellow, and white
+- Background: Bright red
+- Style: Minimalist, classic, institutional
+- Mood: Formal, authoritative, traditional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ cái "D" màu xanh đậm với thiết kế hiện đại, kết hợp với hai chiếc lá màu xanh lục ở bên trái. Bên trong chữ "D" có các đường ngang màu trắng tạo thành hình dạng giống như ngã ba hoặc công cụ ăn uống.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái "D" bo tròn kết hợp với hai lá nhỏ và các đường kẻ ngang
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh đậm, xanh lục tự nhiên, trắng
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, tối giản, biểu tượng
+- Tông điệu: Tươi mới, thân thiện, tự nhiên
+
+---
+
+Visual Description:
+The logo features a dark green letter "D" with a modern design, combined with two green leaves on the left side. Inside the "D" are white horizontal lines forming a fork-like or dining utensil shape.
+
+Design Elements:
+- Shape: Rounded letter "D" combined with two small leaves and horizontal lines
+- Typography: None (icon only)
+- Color Palette: Dark green, natural green, white
+- Background: Transparent/white
+- Style: Modern, minimalist, symbolic
+- Mood: Fresh, friendly, natural

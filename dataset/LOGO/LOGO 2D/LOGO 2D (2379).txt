@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế hình vuông với hai tông màu hồng khác nhau được chia làm hai phần. Phần trên có màu hồng nhạt, phần dưới có màu hồng đậm hơn với dòng chữ "SỸ CHIẾN" và "DJ Tiểu cười" bằng font chữ màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông được chia thành hai khối màu ngang
+- Kiểu chữ: Font chữ in hoa đơn giản, rõ ràng cho tên chính và font nhỏ hơn cho phụ đề
+- Bảng màu: Gradient hồng từ nhạt đến đậm, chữ màu trắng
+- Nền: Nền tím lavender bao quanh logo
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Trẻ trung, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features a square design with two different shades of pink arranged in horizontal sections. The upper portion is light pink, while the lower section is a deeper pink containing white text reading "SỸ CHIẾN" and "DJ Tiểu cười".
+
+Design Elements:
+- Shape: Square divided into two horizontal color blocks
+- Typography: Clean, uppercase sans-serif for main text with smaller subtitle font
+- Color Palette: Pink gradient from light to deep, white text
+- Background: Lavender purple surrounding the logo
+- Style: Minimalist, modern, geometric
+- Mood: Youthful, energetic, creative

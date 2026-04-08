@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm hai hình học đơn giản: một hình chữ nhật màu xanh mint với cạnh răng cưa và một hình tròn màu hồng pastel chồng lên nhau. Bên dưới là tên thương hiệu "LUA & DA" được viết bằng font chữ sans-serif hiện đại, kèm theo dòng tagline bằng tiếng Việt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Kết hợp hình chữ nhật có cạnh răng cưa và hình tròn chồng lấp
+- Kiểu chữ: Font sans-serif hiện đại, in hoa, khoảng cách chữ rộng
+- Bảng màu: Xanh mint nhạt, hồng pastel, đen cho văn bản
+- Nền: Màu be/cream nhạt
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Nhẹ nhàng, thanh lịch, nữ tính
+
+---
+
+Visual Description:
+The logo features two simple geometric shapes: a mint green rectangle with serrated edges and a pastel pink circle overlapping each other. Below is the brand name "LUA & DA" written in modern sans-serif font, accompanied by a Vietnamese tagline.
+
+Design Elements:
+- Shape: Combination of serrated rectangle and overlapping circle
+- Typography: Modern sans-serif, uppercase, wide letter spacing
+- Color Palette: Soft mint green, pastel pink, black text
+- Background: Light beige/cream
+- Style: Minimalist, modern, geometric
+- Mood: Gentle, elegant, feminine

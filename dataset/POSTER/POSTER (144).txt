@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng vô cực stylized với hai vòng tròn được nối với nhau tạo thành hình số 8 nằm ngang. Biểu tượng sử dụng gradient màu từ cam sang tím, tạo hiệu ứng chuyển màu mượt mà và bắt mắt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng vô cực (infinity symbol) với hai vòng tròn đan xen
+- Kiểu chữ: Chữ viết thường màu đỏ cam, phong cách đơn giản và hiện đại
+- Bảng màu: Gradient cam-tím-xanh dương cho biểu tượng, chữ màu cam đỏ
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, tối giản, gradient
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo displays a stylized infinity symbol with two interconnected circles forming a horizontal figure-8 shape. The symbol features a smooth gradient transition from orange to purple, creating an eye-catching and flowing color effect.
+
+Design Elements:
+- Shape: Infinity symbol with two interlocking circles
+- Typography: Lowercase text in orange-red color with simple, modern styling
+- Color Palette: Orange-purple-blue gradient for symbol, orange-red text
+- Background: Transparent/white
+- Style: Modern, minimalist, gradient
+- Mood: Professional, creative, dynamic

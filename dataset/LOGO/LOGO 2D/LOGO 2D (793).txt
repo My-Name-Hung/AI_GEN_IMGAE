@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một chiếc túi xách hoặc vali có hình chữ nhật với tay cầm, được nhân hóa với đôi chân đang chạy. Biểu tượng được thiết kế theo phong cách tối giản với màu trắng trên nền xanh dương.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật bo góc với tay cầm và đôi chân
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Màu trắng trên nền xanh dương gradient
+- Nền: Gradient xanh dương từ nhạt đến đậm
+- Phong cách: Tối giản, phẳng, biểu tượng
+- Tông điệu: Năng động, vui tươi, di động
+
+---
+
+Visual Description:
+The logo depicts a rectangular briefcase or suitcase with a handle that has been anthropomorphized with running legs. The icon is designed in a minimalist style using white color against a blue background.
+
+Design Elements:
+- Shape: Rounded rectangle with handle and running legs
+- Typography: None (icon only)
+- Color Palette: White on blue gradient background
+- Background: Blue gradient from light to dark
+- Style: Minimalist, flat, iconic
+- Mood: Dynamic, playful, mobile

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo NetPly bao gồm một biểu tượng hình học đa màu ở bên trái và tên thương hiệu "NetPly" được viết bằng chữ đậm màu tím đậm. Biểu tượng có hình dạng như một mũi tên chỉ về phía bên phải với các màu gradient từ xanh cyan, tím, hồng đến cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng mũi tên/play button stylized với các khối hình học chồng lấp
+- Kiểu chữ: Sans-serif hiện đại, chữ đậm, dễ đọc
+- Bảng màu: Gradient đa màu (cyan, tím, hồng, cam) cho icon, tím đậm cho text
+- Nền: Nền trắng sạch sẽ
+- Phong cách: Hiện đại, gradient, tối giản, công nghệ
+- Tông điệu: Năng động, sáng tạo, chuyên nghiệp
+
+---
+
+Visual Description:
+The NetPly logo features a colorful geometric icon on the left side paired with the brand name "NetPly" in bold dark purple text. The icon resembles a rightward-pointing arrow or play button with overlapping geometric shapes in a vibrant gradient of cyan, purple, pink, and orange colors.
+
+Design Elements:
+- Shape: Stylized arrow/play button with overlapping geometric blocks
+- Typography: Modern sans-serif, bold, readable font
+- Color Palette: Multi-color gradient (cyan, purple, pink, orange) for icon, dark purple for text
+- Background: Clean white background
+- Style: Modern, gradient, minimalist, tech-focused
+- Mood: Dynamic, creative, professional

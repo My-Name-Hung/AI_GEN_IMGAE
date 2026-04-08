@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế khung viền trang trí với các đường cong uốn lượn tạo thành hình dạng giống như một tấm biển hoặc huy hiệu cổ điển. Bên trong khung có dòng chữ "Thiền Quán" viết bằng font chữ nghiêng thanh lịch, kèm theo dòng phụ đề nhỏ hơn bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung viền trang trí với các đường cong đối xứng, có góc nhọn ở trên dưới
+- Kiểu chữ: Font chữ nghiêng thanh lịch, hiện đại cho chữ chính và font nhỏ hơn cho phụ đề
+- Bảng màu: Nền tím đậm (burgundy/maroon) với chữ và viền màu trắng
+- Nền: Màu tím đậm gradient
+- Phong cách: Cổ điển, trang trọng, đối xứng
+- Tông điệu: Thanh lịch, tâm linh, sang trọng
+
+---
+
+Visual Description:
+The logo features a decorative ornamental frame with curved, flowing lines that form a classic emblem or badge shape. Inside the frame is the text "Thiền Quán" in elegant italic lettering, with a smaller subtitle underneath.
+
+Design Elements:
+- Shape: Ornamental decorative frame with symmetrical curves and pointed top and bottom
+- Typography: Elegant italic font for main text and smaller font for subtitle
+- Color Palette: Deep purple/burgundy background with white text and border
+- Background: Deep purple gradient
+- Style: Classic, formal, symmetrical, ornamental
+- Mood: Elegant, spiritual, sophisticated

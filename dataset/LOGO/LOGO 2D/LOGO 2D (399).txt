@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng oval ba chiều với hiệu ứng gradient và đổ bóng, tạo cảm giác nổi bật. Chữ "Qualitti" được viết bằng font chữ màu trắng dày, trong khi từ "Alimentos" nhỏ hơn và có màu vàng ở góc dưới bên phải.
+
+Yếu tố Thiết kế:
+- Hình dạng: Oval ba chiều có viền vàng và hiệu ứng độ sâu
+- Kiểu chữ: Font sans-serif dày, chữ "Qualitti" màu trắng, "Alimentos" màu vàng
+- Bảng màu: Đỏ chính, vàng, trắng
+- Nền: Màu be/kem nhạt
+- Phong cách: Ba chiều, hiện đại, thương mại
+- Tông điệu: Ấm áp, thân thiện, năng động
+
+---
+
+Visual Description:
+The logo features a three-dimensional oval shape with gradient effects and shadows, creating a prominent appearance. The word "Qualitti" is written in thick white font, while "Alimentos" appears smaller in yellow at the bottom right corner.
+
+Design Elements:
+- Shape: Three-dimensional oval with yellow border and depth effects
+- Typography: Bold sans-serif font, "Qualitti" in white, "Alimentos" in yellow
+- Color Palette: Primary red, yellow, white
+- Background: Light beige/cream
+- Style: Three-dimensional, modern, commercial
+- Mood: Warm, friendly, dynamic

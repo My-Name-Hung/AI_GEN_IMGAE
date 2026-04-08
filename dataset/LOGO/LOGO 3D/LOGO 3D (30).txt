@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo Foursquare được hiển thị trên một khối hình vuông bo tròn 3D màu trắng, đặt trên nền hồng rực rỡ. Biểu tượng bao gồm chữ "F" màu hồng được stylized thành hình dạng như một pin địa điểm hoặc bong bóng chat, kèm theo tên thương hiệu "FOURSQUARE" được in bằng chữ in hoa màu xanh navy.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông bo tròn 3D, biểu tượng "F" dạng pin địa điểm
+- Kiểu chữ: Sans-serif in hoa, đậm và hiện đại
+- Bảng màu: Hồng coral, xanh navy, trắng
+- Nền: Hồng rực rỡ với hiệu ứng gradient
+- Phong cách: 3D isometric, hiện đại, tối giản
+- Tông điệu: Năng động, thân thiện, công nghệ
+
+---
+
+Visual Description:
+The Foursquare logo is displayed on a white rounded 3D cube against a vibrant pink background. The icon features a stylized pink "F" shaped like a location pin or speech bubble, accompanied by the "FOURSQUARE" wordmark in navy blue capital letters.
+
+Design Elements:
+- Shape: Rounded 3D cube, location pin-style "F" icon
+- Typography: Sans-serif uppercase, bold and modern
+- Color Palette: Coral pink, navy blue, white
+- Background: Vibrant pink with gradient effect
+- Style: 3D isometric, modern, minimalist
+- Mood: Dynamic, friendly, tech-oriented

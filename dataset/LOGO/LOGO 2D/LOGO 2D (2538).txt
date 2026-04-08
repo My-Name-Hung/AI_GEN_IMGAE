@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "NAM VIỆT" được viết bằng chữ in hoa màu vàng nổi bật. Bên dưới có dòng chữ nhỏ hơn "KẾ TOÁN" cũng màu vàng, tạo thành một thiết kế logo văn bản đơn giản và rõ ràng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Văn bản hai dòng xếp chồng, không có biểu tượng đồ họa
+- Kiểu chữ: Font chữ in hoa sans-serif đậm và hiện đại
+- Bảng màu: Vàng cam trên nền xanh lục đậm
+- Nền: Nền xanh lục đậm/xanh mòng két đồng nhất
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Đáng tin cậy, chuyên nghiệp, trang trọng
+
+---
+
+Visual Description:
+The logo displays the text "NAM VIỆT" written in bold yellow capital letters. Below it is smaller text reading "KẾ TOÁN" also in yellow, creating a simple and clear text-based logo design.
+
+Design Elements:
+- Shape: Two-line stacked text layout with no graphic symbols
+- Typography: Bold, modern sans-serif capital letters
+- Color Palette: Yellow-orange text on dark teal background
+- Background: Solid dark teal/peacock green
+- Style: Minimalist, professional, contemporary
+- Mood: Trustworthy, professional, formal

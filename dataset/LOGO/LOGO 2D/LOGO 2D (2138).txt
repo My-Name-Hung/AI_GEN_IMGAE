@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với một biểu tượng hình cành lá nhỏ ở phía trên. Bên dưới là dòng chữ "Bút & Bưa Sắt" được viết bằng phông chữ thảo thanh lịch với màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon cành lá đơn giản, chữ viết tay thảo
+- Kiểu chữ: Script/thảo viết tay, thanh lịch và mềm mại
+- Bảng màu: Màu hồng san hô làm nền, chữ và icon màu trắng
+- Nền: Màu hồng san hô/hồng đào đồng nhất
+- Phong cách: Tối giản, nữ tính, thanh lịch
+- Tông điệu: Dịu dàng, ấm áp, thân thiện
+
+---
+
+Visual Description:
+The logo features a simple design with a small branch or leaf icon at the top. Below it is the text "Bút & Bưa Sắt" written in elegant white script lettering against a coral pink background.
+
+Design Elements:
+- Shape: Simple branch/leaf icon, handwritten script text
+- Typography: Script/handwritten style, elegant and flowing
+- Color Palette: Coral pink background with white text and icon
+- Background: Solid coral/peach pink
+- Style: Minimalist, feminine, elegant
+- Mood: Gentle, warm, friendly

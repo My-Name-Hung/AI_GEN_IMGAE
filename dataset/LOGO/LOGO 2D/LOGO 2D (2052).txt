@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tròn màu trắng chứa chữ "S" ở bên trái và dòng chữ "TỔ CHỨC AN TOÀN BIỂN" màu trắng ở bên phải. Thiết kế đơn giản với hai vòng tròn đồng tâm tạo thành khung cho chữ cái S ở trung tâm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn với hai vòng đồng tâm chứa chữ S
+- Kiểu chữ: Sans-serif hiện đại, in hoa, đều đặn
+- Bảng màu: Trắng trên nền đen
+- Nền: Đen đơn sắc
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Nghiêm túc, đáng tin cậy, chính thức
+
+---
+
+Visual Description:
+The logo features a white circular icon with the letter "S" on the left side and the text "TỔ CHỨC AN TOÀN BIỂN" in white on the right. The design is simple with two concentric circles creating a frame for the central "S" letter.
+
+Design Elements:
+- Shape: Circular icon with two concentric rings containing the letter S
+- Typography: Modern sans-serif, uppercase, uniform spacing
+- Color Palette: White on black
+- Background: Solid black
+- Style: Minimalist, professional, modern
+- Mood: Serious, trustworthy, official

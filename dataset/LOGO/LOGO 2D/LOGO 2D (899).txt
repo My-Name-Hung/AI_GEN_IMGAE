@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng hình học trừu tượng bên trái với các hình tam giác và hình dạng góc cạnh được sắp xếp tạo thành ký tự "A" cách điệu. Bên phải là tên thương hiệu "Futurion" được viết bằng font chữ hiện đại, sạch sẽ trên nền đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học trừu tượng tạo thành chữ "A" cách điệu
+- Kiểu chữ: Font sans-serif hiện đại, đậm, chữ thường
+- Bảng màu: Gradient xanh lam đến xanh lá cây cho biểu tượng, chữ trắng
+- Nền: Đen hoàn toàn
+- Phong cách: Hiện đại, tối giản, công nghệ cao
+- Tông điệu: Chuyên nghiệp, đổi mới, tương lai
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon on the left composed of triangular and angular shapes arranged to form a stylized letter "A". To the right is the brand name "Futurion" written in clean, modern typography against a black background.
+
+Design Elements:
+- Shape: Abstract geometric icon forming a stylized letter "A"
+- Typography: Modern sans-serif font, bold, lowercase
+- Color Palette: Blue to green gradient for the icon, white text
+- Background: Solid black
+- Style: Modern, minimalist, tech-forward
+- Mood: Professional, innovative, futuristic

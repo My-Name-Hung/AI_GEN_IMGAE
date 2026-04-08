@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản tiếng Việt "PHÒNG TẬP DUY ANH" được sắp xếp theo chiều dọc trên nền xanh dương. Bên cạnh có dòng chữ nhỏ hơn "PHÒNG GYM & CÂU LẠC BỘ SỨC KHỎE" làm slogan mô tả.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối chữ nhật với typography chính là trọng tâm
+- Kiểu chữ: Sans-serif đậm, in hoa, màu trắng với kích thước khác nhau tạo hierarchy
+- Bảng màu: Xanh dương chủ đạo với chữ trắng
+- Nền: Xanh dương đồng nhất
+- Phong cách: Tối giản, hiện đại, typography-based
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo displays Vietnamese text "PHÒNG TẬP DUY ANH" arranged vertically on a blue background. A smaller tagline "PHÒNG GYM & CÂU LẠC BỘ SỨC KHỎE" appears alongside as a descriptive slogan.
+
+Design Elements:
+- Shape: Rectangular block with typography as the main focal point
+- Typography: Bold sans-serif, uppercase, white text with varying sizes creating hierarchy
+- Color Palette: Dominant blue with white text
+- Background: Solid blue
+- Style: Minimalist, modern, typography-based
+- Mood: Strong, professional, energetic

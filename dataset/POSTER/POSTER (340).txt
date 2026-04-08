@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình kim cương màu hồng đậm ở phía trên với các cạnh bo tròn mềm mại. Bên dưới là tên thương hiệu "liplock" được viết bằng font chữ thảo màu trắng với phong cách viết tay.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng kim cương stylized với các góc bo tròn
+- Kiểu chữ: Font chữ thảo viết tay, mềm mại và thân thiện
+- Bảng màu: Tím đậm, hồng magenta, trắng
+- Nền: Màu tím đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, thân thiện
+- Tông điệu: Nữ tính, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features a stylized diamond-shaped icon in bright magenta/pink with rounded, soft edges positioned above the brand name. Below it, "liplock" is written in white handwritten-style script lettering that appears friendly and approachable.
+
+Design Elements:
+- Shape: Stylized diamond with rounded corners
+- Typography: Handwritten script font, soft and friendly
+- Color Palette: Deep purple, magenta pink, white
+- Background: Solid deep purple
+- Style: Modern, minimalist, approachable
+- Mood: Feminine, energetic, creative

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình sao đa cánh với các tông màu cam và đỏ gradient ở bên trái. Bên phải là chữ "solex" được viết bằng font chữ sans-serif đơn giản màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon hình sao/bánh răng đa cánh kết hợp với chữ viết thẳng hàng
+- Kiểu chữ: Sans-serif hiện đại, đơn giản, chữ thường
+- Bảng màu: Cam đỏ gradient cho icon, trắng cho chữ
+- Nền: Xám đen tối
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features a multi-pointed star or gear-like icon with orange and red gradient colors on the left side. To the right is the word "solex" written in clean white sans-serif lowercase letters.
+
+Design Elements:
+- Shape: Multi-pointed star/gear icon combined with horizontal text alignment
+- Typography: Modern, clean sans-serif lowercase font
+- Color Palette: Orange to red gradient for icon, white for text
+- Background: Dark gray/black
+- Style: Modern, minimalist, tech-oriented
+- Mood: Professional, dynamic, innovative

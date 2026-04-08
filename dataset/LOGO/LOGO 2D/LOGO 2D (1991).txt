@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "nguyên sinh" bằng chữ thường màu trắng trên nền xám tối. Phía trên chữ "i" có một biểu tượng lá nhỏ màu xanh lá cây thay thế cho dấu chấm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng với điểm nhấn là biểu tượng lá hình oval
+- Kiểu chữ: Sans-serif đơn giản, chữ thường, khoảng cách rộng
+- Bảng màu: Trắng và xanh lá cây tươi trên nền xám đậm
+- Nền: Màu xám tối, đồng nhất
+- Phong cách: Tối giản, hiện đại, thân thiện với môi trường
+- Tông điệu: Tự nhiên, sạch sẽ, bền vững
+
+---
+
+Visual Description:
+The logo displays "nguyên sinh" in lowercase white text on a dark gray background. Above the letter "i", there's a small green leaf icon replacing the dot.
+
+Design Elements:
+- Shape: Straight typography with an oval leaf accent
+- Typography: Simple sans-serif, lowercase, spaced lettering
+- Color Palette: White and fresh green on dark gray background
+- Background: Solid dark gray
+- Style: Minimalist, modern, eco-friendly
+- Mood: Natural, clean, sustainable

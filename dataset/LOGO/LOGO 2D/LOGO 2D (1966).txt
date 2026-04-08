@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hai hình thoi xoay 45 độ chồng lên nhau, tạo thành khung viền kép. Bên trong có văn bản "HOA BIÊN" và một đường zigzag trang trí, cùng dòng chữ nhỏ bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình thoi xoay chồng lên nhau tạo khung trang trí
+- Kiểu chữ: Font sans-serif đơn giản, in hoa, có khoảng cách chữ rộng
+- Bảng màu: Xanh lá nhạt/xanh mint và xám đậm
+- Nền: Màu xanh lá nhạt/xanh mint đồng nhất
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Tinh tế, thanh lịch, yên bình
+
+---
+
+Visual Description:
+The logo features two overlapping diamond shapes rotated 45 degrees, creating a double border frame. Inside contains the text "HOA BIÊN" with a decorative zigzag line and smaller text below.
+
+Design Elements:
+- Shape: Two overlapping rotated diamonds forming decorative frame
+- Typography: Simple sans-serif font, uppercase, with wide letter spacing
+- Color Palette: Light green/mint and dark gray
+- Background: Solid light green/mint color
+- Style: Minimalist, modern, geometric
+- Mood: Sophisticated, elegant, serene

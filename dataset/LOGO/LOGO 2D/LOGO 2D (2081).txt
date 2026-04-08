@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình khiên chứa nhân vật hoạt hình mặc áo choàng tối màu với đôi mắt sáng màu xanh lam. Phía trên khiên có dòng chữ "PHÁT TRỰC TIẾP BAN ĐÊM" bằng màu trắng nổi bật trên nền tối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khiên bảo vệ hình oval chứa nhân vật bí ẩn
+- Kiểu chữ: Font sans-serif đậm, in hoa, màu trắng
+- Bảng màu: Chủ đạo xanh navy, trắng, với điểm nhấn xanh lam sáng
+- Nền: Gradient xanh tối với hiệu ứng tia sáng
+- Phong cách: Gaming, esports, bí ẩn, hiện đại
+- Tông điệu: Chuyên nghiệp, huyền bí, năng động
+
+---
+
+Visual Description:
+The logo features a shield containing a cartoon character wearing a dark hooded cloak with bright blue glowing eyes. Above the shield is white text reading "PHÁT TRỰC TIẾP BAN ĐÊM" prominently displayed against a dark background.
+
+Design Elements:
+- Shape: Oval shield containing a mysterious hooded figure
+- Typography: Bold sans-serif font, uppercase, white color
+- Color Palette: Predominantly navy blue, white, with bright blue accents
+- Background: Dark blue gradient with radiating light effects
+- Style: Gaming, esports, mysterious, modern
+- Mood: Professional, mystical, dynamic

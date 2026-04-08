@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo này hiển thị tên "Paxtie Menu" bằng chữ viết tay màu vàng sang trọng trên nền xanh đậm. Xung quanh text là những hình ảnh món ăn như pizza, burger và pasta được bố trí một cách nghệ thuật cùng với lá cây trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Layout dọc với text chính ở giữa, được bao quanh bởi hình ảnh thực phẩm
+- Kiểu chữ: Chữ viết tay thanh lịch, có nét cong mềm mại
+- Bảng màu: Vàng gold chủ đạo, nền xanh navy, màu tự nhiên của thực phẩm
+- Nền: Nền xanh đậm tạo độ tương phản
+- Phong cách: Sang trọng, thực phẩm, nghệ thuật ẩm thực
+- Tông điệu: Tinh tế, hấp dẫn, chất lượng cao
+
+---
+
+Visual Description:
+This logo displays "Paxtie Menu" in elegant golden script lettering on a dark teal background. The text is surrounded by artfully arranged food photography including pizza, burgers, and pasta dishes, along with decorative herb leaves.
+
+Design Elements:
+- Shape: Vertical layout with central text surrounded by food imagery
+- Typography: Elegant handwritten script with flowing curves
+- Color Palette: Dominant gold, dark navy background, natural food colors
+- Background: Dark teal creating contrast
+- Style: Luxurious, culinary, food photography
+- Mood: Sophisticated, appetizing, premium quality

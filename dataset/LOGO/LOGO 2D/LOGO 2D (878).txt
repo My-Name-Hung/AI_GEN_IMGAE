@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một con rắn xanh lá cây theo phong cách đồ họa phẳng, với thân hình uốn lượn tạo thành hình chữ S. Đầu rắn có một con mắt tròn đen và bên cạnh là một bong bóng chat màu xanh chứa 4 ngôi sao vàng, tượng trưng cho đánh giá hoặc phản hồi.
+
+Yếu tố Thiết kế:
+- Hình dạng: Con rắn uốn lượn hình chữ S với bong bóng chat chứa ngôi sao
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lá cây chủ đạo, vàng cho ngôi sao, đen cho mắt
+- Nền: Trắng trong suốt
+- Phong cách: Flat design, minimalist, biểu tượng
+- Tông điệu: Thân thiện, tích cực, đáng tin cậy
+
+---
+
+Visual Description:
+The logo depicts a green snake in a flat graphic style, with its body curved in an S-shape. The snake's head features a round black eye, and beside it is a green speech bubble containing 4 yellow stars, symbolizing ratings or feedback.
+
+Design Elements:
+- Shape: S-curved snake with speech bubble containing stars
+- Typography: None (icon only)
+- Color Palette: Dominant green, yellow for stars, black for eye
+- Background: Transparent white
+- Style: Flat design, minimalist, iconic
+- Mood: Friendly, positive, trustworthy

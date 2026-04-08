@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình một con mèo pixel art đội mũ đầu bếp màu đen với hình vuông màu cam trên mũ. Tên thương hiệu "KITTY & SUSHI" được viết bằng font chữ in hoa to, rõ ràng bên cạnh biểu tượng mèo.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng mèo pixel vuông góc, mũ đầu bếp có chi tiết hình vuông
+- Kiểu chữ: Font sans-serif in hoa, dày, dễ đọc
+- Bảng màu: Cam đất, trắng, đen, xám
+- Nền: Cam đất ấm áp
+- Phong cách: Pixel art, phong cách retro, tối giản
+- Tông điệu: Vui tươi, thân thiện, nostalgic
+
+---
+
+Visual Description:
+The logo features a pixel art cat character wearing a black chef's hat with an orange square detail on top. The brand name "KITTY & SUSHI" is written in bold, clear uppercase letters next to the cat mascot.
+
+Design Elements:
+- Shape: Square pixel art cat icon, chef's hat with square detail
+- Typography: Bold sans-serif uppercase font, clean and readable
+- Color Palette: Terracotta orange, white, black, gray
+- Background: Warm terracotta orange
+- Style: Pixel art, retro gaming aesthetic, minimalist
+- Mood: Playful, friendly, nostalgic

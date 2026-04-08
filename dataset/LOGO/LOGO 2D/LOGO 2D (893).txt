@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình dáng một tòa nhà cao tầng được cách điệu với hai cánh tay hoặc cánh chim bao quanh. Phần thân tòa nhà có màu trắng với các cửa sổ nhỏ, trong khi phần bao quanh có gradient từ xanh dương nhạt đến xanh dương đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình khiên kết hợp với tòa nhà và đôi cánh bảo vệ
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient xanh dương từ nhạt đến đậm, trắng
+- Nền: Xanh dương nhạt
+- Phong cách: Hiện đại, tối giản, biểu tượng
+- Tông điệu: Chuyên nghiệp, tin cậy, bảo vệ
+
+---
+
+Visual Description:
+The logo displays a stylized tall building or tower surrounded by two protective wing-like or arm-like elements. The central building structure is white with small window details, while the surrounding protective elements feature a gradient from light to dark blue.
+
+Design Elements:
+- Shape: Shield-like form combining building and protective wings
+- Typography: None (icon only)
+- Color Palette: Blue gradient from light to dark, white
+- Background: Light blue
+- Style: Modern, minimalist, symbolic
+- Mood: Professional, trustworthy, protective

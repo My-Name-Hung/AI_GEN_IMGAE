@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo ITESI hiển thị tên thương hiệu bằng kiểu chữ in hoa đơn giản và hiện đại. Bên dưới có dòng chữ nhỏ hơn "THE ART OF SURFACES" làm slogan giải thích về lĩnh vực hoạt động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo dạng text thuần túy, không có biểu tượng đồ họa
+- Kiểu chữ: Sans-serif hiện đại, in hoa, đậm và rõ ràng cho tên chính, font nhỏ hơn cho slogan
+- Bảng màu: Đen trên nền trắng (monochrome)
+- Nền: Trong suốt/trắng
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sang trọng, tinh tế, đáng tin cậy
+
+---
+
+Visual Description:
+The ITESI logo displays the brand name in simple, modern uppercase lettering. Below it features a smaller tagline "THE ART OF SURFACES" that explains the company's field of operation.
+
+Design Elements:
+- Shape: Pure text-based logo without graphic symbols
+- Typography: Modern sans-serif, uppercase, bold and clear for main name, smaller font for tagline
+- Color Palette: Black on white (monochrome)
+- Background: Transparent/white
+- Style: Minimalist, modern, professional
+- Mood: Sophisticated, refined, trustworthy

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hình lục giác màu xám đậm ở trên cùng với chữ "VS" bên trong và các số "17" và "38" ở hai bên. Bên dưới là tên thương hiệu "Văn Sang" được viết bằng font chữ hiện đại, theo sau là dòng chữ "VĂN PHÒNG LUẬT" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác đều làm biểu tượng chính
+- Kiểu chữ: Font sans-serif hiện đại, thanh thoát
+- Bảng màu: Xám đậm và xám nhạt trên nền xám sáng
+- Nền: Nền xám nhạt đơn sắc
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Nghiêm túc, tin cậy, sang trọng
+
+---
+
+Visual Description:
+The logo features a dark gray hexagonal icon at the top containing "VS" with the numbers "17" and "38" on either side. Below is the brand name "Văn Sang" in modern typography, followed by smaller text reading "VĂN PHÒNG LUẬT" (Law Office).
+
+Design Elements:
+- Shape: Regular hexagon as the main symbol
+- Typography: Modern sans-serif font, clean and elegant
+- Color Palette: Dark gray and light gray on light gray background
+- Background: Solid light gray background
+- Style: Minimalist, professional, contemporary
+- Mood: Serious, trustworthy, sophisticated

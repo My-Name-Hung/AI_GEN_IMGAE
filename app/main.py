@@ -3,13 +3,18 @@ AI Designer System - FastAPI Backend
 Entry point for the application
 """
 import logging
+from pathlib import Path
 
+from dotenv import load_dotenv
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.routers import generate, train, vectorize
+from app.routers import generate, train, vectorize, chat
 from app.routers.generate import diffusion_service
 from app.routers.train import get_training_overview
+
+# Ensure .env at project root is loaded before services initialize
+load_dotenv(dotenv_path=Path(__file__).resolve().parent.parent / ".env", override=False)
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -31,6 +36,7 @@ app.add_middleware(
 app.include_router(generate.router, prefix="/api")
 app.include_router(train.router, prefix="/api")
 app.include_router(vectorize.router, prefix="/api")
+app.include_router(chat.router, prefix="/api")
 
 
 @app.get("/health")
@@ -90,6 +96,10 @@ async def root():
             "generate": "/api/generate",
             "train": "/api/train",
             "vectorize": "/api/vectorize",
+            "chat": "/api/chat",
+            "export": "/api/export",
+            "export_batch": "/api/export/batch",
+            "export_formats": "/api/export/formats",
             "health": "/health",
             "model_status": "/api/model/status",
             "model_warmup": "/api/model/warmup",

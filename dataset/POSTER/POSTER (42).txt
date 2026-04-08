@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo K-HOME xuất hiện ở góc phải trên cùng với thiết kế đơn giản và hiện đại. Logo gồm chữ "K-HOME" được đặt trong một hình chữ nhật màu xanh lá cây đậm, kèm theo dòng chữ nhỏ bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật bo góc nhẹ
+- Kiểu chữ: Font chữ không chân (sans-serif), in hoa, đậm và rõ ràng
+- Bảng màu: Xanh lá cây đậm làm nền, chữ trắng
+- Nền: Nền xanh lá cây đậm tạo độ tương phản
+- Phong cách: Tối giản, hiện đại, doanh nghiệp
+- Tông điệu: Chuyên nghiệp, tin cậy, thân thiện với môi trường
+
+---
+
+Visual Description:
+The K-HOME logo appears in the top right corner with a clean and modern design. The logo consists of "K-HOME" text placed within a dark green rectangular background, accompanied by smaller text underneath.
+
+Design Elements:
+- Shape: Slightly rounded rectangular frame
+- Typography: Sans-serif font, uppercase, bold and clear lettering
+- Color Palette: Dark green background with white text
+- Background: Solid dark green background for contrast
+- Style: Minimalist, modern, corporate
+- Mood: Professional, trustworthy, environmentally conscious

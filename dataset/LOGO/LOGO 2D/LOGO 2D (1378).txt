@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng huy hiệu với hai con chim đối xứng có cánh xòe rộng ở hai bên. Trung tâm là một quả bóng chuyền được bao quanh bởi vòng tròn, phía trên có ba ngôi sao với ngôi sao giữa lớn hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Huy hiệu đối xứng với hai con chim có cánh xòe, quả bóng chuyền trung tâm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng gradient trên nền đen
+- Nền: Đen hoàn toàn
+- Phong cách: Cổ điển, huy hiệu thể thao, đối xứng
+- Tông điệu: Uy quyền, thanh lịch, thể thao
+
+---
+
+Visual Description:
+The logo features a badge-like emblem with two symmetrical birds with spread wings on either side. The center contains a volleyball surrounded by a circle, topped with three stars where the middle star is larger than the others.
+
+Design Elements:
+- Shape: Symmetrical badge with winged birds, central volleyball
+- Typography: None (icon only)
+- Color Palette: Golden gradient on black background
+- Background: Solid black
+- Style: Classic, sports emblem, symmetrical
+- Mood: Authoritative, elegant, athletic

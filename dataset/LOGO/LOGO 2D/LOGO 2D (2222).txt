@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình vuông màu đỏ được xoay nghiêng một góc khoảng 15-20 độ. Văn bản "Lựa chọn 24/7" được đặt ở trung tâm với font chữ in đậm màu trắng, và dòng chữ nhỏ hơn "Luôn mở cửa" ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông xoay nghiêng, tạo cảm giác năng động
+- Kiểu chữ: Font sans-serif in đậm, dễ đọc và hiện đại
+- Bảng màu: Đỏ tươi làm nền, chữ trắng tạo độ tương phản cao
+- Nền: Màu đỏ đậm, đồng nhất
+- Phong cách: Tối giản, hiện đại, năng động
+- Tông điệu: Năng lượng, tin cậy, luôn sẵn sàng phục vụ
+
+---
+
+Visual Description:
+The logo features a red square rotated at approximately 15-20 degrees angle. The text "Lựa chọn 24/7" is centrally positioned in bold white font, with smaller text "Luôn mở cửa" below it.
+
+Design Elements:
+- Shape: Tilted square creating dynamic movement
+- Typography: Bold sans-serif font, clean and modern
+- Color Palette: Bright red background with white text for high contrast
+- Background: Solid bright red
+- Style: Minimalist, modern, dynamic
+- Mood: Energetic, reliable, always available

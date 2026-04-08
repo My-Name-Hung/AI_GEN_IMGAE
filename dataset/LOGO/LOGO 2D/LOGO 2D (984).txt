@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một hình đầu lâu được thiết kế theo phong cách đa giác (polygon) với các mặt cắt góc cạnh. Hình ảnh sử dụng kỹ thuật low-poly tạo nên các mặt phẳng tam giác và hình học rõ nét, mang lại cảm giác hiện đại và stylized.
+
+Yếu tố Thiết kế:
+- Hình dạng: Đầu lâu góc cạnh với cấu trúc đa giác, viền đen dày
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Cam, vàng, xanh navy, xanh teal, be, đen
+- Nền: Trắng/trong suốt
+- Phong cách: Low-poly, geometric, hiện đại, gaming
+- Tông điệu: Mạnh mẽ, cá tính, bí ẩn
+
+---
+
+Visual Description:
+The logo depicts a skull designed in a polygonal style with sharp, angular faceted surfaces. The image uses low-poly techniques creating distinct triangular and geometric planes, giving it a modern and stylized appearance.
+
+Design Elements:
+- Shape: Angular skull with polygonal structure, thick black outline
+- Typography: None (icon only)
+- Color Palette: Orange, yellow, navy blue, teal, beige, black
+- Background: White/transparent
+- Style: Low-poly, geometric, modern, gaming-inspired
+- Mood: Bold, edgy, mysterious

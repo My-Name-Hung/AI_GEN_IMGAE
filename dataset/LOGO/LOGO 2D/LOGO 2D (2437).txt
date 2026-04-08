@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm ba hình chữ nhật dọc được sắp xếp theo chiều cao giảm dần từ trái sang phải, tạo thành biểu tượng giống như biểu đồ cột. Bên dưới là tên thương hiệu "TRƯỜNG VŨ" được viết bằng chữ in hoa màu trắng, kèm dòng chữ nhỏ "TỪ NĂM 2007".
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba thanh chữ nhật dọc tạo thành biểu đồ cột
+- Kiểu chữ: Sans-serif in hoa, đậm và rõ ràng
+- Bảng màu: Vàng hồng cho icon, trắng cho chữ
+- Nền: Màu xanh navy đậm
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Uy tín, nghiêm túc, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features three vertical rectangular bars arranged in descending height from left to right, creating a bar chart-like symbol. Below is the brand name "TRƯỜNG VŨ" written in white uppercase letters, accompanied by the small text "TỪ NĂM 2007".
+
+Design Elements:
+- Shape: Three vertical rectangular bars forming a bar chart
+- Typography: Sans-serif uppercase, bold and clear
+- Color Palette: Rose gold for icon, white for text
+- Background: Deep navy blue
+- Style: Minimalist, modern, professional
+- Mood: Trustworthy, serious, reliable

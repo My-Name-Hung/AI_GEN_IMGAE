@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng quả bóng rổ màu đỏ với các đường viền xanh navy tạo thành các phần chia đặc trưng của bóng rổ. Ở giữa có một thanh ngang màu xanh navy chứa tên "Rần Sài thành" bằng chữ trắng cùng dòng chữ nhỏ "TỪ NĂM 1995" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn mô phỏng quả bóng rổ với các đường phân chia đặc trưng
+- Kiểu chữ: Font chữ in hoa đậm, rõ ràng cho tên chính và font nhỏ hơn cho năm thành lập
+- Bảng màu: Xanh navy, đỏ và trắng
+- Nền: Trong suốt
+- Phong cách: Thể thao, đơn giản, hiện đại
+- Tông điệu: Mạnh mẽ, năng động, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a red basketball with navy blue lines creating the characteristic basketball segments. A horizontal navy blue banner runs through the center containing "Rần Sài thành" in white text with "TỪ NĂM 1995" written below in smaller font.
+
+Design Elements:
+- Shape: Circular basketball shape with characteristic dividing lines
+- Typography: Bold uppercase font for main name and smaller font for founding year
+- Color Palette: Navy blue, red, and white
+- Background: Transparent
+- Style: Sports-themed, simple, modern
+- Mood: Strong, dynamic, professional

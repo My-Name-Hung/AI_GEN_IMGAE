@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "SÔI ĐỘNG" bằng chữ đen in hoa, với dòng chữ phụ "NHẠC POP-ĐIỆN TỬ" bên dưới. Phía trên có một biểu tượng hình tròn đen chứa biểu tượng sóng âm thanh màu vàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo chữ kết hợp với biểu tượng tròn và sóng âm thanh
+- Kiểu chữ: Sans-serif đậm, in hoa, có dấu thanh tiếng Việt
+- Bảng màu: Đen và vàng tươi
+- Nền: Màu vàng đồng nhất
+- Phong cách: Hiện đại, tối giản, âm nhạc
+- Tông điệu: Năng động, trẻ trung, sôi nổi
+
+---
+
+Visual Description:
+The logo displays "SÔI ĐỘNG" in bold black uppercase letters with "NHẠC POP-ĐIỆN TỬ" as a subtitle below. Above the text is a black circular icon containing yellow sound wave symbols.
+
+Design Elements:
+- Shape: Wordmark with circular icon and sound wave graphics
+- Typography: Bold sans-serif uppercase with Vietnamese diacritical marks
+- Color Palette: Black and bright yellow
+- Background: Solid yellow
+- Style: Modern, minimalist, music-themed
+- Mood: Dynamic, youthful, energetic

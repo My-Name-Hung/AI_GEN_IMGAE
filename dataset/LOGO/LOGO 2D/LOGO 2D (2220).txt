@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình chữ nhật ngang với phần bên trái là ô vuông màu vàng chứa chữ "K" stylized màu đen. Phần bên phải có nền trắng với dòng chữ "KHÁNH NHẬT" in đậm màu đen và dòng chữ phụ "DỊCH VỤ SỬA CHỮA NHÀ" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ nhật ngang, chia thành hai phần với ô vuông bên trái
+- Kiểu chữ: Sans-serif hiện đại, in hoa đậm cho tên chính
+- Bảng màu: Vàng cam, đen, trắng
+- Nền: Trắng với viền vàng mỏng
+- Phong cách: Hiện đại, chuyên nghiệp, tối giản
+- Tông điệu: Tin cậy, năng động, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a horizontal rectangular layout with a yellow square on the left containing a stylized black "K" letter. The right section has a white background with "KHÁNH NHẬT" in bold black text and smaller subtitle text "DỊCH VỤ SỬA CHỮA NHÀ" below.
+
+Design Elements:
+- Shape: Horizontal rectangle divided into two sections with left square
+- Typography: Modern sans-serif, bold uppercase for main text
+- Color Palette: Orange-yellow, black, white
+- Background: White with thin yellow border
+- Style: Modern, professional, minimalist
+- Mood: Trustworthy, dynamic, professional

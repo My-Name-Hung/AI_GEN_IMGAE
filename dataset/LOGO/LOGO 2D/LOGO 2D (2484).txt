@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình cánh cỏ ba lá màu xanh dương với hiệu ứng gradient tạo chiều sâu. Bên dưới là dòng chữ "Lân Sống Xanh" được viết bằng font chữ thanh lịch và dòng phụ đề "ÂM NHẠC CỦA BẠN" bằng chữ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Cánh cỏ ba lá cách điệu với các cánh tròn, có thân nhỏ
+- Kiểu chữ: Font chữ thanh lịch, nghiêng nhẹ cho tiêu đề chính, font đơn giản cho phụ đề
+- Bảng màu: Các tông xanh dương từ nhạt đến đậm với hiệu ứng gradient
+- Nền: Nền trắng/xám nhạt đơn giản
+- Phong cách: Tối giản, hiện đại, organic
+- Tông điệu: Thanh bình, tự nhiên, thư giãn
+
+---
+
+Visual Description:
+The logo features a stylized three-leaf clover in blue tones with gradient effects creating depth. Below it is the text "Lân Sống Xanh" written in elegant typography with a smaller subtitle "ÂM NHẠC CỦA BẠN" underneath.
+
+Design Elements:
+- Shape: Stylized three-leaf clover with rounded petals and small stem
+- Typography: Elegant, slightly italic font for main title, simple font for subtitle
+- Color Palette: Blue tones ranging from light to dark with gradient effects
+- Background: Simple white/light gray background
+- Style: Minimalist, modern, organic
+- Mood: Peaceful, natural, relaxing

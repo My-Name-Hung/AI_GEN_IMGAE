@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Bathco" bằng chữ in hoa màu trắng trên nền đen. Thiết kế sử dụng kiểu chữ sans-serif đơn giản và rõ ràng với khoảng cách đều giữa các ký tự.
+
+Yếu tố Thiết kế:
+- Hình dạng: Văn bản nằm ngang, bố cục cân đối
+- Kiểu chữ: Sans-serif hiện đại, in hoa, đậm vừa phải
+- Bảng màu: Trắng trên nền đen
+- Nền: Đen hoàn toàn
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sang trọng, tinh tế, đáng tin cậy
+
+---
+
+Visual Description:
+The logo displays the brand name "Bathco" in white capital letters against a black background. The design uses a clean, simple sans-serif typeface with even spacing between characters.
+
+Design Elements:
+- Shape: Horizontal text layout, balanced composition
+- Typography: Modern sans-serif, uppercase, medium weight
+- Color Palette: White on black
+- Background: Solid black
+- Style: Minimalist, modern, professional
+- Mood: Elegant, sophisticated, trustworthy

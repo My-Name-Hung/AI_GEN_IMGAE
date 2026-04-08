@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm dòng chữ "thinh thien" màu đỏ ở trên cùng, tiếp theo là dòng chữ "Đội bóng rổ" màu xanh đậm ở giữa. Phía dưới có biểu tượng quả bóng rổ màu đỏ được đặt giữa hai đường kẻ ngang màu xanh đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục dọc với biểu tượng bóng rổ tròn và các đường kẻ ngang
+- Kiểu chữ: Chữ thường đơn giản, rõ ràng
+- Bảng màu: Đỏ, xanh đậm, trắng
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, thể thao, hiện đại
+- Tông điệu: Năng động, chuyên nghiệp, rõ ràng
+
+---
+
+Visual Description:
+The logo features "thinh thien" in red text at the top, followed by "Đội bóng rổ" in dark blue text in the middle. Below is a red basketball icon centered between two dark blue horizontal lines.
+
+Design Elements:
+- Shape: Vertical layout with circular basketball symbol and horizontal lines
+- Typography: Simple, clear lowercase lettering
+- Color Palette: Red, dark blue, white
+- Background: Clean white/transparent background
+- Style: Minimalist, sports-oriented, modern
+- Mood: Dynamic, professional, clear

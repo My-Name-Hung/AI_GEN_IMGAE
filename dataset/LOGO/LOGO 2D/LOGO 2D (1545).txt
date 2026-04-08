@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một cây thập tự giá cách điệu với các hình dạng hình học trừu tượng. Thiết kế sử dụng các đường nét mỏng tạo thành một biểu tượng đối xứng với phần thân dọc kéo dài xuống dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Thập tự giá cách điệu với các phần tử hình học trừu tượng, cấu trúc đối xứng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đỏ đậm trên nền trắng
+- Nền: Nền trắng/trong suốt
+- Phong cách: Tối giản, hình học, biểu tượng, đường nét
+- Tông điệu: Trang nghiêm, thiêng liêng, thanh lịch
+
+---
+
+Visual Description:
+The logo depicts a stylized cross with abstract geometric shapes. The design uses thin lines to create a symmetrical symbol with a vertical stem extending downward.
+
+Design Elements:
+- Shape: Stylized cross with abstract geometric elements, symmetrical structure
+- Typography: None (icon only)
+- Color Palette: Deep red on white background
+- Background: White/transparent background
+- Style: Minimalist, geometric, symbolic, line art
+- Mood: Dignified, sacred, elegant

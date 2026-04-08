@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một bàn tay đang tạo cử chỉ "V" hoặc dấu hiệu chiến thắng với hai ngón tay giơ lên. Hai ngón tay được tô màu vàng nổi bật trong khi phần còn lại của bàn tay có màu trắng với đường viền đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bàn tay phong cách hóa với hai ngón tay giơ lên tạo hình chữ V
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng, trắng, đen
+- Nền: Xám nhạt/be
+- Phong cách: Tối giản, minh họa đơn giản, đường nét
+- Tông điệu: Tích cực, chiến thắng, năng lượng
+
+---
+
+Visual Description:
+The logo shows a hand making a "V" or victory sign gesture with two fingers raised up. The two fingers are highlighted in bright yellow while the rest of the hand is white with black outlines.
+
+Design Elements:
+- Shape: Stylized hand with two fingers raised forming a V shape
+- Typography: None (icon only)
+- Color Palette: Yellow, white, black
+- Background: Light gray/beige
+- Style: Minimalist, simple illustration, line art
+- Mood: Positive, victorious, energetic

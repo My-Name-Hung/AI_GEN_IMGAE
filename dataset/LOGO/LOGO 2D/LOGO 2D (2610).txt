@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "kemvo" được viết bằng chữ thảo màu đỏ nằm trong một khung oval đôi cùng màu. Bên dưới có dòng chữ "NHÀ THIẾT KẾ ĐỒ HỌA" bằng tiếng Việt và thông tin liên hệ "HÀ NỘI" với số điện thoại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung oval đôi bao quanh tên thương hiệu
+- Kiểu chữ: Chữ thảo nghệ thuật cho tên chính, font sans-serif đơn giản cho thông tin phụ
+- Bảng màu: Đỏ cho logo chính, đen cho text phụ
+- Nền: Màu be nhạt/kem
+- Phong cách: Tối giản, hiện đại, nghệ thuật
+- Tông điệu: Sáng tạo, chuyên nghiệp, thanh lịch
+
+---
+
+Visual Description:
+The logo displays the brand name "kemvo" written in red script lettering enclosed within a double red oval frame. Below it features Vietnamese text "NHÀ THIẾT KẾ ĐỒ HỌA" and contact information including "HÀ NỘI" with a phone number.
+
+Design Elements:
+- Shape: Double oval frame enclosing the brand name
+- Typography: Artistic script for main name, simple sans-serif for supporting text
+- Color Palette: Red for main logo, black for supporting text
+- Background: Light beige/cream
+- Style: Minimalist, modern, artistic
+- Mood: Creative, professional, elegant

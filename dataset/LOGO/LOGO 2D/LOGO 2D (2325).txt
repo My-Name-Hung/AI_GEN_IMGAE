@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Phòng khám Hoàn Mỹ" bằng font chữ serif thanh lịch màu trắng trên nền xanh nhạt. Bên dưới có dòng slogan "SỨC KHỎE CỦA BẠN, TƯƠNG LAI CỦA CHÚNG TÔI" được viết bằng chữ in hoa nhỏ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật ngang, thiết kế tối giản
+- Kiểu chữ: Font serif cho tên chính, sans-serif cho slogan
+- Bảng màu: Chữ trắng trên nền xanh lá nhạt/xanh sage
+- Nền: Màu xanh nhạt đồng nhất
+- Phong cách: Tối giản, y tế, chuyên nghiệp
+- Tông điệu: Tin cậy, thân thiện, chăm sóc sức khỏe
+
+---
+
+Visual Description:
+The logo displays "Phòng khám Hoàn Mỹ" in elegant white serif typography on a soft green background. Below the main text is the tagline "SỨC KHỎE CỦA BẠN, TƯƠNG LAI CỦA CHÚNG TÔI" in smaller uppercase letters.
+
+Design Elements:
+- Shape: Horizontal rectangular layout, minimalist design
+- Typography: Serif font for main name, sans-serif for tagline
+- Color Palette: White text on soft sage green background
+- Background: Solid soft green color
+- Style: Minimalist, medical, professional
+- Mood: Trustworthy, caring, healthcare-focused

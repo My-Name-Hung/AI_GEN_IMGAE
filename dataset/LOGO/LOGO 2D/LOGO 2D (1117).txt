@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một chú thỏ dễ thương với hai tai dài, thân hình tròn và có biểu hiện khuôn mặt đơn giản. Phần bụng của thỏ có hình tam giác với các chấm màu cam nhỏ, tạo điểm nhấn bắt mắt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình thỏ stylized với tai dài cong, thân tròn, có đường viền dày
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh teal đậm cho viền, xanh nhạt cho thân, trắng và cam cho chi tiết
+- Nền: Trong suốt
+- Phong cách: Cartoon, minimalist, line art, dễ thương
+- Tông điệu: Thân thiện, vui tươi, ngây thơ
+
+---
+
+Visual Description:
+The logo depicts a cute rabbit with two long ears, a round body, and simple facial features. The rabbit's belly area features a triangular section with small orange dots, creating an eye-catching accent point.
+
+Design Elements:
+- Shape: Stylized rabbit with curved long ears, round body, thick outline
+- Typography: None (icon only)
+- Color Palette: Dark teal for outline, light blue for body, white and orange for details
+- Background: Transparent
+- Style: Cartoon, minimalist, line art, cute
+- Mood: Friendly, playful, innocent

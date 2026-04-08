@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "MEGA SALE" với hiệu ứng 3D nổi bật trên nền tím gradient. Phía trên có dòng chữ "Special Offer" và phía dưới ghi "Up To 50% Off" cùng với một số văn bản nhỏ ở góc trên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ 3D có độ dày và hiệu ứng chiều sâu, bố cục tập trung
+- Kiểu chữ: Font chữ đậm, sans-serif với hiệu ứng 3D và bóng đổ
+- Bảng màu: Vàng cam gradient cho chữ chính, tím làm nền, chữ trắng cho thông tin phụ
+- Nền: Gradient tím từ nhạt đến đậm
+- Phong cách: Hiện đại, 3D, quảng cáo thương mại
+- Tông điệu: Hứng thú, thu hút, khuyến mãi mạnh mẽ
+
+---
+
+Visual Description:
+The logo displays "MEGA SALE" text with prominent 3D effects on a purple gradient background. Above it shows "Special Offer" and below includes "Up To 50% Off" along with small text in the upper corner.
+
+Design Elements:
+- Shape: 3D text with depth and dimensional effects, centralized layout
+- Typography: Bold, sans-serif font with 3D effects and drop shadows
+- Color Palette: Yellow-orange gradient for main text, purple background, white for supplementary text
+- Background: Purple gradient from light to dark
+- Style: Modern, 3D, commercial advertising
+- Mood: Exciting, attention-grabbing, strong promotional appeal

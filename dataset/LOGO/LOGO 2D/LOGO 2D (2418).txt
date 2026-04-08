@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị text "Vườn Hoa" bằng chữ màu trắng trên nền cam san hô. Bên trên góc phải có một biểu tượng nhỏ hình hoa hoặc lá cây màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Text chính với biểu tượng hoa/lá nhỏ ở góc
+- Kiểu chữ: Font serif thanh lịch, dễ đọc
+- Bảng màu: Cam san hô và trắng
+- Nền: Màu cam san hô đồng nhất
+- Phong cách: Tối giản, thanh lịch, hiện đại
+- Tông điệu: Ấm áp, thân thiện, tự nhiên
+
+---
+
+Visual Description:
+The logo displays "Vườn Hoa" in white text on a coral orange background. There's a small white floral or leaf icon positioned in the upper right area.
+
+Design Elements:
+- Shape: Main text with small floral/leaf accent icon
+- Typography: Elegant serif font, clean and readable
+- Color Palette: Coral orange and white
+- Background: Solid coral orange
+- Style: Minimalist, elegant, contemporary
+- Mood: Warm, friendly, natural

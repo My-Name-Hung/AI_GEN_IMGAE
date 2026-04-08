@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng hình học trừu tượng với hai hình lục giác được kết nối bằng các đường cong mềm mại, tạo thành hình dạng giống như chuỗi hoặc liên kết. Bên dưới biểu tượng là tên thương hiệu "MIOLOG" được viết bằng chữ in hoa đơn giản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình lục giác được kết nối bằng các đường cong, tạo hiệu ứng liên kết
+- Kiểu chữ: Chữ sans-serif đơn giản, in hoa, có trọng lượng trung bình
+- Bảng màu: Màu be/vàng nhạt cho biểu tượng, đen cho văn bản
+- Nền: Trắng, sạch sẽ
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Tinh tế, chuyên nghiệp, thanh lịch
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon with two hexagonal shapes connected by smooth, flowing curves that create a chain or link-like formation. Below the icon is the brand name "MIOLOG" written in simple uppercase letters.
+
+Design Elements:
+- Shape: Two hexagons connected by curved lines, creating a linking effect
+- Typography: Simple sans-serif typeface, uppercase, medium weight
+- Color Palette: Light beige/tan for the icon, black for the text
+- Background: Clean white
+- Style: Minimalist, modern, geometric
+- Mood: Sophisticated, professional, elegant

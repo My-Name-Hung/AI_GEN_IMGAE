@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện hình trái tim được thiết kế với đường nét tạo thành nhiều lớp lồng vào nhau. Bên trong trái tim có một hình tam giác nhỏ ở phần dưới, tạo nên cảm giác về sự cân bằng và hài hòa.
+
+Yếu tố Thiết kế:
+- Hình dạng: Trái tim với đường viền đa lớp và tam giác nội tại
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Cam đỏ (orange-red) đậm
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, đường nét mảnh
+- Tông điệu: Ấm áp, yêu thương, năng động
+
+---
+
+Visual Description:
+The logo features a heart shape designed with multiple nested outline layers creating depth. Inside the heart is a small triangle at the bottom, creating a sense of balance and harmony within the overall design.
+
+Design Elements:
+- Shape: Multi-layered heart outline with internal triangle
+- Typography: None (icon only)
+- Color Palette: Orange-red
+- Background: White/transparent
+- Style: Minimalist, modern, thin line art
+- Mood: Warm, loving, energetic

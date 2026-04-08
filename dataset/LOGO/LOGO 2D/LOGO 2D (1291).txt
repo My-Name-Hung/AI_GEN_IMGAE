@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình vẽ stylized của một con chim cú mèo với các đường nét đơn giản, được đặt bên cạnh dòng chữ "ROBO BIRD". Con chim có hình dáng hình học với các chi tiết như mắt, cánh và chân được biểu hiện bằng các đường thẳng và hình tròn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon hình học của chim cú mèo với các đường nét tối giản
+- Kiểu chữ: Font chữ sans-serif hiện đại, in hoa, đậm
+- Bảng màu: Màu đen trên nền cam/vàng cam
+- Nền: Nền màu cam đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, line art
+- Tông điệu: Công nghệ, thân thiện, sáng tạo
+
+---
+
+Visual Description:
+The logo features a stylized line drawing of an owl positioned next to the text "ROBO BIRD". The bird has a geometric appearance with simple details like eyes, wings, and feet represented through straight lines and circles.
+
+Design Elements:
+- Shape: Geometric owl icon with minimalist line work
+- Typography: Modern sans-serif font, uppercase, bold weight
+- Color Palette: Black on orange/amber background
+- Background: Solid bright orange background
+- Style: Minimalist, modern, line art
+- Mood: Technological, friendly, innovative

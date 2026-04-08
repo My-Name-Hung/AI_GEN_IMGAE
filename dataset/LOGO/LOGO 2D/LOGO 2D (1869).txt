@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ cái "SD" được stylized ở phía trên, với "ESTD 2025" bên cạnh. Dòng chữ chính "STYDEAR" được đặt ở giữa với font chữ đậm, và dòng phụ "ĐẸP THUẦN KHIẾT" ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Layout dọc với các yếu tố text được sắp xếp theo tầng
+- Kiểu chữ: Font sans-serif hiện đại, chữ in hoa cho tên thương hiệu, chữ nhỏ cho slogan
+- Bảng màu: Đỏ đậm (burgundy/maroon)
+- Nền: Trắng sạch
+- Phong cách: Tối giản, thanh lịch, hiện đại
+- Tông điệu: Sang trọng, chuyên nghiệp, tinh tế
+
+---
+
+Visual Description:
+The logo features stylized "SD" letters at the top with "ESTD 2025" beside them. The main brand name "STYDEAR" is prominently displayed in the center with bold typography, and the Vietnamese tagline "ĐẸP THUẦN KHIẾT" appears below.
+
+Design Elements:
+- Shape: Vertical layout with tiered text elements
+- Typography: Modern sans-serif font, uppercase for brand name, smaller text for tagline
+- Color Palette: Deep red (burgundy/maroon)
+- Background: Clean white
+- Style: Minimalist, elegant, contemporary
+- Mood: Luxurious, professional, refined

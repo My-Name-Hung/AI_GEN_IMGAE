@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "durex" trong một hình chữ nhật bo tròn màu xanh dương. Logo được đặt trên một khối 3D màu trắng có hình dạng như viên thuốc hoặc hộp nhỏ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật bo góc tròn chứa text, đặt trên khối 3D hình vuông bo góc
+- Kiểu chữ: Chữ viết thường, font sans-serif đơn giản, dễ đọc
+- Bảng màu: Xanh dương chủ đạo, trắng, xám nhạt
+- Nền: Nền xanh dương gradient với bóng đổ
+- Phong cách: Hiện đại, tối giản, 3D
+- Tông điệu: Chuyên nghiệp, tin cậy, sạch sẽ
+
+---
+
+Visual Description:
+The logo displays the brand name "durex" in a blue rounded rectangle. The logo is positioned on a white 3D block shaped like a pill or small box.
+
+Design Elements:
+- Shape: Rounded rectangle containing text, placed on a rounded square 3D block
+- Typography: Lowercase, simple sans-serif font, highly legible
+- Color Palette: Dominant blue, white, light gray
+- Background: Blue gradient background with drop shadow
+- Style: Modern, minimalist, 3D
+- Mood: Professional, trustworthy, clean

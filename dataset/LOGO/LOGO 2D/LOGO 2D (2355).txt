@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một ly cocktail martini với chất lỏng màu xanh lá cây và một quả cherry đen làm trang trí. Phía trên có dòng chữ "Quán Cocktail" được viết theo phong cách thư pháp màu trắng, và phía dưới có text "HỌA NẮNG" cũng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ly cocktail martini hình tam giác ngược với chân ly dài
+- Kiểu chữ: Chữ viết tay phong cách thư pháp cho tiêu đề, chữ in đậm cho slogan
+- Bảng màu: Nền hồng magenta, cocktail xanh lá, cherry đen, chữ trắng
+- Nền: Màu hồng magenta đồng nhất
+- Phong cách: Vintage, retro, vui tươi
+- Tông điệu: Năng động, hấp dẫn, giải trí
+
+---
+
+Visual Description:
+The logo features a martini cocktail glass with green liquid and a black cherry garnish. Above it is "Quán Cocktail" written in white script lettering, and below is "HỌA NẮNG" also in white text.
+
+Design Elements:
+- Shape: Inverted triangular martini glass with long stem
+- Typography: Hand-lettered script style for title, bold sans-serif for tagline
+- Color Palette: Magenta pink background, green cocktail, black cherry, white text
+- Background: Solid magenta pink
+- Style: Vintage, retro, playful
+- Mood: Energetic, appealing, entertaining

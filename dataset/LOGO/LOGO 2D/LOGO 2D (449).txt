@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "BOOK" được thiết kế với hiệu ứng 3D, tạo cảm giác như những trang sách đang mở ra. Các chữ cái có độ dày và chiều sâu, với bóng đổ tạo hiệu ứng thị giác ấn tượng trên nền đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái 3D với hiệu ứng gấp như trang sách
+- Kiểu chữ: Font chữ đậm, sans-serif, có chiều sâu 3D
+- Bảng màu: Trắng/xám bạc với gradient trên nền đen
+- Nền: Nền đen thuần túy
+- Phong cách: Hiện đại, 3D, tối giản
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, sáng tạo
+
+---
+
+Visual Description:
+The logo displays the word "BOOK" designed with a 3D effect that creates the impression of book pages opening. The letters have thickness and depth with shadow effects creating a striking visual impact against a black background.
+
+Design Elements:
+- Shape: 3D letters with folding book page effects
+- Typography: Bold, sans-serif font with 3D depth
+- Color Palette: White/silver gradient on black background
+- Background: Pure black
+- Style: Modern, 3D, minimalist
+- Mood: Bold, professional, creative

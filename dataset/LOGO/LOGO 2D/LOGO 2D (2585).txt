@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một nhân vật đeo mũ lưỡi trai với khuôn mặt được phác họa theo phong cách nghệ thuật đường nét. Nhân vật được đặt trong khung hình lục giác với văn bản "NGẦU 99" ở phía trên và slogan "THIẾT KẾ GAME TỪ NĂM 2018" ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung lục giác bao quanh nhân vật trung tâm
+- Kiểu chữ: Font chữ in hoa đậm, hiện đại với hiệu ứng viền sáng
+- Bảng màu: Xanh cyan/turquoise trên nền xanh đậm
+- Nền: Nền xanh navy đậm với họa tiết trang trí
+- Phong cách: Gaming, esports, hiện đại, street art
+- Tông điệu: Năng động, cá tính, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a character wearing a cap with a stylized face rendered in artistic line work. The character is enclosed within a hexagonal frame with "NGẦU 99" text above and the tagline "THIẾT KẾ GAME TỪ NĂM 2018" below.
+
+Design Elements:
+- Shape: Hexagonal frame surrounding central character figure
+- Typography: Bold, modern uppercase font with glowing outline effects
+- Color Palette: Cyan/turquoise on dark blue background
+- Background: Dark navy blue with decorative patterns
+- Style: Gaming, esports, modern, street art
+- Mood: Dynamic, edgy, professional

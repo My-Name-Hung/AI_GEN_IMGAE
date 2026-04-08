@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có nền là hình ảnh lá cây nhiệt đới xanh đậm với các đường vân tự nhiên rõ nét. Chữ "HAVEN" được đặt ở trung tâm với màu trắng nổi bật, kèm theo các số "19" và "89" nhỏ hơn ở hai bên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với hình ảnh lá cây nhiệt đới làm nền
+- Kiểu chữ: Sans-serif hiện đại, in hoa, khoảng cách chữ rộng
+- Bảng màu: Xanh lá đậm, trắng
+- Nền: Hình ảnh lá cây nhiệt đới với texture tự nhiên
+- Phong cách: Tối giản, tự nhiên, hiện đại
+- Tông điệu: Thanh lịch, gần gũi với thiên nhiên, yên bình
+
+---
+
+Visual Description:
+The logo features a dark green tropical leaf as the background with natural vein patterns clearly visible. The word "HAVEN" is prominently displayed in white text at the center, accompanied by smaller numbers "19" and "89" on either side.
+
+Design Elements:
+- Shape: Square format with tropical leaf imagery as background
+- Typography: Modern sans-serif, uppercase, wide letter spacing
+- Color Palette: Dark green, white
+- Background: Natural tropical leaf texture and pattern
+- Style: Minimalist, natural, contemporary
+- Mood: Elegant, nature-connected, serene

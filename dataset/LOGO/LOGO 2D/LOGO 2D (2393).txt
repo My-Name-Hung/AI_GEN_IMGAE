@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có nền tím gradient với hình ảnh lá sen được vẽ theo phong cách line art màu tím nhạt ở phía trên. Dưới hình lá sen là dòng chữ "Mát-xa Hương Nhài" được viết bằng font chữ script màu trắng với kiểu viết tay thanh lịch.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lá sen stylized với đường nét mảnh, tinh tế
+- Kiểu chữ: Font script cursive màu trắng, phong cách viết tay
+- Bảng màu: Tím gradient, trắng, tím nhạt
+- Nền: Gradient tím từ đậm đến nhạt
+- Phong cách: Tối giản, thanh lịch, thiên nhiên
+- Tông điệu: Thư giãn, sang trọng, yên bình
+
+---
+
+Visual Description:
+The logo features a purple gradient background with stylized lotus leaves drawn in light purple line art at the top. Below the leaf illustration is the text "Mát-xa Hương Nhài" written in elegant white script lettering with a handwritten style.
+
+Design Elements:
+- Shape: Stylized lotus leaves with delicate, thin line work
+- Typography: White cursive script font with handwritten style
+- Color Palette: Purple gradient, white, light purple
+- Background: Purple gradient from dark to light
+- Style: Minimalist, elegant, nature-inspired
+- Mood: Relaxing, luxurious, peaceful

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một nhân vật game với mái tóc đuôi ngựa màu cam/đỏ, mặc áo xanh teal. Nhân vật được đặt trong một khung hình chữ nhật bo góc với tên thương hiệu "GAME ZUI" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung chữ nhật bo góc chứa mascot nhân vật
+- Kiểu chữ: Font chữ in hoa đậm, hiện đại với dòng phụ "UN GAMING" nhỏ hơn
+- Bảng màu: Xanh teal chủ đạo, cam/đỏ cho tóc, trắng cho chữ
+- Nền: Đen hoàn toàn
+- Phong cách: Mascot gaming, illustration phẳng, viền trắng nổi bật
+- Tông điệu: Năng động, trẻ trung, gaming
+
+---
+
+Visual Description:
+The logo features a gaming character with orange/red ponytail hair wearing a teal shirt. The character is placed within a rounded rectangular frame with the brand name "GAME ZUI" below.
+
+Design Elements:
+- Shape: Rounded rectangular frame containing character mascot
+- Typography: Bold uppercase modern font with smaller "UN GAMING" subtitle
+- Color Palette: Dominant teal, orange/red for hair, white for text
+- Background: Solid black
+- Style: Gaming mascot, flat illustration, prominent white outline
+- Mood: Dynamic, youthful, gaming-focused

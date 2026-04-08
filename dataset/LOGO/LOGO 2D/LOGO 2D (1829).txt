@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn với chữ "MAGNETIC" ở phía trên và "PUZZLE CO" ở phía dưới, bao quanh một biểu tượng trung tâm. Biểu tượng trung tâm là một hình vuông có các chấm tròn màu xanh lá tạo thành hình chữ "M", được đặt trên nền gradient từ cam sang xanh lá.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với biểu tượng vuông ở giữa
+- Kiểu chữ: Sans-serif đậm, viết hoa
+- Bảng màu: Xanh lá cây, cam, kem/be
+- Nền: Màu xanh lá đậm
+- Phong cách: Hiện đại, minimalist, geometric
+- Tông điệu: Chuyên nghiệp, sáng tạo, thân thiện
+
+---
+
+Visual Description:
+The logo is a circular design with "MAGNETIC" text at the top and "PUZZLE CO" at the bottom, surrounding a central icon. The central icon features a square with green dots forming the letter "M", set against a gradient background transitioning from orange to green.
+
+Design Elements:
+- Shape: Circular with central square icon
+- Typography: Bold sans-serif, uppercase
+- Color Palette: Forest green, orange, cream/beige
+- Background: Dark green
+- Style: Modern, minimalist, geometric
+- Mood: Professional, creative, approachable

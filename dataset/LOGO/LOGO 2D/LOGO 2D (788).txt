@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng bên trái và tên thương hiệu "Gorilla Trailer" bên phải. Biểu tượng có hình dạng giống như hai mũi tên hoặc dải băng đan xen tạo thành một hình khối 3D.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học 3D với các mặt đan xen, chữ viết in hoa đậm
+- Kiểu chữ: Font chữ sans-serif dày, in hoa, hiện đại và mạnh mẽ
+- Bảng màu: Trắng trên nền đen, tương phản cao
+- Nền: Nền đen thuần
+- Phong cách: Hiện đại, tối giản, công nghiệp
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, tin cậy
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon on the left paired with "Gorilla Trailer" text on the right. The icon resembles two interlocking ribbons or arrows forming a three-dimensional shape with overlapping planes.
+
+Design Elements:
+- Shape: 3D geometric icon with interlocking faces, bold uppercase lettering
+- Typography: Thick sans-serif font, all capitals, modern and bold
+- Color Palette: White on black, high contrast
+- Background: Solid black background
+- Style: Modern, minimalist, industrial
+- Mood: Strong, professional, reliable

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình quả táo đỏ cách điệu với lá xanh ở phía trên bên trái. Bên cạnh là chữ "apple" viết thường bằng màu xanh lá cây, với dòng chữ "SERVICE CENTER" bằng chữ in hoa màu xám đậm ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng quả táo cách điệu kết hợp với typography
+- Kiểu chữ: Sans-serif hiện đại, chữ thường cho "apple", chữ in hoa cho "SERVICE CENTER"
+- Bảng màu: Đỏ, xanh lá cây, xám đậm
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, thân thiện
+- Tông điệu: Chuyên nghiệp, tin cậy, gần gũi
+
+---
+
+Visual Description:
+The logo features a stylized red apple icon with a green leaf on the upper left. Next to it is the word "apple" in lowercase green letters, with "SERVICE CENTER" in dark gray uppercase letters below.
+
+Design Elements:
+- Shape: Stylized apple icon combined with typography
+- Typography: Modern sans-serif, lowercase for "apple", uppercase for "SERVICE CENTER"
+- Color Palette: Red, green, dark gray
+- Background: White/transparent
+- Style: Modern, minimalist, friendly
+- Mood: Professional, trustworthy, approachable

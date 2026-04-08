@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "ACUTE" với chữ A đầu tiên được stylized thành hình tam giác màu hồng/đỏ tươi. Logo được đặt trên nền trắng sạch sẽ và xuất hiện ở góc trên bên trái của thiết kế catalog sản phẩm gạch men.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ A được thiết kế thành hình tam giác nhọn, các chữ cái còn lại theo kiểu sans-serif
+- Kiểu chữ: Font chữ hiện đại, sans-serif, in hoa, đậm và rõ ràng
+- Bảng màu: Hồng/đỏ tươi cho chữ A, đen cho các chữ cái còn lại
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo displays the brand name "ACUTE" with the first letter A stylized as a bright pink/red triangle. The logo is positioned on a clean white background and appears in the upper left corner of a tile product catalog design.
+
+Design Elements:
+- Shape: Letter A designed as a sharp triangle, remaining letters in sans-serif style
+- Typography: Modern, sans-serif, uppercase, bold and clear font
+- Color Palette: Bright pink/red for the A, black for remaining letters
+- Background: Transparent white background
+- Style: Minimalist, modern, geometric
+- Mood: Professional, dynamic, creative

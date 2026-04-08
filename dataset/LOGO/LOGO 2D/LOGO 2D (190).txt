@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng tấm khiên với hình tượng một con rồng được cách điệu. Con rồng có đầu hướng về bên phải với một chiếc sừng nhỏ và mắt trắng, thân hình uốn lượn tạo thành các đường cong mềm mại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Tấm khiên chứa hình rồng cách điệu với các đường cong uốn lượn
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh navy đậm với các điểm nhấn trắng
+- Nền: Trong suốt
+- Phong cách: Hiện đại, tối giản, biểu tượng
+- Tông điệu: Mạnh mẽ, uy quyền, bảo vệ
+
+---
+
+Visual Description:
+The logo features a shield shape containing a stylized dragon design. The dragon has its head facing right with a small horn and white eye, while its body curves gracefully to form flowing, dynamic lines within the shield.
+
+Design Elements:
+- Shape: Shield containing a stylized dragon with flowing curves
+- Typography: None (icon only)
+- Color Palette: Deep navy blue with white accents
+- Background: Transparent
+- Style: Modern, minimalist, emblematic
+- Mood: Strong, authoritative, protective

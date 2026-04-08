@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng hình học trừu tượng bên trái với hai đường cong đan xen tạo thành hình dạng giống như ký hiệu vô cực hoặc dải ADN. Bên phải là chữ "Brain" được viết bằng font chữ hiện đại, rõ ràng với màu trắng nổi bật trên nền tím đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hai đường cong đan xen, chữ "Brain" thẳng hàng
+- Kiểu chữ: Sans-serif hiện đại, đậm, rõ ràng
+- Bảng màu: Gradient xanh lá và xanh dương cho icon, chữ trắng, nền tím đậm
+- Nền: Tím đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, sáng tạo, thông minh
+
+---
+
+Visual Description:
+The logo features an abstract geometric symbol on the left with two intertwined curved lines forming an infinity-like shape or DNA strand pattern. To the right is the word "Brain" in clean, modern typography in white against a dark purple background.
+
+Design Elements:
+- Shape: Intertwined curved symbol, aligned "Brain" text
+- Typography: Modern sans-serif, bold, clean
+- Color Palette: Green to blue gradient for icon, white text, dark purple background
+- Background: Solid dark purple
+- Style: Modern, minimal, tech-focused
+- Mood: Professional, innovative, intelligent

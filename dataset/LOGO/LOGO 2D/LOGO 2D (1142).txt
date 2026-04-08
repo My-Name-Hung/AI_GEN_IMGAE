@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng trừu tượng được tạo thành từ các hình dạng hữu cơ màu vàng nhạt trên nền nâu đậm. Bên dưới biểu tượng là tên thương hiệu "skintellect" được viết bằng chữ thường màu trắng với font chữ hiện đại, sạch sẽ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Các hình dạng hữu cơ, cong mềm mại xếp chồng tạo thành biểu tượng trừu tượng
+- Kiểu chữ: Font sans-serif hiện đại, chữ thường, đơn giản
+- Bảng màu: Vàng nhạt/cream cho biểu tượng, trắng cho chữ, nền nâu chocolate
+- Nền: Nền đồng nhất màu nâu đậm
+- Phong cách: Tối giản, hiện đại, hữu cơ, sang trọng
+- Tông điệu: Tinh tế, chuyên nghiệp, ấm áp, thân thiện
+
+---
+
+Visual Description:
+The logo features an abstract icon composed of organic, cream-colored shapes arranged vertically on a dark brown background. Below the icon is the brand name "skintellect" written in clean, white lowercase letters using a modern typeface.
+
+Design Elements:
+- Shape: Organic, curved soft forms stacked to create an abstract symbol
+- Typography: Modern sans-serif, lowercase, clean and simple
+- Color Palette: Cream/pale yellow for icon, white for text, chocolate brown background
+- Background: Solid dark brown
+- Style: Minimalist, modern, organic, premium
+- Mood: Sophisticated, professional, warm, approachable

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình thoi với phần trên màu vàng chứa chữ "S" màu đỏ cam và phần dưới màu xanh dương chứa chữ "M" màu cam. Hai ngôi sao trắng được đặt ở hai bên chữ "M" trên nền xanh dương.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình thoi được chia thành hai phần tam giác
+- Kiểu chữ: Chữ serif đơn giản, in hoa
+- Bảng màu: Cam, vàng, xanh dương, trắng, đỏ cam
+- Nền: Hai tông màu chính - vàng ở trên và xanh dương ở dưới
+- Phong cách: Đơn giản, hình học, cân đối
+- Tông điệu: Năng động, chuyên nghiệp, thân thiện
+
+---
+
+Visual Description:
+The logo features a diamond shape with a yellow upper section containing a red-orange "S" and a blue lower section with an orange "M". Two white stars are positioned on either side of the "M" against the blue background.
+
+Design Elements:
+- Shape: Diamond divided into two triangular sections
+- Typography: Simple serif uppercase letters
+- Color Palette: Orange, yellow, blue, white, red-orange
+- Background: Dual-toned with yellow top and blue bottom
+- Style: Simple, geometric, balanced
+- Mood: Dynamic, professional, friendly

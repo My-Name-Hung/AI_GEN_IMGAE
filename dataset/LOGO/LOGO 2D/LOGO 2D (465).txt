@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "juice now" với slogan "be cool, be healthy" được đặt trên nền hình tròn nhiều màu sắc. Chữ "juice" được viết bằng màu cam/đỏ, "now" bằng màu xanh lá cây, tạo cảm giác tươi mới và năng động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với hiệu ứng gradient làm nền
+- Kiểu chữ: Font chữ thường hiện đại, không serif, dễ đọc
+- Bảng màu: Cam, đỏ, xanh lá cây, xanh dương nhạt
+- Nền: Gradient tròn từ cam sang xanh lá
+- Phong cách: Hiện đại, tươi mới, thân thiện
+- Tông điệu: Năng động, khỏe mạnh, tích cực
+
+---
+
+Visual Description:
+The logo displays the brand name "juice now" with the tagline "be cool, be healthy" set against a colorful circular background. The word "juice" is written in orange/red colors while "now" appears in green, creating a fresh and dynamic feeling.
+
+Design Elements:
+- Shape: Circular with gradient background effect
+- Typography: Modern lowercase sans-serif font, easy to read
+- Color Palette: Orange, red, green, light blue
+- Background: Circular gradient from orange to green
+- Style: Modern, fresh, friendly
+- Mood: Dynamic, healthy, positive

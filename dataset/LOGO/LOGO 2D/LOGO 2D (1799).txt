@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "HUM BOLIN" được sắp xếp theo kiểu typography với chữ "HUM" ở trên và "BOLIN" ở dưới. Bên dưới có dòng chữ nhỏ "CONFEITARIA" và toàn bộ được đặt trên nền màu xanh olive.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ hình chữ nhật, typography làm điểm nhấn chính
+- Kiểu chữ: Sans-serif hiện đại, chữ hoa, kích thước khác nhau tạo hierarchy
+- Bảng màu: Chữ màu kem/beige trên nền xanh olive
+- Nền: Màu xanh olive đậm, phẳng
+- Phong cách: Tối giản, hiện đại, typography-focused
+- Tông điệu: Thanh lịch, tinh tế, ấm áp
+
+---
+
+Visual Description:
+The logo displays the brand name "HUM BOLIN" arranged typographically with "HUM" above and "BOLIN" below. Below that is smaller text reading "CONFEITARIA" and the entire design is set against an olive green background.
+
+Design Elements:
+- Shape: Rectangular text layout, typography-driven design
+- Typography: Modern sans-serif, all caps, varying sizes for hierarchy
+- Color Palette: Cream/beige text on olive green background
+- Background: Solid dark olive green
+- Style: Minimalist, modern, typography-focused
+- Mood: Elegant, refined, warm

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng giống như hai vòng tròn hoặc khuyên được liên kết với nhau, tạo thành hình dáng giống chữ "M" cách điệu. Bên cạnh biểu tượng là chữ "Metlink" được viết bằng font chữ hiện đại, sạch sẽ với màu trắng trên nền tím đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học trừu tượng gồm hai phần tử cong được liên kết, tạo thành dạng chữ M cách điệu
+- Kiểu chữ: Font sans-serif hiện đại, sạch sẽ, chữ thường với chữ cái đầu viết hoa
+- Bảng màu: Gradient từ tím sang xanh lá cây cho biểu tượng, chữ màu trắng, nền tím đậm
+- Nền: Nền tím đậm (purple) đồng nhất
+- Phong cách: Hiện đại, tối giản, công nghệ, gradient
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động, công nghệ cao
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon resembling two interconnected rings or loops that form a stylized "M" shape with a gradient effect. Next to the icon is the text "Metlink" in clean, modern white typography against a deep purple background.
+
+Design Elements:
+- Shape: Abstract geometric icon with two curved, interconnected elements forming a stylized M
+- Typography: Modern sans-serif font, clean and minimal, sentence case with capital M
+- Color Palette: Purple to teal gradient for the icon, white text, deep purple background
+- Background: Solid deep purple background
+- Style: Modern, minimalist, tech-oriented, gradient design
+- Mood: Professional, innovative, dynamic, high-tech

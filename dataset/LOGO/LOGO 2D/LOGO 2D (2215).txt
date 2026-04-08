@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình khiên màu vàng được chia thành bốn phần bằng nhau. Mỗi phần chứa một ký tự chữ cái hoặc biểu tượng ngôi sao màu trắng trên nền xanh dương và vàng xen kẽ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khiên bảo vệ cổ điển với viền vàng
+- Kiểu chữ: Chữ serif đậm, các chữ cái N, B, C và một ngôi sao
+- Bảng màu: Vàng, xanh dương và trắng
+- Nền: Nền xanh dương đồng nhất
+- Phong cách: Heraldic, cổ điển, học thuật
+- Tông điệu: Uy quyền, truyền thống, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a yellow shield divided into four equal quadrants. Each quadrant contains a white letter or star symbol alternating between blue and yellow backgrounds in a checkered pattern.
+
+Design Elements:
+- Shape: Classical protective shield with yellow border
+- Typography: Bold serif letters N, B, C and a star symbol
+- Color Palette: Yellow, blue, and white
+- Background: Solid blue background
+- Style: Heraldic, classical, academic
+- Mood: Authoritative, traditional, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hộp vuông màu trắng chứa biểu tượng túi y tế có dấu thập màu xanh lá cây. Bên dưới là dòng chữ "ĐÔNG HẢI" được viết bằng font chữ in hoa màu trắng, kèm theo dòng chữ nhỏ hơn "CÔNG TY Y TẾ".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hộp vuông chứa icon túi y tế với dấu thập
+- Kiểu chữ: Font sans-serif in hoa, đậm và rõ ràng
+- Bảng màu: Xanh lá cây chủ đạo, trắng cho chữ và icon
+- Nền: Màu xanh lá cây đồng nhất
+- Phong cách: Tối giản, y tế, chuyên nghiệp
+- Tông điệu: Tin cậy, sức khỏe, an toàn
+
+---
+
+Visual Description:
+The logo features a white square containing a medical bag icon with a green cross symbol. Below it is the text "ĐÔNG HẢI" in white uppercase letters, followed by smaller text "CÔNG TY Y TẾ".
+
+Design Elements:
+- Shape: Square container with medical bag and cross icon
+- Typography: Sans-serif uppercase font, bold and clear
+- Color Palette: Dominant green with white text and icons
+- Background: Solid green background
+- Style: Minimalist, medical, professional
+- Mood: Trustworthy, healthy, safe

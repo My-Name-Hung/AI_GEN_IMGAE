@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một cây bút chì được cách điệu với phần thân bút được thiết kế như một hộp sơn màu hoặc bảng màu nghệ thuật. Phần đầu bút có màu cam gradient, trong khi thân bút chứa các ô màu khác nhau bao gồm cam, đỏ, trắng và nâu tạo thành một bảng màu nhỏ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bút chì cách điệu kết hợp với bảng màu vuông
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Cam, đỏ, nâu, trắng, đen làm viền
+- Nền: Trắng trong suốt
+- Phong cách: Flat design, icon đường nét, minh họa vector
+- Tông điệu: Sáng tạo, nghệ thuật, thân thiện
+
+---
+
+Visual Description:
+The logo depicts a stylized pencil where the body is designed as a paint palette or art color box. The pencil tip features an orange gradient, while the body contains various color squares including orange, red, white, and brown forming a small color palette.
+
+Design Elements:
+- Shape: Stylized pencil combined with square color palette
+- Typography: None (icon only)
+- Color Palette: Orange, red, brown, white, black outline
+- Background: Transparent white
+- Style: Flat design, outlined icon, vector illustration
+- Mood: Creative, artistic, friendly

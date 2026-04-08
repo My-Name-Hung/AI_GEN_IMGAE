@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng tia sét màu tím gradient nổi bật trên nền đen. Bên dưới là tên thương hiệu "Hùng Dũng" bằng chữ trắng in hoa, kèm theo slogan "Phòng thể hình 24/7" màu tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tia sét góc cạnh, động
+- Kiểu chữ: Sans-serif hiện đại, in hoa, rõ ràng
+- Bảng màu: Tím gradient, trắng, đen
+- Nền: Nền đen đồng nhất
+- Phong cách: Hiện đại, tối giản, thể thao
+- Tông điệu: Mạnh mẽ, năng động, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a prominent purple gradient lightning bolt icon on a black background. Below it is the brand name "Hùng Dũng" in white capital letters, accompanied by the tagline "Phòng thể hình 24/7" in purple.
+
+Design Elements:
+- Shape: Angular, dynamic lightning bolt symbol
+- Typography: Modern sans-serif, uppercase, clean
+- Color Palette: Purple gradient, white, black
+- Background: Solid black
+- Style: Modern, minimalist, athletic
+- Mood: Powerful, energetic, professional

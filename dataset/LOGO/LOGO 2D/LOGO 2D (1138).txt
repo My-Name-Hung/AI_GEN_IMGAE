@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một con chuột màu tím đang cầm một miếng phô mai màu vàng với biểu cảm thân thiện. Bên cạnh hình ảnh chuột có dòng chữ "ARCADE MOUSE" được viết bằng phông chữ in hoa màu vàng với viền tối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Nhân vật chuột hoạt hình với tai tròn, đuôi dài và miếng phô mai
+- Kiểu chữ: Phông chữ in hoa đậm, phong cách arcade game với hiệu ứng 3D
+- Bảng màu: Tím chủ đạo, vàng cho chữ và phô mai, đen cho đường viền
+- Nền: Nền tím đồng nhất
+- Phong cách: Hoạt hình, retro gaming, mascot character
+- Tông điệu: Vui tươi, thân thiện, năng động
+
+---
+
+Visual Description:
+The logo features a purple cartoon mouse character holding a yellow piece of cheese with a friendly expression. Next to the mouse illustration is the text "ARCADE MOUSE" written in yellow uppercase letters with dark outlines.
+
+Design Elements:
+- Shape: Cartoon mouse character with round ears, long tail, and cheese piece
+- Typography: Bold uppercase font in arcade game style with 3D effect
+- Color Palette: Purple dominant, yellow for text and cheese, black for outlines
+- Background: Solid purple background
+- Style: Cartoon, retro gaming, mascot character
+- Mood: Playful, friendly, energetic

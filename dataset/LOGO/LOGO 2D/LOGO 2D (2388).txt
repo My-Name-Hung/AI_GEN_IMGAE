@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng hình lục giác bên trái và chữ "miedi" bên phải. Biểu tượng lục giác chứa ký hiệu y tế truyền thống (con rắn quấn quanh cây gậy) với hiệu ứng gradient màu xanh dương sang tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lục giác chứa biểu tượng y tế, bố cục ngang
+- Kiểu chữ: Sans-serif hiện đại, chữ thường, clean và tối giản
+- Bảng màu: Gradient xanh dương sang tím, chữ trắng
+- Nền: Xanh navy đậm
+- Phong cách: Hiện đại, tối giản, y tế, công nghệ
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sáng tạo
+
+---
+
+Visual Description:
+The logo features a hexagonal icon on the left containing a medical caduceus symbol, paired with the text "miedi" on the right. The hexagon displays a blue-to-purple gradient effect with the traditional medical symbol of a snake wrapped around a staff.
+
+Design Elements:
+- Shape: Hexagonal medical symbol icon with horizontal text layout
+- Typography: Modern sans-serif, lowercase, clean and minimalist
+- Color Palette: Blue-to-purple gradient, white text
+- Background: Deep navy blue
+- Style: Modern, minimalist, medical, tech-forward
+- Mood: Professional, trustworthy, innovative

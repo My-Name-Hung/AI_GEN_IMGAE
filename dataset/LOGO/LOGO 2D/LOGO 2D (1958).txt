@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với hai dải màu cam nằm ngang ở phía trên và dưới. Ở giữa là phần nền trắng chứa tên thương hiệu "San San" bằng chữ đen viết tay và dòng chữ nhỏ "Nhà hàng Y" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật với hai dải ngang tạo khung
+- Kiểu chữ: Chữ viết tay nghệ thuật cho tên chính, chữ in đơn giản cho phụ đề
+- Bảng màu: Cam, đen, trắng
+- Nền: Trắng với viền cam
+- Phong cách: Tối giản, thân thiện, cổ điển
+- Tông điệu: Ấm áp, gần gũi, truyền thống
+
+---
+
+Visual Description:
+The logo features a simple design with two horizontal orange bands at the top and bottom. In the center is a white background containing the brand name "San San" in black handwritten-style lettering and smaller text "Nhà hàng Y" below it.
+
+Design Elements:
+- Shape: Rectangular with horizontal band framing
+- Typography: Artistic handwritten script for main name, simple print for subtitle
+- Color Palette: Orange, black, white
+- Background: White with orange borders
+- Style: Minimalist, friendly, classic
+- Mood: Warm, approachable, traditional

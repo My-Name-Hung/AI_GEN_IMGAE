@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một cuốn sách mở với dấu trang bên trong, tạo thành hình chữ K ở phần giữa. Thiết kế tối giản với đường nét rõ ràng, thể hiện khái niệm tri thức và đánh dấu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật bo góc kết hợp với dấu trang và chữ K âm bản
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng đồng trên nền đen
+- Nền: Đen thuần
+- Phong cách: Tối giản, hiện đại, biểu tượng
+- Tông điệu: Chuyên nghiệp, tri thức, tinh tế
+
+---
+
+Visual Description:
+The logo features an open book with a bookmark inside, creating a negative space K shape in the center. The design is minimalist with clean lines, representing knowledge and bookmarking concepts.
+
+Design Elements:
+- Shape: Rounded rectangle combined with bookmark and negative K letterform
+- Typography: None (icon only)
+- Color Palette: Golden bronze on black
+- Background: Solid black
+- Style: Minimalist, modern, symbolic
+- Mood: Professional, intellectual, sophisticated

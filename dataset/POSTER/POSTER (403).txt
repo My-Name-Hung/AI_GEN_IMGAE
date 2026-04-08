@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "DANCE" được sắp xếp theo chiều dọc với màu đen đậm. Hình ảnh một vũ công nam đang thực hiện động tác nhảy được đặt chồng lên các chữ cái, tạo hiệu ứng hòa trộn giữa typography và hình ảnh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng đứng kết hợp với silhouette vũ công đang nhảy
+- Kiểu chữ: Font chữ sans-serif đậm, in hoa, sắp xếp dọc
+- Bảng màu: Chủ yếu đen trắng trên nền vàng rực rỡ
+- Nền: Màu vàng tươi sáng đồng nhất
+- Phong cách: Hiện đại, tối giản, nghệ thuật collage
+- Tông điệu: Năng động, sáng tạo, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the word "DANCE" arranged vertically in bold black letters. A silhouette of a male dancer performing a jump or leap is superimposed over the letters, creating a blended effect between typography and imagery.
+
+Design Elements:
+- Shape: Vertical text layout combined with dancer silhouette in motion
+- Typography: Bold sans-serif font, uppercase, vertically stacked
+- Color Palette: Primarily black and white on bright yellow background
+- Background: Solid bright yellow
+- Style: Modern, minimalist, collage art
+- Mood: Dynamic, creative, professional

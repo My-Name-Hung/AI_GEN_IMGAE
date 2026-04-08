@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hòa bình tròn ở phía trên với ba đường thẳng tạo thành hình chữ Y ngược bên trong vòng tròn. Bên dưới là dòng chữ "BIRD OF PEACE" được viết bằng font chữ sans-serif đậm, kèm theo dòng chữ nhỏ hơn "STREET CHICKEN" ở cuối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn với ký hiệu hòa bình, bố cục dọc đối xứng
+- Kiểu chữ: Sans-serif đậm, in hoa, khoảng cách chữ rộng
+- Bảng màu: Đen trắng đơn sắc
+- Nền: Trắng sạch
+- Phong cách: Tối giản, hiện đại, biểu tượng cổ điển
+- Tông điệu: Hòa bình, tự tin, đơn giản
+
+---
+
+Visual Description:
+The logo features a circular peace symbol at the top with three lines forming an inverted Y inside a circle. Below is the text "BIRD OF PEACE" in bold sans-serif typography, with smaller text "STREET CHICKEN" underneath.
+
+Design Elements:
+- Shape: Circular peace symbol with vertical symmetrical layout
+- Typography: Bold sans-serif, uppercase, wide letter spacing
+- Color Palette: Monochrome black and white
+- Background: Clean white
+- Style: Minimalist, modern, classic symbolism
+- Mood: Peaceful, confident, clean

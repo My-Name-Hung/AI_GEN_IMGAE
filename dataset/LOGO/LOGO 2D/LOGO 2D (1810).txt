@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một con cá sấu hoặc cá mập cách điệu màu trắng trên nền xanh lục. Con vật được thiết kế theo phong cách đơn giản với những đường cong mềm mại, miệng há ra và có thể nhìn thấy răng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình cá sấu/cá mập cách điệu với đuôi cong và miệng há
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng và xanh lục (teal)
+- Nền: Nền xanh lục đặc, bo góc vuông
+- Phong cách: Tối giản, phẳng, hiện đại
+- Tông điệu: Thân thiện, vui tươi, năng động
+
+---
+
+Visual Description:
+The logo features a stylized white crocodile or alligator silhouette on a teal background. The animal is designed in a simple, curved style with its mouth open showing teeth, creating a friendly yet dynamic appearance.
+
+Design Elements:
+- Shape: Stylized crocodile/alligator with curved tail and open mouth
+- Typography: None (icon only)
+- Color Palette: White and teal
+- Background: Solid teal with rounded square corners
+- Style: Minimalist, flat, modern
+- Mood: Friendly, playful, energetic

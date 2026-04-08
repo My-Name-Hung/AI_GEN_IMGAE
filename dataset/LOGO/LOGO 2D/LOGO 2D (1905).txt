@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với tên "Minh Trung" được đặt ở trung tâm bằng font chữ serif thanh lịch màu trắng. Bên dưới là dòng chữ "TRANG PHỤC BÌNH DÂN" viết hoa với font nhỏ hơn, cũng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với khung viền trắng mỏng
+- Kiểu chữ: Font serif thanh lịch cho tên chính, font sans-serif đơn giản cho dòng phụ
+- Bảng màu: Màu hồng pastel làm nền, chữ màu trắng
+- Nền: Màu hồng nhạt đồng nhất
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Nhẹ nhàng, nữ tính, tinh tế
+
+---
+
+Visual Description:
+The logo features a simple design with "Minh Trung" prominently displayed in the center using an elegant white serif font. Below it is the text "TRANG PHUC BINH DAN" in smaller uppercase letters, also in white.
+
+Design Elements:
+- Shape: Square format with thin white border frame
+- Typography: Elegant serif font for main name, simple sans-serif for subtitle
+- Color Palette: Soft pink pastel background with white text
+- Background: Solid light pink color
+- Style: Minimalist, modern, elegant
+- Mood: Gentle, feminine, refined

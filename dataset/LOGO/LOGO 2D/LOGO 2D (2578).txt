@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "NW" được viết bằng font chữ in hoa màu trắng, đứng trên nền màu be/nâu nhạt. Bên dưới có dòng chữ "làn da ngọc ngà" được viết bằng font chữ nhỏ hơn cùng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái đơn giản, thẳng đứng
+- Kiểu chữ: Font sans-serif, in hoa, đậm cho "NW"; font nhỏ hơn cho slogan
+- Bảng màu: Trắng trên nền be/nâu nhạt
+- Nền: Màu be/nâu nhạt, có texture nhẹ
+- Phong cách: Tối giản, thanh lịch, hiện đại
+- Tông điệu: Sang trọng, tinh tế, tự nhiên
+
+---
+
+Visual Description:
+The logo displays "NW" in white uppercase letters on a beige/light brown background. Below it is the Vietnamese text "làn da ngọc ngà" in smaller white text.
+
+Design Elements:
+- Shape: Simple, upright letterforms
+- Typography: Sans-serif, bold uppercase for "NW"; smaller font for tagline
+- Color Palette: White on beige/light brown
+- Background: Beige/light brown with subtle texture
+- Style: Minimalist, elegant, modern
+- Mood: Luxurious, refined, natural

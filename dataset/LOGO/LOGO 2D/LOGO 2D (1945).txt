@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế tối giản với tên thương hiệu "BÁCH & HÙNG" được đặt ở trung tâm, được bao quanh bởi hai đường kẻ ngang màu trắng. Bên dưới có dòng chữ nhỏ "Luật Hình sự" thể hiện chuyên môn của công ty.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật với các đường kẻ ngang đối xứng
+- Kiểu chữ: Font chữ không chân hiện đại, in hoa
+- Bảng màu: Chữ trắng trên nền tím đậm
+- Nền: Nền tím đậm đồng nhất
+- Phong cách: Tối giản, chuyên nghiệp, thanh lịch
+- Tông điệu: Nghiêm túc, đáng tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a minimalist design with the brand name "BÁCH & HÙNG" centered and framed by two horizontal white lines. Below the main text is smaller text reading "Luật Hình sự" indicating the firm's legal specialization.
+
+Design Elements:
+- Shape: Rectangular layout with symmetrical horizontal lines
+- Typography: Modern sans-serif font in uppercase
+- Color Palette: White text on deep purple background
+- Background: Solid deep purple
+- Style: Minimalist, professional, elegant
+- Mood: Serious, trustworthy, professional

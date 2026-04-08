@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo biểu diễn hình bóng của một người ngồi thiền với đường nét liền mạch tạo thành từ các đường cong gradient. Hình dạng được vẽ bằng một đường liên tục tạo nên silhouette của người với tư thế yoga hoặc thiền định.
+
+Yếu tố Thiết kế:
+- Hình dạng: Silhouette người ngồi thiền được tạo bằng đường cong liền mạch
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ xanh cyan sang tím, trên nền tím đậm
+- Nền: Nền tím đậm/navy
+- Phong cách: Tối giản, đường nét liền mạch, gradient hiện đại
+- Tông điệu: Bình an, thiền định, thư giãn, tâm linh
+
+---
+
+Visual Description:
+The logo depicts a silhouette of a person in a meditation pose created with a continuous, flowing line using gradient colors. The figure is rendered as a single unbroken curved line that forms the outline of someone sitting in a yoga or meditation position.
+
+Design Elements:
+- Shape: Continuous line silhouette of person in meditation pose
+- Typography: None (icon only)
+- Color Palette: Gradient from cyan to purple on dark purple background
+- Background: Dark purple/navy background
+- Style: Minimalist, continuous line art, modern gradient
+- Mood: Peaceful, meditative, calming, spiritual

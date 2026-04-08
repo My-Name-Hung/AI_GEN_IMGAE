@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là thiết kế trang bìa tạp chí thời trang với chữ "MAGICAL GAZE" được bố trí theo chiều dọc bên trái. Hình ảnh chính là chân dung của một người phụ nữ với lớp makeup tinh tế, mặc áo cổ cao màu đen trên nền gradient từ hồng nhạt sang xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục tạp chí dọc với typography chạy dọc theo cạnh trái
+- Kiểu chữ: Font sans-serif hiện đại, đậm, chữ hoa với kích thước lớn
+- Bảng màu: Đen trắng chủ đạo với nền gradient hồng nhạt và xám
+- Nền: Gradient từ hồng phấn sang xám tạo chiều sâu
+- Phong cách: Thời trang cao cấp, hiện đại, tối giản
+- Tông điệu: Sang trọng, quyến rũ, chuyên nghiệp
+
+---
+
+Visual Description:
+This is a fashion magazine cover design with "MAGICAL GAZE" text arranged vertically on the left side. The main image features a portrait of a woman with refined makeup wearing a black turtleneck against a gradient background from soft pink to gray.
+
+Design Elements:
+- Shape: Vertical magazine layout with typography running along the left edge
+- Typography: Modern, bold sans-serif font in all caps with large sizing
+- Color Palette: Predominantly black and white with soft pink and gray gradient background
+- Background: Gradient from blush pink to gray creating depth
+- Style: High fashion, modern, minimalist
+- Mood: Elegant, alluring, professional

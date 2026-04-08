@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một nhân vật hoạt hình vui nhộn hình que popcorn màu vàng với khuôn mặt cười tươi và đang thực hiện cử chỉ ký hiệu hòa bình bằng tay. Nhân vật được bao quanh bởi một vòng tròn đỏ cam và có các ngôi sao nhỏ màu cam đỏ trang trí xung quanh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Nhân vật popcorn dạng que với tay chân người, vòng tròn bao quanh
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Vàng cam chính, đỏ cam cho vòng tròn và ngôi sao, đen trắng cho chi tiết
+- Nền: Nền trắng trong suốt
+- Phong cách: Cartoon, mascot, vẽ tay, đường nét đậm
+- Tông điệu: Vui tươi, thân thiện, năng động
+
+---
+
+Visual Description:
+The logo features a cheerful cartoon popcorn stick character in yellow with a smiling face making a peace sign gesture with one hand. The character is surrounded by an orange-red circular frame and decorated with small orange-red stars around it.
+
+Design Elements:
+- Shape: Popcorn stick character with human arms and legs, circular frame
+- Typography: None (icon only)
+- Color Palette: Primary yellow-orange, orange-red for circle and stars, black and white details
+- Background: Transparent white background
+- Style: Cartoon, mascot, hand-drawn, bold outlines
+- Mood: Cheerful, friendly, energetic

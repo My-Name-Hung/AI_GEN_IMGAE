@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn với dòng chữ "BỆNH VIỆN ĐA KHOA AEC" bao quanh theo cung tròn. Ở trung tâm là biểu tượng nhịp tim màu trắng với đường zigzag đặc trưng của điện tâm đồ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với đường viền chấm và biểu tượng nhịp tim ở trung tâm
+- Kiểu chữ: Chữ in hoa sans-serif, bố trí theo cung tròn
+- Bảng màu: Xanh cyan cho chữ, trắng cho biểu tượng, nền xám đậm
+- Nền: Nền đơn sắc màu xám đậm
+- Phong cách: Y tế, hiện đại, tối giản
+- Tông điệu: Chuyên nghiệp, tin cậy, sạch sẽ
+
+---
+
+Visual Description:
+The logo features a circular design with "BỆNH VIỆN ĐA KHOA AEC" text arranged in an arc around the perimeter. At the center is a white heartbeat/pulse line symbol resembling an EKG reading.
+
+Design Elements:
+- Shape: Circular layout with dotted border and central heartbeat icon
+- Typography: Sans-serif uppercase letters arranged in circular arc
+- Color Palette: Cyan for text, white for icon, dark gray background
+- Background: Solid dark gray
+- Style: Medical, modern, minimalist
+- Mood: Professional, trustworthy, clean

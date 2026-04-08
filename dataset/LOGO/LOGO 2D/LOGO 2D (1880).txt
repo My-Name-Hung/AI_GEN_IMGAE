@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh quân vua cờ vua được phân tách thành hai phần với dòng chữ "CHIẾU TƯỚNG!" ở giữa. Phần dưới có thêm dòng chữ nhỏ "GIAI VÔ ĐỊCH" và "CỔ VUA ẢO".
+
+Yếu tố Thiết kế:
+- Hình dạng: Quân vua cờ vua được tách làm hai phần, có thánh giá trên đỉnh
+- Kiểu chữ: Font chữ in hoa đậm, rõ ràng với kích thước khác nhau
+- Bảng màu: Màu nâu đỏ/gạch đất trên nền kem
+- Nền: Màu kem/be nhạt
+- Phong cách: Tối giản, đối xứng, biểu tượng
+- Tông điệu: Nghiêm túc, cổ điển, thể thao trí tuệ
+
+---
+
+Visual Description:
+The logo features a chess king piece split into two parts with "CHIẾU TƯỚNG!" text in between. Below are additional smaller text lines reading "GIAI VÔ ĐỊCH" and "CỔ VUA ẢO".
+
+Design Elements:
+- Shape: Chess king piece divided into two parts with a cross on top
+- Typography: Bold uppercase font with varying sizes
+- Color Palette: Reddish-brown/terracotta on cream background
+- Background: Light cream/beige
+- Style: Minimalist, symmetrical, symbolic
+- Mood: Serious, classic, intellectual sports

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "NHÂN TỪ" bằng font chữ serif thanh lịch với dấu mũ trên chữ "Â". Phía dưới có dòng chữ nhỏ hơn "CỘNG ĐỒNG CÁC TÍN ĐỒ" được sắp xếp thành hai dòng với khoảng cách đều đặn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ đơn giản, căn giữa
+- Kiểu chữ: Font serif cổ điển, thanh lịch với độ tương phản cao
+- Bảng màu: Đen trên nền kem/be nhạt
+- Nền: Màu kem/be nhạt, phẳng
+- Phong cách: Tối giản, cổ điển, tinh tế
+- Tông điệu: Trang nghiêm, thanh lịch, tâm linh
+
+---
+
+Visual Description:
+The logo displays "NHÂN TỪ" in elegant serif typography with an accent mark over the "Â". Below it, smaller text reads "CỘNG ĐỒNG CÁC TÍN ĐỒ" arranged in two lines with even spacing and letter spacing.
+
+Design Elements:
+- Shape: Simple text layout, centered alignment
+- Typography: Classic serif font, elegant with high contrast
+- Color Palette: Black on cream/light beige
+- Background: Cream/light beige, flat
+- Style: Minimalist, classic, refined
+- Mood: Dignified, elegant, spiritual

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hình tròn ở trên với các đường nét tạo thành hình ảnh núi đồi và mặt trời theo phong cách line art. Phần chữ được sắp xếp theo hai dòng với tên thương hiệu ở trên và slogan ở dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tròn với pattern núi đồi và mặt trời, layout dọc
+- Kiểu chữ: Serif thanh lịch cho tên chính, sans-serif nhỏ cho slogan
+- Bảng màu: Vàng gold cho icon, xanh navy đậm cho chữ
+- Nền: Nền trắng/xám nhạt
+- Phong cách: Tối giản, line art, sang trọng
+- Tông điệu: Tinh tế, chuyên nghiệp, yên bình
+
+---
+
+Visual Description:
+The logo features a circular icon at the top with line art depicting mountains and sun rays in a minimalist style. The text is arranged in two lines with the main brand name above and a tagline below.
+
+Design Elements:
+- Shape: Circular icon with mountain/sun pattern, vertical layout
+- Typography: Elegant serif for main name, smaller sans-serif for tagline
+- Color Palette: Gold for icon, deep navy blue for text
+- Background: White/light gray background
+- Style: Minimalist, line art, premium
+- Mood: Refined, professional, serene

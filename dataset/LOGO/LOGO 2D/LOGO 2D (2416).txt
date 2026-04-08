@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình thoi màu đỏ gạch với biểu tượng tháp truyền hình hoặc cột điện màu trắng ở giữa. Phía dưới có dòng chữ "TỈNH ĐIỆN" bằng font chữ đậm màu đen và "CÔNG TY ĐIỆN" bằng chữ nhỏ hơn màu xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình thoi với biểu tượng tháp/cột điện stylized
+- Kiểu chữ: Font sans-serif hiện đại, in hoa đậm cho tên chính
+- Bảng màu: Đỏ gạch, trắng, đen và xám nhạt
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hiện đại, corporate
+- Tông điệu: Chuyên nghiệp, tin cậy, công nghiệp
+
+---
+
+Visual Description:
+The logo features a brick red diamond shape with a white stylized transmission tower or electrical pole icon in the center. Below is the text "TỈNH ĐIỆN" in bold black letters and "CÔNG TY ĐIỆN" in smaller gray text.
+
+Design Elements:
+- Shape: Diamond with stylized tower/electrical pole symbol
+- Typography: Modern sans-serif, bold uppercase for main name
+- Color Palette: Brick red, white, black, and light gray
+- Background: Clean white background
+- Style: Minimalist, modern, corporate
+- Mood: Professional, reliable, industrial

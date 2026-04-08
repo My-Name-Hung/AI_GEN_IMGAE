@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng cặp công văn màu vàng đơn giản ở trên cùng. Bên dưới là tên công ty "TẬP ĐOÀN VƯƠNG" được viết bằng chữ in hoa màu trắng, và dòng chữ nhỏ "Công ty Kế toán" màu xanh lá cây ở cuối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon cặp tài liệu hình chữ nhật với khóa, bố cục dọc tập trung
+- Kiểu chữ: Font sans-serif in hoa, khoảng cách chữ rộng cho tên chính
+- Bảng màu: Vàng cho icon, trắng cho tên công ty, xanh lá cây cho slogan
+- Nền: Xanh đậm/xanh navy
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Đáng tin cậy, nghiêm túc, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a simple yellow briefcase icon at the top. Below it is the company name "TẬP ĐOÀN VƯƠNG" in white capital letters, followed by a smaller green tagline "Công ty Kế toán" at the bottom.
+
+Design Elements:
+- Shape: Rectangular briefcase icon with clasp, centered vertical layout
+- Typography: Sans-serif font in capitals with wide letter spacing for main name
+- Color Palette: Yellow for icon, white for company name, green for tagline
+- Background: Dark teal/navy blue
+- Style: Minimalist, professional, modern
+- Mood: Trustworthy, serious, professional

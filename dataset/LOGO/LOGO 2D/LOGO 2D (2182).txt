@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hình ảnh một trái tim giải phẫu được vẽ bằng nét mực đen chi tiết và tinh xảo. Bên dưới là dòng chữ "TÂM ĐỨC" màu đỏ với font chữ hiện đại, và dòng chữ nhỏ hơn "VIỆN TIM" màu xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Trái tim giải phẫu thực tế, bố cục dọc đối xứng
+- Kiểu chữ: Font sans-serif hiện đại, chữ hoa có khoảng cách rộng
+- Bảng màu: Đen (icon), đỏ (tên chính), xám (tên phụ)
+- Nền: Trắng sạch
+- Phong cách: Y tế, chuyên nghiệp, tối giản
+- Tông điệu: Tin cậy, khoa học, nghiêm túc
+
+---
+
+Visual Description:
+The logo features a detailed anatomical heart illustration drawn in black ink with fine, precise linework. Below it is "TÂM ĐỨC" in red modern typography, with smaller gray text "VIỆN TIM" underneath.
+
+Design Elements:
+- Shape: Realistic anatomical heart, vertical symmetrical layout
+- Typography: Modern sans-serif, uppercase with wide letter spacing
+- Color Palette: Black (icon), red (main text), gray (subtitle)
+- Background: Clean white
+- Style: Medical, professional, minimalist
+- Mood: Trustworthy, scientific, serious

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình oval màu vàng chứa chữ "Hey!" màu đen với phong cách thân thiện. Bên dưới có dòng chữ "SMART RESELLER" với từ "SMART" màu vàng và "RESELLER" màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình oval bo tròn làm nền chính
+- Kiểu chữ: Font chữ in hoa đậm, phong cách hiện đại và dễ đọc
+- Bảng màu: Vàng chủ đạo, đen, trắng
+- Nền: Nền trắng sạch
+- Phong cách: Hiện đại, đơn giản, thân thiện
+- Tông điệu: Năng động, tích cực, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a bright yellow oval containing the word "Hey!" in bold black letters with a friendly style. Below it is the text "SMART RESELLER" with "SMART" in yellow and "RESELLER" in black.
+
+Design Elements:
+- Shape: Rounded oval as main background element
+- Typography: Bold uppercase font with modern, readable styling
+- Color Palette: Primary yellow, black, white
+- Background: Clean white background
+- Style: Modern, simple, friendly
+- Mood: Energetic, positive, professional

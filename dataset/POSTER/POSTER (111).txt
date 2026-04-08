@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Windle" với font chữ màu xanh đậm, kèm theo tagline "PAINT" bên dưới. Logo có biểu tượng giọt nước hoặc lá stylized ở phía trên bên trái của tên thương hiệu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Text-based với biểu tượng giọt nước/lá đơn giản
+- Kiểu chữ: Sans-serif hiện đại, chữ in hoa cho "PAINT"
+- Bảng màu: Xanh navy đậm
+- Nền: Trong suốt/trắng
+- Phong cách: Tối giản, hiện đại, công nghiệp
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sạch sẽ
+
+---
+
+Visual Description:
+The logo displays the brand name "Windle" in dark blue typography with "PAINT" tagline below it. There is a stylized water drop or leaf symbol positioned above and to the left of the brand name.
+
+Design Elements:
+- Shape: Text-based with simple water drop/leaf icon
+- Typography: Modern sans-serif, uppercase for "PAINT"
+- Color Palette: Dark navy blue
+- Background: Transparent/white
+- Style: Minimalist, modern, industrial
+- Mood: Professional, trustworthy, clean

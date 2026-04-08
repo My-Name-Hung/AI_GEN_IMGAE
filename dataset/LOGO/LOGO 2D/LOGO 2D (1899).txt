@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình vuông màu vàng với văn bản "VIỆT PHÚ" được hiển thị bằng chữ đen in hoa ở trung tâm. Bên dưới có dòng chữ nhỏ hơn "Sẵn sàng phục vụ" viết bằng font chữ nghiêng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông đơn giản với các cạnh có răng cưa nhẹ
+- Kiểu chữ: Font chữ serif đậm cho tên chính, font chữ nghiêng mỏng cho slogan
+- Bảng màu: Vàng chủ đạo với chữ đen
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, truyền thống, rõ ràng
+- Tông điệu: Chuyên nghiệp, tin cậy, thân thiện
+
+---
+
+Visual Description:
+The logo features a yellow square with "VIỆT PHÚ" displayed in black capital letters at the center. Below the main text is a smaller italicized tagline "Sẵn sàng phục vụ" in a lighter font weight.
+
+Design Elements:
+- Shape: Simple square with slightly serrated edges
+- Typography: Bold serif font for main text, thin italic font for tagline
+- Color Palette: Dominant yellow with black text
+- Background: Clean white background
+- Style: Minimalist, traditional, clear
+- Mood: Professional, trustworthy, approachable

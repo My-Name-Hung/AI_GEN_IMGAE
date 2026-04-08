@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hoa sen cách điệu màu tím với ba chấm tròn phía trên, tượng trưng cho sự tinh tế và thanh lịch. Bên dưới là tên thương hiệu "Lan Binh" được viết bằng chữ trắng đậm, kèm theo dòng chữ phụ "cà phê & bar" màu tím nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hoa sen cách điệu với ba chấm tròn trang trí
+- Kiểu chữ: Font chữ sans-serif đậm cho tên chính, font mảnh cho dòng phụ
+- Bảng màu: Tím gradient, trắng và tím nhạt
+- Nền: Màu xám đen tối
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Sang trọng, thư giãn, tinh tế
+
+---
+
+Visual Description:
+The logo features a stylized purple lotus flower icon with three circular dots above it, symbolizing elegance and refinement. Below is the brand name "Lan Binh" in bold white text, accompanied by the tagline "cà phê & bar" in light purple.
+
+Design Elements:
+- Shape: Stylized lotus flower with three decorative circular dots
+- Typography: Bold sans-serif font for main name, thin font for tagline
+- Color Palette: Purple gradient, white, and light purple
+- Background: Dark charcoal gray
+- Style: Minimalist, modern, elegant
+- Mood: Sophisticated, relaxing, refined

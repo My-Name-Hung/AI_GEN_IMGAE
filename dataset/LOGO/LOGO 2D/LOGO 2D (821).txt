@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị hai chữ cái "J" và "P" được thiết kế theo kiểu đan xen, tạo thành một hình khối thống nhất. Hai chữ cái được kết hợp một cách khéo léo với đường nét bo tròn mềm mại, tạo hiệu ứng thị giác độc đáo.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai chữ cái J và P đan xen, bo tròn các góc
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trắng tương phản
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, hiện đại, monogram
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, tinh tế
+
+---
+
+Visual Description:
+The logo displays two letters "J" and "P" designed in an interlocking style, forming a unified shape. The two letters are cleverly combined with soft, rounded curves that create a unique visual effect.
+
+Design Elements:
+- Shape: Interlocking letters J and P with rounded corners
+- Typography: None (icon only)
+- Color Palette: Black and white contrast
+- Background: Transparent white background
+- Style: Minimalist, modern, monogram
+- Mood: Professional, strong, sophisticated

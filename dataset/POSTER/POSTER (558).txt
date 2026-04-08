@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo JQL được đặt ở góc trên bên phải của hình ảnh, có thiết kế đơn giản với chữ "JQL" được viết bằng font chữ hiện đại. Logo có màu xanh đậm trên nền trong suốt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết tắt "JQL" với thiết kế typography đơn giản, gọn gàng
+- Kiểu chữ: Font chữ sans-serif hiện đại, in hoa, có độ dày trung bình
+- Bảng màu: Màu xanh navy đậm
+- Nền: Trong suốt, hòa vào nền trời xanh của hình ảnh
+- Phong cách: Tối giản, hiện đại, công nghệ
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, tinh tế
+
+---
+
+Visual Description:
+The JQL logo is positioned in the upper right corner of the image, featuring a simple design with "JQL" text in a modern typeface. The logo appears in dark blue color on a transparent background.
+
+Design Elements:
+- Shape: Abbreviated text "JQL" with clean, compact typography design
+- Typography: Modern sans-serif font, uppercase, medium weight
+- Color Palette: Dark navy blue
+- Background: Transparent, blending with the blue sky background of the image
+- Style: Minimalist, modern, technological
+- Mood: Professional, trustworthy, refined

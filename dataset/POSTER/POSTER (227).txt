@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên sản phẩm "X5" bằng chữ in hoa màu trắng, kèm theo slogan "AI Joy. AI Right. AI Immerse." ở bên dưới. Góc trên bên phải có logo thương hiệu "Insta360" với tagline "Think bold."
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo chữ đơn giản, không có biểu tượng đồ họa đặc biệt
+- Kiểu chữ: Chữ sans-serif hiện đại, in hoa cho "X5", chữ thường cho slogan
+- Bảng màu: Chữ màu trắng trên nền gradient xanh dương
+- Nền: Gradient từ xanh tối đến xanh nhạt, có hiệu ứng ánh sáng mềm mại
+- Phong cách: Tối giản, hiện đại, công nghệ cao
+- Tông điệu: Chuyên nghiệp, đổi mới, tiên tiến
+
+---
+
+Visual Description:
+The logo displays the product name "X5" in white capital letters, accompanied by the slogan "AI Joy. AI Right. AI Immerse." below it. The upper right corner features the "Insta360" brand logo with the tagline "Think bold."
+
+Design Elements:
+- Shape: Simple text-based logo without special graphic symbols
+- Typography: Modern sans-serif font, uppercase for "X5", lowercase for slogan
+- Color Palette: White text on blue gradient background
+- Background: Gradient from dark blue to light blue with soft lighting effects
+- Style: Minimalist, modern, high-tech
+- Mood: Professional, innovative, advanced

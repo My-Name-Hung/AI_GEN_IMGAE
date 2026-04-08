@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng tròn với các biểu tượng khoa học và công nghệ được sắp xếp xung quanh văn bản trung tâm. Các icon bao gồm dấu thập y tế, DNA, robot, mạch điện, và nhiều ký hiệu khoa học khác được vẽ bằng đường nét trắng mảnh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục hình tròn với các icon xếp thành vòng
+- Kiểu chữ: Sans-serif đậm, chữ in hoa màu trắng
+- Bảng màu: Gradient tím đậm đến tím nhạt, icon và chữ màu trắng
+- Nền: Gradient tím từ đậm đến nhạt
+- Phong cách: Hiện đại, đơn giản, line art, công nghệ
+- Tông điệu: Chuyên nghiệp, khoa học, sáng tạo, học thuật
+
+---
+
+Visual Description:
+The logo features a circular design with science and technology icons arranged around central text. Icons include medical crosses, DNA helixes, robots, circuits, and various scientific symbols drawn in thin white lines.
+
+Design Elements:
+- Shape: Circular layout with icons arranged in a ring formation
+- Typography: Bold sans-serif, all caps in white
+- Color Palette: Purple gradient background with white icons and text
+- Background: Purple gradient from dark to light
+- Style: Modern, minimalist, line art, tech-focused
+- Mood: Professional, scientific, innovative, academic

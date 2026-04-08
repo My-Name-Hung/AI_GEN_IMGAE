@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng ở bên trái với các hình dạng góc cạnh màu xanh dương và hồng tím. Bên cạnh là chữ "meetsync" được viết bằng font chữ sans-serif hiện đại màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học trừu tượng kết hợp với typography ngang
+- Kiểu chữ: Sans-serif hiện đại, chữ thường, đậm vừa phải
+- Bảng màu: Xanh dương, hồng tím và đen
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, tech startup
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon on the left with angular shapes in blue and magenta colors. Next to it is the word "meetsync" written in modern black sans-serif typography.
+
+Design Elements:
+- Shape: Abstract geometric icon combined with horizontal typography
+- Typography: Modern sans-serif, lowercase, medium weight
+- Color Palette: Blue, magenta, and black
+- Background: White/transparent
+- Style: Modern, minimalist, tech startup
+- Mood: Professional, dynamic, innovative

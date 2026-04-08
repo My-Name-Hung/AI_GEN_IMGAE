@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng chữ nhật nằm ngang với một quả bóng rổ được đặt trong vòng tròn ở bên trái. Phần chữ "Thủ Lĩnh" được viết bằng màu vàng nổi bật trên nền đỏ, kèm theo dòng chữ "Đội bóng rổ" nhỏ hơn bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ nhật nằm ngang kết hợp với vòng tròn chứa biểu tượng bóng rổ
+- Kiểu chữ: Font chữ đậm, rõ ràng cho tên chính, font nhỏ hơn cho slogan
+- Bảng màu: Đỏ chủ đạo, vàng cho chữ, trắng cho biểu tượng bóng rổ
+- Nền: Màu đỏ đậm
+- Phong cách: Thể thao, hiện đại, mạnh mẽ
+- Tông điệu: Năng động, chuyên nghiệp, quyết tâm
+
+---
+
+Visual Description:
+The logo features a horizontal rectangular banner with a basketball icon enclosed in a circle on the left side. The text "Thủ Lĩnh" is prominently displayed in yellow against a red background, with smaller text "Đội bóng rổ" underneath.
+
+Design Elements:
+- Shape: Horizontal rectangle combined with circular element containing basketball icon
+- Typography: Bold, clear font for main title, smaller font for tagline
+- Color Palette: Dominant red, yellow text, white basketball icon
+- Background: Deep red
+- Style: Athletic, modern, bold
+- Mood: Dynamic, professional, determined

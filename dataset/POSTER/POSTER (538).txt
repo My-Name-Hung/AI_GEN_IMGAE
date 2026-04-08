@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo Prime Video được hiển thị ở phần trên với chữ "prime video" màu trắng và biểu tượng mũi tên cong đặc trưng. Đây là poster quảng cáo cho series "Tom Clancy's Jack Ryan" với hình ảnh nam diễn viên chính được đặt trong tên series bằng chữ lớn màu xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo văn bản đơn giản với biểu tượng mũi tên cong
+- Kiểu chữ: Chữ viết thường, phông chữ sans-serif hiện đại, đơn giản
+- Bảng màu: Trắng cho chữ và biểu tượng trên nền xanh dương
+- Nền: Nền gradient xanh dương của poster phim
+- Phong cách: Tối giản, hiện đại, thương mại
+- Tông điệu: Chuyên nghiệp, thân thiện, dễ tiếp cận
+
+---
+
+Visual Description:
+The Prime Video logo is displayed at the top with white "prime video" text and the characteristic curved arrow symbol. This is a promotional poster for "Tom Clancy's Jack Ryan" series with the main actor's image integrated within the large gray series title text.
+
+Design Elements:
+- Shape: Simple text-based logo with curved arrow symbol
+- Typography: Lowercase, modern sans-serif font, clean and simple
+- Color Palette: White text and symbol on blue background
+- Background: Blue gradient background of the movie poster
+- Style: Minimalist, modern, commercial
+- Mood: Professional, friendly, accessible

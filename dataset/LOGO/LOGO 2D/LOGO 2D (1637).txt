@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một ngọn lửa màu đỏ ở trung tâm với những đường cong uốn lượn tạo cảm giác chuyển động. Hai bên ngọn lửa là những hình vuông nhỏ màu đỏ được sắp xếp theo mẫu cờ vua, tạo thành đường viền trang trí. Phía dưới là dòng chữ "THE RUSTIC FURNACE" bằng font chữ in đậm màu đỏ, kèm theo dòng chữ nhỏ hơn "AUTHENTIC PIZZA BLAZING FLAVOR" màu cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ngọn lửa trung tâm với các khối vuông trang trí hai bên
+- Kiểu chữ: Font chữ in hoa đậm, hiện đại
+- Bảng màu: Đỏ chủ đạo, cam nhạt cho tagline
+- Nền: Trắng
+- Phong cách: Hiện đại, đơn giản, biểu tượng rõ ràng
+- Tông điệu: Năng lượng, ấm áp, thân thiện
+
+---
+
+Visual Description:
+The logo features a red flame icon in the center with curved, flowing lines suggesting movement and heat. On either side of the flame are small red squares arranged in a checkerboard pattern as decorative borders. Below is the text "THE RUSTIC FURNACE" in bold red lettering, accompanied by a smaller tagline "AUTHENTIC PIZZA BLAZING FLAVOR" in orange.
+
+Design Elements:
+- Shape: Central flame icon with decorative square borders
+- Typography: Bold, modern sans-serif uppercase font
+- Color Palette: Primary red with orange accent for tagline
+- Background: White
+- Style: Modern, clean, iconic symbolism
+- Mood: Energetic, warm, approachable

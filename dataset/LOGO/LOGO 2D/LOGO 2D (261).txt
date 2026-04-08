@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo Google Maps bao gồm một hình thoi được xoay 45 độ với các màu sắc rực rỡ và một biểu tượng định vị đỏ ở trung tâm. Phần dưới logo là dòng chữ "Google Maps" được viết bằng font chữ hiện đại, đơn giản.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình thoi xoay 45 độ với biểu tượng pin định vị tròn ở giữa
+- Kiểu chữ: Sans-serif hiện đại, mảnh, chữ thường cho "Google" và chữ hoa cho "Maps"
+- Bảng màu: Vàng, cam, đỏ, xanh lá cây, xanh dương và đen cho văn bản
+- Nền: Nền trắng trong suốt
+- Phong cách: Phẳng, hiện đại, tối giản, Material Design
+- Tông điệu: Thân thiện, đáng tin cậy, năng động
+
+---
+
+Visual Description:
+The Google Maps logo features a diamond shape rotated 45 degrees with vibrant colors and a red location pin icon in the center. Below the icon is the text "Google Maps" written in a clean, modern typeface.
+
+Design Elements:
+- Shape: Rotated diamond with circular location pin marker in center
+- Typography: Modern sans-serif, thin weight, lowercase "Google" and uppercase "Maps"
+- Color Palette: Yellow, orange, red, green, blue, and black for text
+- Background: White/transparent background
+- Style: Flat, modern, minimalist, Material Design
+- Mood: Friendly, trustworthy, dynamic

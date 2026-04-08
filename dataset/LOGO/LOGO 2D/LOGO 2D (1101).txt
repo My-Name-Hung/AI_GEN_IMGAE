@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình chữ X được cách điệu với các đường thẳng góc cạnh, tạo thành hình dạng hiện đại và mạnh mẽ. Bên dưới biểu tượng là tên thương hiệu "MAXIRAN" được viết bằng font chữ in hoa, sạch sẽ và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng chữ X cách điệu với các góc sắc nét, kết hợp với typography in hoa
+- Kiểu chữ: Font sans-serif in hoa, phong cách hiện đại và mạnh mẽ
+- Bảng màu: Trắng trên nền đen, tạo độ tương phản cao
+- Nền: Nền đen hoàn toàn
+- Phong cách: Tối giản, hiện đại, công nghệ, geometric
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, uy tín, sang trọng
+
+---
+
+Visual Description:
+The logo features a stylized "X" symbol with angular, sharp lines creating a modern and powerful geometric form. Below the icon is the brand name "MAXIRAN" written in clean, uppercase letters with contemporary typography.
+
+Design Elements:
+- Shape: Stylized X symbol with sharp angles, combined with uppercase typography
+- Typography: Sans-serif uppercase font, modern and bold style
+- Color Palette: White on black background, creating high contrast
+- Background: Solid black background
+- Style: Minimalist, modern, tech-oriented, geometric
+- Mood: Strong, professional, authoritative, sophisticated

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hai hình tròn chồng lên nhau tạo thành hình dáng giống số 8 hoặc biểu tượng vô cực. Chữ "XUÂN CHI" được đặt ở trung tâm với font chữ hiện đại, kèm theo dòng chữ nhỏ "Thiết kế Nhà &" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hai hình tròn giao nhau, tạo hình oval kép
+- Kiểu chữ: Font sans-serif hiện đại, in hoa cho tên chính
+- Bảng màu: Xanh navy đậm cho nền, xanh xám nhạt cho hình tròn, trắng cho chữ
+- Nền: Màu xanh navy đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sang trọng, tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features two overlapping circles that create a figure-eight or infinity-like shape. The text "XUÂN CHI" is centered within this geometric form using modern typography, with smaller text "Thiết kế Nhà &" below.
+
+Design Elements:
+- Shape: Two intersecting circles forming a double oval
+- Typography: Modern sans-serif font, uppercase for main name
+- Color Palette: Deep navy background, muted blue-gray circles, white text
+- Background: Solid deep navy blue
+- Style: Minimalist, modern, professional
+- Mood: Sophisticated, trustworthy, professional

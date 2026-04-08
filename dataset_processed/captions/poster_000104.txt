@@ -1,0 +1,1 @@
+poster_style, The banner for the event, với một photo của một street scene. title: the banner for the event, with a photo of a street scene

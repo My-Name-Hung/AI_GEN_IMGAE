@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một chuỗi các khối hộp gỗ màu nâu xếp chồng lên nhau theo đường chéo, tạo hiệu ứng như đang rơi hoặc bay lên. Phía trên cùng là một hình vẽ đường nét đơn giản mô tả bàn tay đang cầm hoặc thả những khối hộp này.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối hộp lập phương xếp chồng theo đường chéo kết hợp với hình vẽ tay phác thảo
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Màu nâu gỗ tự nhiên, đen cho đường vẽ tay, nền trắng
+- Nền: Nền trắng sạch với hiệu ứng đổ bóng nhẹ
+- Phong cách: Tối giản, hiện đại, kết hợp thực tế và phác thảo
+- Tông điệu: Sáng tạo, năng động, thủ công
+
+---
+
+Visual Description:
+The logo shows a series of brown wooden cube blocks stacked diagonally, creating a falling or floating effect. Above them is a simple line drawing of a hand that appears to be holding or releasing these blocks.
+
+Design Elements:
+- Shape: Cubic blocks arranged diagonally combined with sketched hand illustration
+- Typography: None (icon only)
+- Color Palette: Natural wood brown, black line art, white background
+- Background: Clean white background with subtle shadow effects
+- Style: Minimalist, modern, mixed media combining realistic and sketch elements
+- Mood: Creative, dynamic, handcrafted

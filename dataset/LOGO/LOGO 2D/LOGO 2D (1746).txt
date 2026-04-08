@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị bốn thanh 3D có hình dạng giống như gạch hoặc khối vuông được sắp xếp theo kiểu lệch tầng. Các thanh có màu cam và đỏ gradient, tạo thành một hình vuông tổng thể với khoảng trống ở giữa.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bốn khối 3D hình chữ nhật được xếp chồng lệch nhau
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient cam đến đỏ cam
+- Nền: Xanh navy đậm
+- Phong cách: Hiện đại, 3D, tối giản, geometric
+- Tông điệu: Năng động, chuyên nghiệp, công nghệ
+
+---
+
+Visual Description:
+The logo displays four 3D rectangular blocks or bars arranged in a staggered formation. The blocks feature an orange to red gradient coloring and form an overall square composition with negative space in the center.
+
+Design Elements:
+- Shape: Four 3D rectangular blocks arranged in offset pattern
+- Typography: None (icon only)
+- Color Palette: Orange to red gradient
+- Background: Dark navy blue
+- Style: Modern, 3D, minimalist, geometric
+- Mood: Dynamic, professional, tech-oriented

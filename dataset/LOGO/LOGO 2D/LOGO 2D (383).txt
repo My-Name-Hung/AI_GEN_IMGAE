@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng huy hiệu lục giác màu vàng với chữ "SHADE TREE" màu xanh lá cây đậm ở giữa. Có họa tiết chấm bi halftone và biểu tượng cây nhỏ trang trí bên phải chữ "TREE".
+
+Yếu tố Thiết kế:
+- Hình dạng: Huy hiệu lục giác có đường viền
+- Kiểu chữ: Font chữ in hoa sans-serif dày, có đường gạch ngang trang trí
+- Bảng màu: Vàng chủ đạo với xanh lá cây đậm
+- Nền: Trong suốt
+- Phong cách: Vintage, retro, thủ công
+- Tông điệu: Năng động, thân thiện, tự nhiên
+
+---
+
+Visual Description:
+The logo features a yellow hexagonal badge shape with "SHADE TREE" text in dark green. It includes halftone dot patterns and a small tree icon decorating the right side of "TREE".
+
+Design Elements:
+- Shape: Hexagonal badge with border outline
+- Typography: Bold sans-serif uppercase font with decorative underline
+- Color Palette: Dominant yellow with dark green accents
+- Background: Transparent
+- Style: Vintage, retro, handcrafted
+- Mood: Energetic, friendly, natural

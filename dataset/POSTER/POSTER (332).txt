@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một cây búa có đầu búa là tờ giấy CV/resume màu trắng với các đường kẻ đen. Tên thương hiệu "JOBTIKKA.com" được viết bằng chữ in hoa màu trắng với viền đen, tạo hiệu ứng nổi bật.
+
+Yếu tố Thiết kế:
+- Hình dạng: Cây búa với đầu búa là tờ giấy CV, thiết kế biểu tượng đơn giản
+- Kiểu chữ: Chữ sans-serif in hoa, bo tròn, có viền đen
+- Bảng màu: Xanh ngọc lam, trắng, đen
+- Nền: Xanh ngọc lam đồng nhất
+- Phong cách: Tối giản, hiện đại, biểu tượng sáng tạo
+- Tông điệu: Năng động, chuyên nghiệp, thân thiện
+
+---
+
+Visual Description:
+The logo features a hammer where the hammer head is replaced by a white resume/CV paper with black lines. The brand name "JOBTIKKA.com" is written in white uppercase letters with black outlines, creating a bold, standout effect.
+
+Design Elements:
+- Shape: Hammer with CV paper as hammer head, simple iconic design
+- Typography: Sans-serif uppercase, rounded, with black outlines
+- Color Palette: Teal blue, white, black
+- Background: Solid teal blue
+- Style: Minimalist, modern, creative symbolism
+- Mood: Dynamic, professional, approachable

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Kalaria" được đặt ở góc trên bên phải với kiểu chữ thanh lịch, hiện đại. Bên dưới tên thương hiệu có dòng chữ nhỏ "MADE BY THE COMPANY" làm tagline.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo dạng chữ đơn giản, không có biểu tượng đồ họa
+- Kiểu chữ: Sans-serif hiện đại, thanh mảnh, chữ hoa cho tên chính, chữ thường cho tagline
+- Bảng màu: Màu trắng trên nền trung tính
+- Nền: Nền màu be/nâu nhạt trung tính
+- Phong cách: Tối giản, hiện đại, cao cấp
+- Tông điệu: Chuyên nghiệp, sang trọng, tinh tế
+
+---
+
+Visual Description:
+The logo displays the brand name "Kalaria" positioned in the upper right corner with elegant, modern typography. Below the brand name is smaller text reading "MADE BY THE COMPANY" as a tagline.
+
+Design Elements:
+- Shape: Simple text-based logo without graphic symbols
+- Typography: Modern sans-serif, thin weight, uppercase for main name, lowercase for tagline
+- Color Palette: White text on neutral background
+- Background: Neutral beige/light brown tone
+- Style: Minimalist, modern, premium
+- Mood: Professional, sophisticated, refined

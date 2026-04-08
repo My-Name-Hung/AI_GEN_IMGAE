@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "MINECRAFT" được thiết kế với hiệu ứng 3D pixelated đặc trưng, được đặt trên một khối vuông màu trắng có góc bo tròn. Toàn bộ logo được thể hiện trong không gian 3D với ánh sáng và bóng đổ chân thực.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông 3D với góc bo tròn, chữ nổi có hiệu ứng chiều sâu
+- Kiểu chữ: Font chữ khối pixelated đậm đà, phong cách retro gaming
+- Bảng màu: Chữ xám đen trên nền trắng
+- Nền: Nền gradient màu be nhạt, có bóng đổ tự nhiên
+- Phong cách: 3D, pixel art, gaming, hiện đại
+- Tông điệu: Sạch sẽ, chuyên nghiệp, nostalgic
+
+---
+
+Visual Description:
+The logo displays the text "MINECRAFT" in a distinctive 3D pixelated design, positioned on a white rounded square block. The entire logo is rendered in 3D space with realistic lighting and shadows.
+
+Design Elements:
+- Shape: 3D rounded square block with raised dimensional text
+- Typography: Bold pixelated block font, retro gaming style
+- Color Palette: Dark gray text on white background
+- Background: Light beige gradient background with natural shadow
+- Style: 3D, pixel art, gaming, modern
+- Mood: Clean, professional, nostalgic

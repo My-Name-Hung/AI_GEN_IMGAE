@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng bên trái và văn bản "FlowAI" bên phải. Biểu tượng được tạo thành từ nhiều hình khối chồng lấp nhau tạo hiệu ứng 3D với các tông màu xanh lá, xanh lam và xanh ngọc.
+
+Yếu tố Thiết kế:
+- Hình dạng: Các khối hình học chồng lấp tạo hiệu ứng chiều sâu và chuyển động
+- Kiểu chữ: Sans-serif hiện đại, đơn giản, màu xám đen
+- Bảng màu: Gradient từ xanh lá sang xanh lam với các tông xanh ngọc
+- Nền: Trắng sạch
+- Phong cách: Hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo consists of an abstract geometric icon on the left and "FlowAI" text on the right. The icon is composed of multiple overlapping geometric shapes creating a 3D effect with shades of green, blue, and teal.
+
+Design Elements:
+- Shape: Overlapping geometric blocks creating depth and movement effect
+- Typography: Modern sans-serif, clean and simple, dark gray color
+- Color Palette: Gradient from green to blue with teal tones
+- Background: Clean white
+- Style: Modern, minimalist, tech-focused
+- Mood: Professional, innovative, dynamic

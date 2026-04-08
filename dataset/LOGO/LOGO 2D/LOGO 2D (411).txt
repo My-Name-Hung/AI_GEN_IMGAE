@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "Nature" được viết bằng phông chữ thảo nghiêng màu trắng, kết hợp với chữ "FOOD" màu xanh lá cây đậm. Phía bên phải có hình ảnh hai chiếc lá xanh tự nhiên tạo điểm nhấn sinh động cho thiết kế.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thảo có đường cong mềm mại kết hợp với lá cây
+- Kiểu chữ: Chữ thảo nghiêng cho "Nature", sans-serif đậm cho "FOOD"
+- Bảng màu: Trắng, xanh lá cây đậm và xanh lá cây nhạt
+- Nền: Trắng/trong suốt
+- Phong cách: Tự nhiên, thân thiện, hiện đại
+- Tông điệu: Tươi mới, khỏe mạnh, gần gũi
+
+---
+
+Visual Description:
+The logo displays "Nature" written in white cursive script, combined with "FOOD" in dark green. Two green leaves are positioned on the right side, adding a natural and vibrant accent to the design.
+
+Design Elements:
+- Shape: Curved script lettering combined with leaf elements
+- Typography: Cursive script for "Nature", bold sans-serif for "FOOD"
+- Color Palette: White, dark green, and light green
+- Background: White/transparent
+- Style: Natural, friendly, modern
+- Mood: Fresh, healthy, approachable

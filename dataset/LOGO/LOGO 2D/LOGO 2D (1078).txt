@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "P" được cách điệu với hiệu ứng chuyển màu từ cam sang tím, kết hợp với các khối pixel nhỏ màu cam tạo cảm giác chuyển động. Dưới biểu tượng là dòng chữ "PROACTIVE" và "SZKOŁA JAZDY" được viết bằng font sans-serif màu trắng trên nền xanh đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ P cách điệu với hiệu ứng pixel hóa và chuyển động
+- Kiểu chữ: Sans-serif hiện đại, đậm, chữ hoa
+- Bảng màu: Gradient cam đến tím, trắng, nền xanh navy
+- Nền: Xanh navy đậm
+- Phong cách: Hiện đại, công nghệ, động học
+- Tông điệu: Năng động, chuyên nghiệp, sáng tạo
+
+---
+
+Visual Description:
+The logo features a stylized letter "P" with a gradient effect transitioning from orange to purple, combined with small orange pixel blocks creating a sense of movement. Below the symbol is the text "PROACTIVE" and "SZKOŁA JAZDY" written in white sans-serif font on a dark blue background.
+
+Design Elements:
+- Shape: Stylized P with pixelated and motion effects
+- Typography: Modern sans-serif, bold, uppercase
+- Color Palette: Orange to purple gradient, white, navy blue background
+- Background: Dark navy blue
+- Style: Modern, technological, kinetic
+- Mood: Dynamic, professional, innovative

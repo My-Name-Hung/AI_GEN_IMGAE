@@ -1,0 +1,1 @@
+poster_style, Một áp phích for một restaurant với một variety của dishes. title: a poster for a restaurant with a variety of dishes

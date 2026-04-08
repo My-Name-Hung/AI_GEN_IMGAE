@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng hình học trừu tượng màu vàng với các hình dạng góc cạnh và hình tròn, tạo thành một ký hiệu giống như ngôi nhà hoặc tòa nhà cách điệu. Bên dưới là dòng chữ "IMMO UNIT" viết bằng font sans-serif màu trắng, nổi bật trên nền xanh đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học trừu tượng với các khối vuông, hình tròn tạo thành cấu trúc giống tòa nhà
+- Kiểu chữ: Font sans-serif đơn giản, chữ in hoa, khoảng cách đều
+- Bảng màu: Vàng cam gradient, trắng, xanh navy đậm
+- Nền: Xanh navy đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Chuyên nghiệp, uy tín, năng động
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon in golden yellow with angular shapes and circles that form a stylized house or building symbol. Below it is the text "IMMO UNIT" in white sans-serif typography, standing out against a deep blue background.
+
+Design Elements:
+- Shape: Abstract geometric icon with squares and circles forming a building-like structure
+- Typography: Clean sans-serif, uppercase, evenly spaced
+- Color Palette: Golden yellow gradient, white, deep navy blue
+- Background: Solid deep navy blue
+- Style: Modern, minimalist, geometric
+- Mood: Professional, trustworthy, dynamic

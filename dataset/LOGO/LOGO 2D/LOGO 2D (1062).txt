@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "xgene" màu trắng được đặt bên dưới một biểu tượng hình chữ X stylized với gradient màu tím và xanh lam. Toàn bộ logo được đặt trong một vòng tròn tối màu trên nền xanh đậm với các hình học trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng chữ X cách điệu với các đường cong mềm mại, bố cục tròn
+- Kiểu chữ: Sans-serif hiện đại, chữ thường, font sạch sẽ
+- Bảng màu: Gradient tím-xanh lam cho icon, chữ trắng, nền xanh navy
+- Nền: Xanh navy đậm với các yếu tố hình học trang trí
+- Phong cách: Hiện đại, tối giản, công nghệ, gradient
+- Tông điệu: Chuyên nghiệp, sáng tạo, công nghệ cao
+
+---
+
+Visual Description:
+The logo displays "xgene" in white text positioned below a stylized X symbol featuring a purple-to-blue gradient. The entire logo is contained within a dark circular background set against a deep blue backdrop with decorative geometric elements.
+
+Design Elements:
+- Shape: Stylized X icon with smooth curves, circular layout
+- Typography: Modern sans-serif, lowercase, clean font
+- Color Palette: Purple-to-blue gradient for icon, white text, navy background
+- Background: Deep navy blue with decorative geometric elements
+- Style: Modern, minimalist, tech-oriented, gradient
+- Mood: Professional, innovative, high-tech

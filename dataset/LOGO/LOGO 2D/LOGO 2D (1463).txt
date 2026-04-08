@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ba hình khối lục giác được sắp xếp theo một cách thức chồng lấp nhau, tạo thành một cấu trúc 3D. Các khối có màu hồng pastel, trắng và xanh cyan, được đặt trên nền xanh dương gradient.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình lục giác 3D được sắp xếp theo kiểu isometric
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Hồng pastel, trắng, xanh cyan trên nền xanh dương gradient
+- Nền: Gradient xanh dương từ sáng đến đậm
+- Phong cách: Thiết kế 3D isometric, hiện đại, tối giản
+- Tông điệu: Sáng tạo, công nghệ, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo displays three hexagonal blocks arranged in an overlapping manner, creating a 3D structure. The blocks feature pastel pink, white, and cyan colors, set against a blue gradient background.
+
+Design Elements:
+- Shape: Three 3D hexagons arranged in isometric style
+- Typography: None (icon only)
+- Color Palette: Pastel pink, white, cyan on blue gradient background
+- Background: Blue gradient from light to dark
+- Style: 3D isometric design, modern, minimalist
+- Mood: Creative, tech-forward, professional, dynamic

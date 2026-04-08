@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm dòng chữ "Giao Hàng Siêu Tốc" được hiển thị bằng font chữ sans-serif màu trắng trên nền xanh dương đậm. Bên dưới có dòng slogan nhỏ hơn "CHÚNG TÔI GIAO ĐẾN MỌI NƠI" cùng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối chữ nhật vuông với văn bản được căn giữa
+- Kiểu chữ: Sans-serif hiện đại, đậm, dễ đọc với kích thước phân cấp rõ ràng
+- Bảng màu: Xanh dương đậm và trắng
+- Nền: Xanh dương đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Tin cậy, nhanh chóng, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features the text "Giao Hàng Siêu Tốc" displayed in white sans-serif font on a solid blue background. Below it is a smaller tagline "CHÚNG TÔI GIAO ĐẾN MỌI NƠI" in the same white color.
+
+Design Elements:
+- Shape: Square rectangular block with centered text arrangement
+- Typography: Modern, bold sans-serif with clear hierarchy between main text and tagline
+- Color Palette: Deep blue and white
+- Background: Solid deep blue
+- Style: Minimalist, modern, professional
+- Mood: Trustworthy, fast, professional

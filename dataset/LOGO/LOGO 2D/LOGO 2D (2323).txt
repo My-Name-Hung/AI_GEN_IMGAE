@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng hình tròn với các dải màu xoắn ốc tạo thành hình dạng động năng. Phần chữ "sơn vân" được đặt bên dưới với font chữ hiện đại, kèm theo dòng chữ nhỏ "NHA KHOA" ở cuối.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn xoắn ốc với các dải cong mềm mại
+- Kiểu chữ: Chữ thường hiện đại, đơn giản và dễ đọc
+- Bảng màu: Xanh dương, cam, xám tím gradient
+- Nền: Trắng sạch
+- Phong cách: Tối giản, hiện đại, gradient mềm mại
+- Tông điệu: Chuyên nghiệp, thân thiện, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features a circular swirl icon with flowing curved bands creating a dynamic spiral shape. Below it, the text "sơn vân" appears in lowercase modern font, followed by smaller text "NHA KHOA" at the bottom.
+
+Design Elements:
+- Shape: Circular swirl with smooth flowing curved bands
+- Typography: Modern lowercase sans-serif, clean and readable
+- Color Palette: Blue, orange, purple-gray gradient
+- Background: Clean white
+- Style: Minimalist, contemporary, soft gradient
+- Mood: Professional, friendly, trustworthy

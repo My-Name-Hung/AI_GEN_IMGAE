@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "ATX" được thiết kế bằng các khối hình học màu vàng neon trên nền xanh dương đậm. Bên dưới có dòng chữ "MEDIKITS" nhỏ màu trắng, tạo thành một thiết kế logo hiện đại và nổi bật.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái khối hình học, góc cạnh, kiểu dáng công nghiệp
+- Kiểu chữ: Sans-serif đậm cho "ATX", chữ nhỏ đơn giản cho "MEDIKITS"
+- Bảng màu: Vàng neon, xanh dương đậm, trắng
+- Nền: Xanh dương đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, công nghiệp
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo features "ATX" in bold yellow geometric lettering against a deep blue background. Below is smaller white text reading "MEDIKITS", creating a modern and striking logo design.
+
+Design Elements:
+- Shape: Geometric block letters, angular, industrial styling
+- Typography: Bold sans-serif for "ATX", simple smaller text for "MEDIKITS"
+- Color Palette: Neon yellow, deep blue, white
+- Background: Solid deep blue
+- Style: Modern, minimalist, industrial
+- Mood: Bold, professional, dynamic

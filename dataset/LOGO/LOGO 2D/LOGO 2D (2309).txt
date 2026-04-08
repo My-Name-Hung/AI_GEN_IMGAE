@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "MINH + MAI" bằng chữ in hoa màu đen đậm, được đặt trên nền có các hình khối hình học mềm mại. Phía dưới có dòng slogan "GIÀY DA THUẦN CHAY THÚ CỘNG" bằng chữ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Các khối hình học trừu tượng, mềm mại với góc cạnh bo tròn
+- Kiểu chữ: Font chữ sans-serif đậm, hiện đại cho tên thương hiệu và font nhỏ hơn cho slogan
+- Bảng màu: Màu hồng pastel, vàng nhạt và đen trên nền be/kem
+- Nền: Màu be/kem nhạt
+- Phong cách: Hiện đại, tối giản, thân thiện
+- Tông điệu: Ấm áp, gần gũi, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the brand name "MINH + MAI" in bold black uppercase letters, positioned over soft geometric shapes in the background. Below is the tagline "GIÀY DA THUẦN CHAY THÚ CỘNG" in smaller text.
+
+Design Elements:
+- Shape: Abstract geometric blocks with soft, rounded edges
+- Typography: Bold sans-serif font for brand name and smaller font for tagline
+- Color Palette: Pastel pink, light yellow, and black on cream/beige background
+- Background: Light cream/beige
+- Style: Modern, minimalist, friendly
+- Mood: Warm, approachable, professional

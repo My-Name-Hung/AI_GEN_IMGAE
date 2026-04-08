@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm ba hình chữ nhật màu tím đậm được sắp xếp theo dạng kim tự tháp ngược, với hình chữ nhật lớn nhất ở trên và hai hình nhỏ hơn ở dưới. Bên dưới là dòng chữ "MIÊN MIÊN" bằng font chữ đậm màu đen và dòng chữ nhỏ hơn "nhà hàng nghệ thuật" màu xám.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình chữ nhật xếp chồng tạo thành cấu trúc hình học
+- Kiểu chữ: Font sans-serif đậm cho tên thương hiệu, font mảnh hơn cho slogan
+- Bảng màu: Tím đậm, đen và xám
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Chuyên nghiệp, tinh tế, sang trọng
+
+---
+
+Visual Description:
+The logo features three deep purple rectangles arranged in an inverted pyramid formation, with the largest rectangle at the top and two smaller ones below. Below this geometric element is the text "MIÊN MIÊN" in bold black letters followed by a smaller gray tagline "nhà hàng nghệ thuật".
+
+Design Elements:
+- Shape: Three stacked rectangles forming a geometric structure
+- Typography: Bold sans-serif for brand name, thinner font for tagline
+- Color Palette: Deep purple, black, and gray
+- Background: Clean white background
+- Style: Minimalist, modern, geometric
+- Mood: Professional, sophisticated, elegant

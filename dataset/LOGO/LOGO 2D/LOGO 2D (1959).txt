@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "tổ sách" bằng font chữ đơn giản, màu trắng trên nền xanh lá cây. Bên dưới có dòng slogan nhỏ "Dịch vụ vệ sinh chuyên nghiệp" cùng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thường đơn giản với dấu sắc trên chữ "ổ"
+- Kiểu chữ: Sans-serif đơn giản, hiện đại, dễ đọc
+- Bảng màu: Trắng trên nền xanh lá cây
+- Nền: Xanh lá cây đậm, đồng nhất
+- Phong cách: Tối giản, hiện đại, sạch sẽ
+- Tông điệu: Thân thiện, tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays "tổ sách" in simple white typography on a green background. Below it features a smaller tagline "Dịch vụ vệ sinh chuyên nghiệp" in the same white color.
+
+Design Elements:
+- Shape: Simple lowercase text with Vietnamese accent mark on "ổ"
+- Typography: Clean sans-serif font, modern and legible
+- Color Palette: White text on green background
+- Background: Solid deep green
+- Style: Minimalist, modern, clean
+- Mood: Friendly, trustworthy, professional

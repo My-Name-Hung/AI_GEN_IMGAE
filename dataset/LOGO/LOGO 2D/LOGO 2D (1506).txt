@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một con chim cách điệu được vẽ bằng các đường nét đơn giản và mềm mại. Chú chim có đầu màu cam/đỏ cam nổi bật và thân hình được tạo thành từ các đường cong mượt mà tạo thành hình dạng bay bổng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chim cách điệu với các đường cong mềm mại, tối giản
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Nâu đậm cho viền và màu cam/đỏ cam cho đầu chim
+- Nền: Màu hồng phấn nhạt
+- Phong cách: Tối giản, line art, hiện đại
+- Tông điệu: Ấm áp, thân thiện, tự nhiên
+
+---
+
+Visual Description:
+The logo depicts a stylized bird rendered in simple, flowing line art. The bird features a prominent orange/coral-colored head and a body formed by smooth, curved lines that create a sense of flight and movement.
+
+Design Elements:
+- Shape: Stylized bird with soft curves, minimalist design
+- Typography: None (icon only)
+- Color Palette: Dark brown for outlines and orange/coral for bird's head
+- Background: Light pink/cream
+- Style: Minimalist, line art, modern
+- Mood: Warm, friendly, natural

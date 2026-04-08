@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "What Sales Today" bằng font chữ trắng đậm trên nền xanh dương. Có hình ảnh chiếc áo thun trắng ở góc dưới bên phải cùng với giá "$11,67" và hai biểu tượng hình bông hoa màu đỏ trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái khối vuông, hình áo thun và biểu tượng hoa tròn
+- Kiểu chữ: Sans-serif đậm, dễ đọc
+- Bảng màu: Xanh dương chủ đạo, trắng và đỏ điểm nhấn
+- Nền: Xanh dương đồng nhất
+- Phong cách: Hiện đại, thương mại, quảng cáo
+- Tông điệu: Năng động, thu hút, bán hàng
+
+---
+
+Visual Description:
+The logo displays "What Sales Today" in bold white text on a blue background. There's a white t-shirt image in the lower right corner with the price "$11,67" and two red flower-shaped decorative elements.
+
+Design Elements:
+- Shape: Bold block letters, t-shirt silhouette, and circular flower icons
+- Typography: Bold sans-serif, highly readable
+- Color Palette: Dominant blue with white and red accents
+- Background: Solid blue
+- Style: Modern, commercial, promotional
+- Mood: Dynamic, eye-catching, sales-oriented

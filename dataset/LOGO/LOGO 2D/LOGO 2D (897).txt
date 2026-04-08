@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm ba hình dạng hữu cơ được sắp xếp theo hình tam giác, mỗi hình chứa các đường cong xoắn ốc phức tạp bên trong. Các hình dạng này tạo ra hiệu ứng thị giác giống như hoa hồng cách điệu hoặc mắt với các lớp xoắn ốc đồng tâm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba hình khối hữu cơ với đường viền cong, sắp xếp thành tam giác
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trắng (đơn sắc)
+- Nền: Nền trắng/trong suốt
+- Phong cách: Tối giản, hữu cơ, xoắn ốc, cách điệu
+- Tông điệu: Tinh tế, bí ẩn, sang trọng, nghệ thuật
+
+---
+
+Visual Description:
+The logo consists of three organic shapes arranged in a triangular formation, each containing intricate spiral curves within. These shapes create a visual effect resembling stylized roses or eyes with concentric swirling layers.
+
+Design Elements:
+- Shape: Three organic forms with curved outlines arranged in triangular composition
+- Typography: None (icon only)
+- Color Palette: Black and white (monochrome)
+- Background: White/transparent background
+- Style: Minimalist, organic, spiral, stylized
+- Mood: Sophisticated, mysterious, elegant, artistic

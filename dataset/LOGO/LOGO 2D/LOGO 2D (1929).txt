@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng bán nguyệt với viền đen bao quanh, bên trong là hình silhouette người múa ballet đang thực hiện tư thế grand écart. Phần dưới logo có một thanh ngang màu đen chứa dòng text phụ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình bán nguyệt/cung tròn với viền đen
+- Kiểu chữ: Font chữ in hoa cong theo đường viền và font chữ nhỏ thẳng ở dưới
+- Bảng màu: Đen trắng (monochrome)
+- Nền: Nền trắng với thanh đen ở dưới
+- Phong cách: Minimalist, classic, biểu tượng
+- Tông điệu: Chuyên nghiệp, nghệ thuật, thanh lịch
+
+---
+
+Visual Description:
+The logo features a semicircular design with a black border, containing a silhouette of a ballet dancer performing a grand écart (split) pose in the center. The bottom portion has a black horizontal bar with supplementary text.
+
+Design Elements:
+- Shape: Semicircle/arch shape with black border
+- Typography: Curved uppercase font following the border and smaller straight font at bottom
+- Color Palette: Black and white (monochrome)
+- Background: White background with black bar at bottom
+- Style: Minimalist, classic, emblematic
+- Mood: Professional, artistic, elegant

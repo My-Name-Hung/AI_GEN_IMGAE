@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một khối hình vuông màu trắng ba chiều với góc cạnh bo tròn, được đặt nghiêng trên nền đỏ tươi. Bên trong khối trắng có một nhãn đỏ với chữ "Frito Lay" màu trắng và một điểm nhấn màu vàng ở góc trên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông 3D bo góc, nhãn hình chữ nhật cong
+- Kiểu chữ: Sans-serif hiện đại, in hoa, dễ đọc
+- Bảng màu: Đỏ chủ đạo, trắng, vàng
+- Nền: Đỏ tươi đồng nhất
+- Phong cách: Ba chiều, hiện đại, năng động
+- Tông điệu: Năng lượng, thân thiện, thu hút
+
+---
+
+Visual Description:
+The logo displays a three-dimensional white square block with rounded corners, positioned at an angle on a bright red background. Inside the white block is a red label featuring "Frito Lay" in white text with a yellow accent element in the upper corner.
+
+Design Elements:
+- Shape: 3D rounded square block, curved rectangular label
+- Typography: Modern sans-serif, uppercase, readable
+- Color Palette: Primary red, white, yellow
+- Background: Solid bright red
+- Style: Three-dimensional, modern, dynamic
+- Mood: Energetic, friendly, appealing

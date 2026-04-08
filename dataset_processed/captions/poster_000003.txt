@@ -1,0 +1,3 @@
+poster_style, Poster tạp chí thời trang với bố cục trung tâm, nhân vật nữ mặc trang phục truyền thống đứng chính giữa. Nền màu đỏ đậm kết hợp với màu sắc trang phục tạo điểm nhấn văn hóa. Typography lớn ở phần trên (tên tạp chí) và phần dưới (tiêu đề bài viết), sử dụng font serif mang phong cách sang trọng. Ánh sáng mềm, tập trung vào khuôn mặt và trang phục. fashion magazine cover poster, traditional costume woman center
+composition, red background, elegant serif typography, cultural style,
+soft lighting, high detail, editorial design. title: a poster for the vietnam tourism festival

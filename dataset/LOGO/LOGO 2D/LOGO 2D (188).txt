@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình vuông được xoay thành hình thoi với các góc bo tròn, bên trong có một mũi tên chỉ sang phải. Thiết kế có cảm giác như một khung hình hoặc biểu tượng định hướng với các lớp hình học chồng lên nhau.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông xoay 45 độ với các góc cắt bo tròn, chứa mũi tên đơn giản
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Màu nâu đậm đơn sắc
+- Nền: Nền trắng/trong suốt
+- Phong cách: Minimalist, hình học, hiện đại
+- Tông điệu: Chuyên nghiệp, ổn định, tin cậy
+
+---
+
+Visual Description:
+The logo features a rotated square forming a diamond shape with rounded corner cuts, containing a rightward-pointing arrow inside. The design has a layered geometric appearance that resembles a frame or directional symbol with overlapping geometric elements.
+
+Design Elements:
+- Shape: 45-degree rotated square with rounded corner cuts containing a simple arrow
+- Typography: None (icon only)
+- Color Palette: Monochromatic dark brown
+- Background: White/transparent
+- Style: Minimalist, geometric, modern
+- Mood: Professional, stable, trustworthy

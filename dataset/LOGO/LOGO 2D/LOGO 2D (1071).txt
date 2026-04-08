@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ cái "y" được thiết kế với gradient màu sắc rực rở từ cam đến tím. Phần trên của chữ "y" có hình dạng răng cưa tạo hiệu ứng như vương miện hoặc đỉnh núi, kèm theo ba chấm tròn nhỏ màu trắng ở bên phải.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái "y" với đỉnh răng cưa và ba chấm tròn
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ cam đến hồng, tím và tím đậm
+- Nền: Màu hồng nhạt/tím nhạt
+- Phong cách: Hiện đại, gradient, tối giản
+- Tông điệu: Năng động, sáng tạo, trẻ trung
+
+---
+
+Visual Description:
+The logo displays a stylized letter "y" designed with a vibrant gradient from orange to purple. The top portion of the "y" features a crown-like or mountain peak serrated edge, accompanied by three small white dots on the right side.
+
+Design Elements:
+- Shape: Letter "y" with serrated crown top and three circular dots
+- Typography: None (icon only)
+- Color Palette: Gradient from orange to pink, purple and deep purple
+- Background: Light pink/lavender
+- Style: Modern, gradient, minimalist
+- Mood: Dynamic, creative, youthful

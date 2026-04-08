@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng nút play hình tròn màu trắng với mũi tên xanh lá cây ở trung tâm, đặt trên nền xanh ngọc lam. Bên dưới là dòng chữ "AN PHƯƠNG" viết bằng font chữ in hoa màu trắng, kèm theo dòng phụ "TRÌNH BIẾN TẬP VIDEO" nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng play tròn với mũi tên tam giác
+- Kiểu chữ: Font sans-serif in hoa, đậm và rõ ràng
+- Bảng màu: Xanh ngọc lam, trắng, xanh lá cây
+- Nền: Gradient xanh ngọc lam đồng nhất
+- Phong cách: Tối giản, hiện đại, kỹ thuật số
+- Tông điệu: Chuyên nghiệp, sáng tạo, năng động
+
+---
+
+Visual Description:
+The logo features a white circular play button icon with a green arrow in the center, set against a turquoise background. Below it is the text "AN PHƯƠNG" in white capital letters, followed by smaller subtitle text "TRÌNH BIẾN TẬP VIDEO."
+
+Design Elements:
+- Shape: Circular play button with triangular arrow
+- Typography: Bold, clean sans-serif uppercase font
+- Color Palette: Turquoise, white, green
+- Background: Solid turquoise gradient
+- Style: Minimalist, modern, digital
+- Mood: Professional, creative, dynamic

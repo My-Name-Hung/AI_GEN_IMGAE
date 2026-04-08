@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình khối 3D có màu tím gradient với điểm nhấn cam/vàng ở góc trên. Bên cạnh là tên công ty "Công ty Cổ phần Đầu tư An Nam" được viết bằng chữ trắng, kèm theo dòng slogan nhỏ bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối hộp 3D isometric với hiệu ứng gradient
+- Kiểu chữ: Sans-serif hiện đại, đậm, màu trắng
+- Bảng màu: Tím đậm, cam/vàng, trắng
+- Nền: Tím đậm đồng nhất
+- Phong cách: Hiện đại, công nghệ, tối giản, 3D
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, sáng tạo
+
+---
+
+Visual Description:
+The logo features a 3D isometric cube icon with purple gradient coloring and an orange/yellow accent on the top corner. Next to it is the company name "Công ty Cổ phần Đầu tư An Nam" written in white text, with a smaller tagline below.
+
+Design Elements:
+- Shape: 3D isometric cube with gradient effect
+- Typography: Modern sans-serif, bold, white color
+- Color Palette: Deep purple, orange/yellow, white
+- Background: Solid deep purple
+- Style: Modern, tech-inspired, minimalist, 3D
+- Mood: Professional, trustworthy, innovative

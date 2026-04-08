@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình quạt hoặc cánh hoa stylized bằng các tông màu cam và vàng ở bên trái. Bên phải là dòng chữ "Ghi Chú Nhiều" màu trắng với slogan "LÀM NỀN THEO YÊU CẦU CỦA BẠN" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình quạt/cánh hoa với các lớp gradient, chữ sans-serif hiện đại
+- Kiểu chữ: Font sans-serif đậm, dễ đọc cho tên chính, font nhỏ hơn cho slogan
+- Bảng màu: Gradient cam-vàng cho icon, chữ trắng, nền tím đậm
+- Nền: Nền tím gradient đậm
+- Phong cách: Hiện đại, tối giản, gradient mượt mà
+- Tông điệu: Chuyên nghiệp, năng động, sáng tạo
+
+---
+
+Visual Description:
+The logo features a stylized fan or petal-shaped icon in orange and yellow gradients on the left side. To the right is white text reading "Ghi Chú Nhiều" with the tagline "LÀM NỀN THEO YÊU CẦU CỦA BẠN" below.
+
+Design Elements:
+- Shape: Fan/petal-shaped icon with gradient layers, modern sans-serif text
+- Typography: Bold, readable sans-serif font for main text, smaller font for tagline
+- Color Palette: Orange-yellow gradient for icon, white text, deep purple background
+- Background: Deep purple gradient background
+- Style: Modern, minimalist, smooth gradients
+- Mood: Professional, dynamic, creative

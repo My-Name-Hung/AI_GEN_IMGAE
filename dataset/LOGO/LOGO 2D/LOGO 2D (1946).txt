@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một biểu tượng hình ngôi sao bốn cánh được stylized với các đường cong mềm mại và cấu trúc đối xứng. Phía dưới là tên thương hiệu "SIKIO" được viết bằng chữ in hoa đậm, kèm theo dòng chữ "MOTEL" nhỏ hơn bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng ngôi sao bốn cánh với đường viền cong mềm mại
+- Kiểu chữ: Sans-serif đậm, chữ in hoa cho tên chính, chữ nhỏ cho "MOTEL"
+- Bảng màu: Màu nâu đậm (chocolate/espresso)
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Sang trọng, ấm áp, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a stylized four-pointed star symbol with curved, flowing lines creating a symmetrical diamond-like pattern. Below the icon is the brand name "SIKIO" in bold capital letters, with "MOTEL" in smaller text underneath.
+
+Design Elements:
+- Shape: Four-pointed star with curved, flowing outline
+- Typography: Bold sans-serif capitals for main text, smaller text for "MOTEL"
+- Color Palette: Dark brown (chocolate/espresso)
+- Background: Clean white background
+- Style: Minimalist, modern, elegant
+- Mood: Luxurious, warm, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một con ngựa được cách điệu bằng các hình khối hình học với màu sắc rực rỡ. Con ngựa được tạo thành từ các hình tròn, hình bán nguyệt và hình khối màu đỏ, cam, vàng đặt trên nền vàng nhạt với mặt trời đỏ phía trên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình học trừu tượng, các khối tròn và cong tạo hình ngựa
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đỏ, cam, vàng, vàng nhạt
+- Nền: Nền vàng nhạt với vòng cung vàng ở dưới
+- Phong cách: Tối giản, hình học, hiện đại, phẳng
+- Tông điệu: Năng động, vui tươi, ấm áp, sáng tạo
+
+---
+
+Visual Description:
+The logo depicts a stylized horse composed of geometric shapes in vibrant colors. The horse is formed by circles, semicircles, and geometric blocks in red, orange, and yellow set against a light yellow background with a red sun above.
+
+Design Elements:
+- Shape: Abstract geometric forms, circular and curved blocks forming a horse
+- Typography: None (icon only)
+- Color Palette: Red, orange, yellow, light yellow
+- Background: Light yellow background with yellow arc at bottom
+- Style: Minimalist, geometric, modern, flat design
+- Mood: Dynamic, cheerful, warm, creative

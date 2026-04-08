@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng trắng trên nền tím gradient. Biểu tượng có hình dạng đối xứng với một ngôi sao kim cương ở trên cùng và hai đường cong uốn lượn ở hai bên, tạo thành hình ảnh giống như một cái cúp hoặc chiếc chén.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng đối xứng với ngôi sao 4 cánh, đường cong uốn lượn và thanh thẳng đứng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng cho biểu tượng, gradient tím xanh cho nền
+- Nền: Gradient tím từ đậm đến nhạt
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Thanh lịch, chuyên nghiệp, sang trọng
+
+---
+
+Visual Description:
+The logo displays a white symbol on a purple gradient background. The symbol has a symmetrical design featuring a diamond-shaped star at the top and curved flowing lines on both sides, creating an image resembling a trophy or chalice.
+
+Design Elements:
+- Shape: Symmetrical icon with 4-pointed star, curved flowing lines and vertical stem
+- Typography: None (icon only)
+- Color Palette: White for the symbol, purple-blue gradient for background
+- Background: Purple gradient from dark to light
+- Style: Minimalist, modern, geometric
+- Mood: Elegant, professional, premium

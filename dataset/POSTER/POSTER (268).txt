@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "CYBER MONDAY" với phông chữ in đậm màu vàng và trắng trên nền gradient xanh dương. Có các hình khối vuông màu vàng trang trí xung quanh và dòng chữ "50% DISCOUNT" ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ in hoa khối vuông, các hình trang trí hình vuông
+- Kiểu chữ: Phông chữ sans-serif in đậm, hiện đại
+- Bảng màu: Vàng, trắng, xanh dương gradient
+- Nền: Gradient xanh dương từ đậm đến nhạt
+- Phong cách: Hiện đại, táo bạo, thương mại điện tử
+- Tông điệu: Năng động, hấp dẫn, khuyến mãi
+
+---
+
+Visual Description:
+The logo displays "CYBER MONDAY" text in bold yellow and white lettering on a blue gradient background. Decorative yellow square elements are scattered around the text, with "50% DISCOUNT" featured below the main text.
+
+Design Elements:
+- Shape: Bold uppercase block letters, decorative square elements
+- Typography: Bold sans-serif font, modern
+- Color Palette: Yellow, white, blue gradient
+- Background: Blue gradient from dark to light
+- Style: Modern, bold, e-commerce
+- Mood: Dynamic, attractive, promotional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị số "8" được thiết kế theo phong cách hiện đại với các lớp gradient màu sắc rực rỡ. Bên trong mỗi vòng tròn của số 8 có các bánh răng nhỏ màu trắng, tạo cảm giác như một cơ chế hoạt động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Số 8 bo tròn với các bánh răng tích hợp
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient từ tím, hồng đến cam và xanh dương
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, gradient, kỹ thuật số
+- Tông điệu: Năng động, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo displays the number "8" designed in a modern style with vibrant gradient color layers. Inside each circular loop of the 8, there are small white gear elements that create the impression of a working mechanism.
+
+Design Elements:
+- Shape: Rounded figure-8 with integrated gears
+- Typography: None (icon only)
+- Color Palette: Gradient from purple, pink to orange and blue
+- Background: White/transparent
+- Style: Modern, gradient, digital
+- Mood: Dynamic, creative, technological

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "LOOK" với hai chữ "O" được thay thế bằng hình ảnh ống nhòm stylized. Ống nhòm có màu đen với hai ống tròn tạo thành phần lens và một dây đeo cong ở giữa.
+
+Yếu tố Thiết kế:
+- Hình dạng: Typography kết hợp với biểu tượng ống nhòm
+- Kiểu chữ: Sans-serif đơn giản, in hoa
+- Bảng màu: Đen trắng (monochrome)
+- Nền: Trắng/trong suốt
+- Phong cách: Tối giản, hiện đại, khéo léo
+- Tông điệu: Thông minh, sáng tạo, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the word "LOOK" with the two O's cleverly replaced by a stylized binoculars icon. The binoculars are rendered in black with two circular lenses and a curved strap connecting them in the middle.
+
+Design Elements:
+- Shape: Typographic wordmark integrated with binoculars symbol
+- Typography: Simple sans-serif, uppercase letters
+- Color Palette: Black and white (monochrome)
+- Background: White/transparent
+- Style: Minimalist, modern, clever visual wordplay
+- Mood: Smart, creative, professional

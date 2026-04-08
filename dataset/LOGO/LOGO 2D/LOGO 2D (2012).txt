@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng xương chó màu nâu đậm được đặt ở trung tâm phía trên. Bên dưới là tên thương hiệu "THÚ CƯNG SÀI GÒN" bằng chữ in hoa màu trắng, kèm theo dòng chữ nhỏ hơn "CỬA HÀNG THÚ NUÔI".
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon xương chó đơn giản, chữ viết thẳng hàng
+- Kiểu chữ: Sans-serif đậm, in hoa, rõ ràng dễ đọc
+- Bảng màu: Cam/đỏ cam chủ đạo, nâu đậm cho icon, trắng cho chữ
+- Nền: Màu cam/đỏ cam đồng nhất
+- Phong cách: Tối giản, hiện đại, thân thiện
+- Tông điệu: Ấm áp, vui tươi, gần gũi
+
+---
+
+Visual Description:
+The logo features a dark brown dog bone icon positioned centrally at the top. Below it is the brand name "THÚ CƯNG SÀI GÒN" in white capital letters, accompanied by smaller text "CỬA HÀNG THÚ NUÔI".
+
+Design Elements:
+- Shape: Simple dog bone icon, aligned text layout
+- Typography: Bold sans-serif, uppercase, clean and readable
+- Color Palette: Orange/coral dominant, dark brown for icon, white for text
+- Background: Solid orange/coral color
+- Style: Minimalist, modern, friendly
+- Mood: Warm, cheerful, approachable

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng kim cương được xoay 45 độ với các đường viền răng cưa màu đen. Bên trong có hình ảnh stylized của một ngôi nhà hoặc công trình kiến trúc với mái nhọn và cửa ra vào ở trung tâm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Kim cương xoay với viền răng cưa, chứa biểu tượng ngôi nhà
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đen trên nền trắng (đơn sắc)
+- Nền: Trắng, trong suốt
+- Phong cách: Minimalist, geometric, pixel art
+- Tông điệu: Chuyên nghiệp, kiến trúc, xây dựng
+
+---
+
+Visual Description:
+The logo features a diamond-shaped frame rotated 45 degrees with black serrated or pixelated edges. Inside contains a stylized house or architectural structure with a pointed roof and central entrance.
+
+Design Elements:
+- Shape: Rotated diamond with serrated edges containing a house icon
+- Typography: None (icon only)
+- Color Palette: Black on white (monochromatic)
+- Background: White, transparent
+- Style: Minimalist, geometric, pixel art
+- Mood: Professional, architectural, construction

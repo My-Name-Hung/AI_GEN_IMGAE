@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là một thiết kế post mạng xã hội với thông điệp "BE CAREFUL" về COVID-19, có hình ảnh một phụ nữ đeo khẩu trang y tế màu trắng. Thiết kế sử dụng bố cục vuông với các yếu tố văn bản được sắp xếp ở góc trái và dưới cùng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục vuông với các khối văn bản hình chữ nhật
+- Kiểu chữ: Font sans-serif hiện đại, chữ in hoa cho tiêu đề chính
+- Bảng màu: Cam/vàng đậm, trắng, và tông màu trung tính
+- Nền: Hình ảnh người phụ nữ với môi trường y tế mờ phía sau
+- Phong cách: Thiết kế y tế hiện đại, thông tin công cộng
+- Tông điệu: Nghiêm túc, quan tâm sức khỏe, chuyên nghiệp
+
+---
+
+Visual Description:
+This is a social media post design with a "BE CAREFUL" message about COVID-19, featuring an image of a woman wearing a white medical mask. The design uses a square layout with text elements positioned in the left corner and bottom section.
+
+Design Elements:
+- Shape: Square layout with rectangular text blocks
+- Typography: Modern sans-serif font, uppercase letters for main heading
+- Color Palette: Orange/golden yellow, white, and neutral tones
+- Background: Woman's photo with blurred medical environment
+- Style: Modern healthcare design, public information
+- Mood: Serious, health-conscious, professional

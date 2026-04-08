@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm tên "Việt Liên" được viết bằng kiểu chữ thảo nghiêng màu đen. Bên dưới có một thanh màu xanh lá cây với dòng chữ "SANH SIDA" màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ thảo cong mềm mại với thanh ngang chữ nhật
+- Kiểu chữ: Chữ thảo nghiêng cho tên chính, chữ in hoa đơn giản cho slogan
+- Bảng màu: Đen và xanh lá cây, trắng
+- Nền: Trắng/trong suốt
+- Phong cách: Thanh lịch, thân thiện, hiện đại
+- Tông điệu: Chuyên nghiệp, gần gũi, tự nhiên
+
+---
+
+Visual Description:
+The logo features "Việt Liên" written in elegant black script lettering. Below it is a green rectangular banner containing "SANH SIDA" in white text.
+
+Design Elements:
+- Shape: Flowing script typography with rectangular banner element
+- Typography: Elegant script for main name, simple sans-serif capitals for tagline
+- Color Palette: Black, green, and white
+- Background: White/transparent
+- Style: Elegant, friendly, modern
+- Mood: Professional, approachable, natural

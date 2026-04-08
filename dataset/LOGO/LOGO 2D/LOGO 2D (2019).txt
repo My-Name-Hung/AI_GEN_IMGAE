@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình ảnh ống nghe y tế với phần tai nghe màu đen và một phần của ống màu đỏ tạo thành hình chữ C. Bên dưới là dòng chữ "CHĂM BÉ KHỎE" bằng font chữ đậm màu đen, kèm theo dòng phụ "TRUNG TÂM ĐÀO TẠO" màu đỏ nhạt.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ống nghe y tế cách điệu với đường cong mềm mại
+- Kiểu chữ: Font sans-serif đậm, rõ ràng cho tiêu đề chính
+- Bảng màu: Đen, đỏ và trắng
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, y tế, chuyên nghiệp
+- Tông điệu: Tin cậy, chăm sóc, y tế
+
+---
+
+Visual Description:
+The logo features a stylized stethoscope with black earpieces and a red curved tube forming a C-shape. Below is the text "CHĂM BÉ KHỎE" in bold black letters, accompanied by the subtitle "TRUNG TÂM ĐÀO TẠO" in lighter red.
+
+Design Elements:
+- Shape: Stylized medical stethoscope with smooth curves
+- Typography: Bold, clear sans-serif font for main title
+- Color Palette: Black, red, and white
+- Background: Clean white background
+- Style: Minimalist, medical, professional
+- Mood: Trustworthy, caring, medical

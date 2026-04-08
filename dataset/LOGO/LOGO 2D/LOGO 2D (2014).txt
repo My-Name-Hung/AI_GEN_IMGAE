@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "Cà phê 1054" với phong cách typography đậm đà, cổ điển. Bên dưới có dòng slogan "THÚ NHƯNG NGƯỜI PHA CHẾ GIỚI CHUYÊN DỤNG" bằng chữ nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Layout chữ ngang đơn giản, có phân cấp thông tin rõ ràng
+- Kiểu chữ: Font serif cổ điển cho tên thương hiệu, font sans-serif cho slogan
+- Bảng màu: Màu cam đỏ (terracotta) cho toàn bộ text
+- Nền: Màu be/kem nhạt
+- Phong cách: Vintage, retro, đơn giản
+- Tông điệu: Ấm áp, thân thiện, truyền thống
+
+---
+
+Visual Description:
+The logo displays "Cà phê 1054" in bold, classic typography with a tagline "THÚ NHƯNG NGƯỜI PHA CHẾ GIỚI CHUYÊN DỤNG" underneath in smaller text. The design follows a simple horizontal layout with clear information hierarchy.
+
+Design Elements:
+- Shape: Simple horizontal text layout with clear information hierarchy
+- Typography: Classic serif font for brand name, sans-serif for tagline
+- Color Palette: Terracotta/reddish-orange for all text elements
+- Background: Light beige/cream color
+- Style: Vintage, retro, minimalist
+- Mood: Warm, friendly, traditional

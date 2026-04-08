@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tam giác bo tròn với màu cam đỏ gradient, tạo cảm giác năng động và hiện đại. Bên trong tam giác có biểu tượng màu trắng giống như chữ "f" hoặc biểu tượng flash/tia chớp.
+
+Yếu tố Thiết kế:
+- Hình dạng: Tam giác bo góc mềm mại với hiệu ứng gradient
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Cam đỏ gradient (từ đỏ sang cam)
+- Nền: Trong suốt/trắng
+- Phong cách: Hiện đại, tối giản, gradient 3D
+- Tông điệu: Năng động, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo features a rounded triangular shape with an orange-red gradient that creates a dynamic and modern appearance. Inside the triangle is a white symbol that resembles the letter "f" or a lightning/flash icon.
+
+Design Elements:
+- Shape: Soft-cornered triangle with gradient effect
+- Typography: None (icon only)
+- Color Palette: Orange-red gradient (red to orange)
+- Background: Transparent/white
+- Style: Modern, minimalist, 3D gradient
+- Mood: Dynamic, creative, tech-oriented

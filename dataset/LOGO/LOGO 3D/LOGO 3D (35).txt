@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng Autobot màu đỏ từ series Transformers được đặt trên một khối vuông màu trắng 3D. Khối vuông có các góc bo tròn và được đặt nghiêng trên nền đỏ tươi, tạo hiệu ứng chiều sâu và bóng đổ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông 3D bo góc với biểu tượng robot hình học
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đỏ và trắng
+- Nền: Đỏ tươi đồng nhất
+- Phong cách: 3D, hiện đại, minimalist, công nghệ
+- Tông điệu: Mạnh mẽ, năng động, futuristic
+
+---
+
+Visual Description:
+The logo displays a red Autobot symbol from the Transformers series positioned on a white 3D rounded square block. The square block has rounded corners and is positioned at an angle on a bright red background, creating depth effects and drop shadows.
+
+Design Elements:
+- Shape: 3D rounded square block with geometric robot symbol
+- Typography: None (icon only)
+- Color Palette: Red and white
+- Background: Solid bright red
+- Style: 3D, modern, minimalist, tech
+- Mood: Powerful, dynamic, futuristic

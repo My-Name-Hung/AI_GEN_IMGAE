@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ cái "W" được thiết kế bằng màu xanh cyan sáng trên nền tím gradient. Chữ "W" có hình dạng góc cạnh, hiện đại với các đường nét dày và sắc nét.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái "W" hình học, góc cạnh
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh cyan và tím gradient
+- Nền: Gradient tím từ đậm đến sáng
+- Phong cách: Tối giản, hiện đại, hình học
+- Tông điệu: Năng động, công nghệ, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays a letter "W" in bright cyan color against a purple gradient background. The "W" has an angular, modern design with thick, sharp lines and geometric styling.
+
+Design Elements:
+- Shape: Geometric, angular letter "W"
+- Typography: None (icon only)
+- Color Palette: Cyan and purple gradient
+- Background: Purple gradient from dark to light
+- Style: Minimalist, modern, geometric
+- Mood: Dynamic, tech-forward, professional

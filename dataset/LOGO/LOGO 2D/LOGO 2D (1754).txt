@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng đồ dùng nhà bếp bao gồm một chảo trắng ở trên và ba hình chữ nhật màu sắc khác nhau (cam, vàng và xanh lá) được xếp chồng lên nhau. Bên cạnh biểu tượng là dòng chữ "Gastro Pomoc" được viết bằng font chữ hiện đại, màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng đồ dùng nhà bếp với chảo và các khối hình chữ nhật xếp tầng
+- Kiểu chữ: Font sans-serif hiện đại, đậm, màu trắng
+- Bảng màu: Cam, vàng, xanh lá cây, trắng
+- Nền: Xanh lá đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, thân thiện
+- Tông điệu: Chuyên nghiệp, gần gũi, ấm áp
+
+---
+
+Visual Description:
+The logo displays a kitchen utensil icon featuring a white pan on top and three colorful rectangular blocks (orange, yellow, and teal) stacked below it. Next to the icon is the text "Gastro Pomoc" written in a modern white font.
+
+Design Elements:
+- Shape: Kitchen utensil icon with pan and stacked rectangular blocks
+- Typography: Modern sans-serif font, bold, white color
+- Color Palette: Orange, yellow, teal, white
+- Background: Solid dark teal
+- Style: Modern, minimalist, friendly
+- Mood: Professional, approachable, warm

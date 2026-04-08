@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "nateave" với hai chiếc lá nhỏ mọc từ chữ "t" ở giữa. Dưới tên chính có dòng chữ phụ "FINEST TEA TRADITION" được viết bằng chữ in hoa nhỏ hơn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thường kết hợp với biểu tượng lá cây đơn giản
+- Kiểu chữ: Font chữ sans-serif hiện đại, bo tròn
+- Bảng màu: Xanh lá cây đậm và xanh lá cây sáng (lime green)
+- Nền: Nền trắng trong phiên bản chính, có các biến thể nền xanh đậm và xanh sáng
+- Phong cách: Tối giản, thân thiện với môi trường, hiện đại
+- Tông điệu: Tự nhiên, tươi mới, thân thiện
+
+---
+
+Visual Description:
+The logo displays the brand name "nateave" with two small leaves growing from the letter "t" in the middle. Below the main name is the tagline "FINEST TEA TRADITION" written in smaller capital letters.
+
+Design Elements:
+- Shape: Lowercase text combined with simple leaf symbol
+- Typography: Modern, rounded sans-serif font
+- Color Palette: Dark green and bright lime green
+- Background: White background in main version, with dark green and bright green background variants
+- Style: Minimalist, eco-friendly, modern
+- Mood: Natural, fresh, approachable

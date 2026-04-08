@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên "Prime Location" với chữ "Prime" viết in hoa và "Location" viết theo kiểu chữ thảo nghệ thuật. Phía trên góc phải có logo "HY-NINE" với biểu tượng tam giác stylized.
+
+Yếu tố Thiết kế:
+- Hình dạng: Text-based với yếu tố đồ họa tam giác ở logo phụ
+- Kiểu chữ: Kết hợp sans-serif cho "Prime" và script font cho "Location"
+- Bảng màu: Chữ trắng trên nền gradient xanh navy
+- Nền: Gradient từ xanh navy đến tím đậm
+- Phong cách: Hiện đại, sang trọng, bất động sản cao cấp
+- Tông điệu: Chuyên nghiệp, tinh tế, đẳng cấp
+
+---
+
+Visual Description:
+The logo displays "Prime Location" with "Prime" in capital letters and "Location" in artistic script lettering. In the upper right corner is the "HY-NINE" logo featuring a stylized triangle symbol.
+
+Design Elements:
+- Shape: Text-based with triangular graphic element in secondary logo
+- Typography: Combination of sans-serif for "Prime" and script font for "Location"
+- Color Palette: White text on navy blue gradient background
+- Background: Gradient from navy blue to deep purple
+- Style: Modern, luxurious, premium real estate
+- Mood: Professional, sophisticated, upscale

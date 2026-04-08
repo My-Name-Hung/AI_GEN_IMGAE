@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng oval với chữ "Mode" được viết bằng font chữ thảo màu xanh lá cây nổi bật. Bên trái logo có hai chiếc lá xanh tự nhiên tạo điểm nhấn sinh động. Từ "FOODS" được đặt bên dưới chữ "Mode" bằng font chữ in hoa đơn giản màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Oval có đường viền khâu trang trí
+- Kiểu chữ: Font thảo nghệ thuật cho "Mode", font sans-serif in hoa cho "FOODS"
+- Bảng màu: Xanh lá cây đậm, xanh lá cây nhạt, trắng
+- Nền: Oval xanh đậm với viền trắng và bóng đổ xanh nhạt
+- Phong cách: Tự nhiên, thân thiện, hiện đại
+- Tông điệu: Tươi mát, thân thiện, đáng tin cậy
+
+---
+
+Visual Description:
+The logo features an oval shape with "Mode" written in an artistic green script font as the main focal point. Two natural green leaves are positioned on the left side of the logo, adding an organic touch. The word "FOODS" appears below "Mode" in simple white capital letters.
+
+Design Elements:
+- Shape: Oval with decorative stitched border
+- Typography: Artistic script font for "Mode", sans-serif capitals for "FOODS"
+- Color Palette: Dark green, light green, white
+- Background: Dark green oval with white border and light green drop shadow
+- Style: Natural, friendly, modern
+- Mood: Fresh, approachable, trustworthy

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình tròn với màu xanh lá cây gradient từ sáng đến đậm, chứa dòng chữ "100% Natural" bằng font chữ viết tay màu trắng ở giữa. Phía trên bên phải có biểu tượng lá xanh nhỏ, và dưới cùng có chữ "PRODUCT" bằng font in hoa đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với đường viền xanh đậm
+- Kiểu chữ: Font chữ viết tay cho "Natural", font in hoa đậm cho "100%" và "PRODUCT"
+- Bảng màu: Xanh lá cây gradient, trắng, xanh đậm
+- Nền: Trong suốt
+- Phong cách: Tự nhiên, thân thiện, hiện đại
+- Tông điệu: Tươi mới, tin cậy, thân thiện với môi trường
+
+---
+
+Visual Description:
+The logo features a circular design with a green gradient background from light to dark green, containing "100% Natural" text in white handwritten script font in the center. There's a small green leaf icon in the upper right, and "PRODUCT" text in bold capitals at the bottom.
+
+Design Elements:
+- Shape: Circular with dark green border outline
+- Typography: Handwritten script for "Natural", bold capitals for "100%" and "PRODUCT"
+- Color Palette: Green gradient, white, dark green
+- Background: Transparent
+- Style: Natural, friendly, modern
+- Mood: Fresh, trustworthy, eco-friendly

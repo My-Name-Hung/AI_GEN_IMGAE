@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một lon nước ngọt Sprite với hiệu ứng giọt nước và bong bóng, được bao quanh bởi các lát chanh xanh và lá bạc hà tươi. Phía sau là chữ "FRESH SPRITE" lớn màu xanh lá cây đậm với hiệu ứng cắt bỏ, tạo cảm giác tươi mát và năng động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lon nước ngọt trụ tròn, các lát chanh hình tròn, chữ cái góc cạnh
+- Kiểu chữ: Font chữ in hoa đậm, khỏe khoắn với hiệu ứng knockout
+- Bảng màu: Xanh lá cây đậm, xanh lục nhạt, vàng chanh, trắng, xanh dương
+- Nền: Màu kem/be nhạt
+- Phong cách: Hiện đại, năng động, quảng cáo sản phẩm
+- Tông điệu: Tươi mát, sảng khoái, hấp dẫn
+
+---
+
+Visual Description:
+The logo features a Sprite soda can with water droplets and bubbles, surrounded by fresh lime slices and mint leaves. Behind it is large green text reading "FRESH SPRITE" with a knockout effect, creating a refreshing and dynamic feeling.
+
+Design Elements:
+- Shape: Cylindrical soda can, circular lime slices, angular letterforms
+- Typography: Bold uppercase sans-serif font with knockout effect
+- Color Palette: Dark green, light green, lemon yellow, white, blue
+- Background: Light cream/beige
+- Style: Modern, dynamic, product advertising
+- Mood: Fresh, refreshing, appealing

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo GOKUL'S được hiển thị ở góc trên bên trái với tên thương hiệu bằng chữ in hoa màu trắng. Bên dưới tên chính có dòng chữ phụ nhỏ hơn mô tả về sản phẩm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thẳng, đơn giản với dấu nháy đơn trong tên
+- Kiểu chữ: Sans-serif hiện đại, in hoa, font chữ sạch sẽ
+- Bảng màu: Trắng chủ đạo trên nền tối
+- Nền: Trong suốt/tích hợp với hình ảnh sản phẩm
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Sang trọng, tinh tế, đáng tin cậy
+
+---
+
+Visual Description:
+The GOKUL'S logo appears in the upper left corner featuring the brand name in white capital letters. Below the main name is smaller descriptive text about the product line.
+
+Design Elements:
+- Shape: Straightforward text layout with apostrophe in the name
+- Typography: Modern sans-serif, uppercase, clean font
+- Color Palette: Primarily white on dark background
+- Background: Transparent/integrated with product imagery
+- Style: Minimalist, modern, professional
+- Mood: Luxurious, sophisticated, trustworthy

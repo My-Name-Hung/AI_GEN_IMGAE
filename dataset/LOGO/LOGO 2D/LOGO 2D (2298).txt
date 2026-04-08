@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng định vị màu đỏ với icon ngôi nhà bên trong, đặt trên nền xanh dương gradient. Phía dưới có dòng chữ "BẤT ĐỘNG SẢN ĐẠI UNG" màu trắng và một thanh màu đỏ cam có text "chuyên gia bất động sản".
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng định vị tròn với đuôi nhọn, icon ngôi nhà đơn giản
+- Kiểu chữ: Sans-serif đậm, in hoa cho tên chính, chữ thường cho tagline
+- Bảng màu: Xanh dương gradient, đỏ cam, trắng
+- Nền: Gradient xanh dương từ đậm đến sáng
+- Phong cách: Hiện đại, tối giản, chuyên nghiệp
+- Tông điệu: Đáng tin cậy, năng động, thân thiện
+
+---
+
+Visual Description:
+The logo features a red location pin icon with a white house symbol inside, set against a blue gradient background. Below it displays "BẤT ĐỘNG SẢN ĐẠI UNG" in white text and an orange-red banner containing "chuyên gia bất động sản".
+
+Design Elements:
+- Shape: Circular location pin with pointed tail, simple house icon
+- Typography: Bold sans-serif, uppercase for main name, lowercase for tagline
+- Color Palette: Blue gradient, red-orange, white
+- Background: Blue gradient from dark to light
+- Style: Modern, minimalist, professional
+- Mood: Trustworthy, dynamic, approachable

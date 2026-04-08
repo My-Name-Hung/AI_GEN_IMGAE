@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng hình tròn răng cưa màu nâu đậm với viền lượn sóng, đặt trên nền cam/vàng. Bên trong có dòng chữ "Bánh Mai Châu" bằng font chữ viết tay màu trắng, kèm theo dòng chữ nhỏ "Cần ráng rác!" ở phía dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn răng cưa với viền lượn sóng
+- Kiểu chữ: Font chữ viết tay trang trí, có dấu phẩy lượn
+- Bảng màu: Nâu đậm, cam/vàng, trắng
+- Nền: Màu cam/vàng gradient
+- Phong cách: Vintage, thủ công, rustic
+- Tông điệu: Ấm áp, thân thiện, truyền thống
+
+---
+
+Visual Description:
+The logo features a dark brown circular badge with scalloped edges set against an orange/yellow background. Inside the badge is white handwritten-style text reading "Bánh Mai Châu" with smaller text "Cần ráng rác!" below it.
+
+Design Elements:
+- Shape: Circular badge with scalloped/serrated edges
+- Typography: Handwritten script font with decorative flourishes
+- Color Palette: Dark brown, orange/yellow, white
+- Background: Orange/yellow gradient
+- Style: Vintage, handcrafted, rustic
+- Mood: Warm, friendly, traditional

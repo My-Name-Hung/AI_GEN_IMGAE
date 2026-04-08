@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "NHÀ NÔNG" bằng màu xanh dương, được đặt phía trên một thanh ngang màu vàng cam. Bên dưới thanh màu có dòng chữ nhỏ "CÔNG TY NÔNG NGHIỆP" bằng màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ nhật ngang với thanh màu nổi bật
+- Kiểu chữ: Font chữ sans-serif đơn giản, rõ ràng
+- Bảng màu: Xanh dương, vàng cam, đen
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, hiện đại, chuyên nghiệp
+- Tông điệu: Uy tín, thân thiện, gần gũi
+
+---
+
+Visual Description:
+The logo displays "NHÀ NÔNG" text in blue color positioned above an orange-yellow horizontal bar. Below the colored bar is smaller black text reading "CÔNG TY NÔNG NGHIỆP".
+
+Design Elements:
+- Shape: Horizontal rectangular layout with prominent color bar
+- Typography: Simple, clean sans-serif font
+- Color Palette: Blue, orange-yellow, black
+- Background: Transparent white background
+- Style: Minimalist, modern, professional
+- Mood: Trustworthy, friendly, approachable

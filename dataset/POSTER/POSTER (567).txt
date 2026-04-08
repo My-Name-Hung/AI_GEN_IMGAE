@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị các chữ cái "G", "Y", và "M" được sắp xếp theo chiều ngang. Chữ "Y" màu đỏ cam nằm ở giữa, trong khi "G" và "M" có màu nâu đậm ở hai bên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba chữ cái được sắp xếp tuyến tính, chữ Y có hình tam giác ngược
+- Kiểu chữ: Font chữ đậm, hiện đại, không chân
+- Bảng màu: Nâu đậm và đỏ cam/đỏ
+- Nền: Màu be nhạt/vàng kem
+- Phong cách: Tối giản, hiện đại, đơn giản
+- Tông điệu: Chuyên nghiệp, mạnh mẽ, năng động
+
+---
+
+Visual Description:
+The logo displays the letters "G", "Y", and "M" arranged horizontally. The red-orange "Y" is positioned in the center, while the "G" and "M" appear in dark brown on either side.
+
+Design Elements:
+- Shape: Three letters arranged linearly, with Y forming an inverted triangle shape
+- Typography: Bold, modern, sans-serif font
+- Color Palette: Dark brown and red-orange/red
+- Background: Light beige/cream color
+- Style: Minimalist, modern, simple
+- Mood: Professional, strong, dynamic

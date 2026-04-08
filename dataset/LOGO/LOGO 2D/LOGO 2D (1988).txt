@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo gồm một hình tròn màu xanh nhạt chứa silhouette của một con chim đang bay. Bên cạnh là dòng chữ "Nhà Thờ Thánh" được sắp xếp thành hai dòng với font chữ thanh mảnh, màu xanh xám nhẹ nhàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn kết hợp với silhouette chim bay
+- Kiểu chữ: Font sans-serif mảnh, hiện đại
+- Bảng màu: Xanh dương nhạt, xanh xám
+- Nền: Trắng trong suốt
+- Phong cách: Tối giản, hiện đại, biểu tượng
+- Tông điệu: Yên bình, thiêng liêng, nhẹ nhàng
+
+---
+
+Visual Description:
+The logo features a light blue circular element containing the silhouette of a flying bird. Adjacent to it is the text "Nhà Thờ Thánh" arranged in two lines using a thin, elegant typeface in soft blue-gray color.
+
+Design Elements:
+- Shape: Circle combined with bird silhouette
+- Typography: Thin, modern sans-serif font
+- Color Palette: Light blue, blue-gray
+- Background: Transparent white
+- Style: Minimalist, modern, symbolic
+- Mood: Peaceful, sacred, gentle

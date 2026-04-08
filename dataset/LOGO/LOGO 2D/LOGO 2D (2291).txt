@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một bóng đèn phát sáng màu trắng với các tia sáng xung quanh, bên cạnh là chữ "SÁNG" in hoa màu trắng. Bên dưới có dòng chữ nhỏ hơn "TRUNG TÂM DUY HỌC DÀNH CHO TRẺ" cũng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bóng đèn tròn với tia sáng xung quanh và typography đơn giản
+- Kiểu chữ: Sans-serif in hoa, dòng phụ dùng font nhỏ hơn
+- Bảng màu: Trắng trên nền xanh lá/xanh ngọc
+- Nền: Màu xanh lá/xanh ngọc đồng nhất
+- Phong cách: Tối giản, hiện đại, biểu tượng
+- Tông điệu: Sáng sủa, tích cực, truyền cảm hứng
+
+---
+
+Visual Description:
+The logo features a white lightbulb icon with radiating light rays around it, positioned next to the white text "SÁNG" in capital letters. Below is smaller white text reading "TRUNG TÂM DUY HỌC DÀNH CHO TRẺ".
+
+Design Elements:
+- Shape: Circular lightbulb with radiating rays and simple typography
+- Typography: Bold sans-serif capitals with smaller subtitle text
+- Color Palette: White on teal/turquoise background
+- Background: Solid teal/turquoise color
+- Style: Minimalist, modern, iconic
+- Mood: Bright, positive, inspiring

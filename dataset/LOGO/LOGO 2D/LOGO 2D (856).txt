@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ba biến thể của chữ cái "q" được thiết kế theo phong cách tối giản với đường nét mảnh. Biểu tượng chính ở bên trái có màu xanh lá mint trên nền tối, cùng hai phiên bản nhỏ hơn ở bên phải trên nền xanh mint và xanh neon.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái "q" được cách điệu với đường viền tròn và đuôi thẳng, có điểm nhấn tròn nhỏ
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh mint, xanh neon, đen, trắng
+- Nền: Khối màu phẳng chia thành các vùng màu khác nhau
+- Phong cách: Tối giản, hiện đại, đơn sắc
+- Tông điệu: Sạch sẽ, chuyên nghiệp, năng động
+
+---
+
+Visual Description:
+The logo displays three variations of a stylized letter "q" designed in a minimalist style with thin line weights. The main icon on the left is mint green on a dark background, accompanied by two smaller versions on the right against mint green and neon green backgrounds.
+
+Design Elements:
+- Shape: Stylized letter "q" with circular outline and straight tail, featuring a small circular accent
+- Typography: None (icon only)
+- Color Palette: Mint green, neon green, black, white
+- Background: Flat color blocks divided into different colored sections
+- Style: Minimalist, modern, monochromatic
+- Mood: Clean, professional, dynamic

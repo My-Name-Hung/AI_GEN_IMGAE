@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "Dọn dẹp & Đi" được viết bằng font chữ màu vàng nổi bật trên nền xanh dương. Bên dưới có dòng chữ nhỏ "Dịch vụ vệ sinh chuyên nghiệp" làm slogan giải thích về dịch vụ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ đơn giản, ký tự "&" được stylized
+- Kiểu chữ: Font chữ tròn, dày, thân thiện và dễ đọc
+- Bảng màu: Vàng cam cho chữ chính, trắng cho slogan, nền xanh dương
+- Nền: Nền xanh dương đồng nhất
+- Phong cách: Đơn giản, hiện đại, thân thiện
+- Tông điệu: Chuyên nghiệp, tin cậy, gần gũi
+
+---
+
+Visual Description:
+The logo displays "Dọn dẹp & Đi" text in prominent yellow lettering against a blue background. Below is smaller text "Dịch vụ vệ sinh chuyên nghiệp" serving as a tagline explaining the service.
+
+Design Elements:
+- Shape: Simple text layout with stylized "&" character
+- Typography: Round, bold, friendly and readable font
+- Color Palette: Yellow-orange for main text, white for tagline, blue background
+- Background: Solid blue background
+- Style: Simple, modern, approachable
+- Mood: Professional, trustworthy, friendly

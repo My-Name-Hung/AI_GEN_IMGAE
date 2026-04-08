@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "BÁC SĨ SON AN" được viết bằng chữ in hoa với font chữ serif thanh lịch. Bên dưới có dòng chữ nhỏ hơn "BAC SI GIA DINH" được đặt giữa hai đường kẻ ngang trang trí.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục ngang, cân đối với các đường kẻ trang trí
+- Kiểu chữ: Font serif cổ điển, chữ in hoa cho tên chính, chữ thường cho dòng phụ
+- Bảng màu: Xanh navy đậm trên nền trắng
+- Nền: Nền trắng sạch
+- Phong cách: Tối giản, cổ điển, chuyên nghiệp
+- Tông điệu: Tin cậy, uy tín, y tế
+
+---
+
+Visual Description:
+The logo displays the brand name "BÁC SĨ SON AN" written in elegant serif capital letters. Below it, there's a smaller text "BAC SI GIA DINH" positioned between two horizontal decorative lines.
+
+Design Elements:
+- Shape: Horizontal layout, balanced with decorative line elements
+- Typography: Classic serif font, uppercase for main title, lowercase for subtitle
+- Color Palette: Deep navy blue on white background
+- Background: Clean white background
+- Style: Minimalist, classic, professional
+- Mood: Trustworthy, credible, medical

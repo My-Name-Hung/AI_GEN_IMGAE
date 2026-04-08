@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng hai bàn tay đang bảo vệ một trái tim ở trung tâm, được vẽ bằng đường nét trắng đơn giản. Xung quanh biểu tượng là dòng chữ tiếng Việt "Y BÁC SĨ TUYẾN ĐẦU" ở phía trên và "BỆNH VIỆN ĐẠI HỌC" ở phía dưới, tạo thành một vòng tròn hoàn chỉnh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hai bàn tay bảo vệ trái tim, bố cục hình tròn
+- Kiểu chữ: Sans-serif đơn giản, chữ in hoa
+- Bảng màu: Trắng trên nền xám đậm
+- Nền: Xám đậm/than chì
+- Phong cách: Tối giản, biểu tượng đường nét, y tế
+- Tông điệu: Chăm sóc, tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a simple line-art icon of two hands protecting a heart in the center, drawn in white lines. Surrounding the icon is Vietnamese text "Y BÁC SĨ TUYẾN ĐẦU" at the top and "BỆNH VIỆN ĐẠI HỌC" at the bottom, forming a complete circular layout.
+
+Design Elements:
+- Shape: Two hands protecting a heart icon, circular layout
+- Typography: Simple sans-serif, uppercase letters
+- Color Palette: White on dark gray
+- Background: Dark gray/charcoal
+- Style: Minimalist, line art, medical
+- Mood: Caring, trustworthy, professional

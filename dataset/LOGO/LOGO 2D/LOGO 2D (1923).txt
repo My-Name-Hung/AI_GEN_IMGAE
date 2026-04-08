@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "Hương" bằng chữ viết tay màu đỏ nổi bật ở trung tâm. Phía trên có dòng chữ "NHÀ HÀNG" và phía dưới có "HÀ NỘI * SAI GÒN" với biểu tượng hoa nhỏ làm điểm nhấn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục dọc với chữ chính to, các dòng phụ nhỏ hơn
+- Kiểu chữ: Chữ viết tay phong cách calligraphy cho tên chính, chữ in hoa đơn giản cho các dòng phụ
+- Bảng màu: Đỏ chủ đạo trên nền trắng
+- Nền: Nền trắng, trong sạch
+- Phong cách: Truyền thống, thủ công, calligraphy
+- Tông điệu: Ấm áp, thân thiện, văn hóa Việt Nam
+
+---
+
+Visual Description:
+The logo features the brand name "Hương" in prominent red handwritten script at the center. Above it reads "NHÀ HÀNG" and below shows "HÀ NỘI * SAI GÒN" with a small flower symbol as an accent.
+
+Design Elements:
+- Shape: Vertical layout with large main text and smaller supporting lines
+- Typography: Handwritten calligraphy style for main name, simple uppercase for supporting text
+- Color Palette: Dominant red on white background
+- Background: Clean white background
+- Style: Traditional, handcrafted, calligraphic
+- Mood: Warm, friendly, Vietnamese cultural

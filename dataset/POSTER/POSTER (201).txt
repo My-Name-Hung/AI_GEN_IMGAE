@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một biểu tượng stylized kết hợp giữa lá phong Canada và một thanh kiếm hoặc mũi tên. Phần trên tạo thành hình lá phong đặc trưng với các cạnh nhọn, phần dưới kéo dài thành một thân dọc có hoa văn xoắn ốc kết thúc bằng một đầu nhọn.
+
+Yếu tố Thiết kế:
+- Hình dạng: Lá phong Canada kết hợp với thanh kiếm/mũi tên, có chi tiết xoắn ốc
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đỏ đậm trên nền trắng
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, biểu tượng
+- Tông điệu: Mạnh mẽ, yêu nước, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a stylized symbol combining a Canadian maple leaf with a sword or arrow. The upper portion forms the characteristic maple leaf with sharp edges, while the lower section extends into a vertical shaft with spiral details ending in a pointed tip.
+
+Design Elements:
+- Shape: Canadian maple leaf combined with sword/arrow, featuring spiral details
+- Typography: None (icon only)
+- Color Palette: Deep red on white background
+- Background: White/transparent
+- Style: Modern, minimalist, symbolic
+- Mood: Strong, patriotic, professional

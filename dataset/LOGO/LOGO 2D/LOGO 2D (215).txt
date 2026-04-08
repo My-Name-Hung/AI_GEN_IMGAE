@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một viên kim cương cách điệu màu xanh lá cây với thiết kế hình học đơn giản. Phía trên kim cương có một chiếc vương miện màu vàng, và bên dưới là dòng chữ "QUEEN of DIAMONDS" màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Kim cương hình học với đường nét góc cạnh, vương miện đơn giản với 3 đỉnh
+- Kiểu chữ: Sans-serif hiện đại, in hoa, phân bố trên 2 dòng
+- Bảng màu: Xanh lá cây (nhiều tông), vàng, trắng
+- Nền: Xanh đậm đơn sắc
+- Phong cách: Minimalist, hình học, hiện đại, vector
+- Tông điệu: Sang trọng, quyền uy, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a stylized green diamond with geometric line work creating an angular, faceted appearance. A golden crown sits above the diamond, and below it reads "QUEEN of DIAMONDS" in white text.
+
+Design Elements:
+- Shape: Geometric diamond with angular faceted lines, simple three-pointed crown
+- Typography: Modern sans-serif, all caps, arranged in two lines
+- Color Palette: Various shades of green, gold/yellow, white
+- Background: Solid dark green
+- Style: Minimalist, geometric, modern, vector-based
+- Mood: Luxurious, authoritative, refined, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng tay cầm gamepad màu vàng với các đường nét màu hồng và xanh dương tạo hiệu ứng chuyển động. Bên dưới là tên thương hiệu "Nhóm G7EX" với chữ "G7EX" được tô màu đỏ cam nổi bật trên nền tím.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng tay cầm game với các đường cong và hình tròn
+- Kiểu chữ: Font chữ sans-serif hiện đại, in hoa cho "G7EX"
+- Bảng màu: Tím làm nền chính, vàng, hồng, xanh dương cho icon, trắng và đỏ cam cho text
+- Nền: Màu tím gradient đậm
+- Phong cách: Gaming, hiện đại, năng động
+- Tông điệu: Trẻ trung, sôi động, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a yellow gamepad icon with pink and blue accent lines creating a dynamic movement effect. Below is the brand name "Nhóm G7EX" with "G7EX" highlighted in orange-red against a purple background.
+
+Design Elements:
+- Shape: Gaming controller icon with curves and circular elements
+- Typography: Modern sans-serif font, uppercase for "G7EX"
+- Color Palette: Purple gradient background, yellow, pink, blue for icon, white and orange-red for text
+- Background: Deep purple gradient
+- Style: Gaming, modern, dynamic
+- Mood: Youthful, energetic, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có một hình tròn màu đỏ cam với đường viền có hiệu ứng cọ vẽ thô ráp, tạo cảm giác nghệ thuật. Bên trong hình tròn có chữ "Phú Sỹ" màu trắng, bên cạnh có chữ "Món nướng" nhỏ hơn cũng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn với đường viền có texture cọ vẽ
+- Kiểu chữ: Sans-serif đơn giản, dễ đọc
+- Bảng màu: Đỏ cam chủ đạo, chữ trắng
+- Nền: Đen
+- Phong cách: Nghệ thuật, thủ công, châu Á
+- Tông điệu: Ấm áp, truyền thống, thân thiện
+
+---
+
+Visual Description:
+The logo features an orange-red circle with rough, brush-painted edges creating an artistic effect. Inside the circle is white text reading "Phú Sỹ" with smaller text "Món nướng" beside it.
+
+Design Elements:
+- Shape: Circle with textured brush-stroke border
+- Typography: Simple, readable sans-serif
+- Color Palette: Orange-red dominant with white text
+- Background: Black
+- Style: Artistic, handcrafted, Asian-inspired
+- Mood: Warm, traditional, approachable

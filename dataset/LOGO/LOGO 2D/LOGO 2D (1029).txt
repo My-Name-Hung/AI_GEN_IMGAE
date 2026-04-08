@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng chữ "U" được tạo thành từ hai thanh dọc màu xanh dương và xanh lam nhạt. Phần đáy của chữ "U" có hình cung tròn màu xanh dương đậm, tạo hiệu ứng gradient từ nhạt đến đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ "U" stylized với các thanh thẳng đứng và đáy cong tròn
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient xanh dương từ nhạt đến đậm, xanh lam
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, gradient
+- Tông điệu: Chuyên nghiệp, công nghệ, tin cậy
+
+---
+
+Visual Description:
+The logo features a stylized letter "U" composed of two vertical bars in light blue and teal colors. The bottom portion forms a curved semicircle in darker blue, creating a gradient effect from light to dark tones.
+
+Design Elements:
+- Shape: Stylized "U" letterform with straight vertical elements and curved bottom
+- Typography: None (icon only)
+- Color Palette: Blue gradient from light to dark, teal accents
+- Background: White/transparent
+- Style: Modern, minimalist, gradient design
+- Mood: Professional, technological, trustworthy

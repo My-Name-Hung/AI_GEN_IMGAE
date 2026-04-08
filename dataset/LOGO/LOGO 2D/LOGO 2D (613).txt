@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình học màu xanh lá cây tạo thành hình dạng giống như một tấm vé hoặc cánh cửa mở. Bên cạnh biểu tượng là dòng chữ "soccer tickets" được viết bằng font chữ hiện đại màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học góc cạnh tạo thành hình vé/cửa mở
+- Kiểu chữ: Font sans-serif hiện đại, chữ thường, đơn giản
+- Bảng màu: Xanh lá cây gradient (từ xanh đậm đến xanh nhạt) và trắng
+- Nền: Nền xanh lá cây gradient với texture sân cỏ mờ
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Chuyên nghiệp, năng động, thể thao
+
+---
+
+Visual Description:
+The logo features a geometric green icon that forms a shape resembling an open ticket or door. Next to the icon is the text "soccer tickets" written in modern white typography.
+
+Design Elements:
+- Shape: Angular geometric icon forming a ticket/open door shape
+- Typography: Modern sans-serif font, lowercase, clean
+- Color Palette: Green gradient (dark to light green) and white
+- Background: Green gradient background with subtle grass texture
+- Style: Modern, minimalist, geometric
+- Mood: Professional, dynamic, sporty

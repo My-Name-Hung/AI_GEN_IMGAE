@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo mô tả một chú ếch hoạt hình màu xanh lá cây đeo chiếc mũ cao bồi tím. Chú ếch có đôi mắt trắng to tròn và ngồi ở tư thế đặc trưng của loài ếch với hai chân trước đặt trước người.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ếch hoạt hình với mũ cao bồi, đường viền tròn mềm mại
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Xanh lá cây chủ đạo, tím cho mũ, trắng cho mắt, nền xanh vàng
+- Nền: Nền gradient từ xanh lá sang xanh vàng
+- Phong cách: Hoạt hình, mascot, vector art, đường viền đậm
+- Tông điệu: Vui tươi, thân thiện, đáng yêu
+
+---
+
+Visual Description:
+The logo depicts a cartoon green frog wearing a purple top hat. The frog has large white round eyes and sits in a characteristic frog pose with its front legs positioned in front of its body.
+
+Design Elements:
+- Shape: Cartoon frog with top hat, soft rounded contours
+- Typography: None (icon only)
+- Color Palette: Dominant green, purple for hat, white for eyes, yellow-green background
+- Background: Gradient from green to yellow-green
+- Style: Cartoon, mascot, vector art, bold outlines
+- Mood: Playful, friendly, cute

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình dạng hình học phức tạp với các góc cạnh và đường nét tạo thành một khung hình vuông xoay. Ở trung tâm có một ký hiệu giống như mũi tên hoặc biểu tượng chỉ hướng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông xoay với các góc bo tròn, có cấu trúc đối xứng và ký hiệu trung tâm
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Màu nâu đậm đơn sắc
+- Nền: Nền trắng trong suốt
+- Phong cách: Tối giản, hình học, hiện đại
+- Tông điệu: Chuyên nghiệp, ổn định, tin cậy
+
+---
+
+Visual Description:
+The logo features a complex geometric design with angular lines forming a rotated square frame. At the center is an arrow-like symbol or directional indicator pointing to the right.
+
+Design Elements:
+- Shape: Rotated square with rounded corners, symmetrical structure with central directional symbol
+- Typography: None (icon only)
+- Color Palette: Monochromatic dark brown
+- Background: Transparent white background
+- Style: Minimalist, geometric, modern
+- Mood: Professional, stable, trustworthy

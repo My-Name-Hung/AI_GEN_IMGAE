@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có hình chữ "X" được tạo thành từ hai hình cánh hoa hoặc lá cây cách điệu chồng lấp nhau. Thiết kế sử dụng gradient màu chuyển từ xanh dương sang tím, xanh lơ và cam tạo hiệu ứng màu sắc sinh động và hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ X được tạo từ hai hình cánh cong, bo tròn
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient xanh dương, xanh lơ, tím, cam
+- Nền: Trắng trong suốt
+- Phong cách: Hiện đại, gradient, tối giản
+- Tông điệu: Năng động, sáng tạo, công nghệ
+
+---
+
+Visual Description:
+The logo features an "X" shape formed by two stylized petal or leaf-like forms that overlap each other. The design uses gradient colors transitioning from blue to purple, cyan, and orange, creating a vibrant and modern color effect.
+
+Design Elements:
+- Shape: Letter X formed by two curved, rounded wing-like shapes
+- Typography: None (icon only)
+- Color Palette: Gradient blue, cyan, purple, orange
+- Background: Transparent white
+- Style: Modern, gradient, minimalist
+- Mood: Dynamic, creative, technological

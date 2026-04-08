@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một hình vuông màu tím nhạt với một tam giác màu tím đậm ở góc dưới bên phải, tạo hiệu ứng gập góc. Bên cạnh biểu tượng là chữ "Readr" được viết bằng font chữ sans-serif đơn giản màu đen.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông với tam giác gập góc, bố cục ngang
+- Kiểu chữ: Sans-serif hiện đại, in thường với chữ "R" đầu viết hoa
+- Bảng màu: Tím nhạt, tím đậm và đen
+- Nền: Trắng trong suốt
+- Phong cách: Minimalist, geometric, hiện đại
+- Tông điệu: Chuyên nghiệp, sạch sẽ, công nghệ
+
+---
+
+Visual Description:
+The logo features a light purple square with a darker purple triangle in the bottom right corner, creating a folded corner effect. Next to the icon is the text "Readr" in simple black sans-serif typography.
+
+Design Elements:
+- Shape: Square with triangular folded corner, horizontal layout
+- Typography: Modern sans-serif, lowercase with capital "R"
+- Color Palette: Light purple, dark purple, and black
+- Background: Transparent white
+- Style: Minimalist, geometric, modern
+- Mood: Professional, clean, tech-oriented

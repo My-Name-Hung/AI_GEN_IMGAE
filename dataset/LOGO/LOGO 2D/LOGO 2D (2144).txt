@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một cái cây nhỏ có thân nâu và lá xanh được đặt trong một vòng tròn trắng. Bên dưới biểu tượng cây là dòng chữ "TỔ CHỨC CÂY HY VỌNG" được viết bằng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn chứa biểu tượng cây, bố cục dọc với văn bản ở dưới
+- Kiểu chữ: Font chữ in hoa đơn giản, rõ ràng
+- Bảng màu: Nền xanh lá cây tươi sáng, vòng tròn trắng, cây nâu và xanh lá
+- Nền: Màu xanh lá cây đồng nhất
+- Phong cách: Tối giản, hiện đại, thân thiện với môi trường
+- Tông điệu: Tích cực, hy vọng, bền vững
+
+---
+
+Visual Description:
+The logo features a small tree with a brown trunk and green leaves positioned within a white circle. Below the tree icon is the text "TỔ CHỨC CÂY HY VỌNG" written in white letters.
+
+Design Elements:
+- Shape: Circular icon containing tree symbol, vertical layout with text below
+- Typography: Simple, clear uppercase font
+- Color Palette: Bright green background, white circle, brown and green tree
+- Background: Solid lime green
+- Style: Minimalist, modern, eco-friendly
+- Mood: Positive, hopeful, sustainable

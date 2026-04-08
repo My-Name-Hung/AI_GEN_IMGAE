@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tròn được chia thành nhiều phần cong tạo thành hình dạng giống như những lát pizza hoặc các mảnh ghép. Bên cạnh biểu tượng là dòng chữ "PAC PIZZA" được viết bằng font chữ đậm và rõ nét.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn được phân chia thành các phần cong, tạo hiệu ứng động và liên tưởng đến pizza
+- Kiểu chữ: Font chữ sans-serif đậm, góc cạnh, dễ đọc
+- Bảng màu: Màu cam/đỏ cam chủ đạo
+- Nền: Nền trắng/trong suốt
+- Phong cách: Hiện đại, đơn giản, năng động
+- Tông điệu: Thân thiện, năng lượng, ấm áp
+
+---
+
+Visual Description:
+The logo features a circular icon divided into curved segments that resemble pizza slices or puzzle pieces creating a dynamic, segmented pattern. Adjacent to the icon is the text "PAC PIZZA" rendered in bold, clear lettering.
+
+Design Elements:
+- Shape: Circular form divided into curved segments, creating movement and pizza association
+- Typography: Bold sans-serif font, angular and highly legible
+- Color Palette: Primary orange/orange-red color scheme
+- Background: White/transparent background
+- Style: Modern, minimalist, dynamic
+- Mood: Friendly, energetic, warm

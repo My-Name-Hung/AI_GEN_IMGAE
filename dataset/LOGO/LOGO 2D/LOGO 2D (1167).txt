@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ cái "M" lớn màu trắng với hiệu ứng gradient xanh nhạt, được đặt trên nền xanh navy đậm. Phía dưới chữ "M" có các đường cong uốn lượn tạo thành hình dạng giống như sóng nước hoặc gió.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái M stylized với các đường cong động học ở phía dưới
+- Kiểu chữ: Sans-serif đậm, có hiệu ứng chiều sâu và gradient
+- Bảng màu: Xanh navy đậm, trắng, xanh nhạt gradient
+- Nền: Xanh navy đơn sắc
+- Phong cách: Hiện đại, thể thao, năng động
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, tự tin
+
+---
+
+Visual Description:
+The logo features a large white letter "M" with a light blue gradient effect, set against a deep navy blue background. Below the "M" are flowing curved lines that create a wave-like or wind-swept appearance.
+
+Design Elements:
+- Shape: Stylized letter M with dynamic curved elements below
+- Typography: Bold sans-serif with dimensional effects and gradient
+- Color Palette: Deep navy blue, white, light blue gradient
+- Background: Solid navy blue
+- Style: Modern, athletic, dynamic
+- Mood: Strong, professional, confident

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện hình ảnh một vận động viên chạy bộ trong tư thế sprint động lực, được đặt bên trong một khung hình lục giác. Bên cạnh là dòng chữ "GIẢI CHAY LÊ VĂN TẤM" với năm thành lập "TỪ NĂM 1995" bên dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung lục giác bao quanh hình silhouette vận động viên chạy
+- Kiểu chữ: Font chữ in hoa, đậm, rõ ràng và dễ đọc
+- Bảng màu: Đen trắng (monochrome)
+- Nền: Nền trắng sạch
+- Phong cách: Minimalist, thể thao, hiện đại
+- Tông điệu: Năng động, mạnh mẽ, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a silhouette of a runner in a dynamic sprinting pose enclosed within a hexagonal frame. Adjacent to this is the text "GIẢI CHAY LÊ VĂN TẤM" with "TỪ NĂM 1995" positioned below.
+
+Design Elements:
+- Shape: Hexagonal frame containing a runner silhouette
+- Typography: Bold, uppercase, clear and legible sans-serif font
+- Color Palette: Black and white (monochrome)
+- Background: Clean white background
+- Style: Minimalist, athletic, modern
+- Mood: Dynamic, powerful, professional

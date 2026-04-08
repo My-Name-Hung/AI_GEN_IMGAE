@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế tối giản với một khung vuông màu đen đậm trên nền màu vàng cam nhạt. Bên trong khung vuông là tên thương hiệu "Món Ngon Bốn Phương" được sắp xếp theo 4 dòng với font chữ serif thanh lịch, và bên dưới khung có dòng chữ nhỏ "TAP CHI AM THUC".
+
+Yếu tố Thiết kế:
+- Hình dạng: Khung vuông đơn giản, bố cục đối xứng
+- Kiểu chữ: Serif cổ điển, thanh lịch cho tên chính, sans-serif nhỏ cho tagline
+- Bảng màu: Đen và vàng cam nhạt (cream)
+- Nền: Màu vàng cam nhạt đồng nhất
+- Phong cách: Tối giản, hiện đại, tinh tế
+- Tông điệu: Sang trọng, ấm áp, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a minimalist design with a bold black square frame on a light peach/cream colored background. Inside the square frame is the brand name "Món Ngon Bốn Phương" arranged in 4 lines using an elegant serif font, with a small tagline "TAP CHI AM THUC" below the frame.
+
+Design Elements:
+- Shape: Simple square frame, symmetrical layout
+- Typography: Classic serif font for main name, small sans-serif for tagline
+- Color Palette: Black and light peach/cream
+- Background: Solid light peach/cream color
+- Style: Minimalist, modern, refined
+- Mood: Elegant, warm, professional

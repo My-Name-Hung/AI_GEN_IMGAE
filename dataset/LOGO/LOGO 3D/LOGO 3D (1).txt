@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo Rolex được thể hiện trên một khối hình vuông bo góc màu trắng, nổi bật trên nền nâu ấm áp. Biểu tượng vương miện năm cánh màu vàng đặt phía trên chữ "ROLEX" được viết bằng font chữ serif màu đen đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối 3D vuông bo góc với hiệu ứng bóng đổ
+- Kiểu chữ: Font serif truyền thống, đậm đà và trang trọng
+- Bảng màu: Trắng, vàng, đen và nền nâu
+- Nền: Nền gradient màu nâu ấm với bóng đổ tự nhiên
+- Phong cách: Sang trọng, hiện đại, tối giản
+- Tông điệu: Đẳng cấp, quyền uy, tinh tế
+
+---
+
+Visual Description:
+The Rolex logo is displayed on a white rounded square block that stands out against a warm brown background. The iconic five-pointed golden crown sits above the "ROLEX" text written in bold black serif font.
+
+Design Elements:
+- Shape: 3D rounded square block with drop shadow effect
+- Typography: Traditional serif font, bold and dignified
+- Color Palette: White, gold, black with brown background
+- Background: Warm brown gradient with natural drop shadow
+- Style: Luxurious, modern, minimalist
+- Mood: Prestigious, authoritative, refined

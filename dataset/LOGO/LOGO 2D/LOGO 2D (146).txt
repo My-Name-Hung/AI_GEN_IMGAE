@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học phức tạp được tạo thành từ các hình tròn, hình vuông và phần tư hình tròn xếp chồng lên nhau. Bên dưới biểu tượng là tên thương hiệu "antaluca" được viết bằng chữ thường màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Tổ hợp hình học từ các hình tròn, hình vuông và phần tư hình tròn
+- Kiểu chữ: Sans-serif hiện đại, chữ thường, không có serif
+- Bảng màu: Cam, hồng/đỏ san hô, tím, xanh dương, xanh cyan, trắng
+- Nền: Màu xanh navy đậm
+- Phong cách: Hiện đại, tối giản, hình học, gradient
+- Tông điệu: Sáng tạo, năng động, công nghệ, thân thiện
+
+---
+
+Visual Description:
+The logo features a complex geometric icon composed of overlapping circles, squares, and quarter-circles arranged in a modular pattern. Below the icon is the brand name "antaluca" written in lowercase white letters.
+
+Design Elements:
+- Shape: Geometric composition of circles, squares, and quarter-circles
+- Typography: Modern sans-serif, lowercase, clean typeface
+- Color Palette: Orange, coral/pink, purple, blue, cyan, white
+- Background: Dark navy blue
+- Style: Modern, minimalist, geometric, gradient
+- Mood: Creative, dynamic, tech-forward, approachable

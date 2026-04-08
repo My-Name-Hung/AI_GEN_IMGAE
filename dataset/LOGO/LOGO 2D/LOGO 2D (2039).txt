@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có thiết kế đơn giản với biểu tượng hình cây tuyết màu trắng được đặt bên trái. Bên phải biểu tượng là dòng chữ "Vườn Tươi" được viết bằng font chữ thanh thoát, màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng cây tuyết/bông tuyết cách điệu với các nhánh mảnh mai
+- Kiểu chữ: Font chữ serif thanh lịch, có dấu móc và nét mảnh
+- Bảng màu: Trắng trên nền cam vàng ấm áp
+- Nền: Nền đơn sắc màu cam vàng gradient nhẹ
+- Phong cách: Tối giản, thanh lịch, tự nhiên
+- Tông điệu: Ấm áp, tươi mới, tinh tế
+
+---
+
+Visual Description:
+The logo features a simple design with a white snowflake or tree-like symbol positioned on the left side. To the right of the symbol is the text "Vườn Tươi" written in an elegant white font.
+
+Design Elements:
+- Shape: Stylized snowflake/tree symbol with delicate branching elements
+- Typography: Elegant serif font with refined strokes and curves
+- Color Palette: White on warm orange-yellow background
+- Background: Solid orange-yellow with subtle gradient
+- Style: Minimalist, elegant, natural
+- Mood: Warm, fresh, sophisticated

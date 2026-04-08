@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "Freshest fruits" bằng chữ màu cam/đỏ gradient trên nền vàng nhạt. Phía dưới có hình ảnh các loại bánh ngọt được trang trí bằng trái cây tươi như dâu tây, xoài và các loại quả khác, cùng với logo "Lighthouse STUDIO" và "ARTISEE" ở góc dưới.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục hình chữ nhật dọc, text chính ở giữa với hình ảnh minh họa phía dưới
+- Kiểu chữ: Font chữ hiện đại, bo tròn với hiệu ứng gradient từ cam đến đỏ
+- Bảng màu: Vàng nhạt làm nền chính, gradient cam-đỏ cho text, màu sắc tự nhiên của trái cây
+- Nền: Màu vàng nhạt/kem nhẹ nhàng
+- Phong cách: Hiện đại, tươi mới, thực phẩm cao cấp
+- Tông điệu: Tươi mới, hấp dẫn, ngon miệng, cao cấp
+
+---
+
+Visual Description:
+The logo displays "Freshest fruits" text in orange-red gradient lettering on a light yellow background. Below features images of elegant cakes decorated with fresh fruits like strawberries, mangoes and other fruits, along with "Lighthouse STUDIO" and "ARTISEE" logos at the bottom.
+
+Design Elements:
+- Shape: Vertical rectangular layout with centered main text and illustrative imagery below
+- Typography: Modern, rounded font with gradient effect from orange to red
+- Color Palette: Light yellow/cream background, orange-red gradient text, natural fruit colors
+- Background: Soft light yellow/cream tone
+- Style: Modern, fresh, premium food presentation
+- Mood: Fresh, appetizing, delicious, upscale

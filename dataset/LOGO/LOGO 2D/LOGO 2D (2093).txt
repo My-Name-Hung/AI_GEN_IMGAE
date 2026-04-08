@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "HÂN" bằng font chữ đậm màu đỏ, với dấu mũ trên chữ "Â" được nhấn mạnh. Bên dưới là một thanh nền đỏ chứa dòng chữ "CÔNG TY XÂY DỰNG" bằng chữ in hoa màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái đơn giản với thanh chữ nhật ngang
+- Kiểu chữ: Font sans-serif đậm, chữ in hoa
+- Bảng màu: Đỏ và trắng
+- Nền: Nền trắng/trong suốt
+- Phong cách: Tối giản, doanh nghiệp, hiện đại
+- Tông điệu: Mạnh mẽ, chuyên nghiệp, tin cậy
+
+---
+
+Visual Description:
+The logo displays "HÂN" in bold red letters with emphasis on the circumflex accent over "Â". Below is a red rectangular banner containing "CÔNG TY XÂY DỰNG" in white uppercase letters.
+
+Design Elements:
+- Shape: Simple letterforms with horizontal rectangular bar
+- Typography: Bold sans-serif font, uppercase letters
+- Color Palette: Red and white
+- Background: White/transparent background
+- Style: Minimalist, corporate, modern
+- Mood: Strong, professional, trustworthy

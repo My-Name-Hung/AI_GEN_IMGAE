@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Đây là poster quảng cáo cho chương trình Sunday Brunch của khách sạn Wonders, có logo thương hiệu ở phía trên. Logo hiển thị tên "WONDERS" bằng chữ in hoa màu đỏ nâu với biểu tượng tòa nhà đơn giản phía trên.
+
+Yếu tố Thiết kế:
+- Hình dạng: Logo chữ với biểu tượng tòa nhà có các đường thẳng đứng
+- Kiểu chữ: Chữ sans-serif in hoa, phong cách hiện đại
+- Bảng màu: Đỏ nâu/burgundy cho chữ và biểu tượng
+- Nền: Nền trắng
+- Phong cách: Tối giản, chuyên nghiệp, hiện đại
+- Tông điệu: Sang trọng, đáng tin cậy, chuyên nghiệp
+
+---
+
+Visual Description:
+This is a promotional poster for Sunday Brunch at Wonders hotel, featuring the brand logo at the top. The logo displays "WONDERS" in burgundy capital letters with a simple building icon above it.
+
+Design Elements:
+- Shape: Text-based logo with architectural building symbol featuring vertical lines
+- Typography: Sans-serif uppercase typeface, modern style
+- Color Palette: Burgundy/dark red for text and icon
+- Background: White background
+- Style: Minimalist, professional, contemporary
+- Mood: Elegant, trustworthy, professional

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một quả bóng đá đen trắng truyền thống được đặt bên trái, kế bên là chữ "Thành Vinh" và dòng chữ nhỏ hơn "CÂU LẠC BỘ BÓNG ĐÁ" bên dưới. Toàn bộ logo được bố trí trên nền màu tím đậm tạo sự nổi bật cho các yếu tố trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình tròn (bóng đá) kết hợp với layout ngang
+- Kiểu chữ: Font chữ sans-serif hiện đại, màu trắng
+- Bảng màu: Tím đậm, đen, trắng
+- Nền: Màu tím đậm (purple)
+- Phong cách: Tối giản, thể thao, hiện đại
+- Tông điệu: Chuyên nghiệp, năng động, mạnh mẽ
+
+---
+
+Visual Description:
+The logo features a traditional black and white soccer ball positioned on the left, alongside the text "Thành Vinh" and smaller text "CÂU LẠC BỘ BÓNG ĐÁ" below it. The entire logo is arranged on a deep purple background that makes the white elements stand out prominently.
+
+Design Elements:
+- Shape: Circular (soccer ball) combined with horizontal layout
+- Typography: Modern sans-serif font in white
+- Color Palette: Deep purple, black, white
+- Background: Deep purple
+- Style: Minimalist, athletic, modern
+- Mood: Professional, dynamic, strong

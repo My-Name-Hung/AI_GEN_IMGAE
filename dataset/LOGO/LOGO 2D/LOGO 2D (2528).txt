@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình tròn với các đường nét trang trí phức tạp tạo thành hoa văn đối xứng giống như hoa sen cách điệu. Phía dưới là tên thương hiệu "Khách sạn Trang" được viết bằng font chữ thanh lịch, kèm theo dòng chữ nhỏ "TỪ NAM 2010".
+
+Yếu tố Thiết kế:
+- Hình dạng: Icon tròn với họa tiết hoa sen cách điệu, có các đường nét đối xứng tỏa ra từ trung tâm
+- Kiểu chữ: Font serif thanh lịch, sang trọng cho tên chính, font sans-serif nhỏ cho thông tin phụ
+- Bảng màu: Vàng đồng/vàng kim trên nền xanh đậm
+- Nền: Nền xanh đậm (dark teal)
+- Phong cách: Cổ điển, sang trọng, truyền thống Á Đông
+- Tông điệu: Lịch lãm, uy tín, cao cấp
+
+---
+
+Visual Description:
+The logo features a circular icon with intricate decorative lines forming a symmetrical pattern resembling a stylized lotus flower. Below is the brand name "Khách sạn Trang" written in elegant typography, accompanied by the small text "TỪ NAM 2010".
+
+Design Elements:
+- Shape: Circular icon with stylized lotus motif featuring symmetrical lines radiating from the center
+- Typography: Elegant serif font for main name, small sans-serif for supplementary information
+- Color Palette: Gold/bronze on dark teal background
+- Background: Dark teal
+- Style: Classic, luxury, traditional Asian
+- Mood: Elegant, prestigious, upscale

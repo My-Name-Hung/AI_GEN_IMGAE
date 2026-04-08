@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo thể hiện một khối hình học ba chiều màu trắng với các cạnh bo tròn, được đặt nghiêng trên nền xanh dương. Trên bề mặt khối có một biểu tượng đen hình chữ thập được cắt xuyên qua, tạo hiệu ứng âm bản độc đáo.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông bo góc 3D nghiêng với hiệu ứng đổ bóng
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Trắng, đen và xanh dương
+- Nền: Nền xanh dương gradient với bóng đổ
+- Phong cách: Hiện đại, tối giản, 3D
+- Tông điệu: Chuyên nghiệp, sạch sẽ, công nghệ
+
+---
+
+Visual Description:
+The logo features a white three-dimensional rounded square block positioned at an angle against a blue background. A black cross-like symbol is cut through the surface of the block, creating a distinctive negative space effect.
+
+Design Elements:
+- Shape: 3D rounded square block tilted with shadow effect
+- Typography: None (icon only)
+- Color Palette: White, black, and blue
+- Background: Blue gradient background with drop shadow
+- Style: Modern, minimalist, 3D
+- Mood: Professional, clean, technological

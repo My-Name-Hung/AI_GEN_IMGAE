@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng bên trái và văn bản "HighLow" bên phải. Biểu tượng được tạo thành từ các hình tam giác và hình vuông chồng lên nhau với hiệu ứng gradient từ hồng magenta sang cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học trừu tượng kết hợp tam giác và vuông, kiểu chữ sans-serif đậm
+- Kiểu chữ: Sans-serif hiện đại, đậm, chữ thường với chữ cái đầu viết hoa
+- Bảng màu: Gradient từ hồng magenta sang cam cho biểu tượng, xanh navy đậm cho văn bản
+- Nền: Trắng sạch
+- Phong cách: Hiện đại, tối giản, hình học
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo consists of an abstract geometric icon on the left and the text "HighLow" on the right. The icon is formed by overlapping triangular and square shapes with a gradient effect from magenta pink to orange.
+
+Design Elements:
+- Shape: Abstract geometric icon combining triangles and squares, bold sans-serif typography
+- Typography: Modern sans-serif, bold weight, lowercase with initial capitals
+- Color Palette: Magenta to orange gradient for icon, dark navy blue for text
+- Background: Clean white
+- Style: Modern, minimalist, geometric
+- Mood: Professional, dynamic, technological

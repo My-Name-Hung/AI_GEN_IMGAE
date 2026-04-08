@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị văn bản "Tellus" bằng chữ màu trắng được đặt bên trong một hình chữ nhật bo góc màu xanh dương. Logo có thiết kế đơn giản và rõ ràng với phông chữ hiện đại.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình chữ nhật bo góc làm nền
+- Kiểu chữ: Phông chữ sans-serif hiện đại, in thường
+- Bảng màu: Xanh dương và trắng
+- Nền: Nền xanh dương đồng nhất
+- Phong cách: Tối giản, hiện đại, sạch sẽ
+- Tông điệu: Chuyên nghiệp, đáng tin cậy, thân thiện
+
+---
+
+Visual Description:
+The logo displays the text "Tellus" in white letters placed within a rounded rectangular blue background. The logo features a clean and clear design with modern typography.
+
+Design Elements:
+- Shape: Rounded rectangular background
+- Typography: Modern sans-serif font, lowercase
+- Color Palette: Blue and white
+- Background: Solid blue background
+- Style: Minimalist, modern, clean
+- Mood: Professional, trustworthy, approachable

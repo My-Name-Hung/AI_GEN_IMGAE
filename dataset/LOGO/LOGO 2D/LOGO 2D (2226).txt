@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "BAN MAI CÀ PHÊ" được sắp xếp thành hai hàng với kiểu chữ in hoa đơn giản. Văn bản có màu trắng nổi bật trên nền đen tối tạo độ tương phản cao.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục chữ hình chữ nhật, sắp xếp thành hai hàng
+- Kiểu chữ: Sans-serif hiện đại, in hoa, khoảng cách chữ rộng
+- Bảng màu: Trắng và đen
+- Nền: Đen đồng nhất
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Sang trọng, tinh tế, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the text "BAN MAI CÀ PHÊ" arranged in two lines with simple uppercase lettering. The white text stands out prominently against a dark black background creating high contrast.
+
+Design Elements:
+- Shape: Rectangular text layout arranged in two lines
+- Typography: Modern sans-serif, uppercase, wide letter spacing
+- Color Palette: White and black
+- Background: Solid black
+- Style: Minimalist, modern, elegant
+- Mood: Sophisticated, refined, professional

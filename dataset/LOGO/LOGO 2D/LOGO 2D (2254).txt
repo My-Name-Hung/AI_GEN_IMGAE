@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có biểu tượng trái tim màu trắng với đường nhịp tim chạy qua giữa, đặt trên nền đỏ. Bên dưới là dòng chữ "BÌNH AN" và "CHĂM SÓC SỨC KHỎE" được sắp xếp theo hai hàng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng trái tim kết hợp với đường nhịp tim (ECG)
+- Kiểu chữ: Font chữ in hoa, sans-serif, đậm, rõ ràng
+- Bảng màu: Đỏ chủ đạo và trắng
+- Nền: Nền đỏ đậm phẳng
+- Phong cách: Tối giản, y tế, chuyên nghiệp
+- Tông điệu: Tin cậy, chăm sóc, sức khỏe
+
+---
+
+Visual Description:
+The logo features a white heart icon with a heartbeat/ECG line running through its center, set against a red background. Below the symbol is the text "BÌNH AN" and "CHĂM SÓC SỨC KHỎE" arranged in two lines.
+
+Design Elements:
+- Shape: Heart symbol combined with heartbeat/ECG line
+- Typography: Bold, uppercase sans-serif font, clear and readable
+- Color Palette: Dominant red and white
+- Background: Solid deep red background
+- Style: Minimalist, medical, professional
+- Mood: Trustworthy, caring, health-focused

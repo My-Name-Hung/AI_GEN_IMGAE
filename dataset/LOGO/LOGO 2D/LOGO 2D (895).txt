@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một biểu tượng hình học trừu tượng ở bên trái với các màu gradient từ cam đến xanh dương và tím. Bên cạnh là chữ "Banxai" được viết bằng font chữ đậm, hiện đại với màu xanh navy đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học đa giác với các mảnh ghép gradient
+- Kiểu chữ: Sans-serif đậm, hiện đại, chữ thường
+- Bảng màu: Gradient cam, xanh dương, tím và xanh navy đậm
+- Nền: Trắng sạch
+- Phong cách: Hiện đại, tối giản, gradient trendy
+- Tông điệu: Năng động, công nghệ, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features an abstract geometric icon on the left with gradient colors transitioning from orange to blue and purple. Next to it is the text "Banxai" rendered in bold, modern typography in dark navy blue.
+
+Design Elements:
+- Shape: Abstract polygonal geometric icon with gradient fragments
+- Typography: Bold, modern sans-serif, lowercase lettering
+- Color Palette: Orange to blue to purple gradient with dark navy blue text
+- Background: Clean white
+- Style: Modern, minimalist, trendy gradient design
+- Mood: Dynamic, technological, professional

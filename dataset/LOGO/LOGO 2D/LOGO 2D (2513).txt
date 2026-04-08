@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "MAI ANH" bằng chữ in hoa màu trắng trên nền đỏ tươi. Phía trên góc phải có biểu tượng định vị màu trắng, và bên dưới có dòng chữ nhỏ "NHẬT KÝ DU LỊCH".
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ cái in hoa đơn giản với icon định vị tròn
+- Kiểu chữ: Sans-serif hiện đại, gọn gàng, dễ đọc
+- Bảng màu: Đỏ tươi làm nền chính, trắng cho chữ và icon
+- Nền: Màu đỏ đậm đồng nhất
+- Phong cách: Tối giản, hiện đại, rõ ràng
+- Tông điệu: Năng động, thu hút, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the brand name "MAI ANH" in white uppercase letters on a bright red background. There's a white location pin icon in the upper right corner, and below the main text is smaller text reading "NHẬT KÝ DU LỊCH".
+
+Design Elements:
+- Shape: Simple uppercase letters with circular location pin icon
+- Typography: Modern sans-serif, clean and readable
+- Color Palette: Bright red background with white text and icon
+- Background: Solid deep red
+- Style: Minimalist, modern, clean
+- Mood: Dynamic, eye-catching, professional

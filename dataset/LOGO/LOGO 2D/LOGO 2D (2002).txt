@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo bao gồm một hình vuông có đường viền đen với một ngôi nhà nhỏ đơn giản bên trong, được đặt ở góc dưới bên phải của hình vuông. Bên dưới logo là tên "Đặng Quang Huy" với dòng chữ phụ "Kiến trúc sư".
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình vuông có viền với biểu tượng ngôi nhà đơn giản
+- Kiểu chữ: Font chữ hiện đại, đậm cho tên chính và mảnh hơn cho chức danh
+- Bảng màu: Đen trắng (monochrome)
+- Nền: Nền xám nhạt
+- Phong cách: Tối giản, hiện đại, geometric
+- Tông điệu: Chuyên nghiệp, thanh lịch, đơn giản
+
+---
+
+Visual Description:
+The logo features a black-outlined square with a simple small house icon positioned in the lower right corner inside the square. Below the logo is the name "Đặng Quang Huy" with the subtitle "Kiến trúc sư" (Architect).
+
+Design Elements:
+- Shape: Square frame with simple house symbol
+- Typography: Modern font, bold for main name and lighter for subtitle
+- Color Palette: Black and white (monochrome)
+- Background: Light gray background
+- Style: Minimalist, modern, geometric
+- Mood: Professional, elegant, clean

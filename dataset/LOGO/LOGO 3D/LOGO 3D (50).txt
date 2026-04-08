@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo FedEx được hiển thị trên một khối hình vuông bo tròn màu trắng với hiệu ứng 3D. Tên thương hiệu "FedEx" được viết với phần "Fed" màu tím và "Ex" màu cam, tạo nên sự tương phản màu sắc đặc trưng của thương hiệu vận chuyển nổi tiếng này.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông bo góc 3D màu trắng
+- Kiểu chữ: Font chữ sans-serif đậm, hiện đại
+- Bảng màu: Tím, cam, trắng trên nền tím đậm
+- Nền: Gradient tím từ đậm đến nhạt
+- Phong cách: 3D hiện đại, tối giản, công nghệ
+- Tông điệu: Chuyên nghiệp, năng động, đáng tin cậy
+
+---
+
+Visual Description:
+The FedEx logo is displayed on a white rounded square block with a 3D effect. The brand name "FedEx" is written with "Fed" in purple and "Ex" in orange, creating the characteristic color contrast of this famous shipping brand.
+
+Design Elements:
+- Shape: 3D rounded square block in white
+- Typography: Bold, modern sans-serif font
+- Color Palette: Purple, orange, white on deep purple background
+- Background: Purple gradient from dark to light
+- Style: 3D modern, minimalist, tech-inspired
+- Mood: Professional, dynamic, trustworthy

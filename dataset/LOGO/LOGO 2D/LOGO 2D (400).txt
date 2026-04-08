@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị từ "pintor" được thiết kế bằng các khối màu xanh dương với lô cọn sơn có cán màu cam/vàng nằm chéo qua chữ. Có thêm chữ "parabéns" viết tay màu vàng và logo "casa das tintas" ở góc trên bên trái.
+
+Yếu tố Thiết kế:
+- Hình dạng: Kiểu chữ khối kết hợp với hình cọn sơn thực tế
+- Kiểu chữ: Font sans-serif đậm cho chữ chính, chữ viết tay cho "parabéns"
+- Bảng màu: Xanh dương đậm và nhạt, cam/vàng, trắng
+- Nền: Nền trắng sạch
+- Phong cách: Hiện đại, sáng tạo, minh họa thực tế
+- Tông điệu: Chuyên nghiệp, năng động, thân thiện
+
+---
+
+Visual Description:
+The logo displays the word "pintor" designed with blue color blocks, featuring a paint roller with an orange/yellow handle positioned diagonally across the text. Additional elements include handwritten yellow text "parabéns" and the "casa das tintas" logo in the top left corner.
+
+Design Elements:
+- Shape: Block typography combined with realistic paint roller illustration
+- Typography: Bold sans-serif for main text, handwritten script for "parabéns"
+- Color Palette: Dark and light blue, orange/yellow, white
+- Background: Clean white background
+- Style: Modern, creative, realistic illustration
+- Mood: Professional, dynamic, friendly

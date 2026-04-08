@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "NỘI THẤT BẮC ÂU" bằng font chữ in hoa màu trắng, được sắp xếp thành ba dòng trên nền màu be/nâu nhạt. Bên dưới có dòng chữ nhỏ hơn "NHÀ XINH" cũng màu trắng.
+
+Yếu tố Thiết kế:
+- Hình dạng: Layout chữ căn giữa, sắp xếp theo khối hình chữ nhật
+- Kiểu chữ: Font chữ in hoa hiện đại, có serif nhẹ, khoảng cách chữ rộng
+- Bảng màu: Màu trắng trên nền be/nâu vàng ấm áp
+- Nền: Nền đơn sắc màu be/nâu nhạt
+- Phong cách: Tối giản, hiện đại, thanh lịch
+- Tông điệu: Ấm áp, sang trọng, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays "NỘI THẤT BẮC ÂU" in white uppercase letters arranged in three lines on a warm beige/tan background. Below it is smaller text "NHÀ XINH" also in white.
+
+Design Elements:
+- Shape: Centered text layout arranged in rectangular block format
+- Typography: Modern uppercase font with subtle serif details and wide letter spacing
+- Color Palette: White text on warm beige/tan background
+- Background: Solid warm beige/tan color
+- Style: Minimalist, modern, elegant
+- Mood: Warm, sophisticated, professional

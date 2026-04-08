@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị ba thanh màu sắc khác nhau được sắp xếp theo dạng biểu đồ cột với màu cam, vàng và xanh lam từ trái sang phải. Phía trên các thanh màu có một biểu tượng máy bay nhỏ màu trắng, kèm theo văn bản "Gastro Pomoc" bên cạnh.
+
+Yếu tố Thiết kế:
+- Hình dạng: Ba thanh hình chữ nhật dọc tạo thành biểu đồ cột, có biểu tượng máy bay nhỏ
+- Kiểu chữ: Sans-serif hiện đại, in đậm cho "Gastro", thường cho "Pomoc"
+- Bảng màu: Cam, vàng, xanh lam, trắng cho máy bay và chữ
+- Nền: Màu xanh teal đậm
+- Phong cách: Hiện đại, tối giản, biểu tượng hóa
+- Tông điệu: Chuyên nghiệp, năng động, thân thiện
+
+---
+
+Visual Description:
+The logo displays three colored bars arranged in a chart-like formation with orange, yellow, and blue colors from left to right. Above the bars is a small white airplane icon, accompanied by the text "Gastro Pomoc" alongside.
+
+Design Elements:
+- Shape: Three vertical rectangular bars forming a bar chart with a small airplane icon
+- Typography: Modern sans-serif, bold for "Gastro", regular for "Pomoc"
+- Color Palette: Orange, yellow, blue, white for airplane and text
+- Background: Dark teal green
+- Style: Modern, minimalist, symbolic
+- Mood: Professional, dynamic, approachable

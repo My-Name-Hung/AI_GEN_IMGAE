@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị tên thương hiệu "CÀ PHÊ RANG" với dòng chữ phụ "THOM NGON" ở giữa, được bao quanh bởi các từ "CÀ PHÊ" ở trên và "CAO CẤP" ở dưới theo hình vòng cung. Toàn bộ thiết kế được sắp xếp đối xứng trên nền màu nâu đậm.
+
+Yếu tố Thiết kế:
+- Hình dạng: Bố cục hình tròn với văn bản được sắp xếp theo vòng cung
+- Kiểu chữ: Font chữ hiện đại, không chân, màu trắng cho text chính và màu cam cho text phụ
+- Bảng màu: Nâu đậm, trắng, và cam/vàng cam
+- Nền: Nền màu nâu đậm đồng nhất
+- Phong cách: Hiện đại, tối giản, thanh lịch
+- Tông điệu: Ấm áp, sang trọng, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays the brand name "CÀ PHÊ RANG" with the tagline "THOM NGON" in the center, surrounded by "CÀ PHÊ" at the top and "CAO CẤP" at the bottom in curved arcs. The entire design is symmetrically arranged on a dark brown background.
+
+Design Elements:
+- Shape: Circular layout with text arranged in curved arcs
+- Typography: Modern, sans-serif font with white main text and orange accent text
+- Color Palette: Dark brown, white, and orange/amber
+- Background: Solid dark brown background
+- Style: Modern, minimalist, elegant
+- Mood: Warm, premium, professional

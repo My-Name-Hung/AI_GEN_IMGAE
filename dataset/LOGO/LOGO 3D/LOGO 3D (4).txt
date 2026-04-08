@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị chữ "Bē" màu xanh dương in đậm trên một khối 3D màu trắng có góc bo tròn. Khối logo có hiệu ứng đổ bóng và được đặt nghiêng một góc, tạo cảm giác nổi bật và năng động.
+
+Yếu tố Thiết kế:
+- Hình dạng: Khối vuông 3D bo góc tròn, nghiêng góc
+- Kiểu chữ: Sans-serif hiện đại, in đậm, có dấu trọng âm
+- Bảng màu: Xanh dương chủ đạo, trắng, với hiệu ứng gradient xanh
+- Nền: Gradient xanh dương từ sáng đến đậm
+- Phong cách: 3D hiện đại, tối giản, isometric
+- Tông điệu: Chuyên nghiệp, năng động, công nghệ
+
+---
+
+Visual Description:
+The logo displays the text "Bē" in bold blue letters on a white 3D rounded square block. The logo block features drop shadow effects and is positioned at an angle, creating a prominent and dynamic appearance.
+
+Design Elements:
+- Shape: 3D rounded square block, angled perspective
+- Typography: Modern sans-serif, bold weight, with accent mark
+- Color Palette: Dominant blue, white, with blue gradient effects
+- Background: Blue gradient from light to dark
+- Style: Modern 3D, minimalist, isometric
+- Mood: Professional, dynamic, technological

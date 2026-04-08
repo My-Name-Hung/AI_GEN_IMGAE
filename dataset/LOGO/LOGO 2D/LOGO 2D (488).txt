@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có chữ "Nutri" được viết bằng phông chữ thảo nghiêng màu trắng với đường viền xanh lá cây. Bên cạnh có chữ "PHARM" nhỏ hơn màu xanh lá và một chiếc lá xanh trang trí ở cuối từ "Nutri".
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ viết thảo cong mềm mại với yếu tố lá tự nhiên
+- Kiểu chữ: Chữ thảo nghiêng cho "Nutri", chữ in hoa đơn giản cho "PHARM"
+- Bảng màu: Xanh lá cây đậm, xanh lá nhạt và trắng
+- Nền: Trong suốt
+- Phong cách: Tự nhiên, thân thiện, hiện đại
+- Tông điệu: Tươi mới, khỏe mạnh, tin cậy
+
+---
+
+Visual Description:
+The logo features "Nutri" in white cursive script lettering with green outlines. Next to it is smaller text reading "PHARM" in green, and a decorative green leaf element extends from the end of "Nutri".
+
+Design Elements:
+- Shape: Flowing cursive lettering with organic leaf element
+- Typography: Cursive script for "Nutri", simple sans-serif capitals for "PHARM"
+- Color Palette: Dark green, light green, and white
+- Background: Transparent
+- Style: Natural, friendly, modern
+- Mood: Fresh, healthy, trustworthy

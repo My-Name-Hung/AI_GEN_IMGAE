@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một biểu tượng hình học màu xanh lá cây sáng ở bên trái, có hình dạng góc cạnh giống như một mảnh ghép puzzle hoặc hình khối 3D. Bên phải là dòng chữ "soccer tickets" được viết bằng font chữ hiện đại, màu trắng trên nền xanh lá cây.
+
+Yếu tố Thiết kế:
+- Hình dạng: Biểu tượng hình học góc cạnh, giống mảnh ghép puzzle 3D
+- Kiểu chữ: Font sans-serif hiện đại, gọn gàng, chữ thường
+- Bảng màu: Xanh lá cây sáng và trắng
+- Nền: Xanh lá cây đậm có texture sân cỏ
+- Phong cách: Hiện đại, tối giản, thể thao
+- Tông điệu: Năng động, chuyên nghiệp, thân thiện
+
+---
+
+Visual Description:
+The logo features a bright green geometric icon on the left that resembles an angular puzzle piece or 3D block shape. To the right is the text "soccer tickets" written in a modern white font against a green background.
+
+Design Elements:
+- Shape: Angular geometric icon resembling a 3D puzzle piece
+- Typography: Modern sans-serif font, clean and lowercase
+- Color Palette: Bright green and white
+- Background: Dark green with grass field texture
+- Style: Modern, minimalist, sports-oriented
+- Mood: Dynamic, professional, approachable

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo có dạng chữ "R" được stylize với các đường cong mềm mại và gradient màu sắc. Phần thân chữ R có màu gradient từ xanh cyan sang xanh dương đậm, trong khi phần chân xiên có màu gradient từ cam sang đỏ cam.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ R cách điệu với đường cong mềm mại, hiện đại
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient xanh cyan, xanh dương, cam và đỏ cam
+- Nền: Trắng/trong suốt
+- Phong cách: Hiện đại, tối giản, gradient
+- Tông điệu: Năng động, công nghệ, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo features a stylized letter "R" with smooth, flowing curves and vibrant gradient colors. The main body of the R transitions from cyan to deep blue, while the diagonal leg displays a gradient from orange to red-orange.
+
+Design Elements:
+- Shape: Stylized letter R with smooth curves and modern form
+- Typography: None (icon only)
+- Color Palette: Gradient of cyan, blue, orange, and red-orange
+- Background: White/transparent
+- Style: Modern, minimalist, gradient design
+- Mood: Dynamic, tech-forward, professional

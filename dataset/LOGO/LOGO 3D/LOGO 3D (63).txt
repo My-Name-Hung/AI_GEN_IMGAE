@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị biểu tượng Pinterest nổi tiếng với chữ "P" màu đỏ được thiết kế như một chiếc ghim (pin) đặt trong hình cầu màu trắng. Toàn bộ logo có hiệu ứng 3D với độ bóng và đổ bóng tạo cảm giác chiều sâu.
+
+Yếu tố Thiết kế:
+- Hình dạng: Hình cầu 3D chứa biểu tượng ghim chữ P cách điệu
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Đỏ cam và trắng
+- Nền: Nền tím nhạt với hiệu ứng gradient
+- Phong cách: 3D, hiện đại, tối giản
+- Tông điệu: Sáng tạo, thân thiện, năng động
+
+---
+
+Visual Description:
+The logo displays the famous Pinterest icon with a red "P" designed like a pin placed within a white sphere. The entire logo has a 3D effect with shine and shadow creating a sense of depth.
+
+Design Elements:
+- Shape: 3D sphere containing stylized pin-shaped P icon
+- Typography: None (icon only)
+- Color Palette: Red-orange and white
+- Background: Light purple background with gradient effect
+- Style: 3D, modern, minimalist
+- Mood: Creative, friendly, dynamic

@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị một vòng tròn màu tím gradient bị ngắt quãng, tạo thành hình chữ "G" cách điệu hoặc biểu tượng tái chế. Biểu tượng có một mũi tên nhỏ hướng vào trong ở phần trên, tạo cảm giác động và liên tục.
+
+Yếu tố Thiết kế:
+- Hình dạng: Vòng tròn bị ngắt quãng với mũi tên, tạo thành ký tự "G" hoặc biểu tượng tái chế
+- Kiểu chữ: Không có (chỉ icon)
+- Bảng màu: Gradient tím từ tím nhạt đến tím đậm trên nền xanh cyan
+- Nền: Xanh cyan sáng, phẳng
+- Phong cách: Hiện đại, tối giản, gradient, hình học
+- Tông điệu: Năng động, công nghệ, sáng tạo, chuyên nghiệp
+
+---
+
+Visual Description:
+The logo displays a purple gradient circular ring with a break, forming a stylized "G" or recycling symbol. The symbol features a small inward-pointing arrow at the top, creating a sense of movement and continuity.
+
+Design Elements:
+- Shape: Broken circular ring with arrow, forming letter "G" or recycling symbol
+- Typography: None (icon only)
+- Color Palette: Purple gradient from light to dark purple on cyan background
+- Background: Bright cyan, flat
+- Style: Modern, minimalist, gradient, geometric
+- Mood: Dynamic, technological, creative, professional

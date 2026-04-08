@@ -1,0 +1,23 @@
+Mô tả Hình ảnh:
+Logo hiển thị dòng chữ "on2Wheels" với phông chữ táo bạo, kèm theo hình ảnh bánh xe nhỏ ở cuối. Các đường kẻ tốc độ ở phía sau tạo cảm giác chuyển động và tốc độ.
+
+Yếu tố Thiết kế:
+- Hình dạng: Chữ nghiêng với đường kẻ tốc độ và biểu tượng bánh xe
+- Kiểu chữ: Phông chữ sans-serif táo bạo, in hoa
+- Bảng màu: Đen trắng trên nền đỏ tươi
+- Nền: Màu đỏ đồng nhất
+- Phong cách: Thể thao, năng động, hiện đại
+- Tông điệu: Mạnh mẽ, tốc độ, phấn khích
+
+---
+
+Visual Description:
+The logo features "on2Wheels" text in bold lettering with a small wheel icon at the end. Speed lines behind the text create a sense of motion and velocity.
+
+Design Elements:
+- Shape: Italicized text with speed lines and wheel symbol
+- Typography: Bold sans-serif font in uppercase
+- Color Palette: Black and white on bright red
+- Background: Solid red
+- Style: Sporty, dynamic, modern
+- Mood: Bold, speed, excitement
