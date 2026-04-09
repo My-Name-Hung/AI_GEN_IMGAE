@@ -271,7 +271,8 @@ def train_lora(
                     encoder_hidden_states = text_encoder(tokens.input_ids)[0]
                     added_cond_kwargs = None
 
-            with amp_ctx():
+            from torch.cuda.amp import autocast
+  		with autocast():
                 if is_sdxl:
                     model_pred = unet(
                         noisy_latents,
