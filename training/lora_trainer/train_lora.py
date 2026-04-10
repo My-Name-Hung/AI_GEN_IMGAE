@@ -29,18 +29,6 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def _is_p100_or_old_gpu() -> bool:
-    """Kiểm tra GPU có phải P100 (sm_60) — không tương thích với PyTorch CUDA hiện tại."""
-    if not torch.cuda.is_available():
-        return False
-    try:
-        cap = torch.cuda.get_device_capability()
-        sm = cap[0] * 10 + cap[1]  # ví dụ (6,0) → 60
-        return sm < 70
-    except Exception:
-        return False
-
-
 def _collate_captions(batch):
     pixel_values = torch.stack([item["pixel_values"] for item in batch])
     captions = [item["caption"] for item in batch]
@@ -123,23 +111,6 @@ def train_lora(
     allow_cpu: bool = False,
 ):
     """Train LoRA for Stable Diffusion (Kaggle-safe defaults)."""
-    if _is_p100_or_old_gpu():
-        logger.warning(
-            "Tesla P100 (sm_60) detected. PyTorch CUDA hiện tại không hỗ trợ sm_60. "
-            "Chuyển sang CPU mode để training tiếp."
-        )
-        logger.warning(
-            "Training trên CPU sẽ rất chậm (~1-2 giờ/epoch) nhưng sẽ hoàn thành đúng. "
-            "Nếu cần nhanh, hãy dùng Kaggle GPU T4/P100 với PyTorch CUDA 12.x."
-        )
-        # Ép CPU mode
-        for k in list(os.environ.keys()):
-            if k.startswith("CUDA"):
-                del os.environ[k]
-        torch.cuda.is_available = lambda: False  # type: ignore
-        device = "cpu"
-        allow_cpu = True  # override để cho phép train trên CPU
-
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
@@ -153,7 +124,7 @@ def train_lora(
             "If you still want CPU mode, pass --allow_cpu (very slow, high RAM)."
         )
 
-    dtype = torch.float32 if device == "cpu" else torch.float16
+    dtype = torch.float16 if device == "cuda" else torch.float32
 
     logger.info("Loading model: %s", model_name)
     pipeline = AutoPipelineForText2Image.from_pretrained(
@@ -211,8 +182,8 @@ def train_lora(
     train_losses = []
 
     use_amp = device == "cuda"
-    amp_ctx = torch.amp.autocast(device_type="cuda") if use_amp else nullcontext
-    scaler = torch.amp.GradScaler("cuda", enabled=use_amp)
+    amp_ctx = torch.cuda.amp.autocast if use_amp else nullcontext
+    scaler = torch.cuda.amp.GradScaler(enabled=use_amp)
 
     for epoch in range(num_epochs):
         unet.train()
@@ -271,8 +242,7 @@ def train_lora(
                     encoder_hidden_states = text_encoder(tokens.input_ids)[0]
                     added_cond_kwargs = None
 
-            from torch.cuda.amp import autocast
-  		with autocast():
+            with amp_ctx():
                 if is_sdxl:
                     model_pred = unet(
                         noisy_latents,
