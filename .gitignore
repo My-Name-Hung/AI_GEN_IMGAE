@@ -73,13 +73,11 @@ env/
 *.tiff
 
 # Common data/output dirs
-outputs/
 logs/
 artifacts/
 cache/
 .tmp/
 frontend/
-outputs/lora_poster/
 # If you want to keep folder structure, place .gitkeep in them
 !outputs/.gitkeep
 
