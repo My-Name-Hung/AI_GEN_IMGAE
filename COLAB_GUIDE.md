@@ -40,7 +40,7 @@ cd /content/AI_GEN
 
 ## BƯỚC 2: Mở notebook Colab
 
-1. Mở file `colab_backend.ipynb` trong repo
+1. Mở file `colab_backend.ipynb` trong repo (đã cải tiến v2)
 2. Upload lên Google Colab
 3. Chọn **Runtime → Change runtime type → GPU T4**
 
@@ -127,6 +127,33 @@ Upload thư mục `outputs/` lên Google Drive:
 ```
 
 Backend sẽ tự động discover LoRA adapters.
+
+---
+
+## Khắc phục lỗi thường gặp
+
+### ❌ Colab bị disconnect liên tục
+- **Nguyên nhân:** Không tương tác với Colab quá lâu
+- **Giải pháp:** Dùng **Colab Advanced** (tab Chrome mới) hoặc Colab Pro
+
+### ❌ Backend không chạy (trang trắng ngrok)
+- **Nguyên nhân:** Server bị crash trước khi ngrok tunnel mở, HOẶC port 8000 bị block
+- **Giải pháp:**
+  1. Kill tất cả process cũ: `!pkill -f uvicorn`
+  2. Restart cell 7 (backend)
+  3. Xem log: `!tail -50 /content/drive/MyDrive/AI_GEN/backend.log`
+
+### ❌ Lỗi CORS (dù đã fix)
+- **Nguyên nhân:** File `main.py` trên Colab chưa được cập nhật CORS fix
+- **Giải pháp:** Chạy **Cell 6 (Fix CORS)** → restart backend
+
+### ❌ Model load MemoryError
+- **Nguyên nhân:** GPU T4 Colab hết RAM
+- **Giải pháp:** Thử lại, thường là tạm thời do RAM bị chiếm bởi process khác
+
+### ❌ `git clone` bị lỗi
+- **Nguyên nhân:** URL sai hoặc chưa thay YOUR_USERNAME
+- **Giải pháp:** Đảm bảo dùng URL đúng: `https://github.com/YOUR_USERNAME/AI_GEN.git`
 
 ---
 
