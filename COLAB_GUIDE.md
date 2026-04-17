@@ -26,21 +26,21 @@ Chạy backend AI Designer trên **Google Colab** (GPU T4 miễn phí) kết n�
 
 ### Option A: Clone từ GitHub (khuyến nghị)
 ```
-# Clone repo lên Google Drive
-!git clone https://github.com/YOUR_USERNAME/AI_GEN.git /content/AI_GEN
-cd /content/AI_GEN
+# Clone repo lên Google Drive (THƯ MỤC: AI_GEN_IMAGE)
+!git clone https://github.com/YOUR_USERNAME/AI_GEN.git /content/drive/MyDrive/AI_GEN_IMAGE
+cd /content/drive/MyDrive/AI_GEN_IMAGE
 ```
 
 ### Option B: Upload thủ công
 1. Nén thư mục `app/` và `requirements.txt` thành ZIP
 2. Upload lên Google Drive
-3. Trong Colab: Mount Drive → giải nén
+3. Trong Colab: Mount Drive → giải nén vào `/content/drive/MyDrive/AI_GEN_IMAGE`
 
 ---
 
 ## BƯỚC 2: Mở notebook Colab
 
-1. Mở file `colab_backend.ipynb` trong repo (đã cải tiến v2)
+1. Mở file `colab_backend.ipynb` trong repo (phiên bản **v3** — dùng `nohup` không bị kill)
 2. Upload lên Google Colab
 3. Chọn **Runtime → Change runtime type → GPU T4**
 
