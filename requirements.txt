@@ -9,6 +9,10 @@ peft==0.12.0
 safetensors>=0.4.3
 huggingface_hub>=0.23.0
 
+# Intel OpenVINO (GPU acceleration on Intel integrated/discrete GPUs)
+openvino>=2024.0.0
+optimum[openvino]>=1.19.0
+
 # CLIP & Vision
 open_clip_torch>=2.23.0
 Pillow>=10.0.0

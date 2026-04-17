@@ -1,14 +1,13 @@
 """
-Chat Router - Conversational AI Interface
-Provides chat + export APIs.
-Chat uses cloud AI first and local fallback when cloud fails.
+Chat Router - Design assistant chat + export APIs.
+All chat uses local template-based responses (no cloud API required).
 """
 from fastapi import APIRouter, HTTPException, Body
 from pydantic import BaseModel, Field
 from typing import Optional, List, Dict, Any
 import logging
 
-from app.services.neural_inference import get_neural_service, NeuralServiceError
+from app.services.local_chat import get_local_chat_service
 from app.services.export_service import get_export_service, SUPPORTED_FORMATS
 
 logger = logging.getLogger(__name__)
@@ -26,6 +25,7 @@ class ChatResponse(BaseModel):
     conversation_id: str
     model: str
     timestamp: str
+    provider: str = "local"
 
 
 class ExportRequest(BaseModel):
@@ -69,63 +69,41 @@ class ImageInfoResponse(BaseModel):
     format: Optional[str] = None
 
 
-def _local_fallback_chat_response(message: str) -> str:
-    """Very light local fallback when cloud AI is unavailable."""
-    msg = message.strip().lower()
-    if any(k in msg for k in ["tạo ảnh", "generate", "poster", "logo"]):
-        return (
-            "Cloud AI đang lỗi tạm thời nên mình chuyển sang local fallback. "
-            "Bạn có thể mô tả rõ style/màu/chữ, mình sẽ tối ưu prompt để tạo ảnh local tốt hơn."
-        )
-    if any(k in msg for k in ["xin chào", "hello", "hi"]):
-        return "Chào bạn! Cloud AI đang tạm lỗi nên mình phản hồi local fallback. Bạn cần hỗ trợ gì về thiết kế?"
-    return (
-        "Cloud AI đang tạm không khả dụng, mình đã chuyển sang local fallback cho chat. "
-        "Bạn có thể hỏi tiếp, hoặc thử lại sau để nhận phản hồi đầy đủ từ cloud AI."
-    )
-
+# ─── Chat endpoints ───────────────────────────────────────────────────────────
 
 @router.post("/chat", response_model=ChatResponse)
 async def chat(request: ChatRequest):
     """
-    Send a chat message to the assistant.
+    Send a chat message to the local design assistant.
 
-    Priority:
-    1) Cloud chat API
-    2) Local fallback response when cloud fails
+    Handles: greetings, logo/poster advice, color, typography guidance.
+    For image generation, use POST /api/generate directly.
     """
-    service = get_neural_service()
+    service = get_local_chat_service()
     conversation_id = request.conversation_id or "default"
 
     try:
-        response = service.chat(
-            prompt=request.message,
+        result = service.chat(
+            message=request.message,
             conversation_id=conversation_id,
         )
         return ChatResponse(
-            response=response["response"],
-            conversation_id=response["conversation_id"],
-            model=response.get("model", "cloud_ai"),
-            timestamp=response["timestamp"],
+            response=result["response"],
+            conversation_id=result["conversation_id"],
+            model=result["model"],
+            timestamp=result["timestamp"],
+            provider=result["provider"],
         )
-
-    except (NeuralServiceError, RuntimeError, Exception) as e:
-        logger.warning("Cloud chat failed, fallback local: %s", str(e))
-        from datetime import datetime
-
-        return ChatResponse(
-            response=_local_fallback_chat_response(request.message),
-            conversation_id=conversation_id,
-            model="local-fallback",
-            timestamp=datetime.now().isoformat(),
-        )
+    except Exception as e:
+        logger.exception("Local chat failed")
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 @router.post("/chat/clear")
 async def clear_chat(conversation_id: Optional[str] = None):
     """Clear conversation history."""
     try:
-        service = get_neural_service()
+        service = get_local_chat_service()
         service.clear_history(conversation_id)
         return {"success": True, "message": "Đã xóa lịch sử hội thoại"}
     except Exception as e:
@@ -134,13 +112,15 @@ async def clear_chat(conversation_id: Optional[str] = None):
 
 @router.get("/chat/capabilities")
 async def get_capabilities():
-    """Get neural service capabilities."""
+    """Get service capabilities."""
     try:
-        service = get_neural_service()
+        service = get_local_chat_service()
         return service.get_capabilities()
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
+
+# ─── Export endpoints ────────────────────────────────────────────────────────
 
 @router.post("/export", response_model=ExportResponse)
 async def export_image(request: ExportRequest):
@@ -150,7 +130,7 @@ async def export_image(request: ExportRequest):
     Supported formats:
     - png, jpg, webp, bmp, tiff, ico
     - pdf (single page)
-    - svg (vector conversion)
+    - svg (vector conversion via vectorizer)
     """
     try:
         service = get_export_service()
@@ -190,20 +170,16 @@ async def export_image(request: ExportRequest):
 async def batch_export(request: BatchExportRequest):
     """
     Export single image to multiple formats at once.
-
     Useful for generating all needed formats in one request.
     """
     try:
         service = get_export_service()
-
         result = service.export_batch(
             image_base64=request.image_base64,
             formats=request.formats,
             quality=request.quality,
         )
-
         return BatchExportResponse(**result)
-
     except Exception as e:
         logger.exception("Batch export failed")
         raise HTTPException(status_code=500, detail=f"Lỗi xuất hàng loạt: {str(e)}")

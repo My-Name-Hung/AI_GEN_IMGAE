@@ -14,9 +14,16 @@ class GenerationMode(str, Enum):
     QUALITY = "quality"
 
 
+class LoraType(str, Enum):
+    LOGO_2D = "lora_logo_2d"
+    LOGO_3D = "lora_logo_3d"
+    POSTER = "lora_poster"
+    BASE = "base"  # no LoRA, use base model
+
+
 class GenerateRequest(BaseModel):
-    prompt: str = Field(..., min_length=1, max_length=500, description="Text prompt for generation")
-    negative_prompt: Optional[str] = Field(default="low quality, blurry, distorted", max_length=500)
+    prompt: str = Field(..., min_length=1, max_length=2000, description="Text prompt for generation")
+    negative_prompt: Optional[str] = Field(default="low quality, blurry, distorted, deformed", max_length=500)
     width: int = Field(default=1024, ge=256, le=1024)
     height: int = Field(default=1024, ge=256, le=1024)
     num_inference_steps: int = Field(default=4, ge=1, le=50)
@@ -24,30 +31,43 @@ class GenerateRequest(BaseModel):
     seed: Optional[int] = Field(default=None)
     num_images: int = Field(default=1, ge=1, le=4)
     mode: GenerationMode = Field(default=GenerationMode.TURBO)
-    enable_vectorization: bool = Field(default=False)
-    layout_aware: bool = Field(default=False)
-    lora_path: Optional[str] = Field(
+
+    # LoRA adapter selection (new — recommended over lora_path)
+    lora_type: Optional[LoraType] = Field(
         default=None,
-        description="Path to LoRA weights directory (e.g. /lora_poster/final/unet_lora)"
-    )
-    use_default_lora: bool = Field(
-        default=True,
-        description="Use DEFAULT_LORA_PATH or common local LoRA path when lora_path is empty"
+        description="LoRA adapter type: 'lora_logo_2d' | 'lora_logo_3d' | 'lora_poster' | 'base'",
     )
     lora_scale: float = Field(
         default=1.0,
         ge=0.0,
         le=2.0,
-        description="LoRA adapter weight scale"
+        description="LoRA adapter weight scale (0.0–2.0)",
     )
-    save_outputs: bool = Field(
+    lora_stack: bool = Field(
         default=False,
-        description="If true, save generated PNG files under outputs/generated"
+        description="If true, stack lora_type with existing adapters instead of replacing",
+    )
+
+    # Legacy path-based override (takes precedence if non-null)
+    lora_path: Optional[str] = Field(
+        default=None,
+        description="Path to LoRA weights directory (overrides lora_type if set)",
+    )
+    use_default_lora: bool = Field(
+        default=False,
+        description="Use default LoRA path from env when lora_path and lora_type are both empty",
+    )
+
+    enable_vectorization: bool = Field(default=False, description="Export SVG vector alongside PNG")
+    layout_aware: bool = Field(default=False, description="Run CLIP quality scoring on generated images")
+    save_outputs: bool = Field(
+        default=True,
+        description="If true, save generated PNG files under outputs/generated",
     )
     output_subdir: Optional[str] = Field(
         default=None,
         max_length=120,
-        description="Optional sub-folder name under outputs/generated"
+        description="Optional sub-folder name under outputs/generated",
     )
 
 
@@ -57,21 +77,39 @@ class GenerationResponse(BaseModel):
     svg_paths: Optional[List[str]] = None
     metadata: dict
     clip_scores: Optional[List[float]] = None
+    analysis: Optional[dict] = Field(default=None, description="Smart analysis breakdown from prompt analysis")
 
 
 class VectorizeRequest(BaseModel):
-    image_base64: str = Field(..., description="Base64 encoded PNG image")
-    output_format: str = Field(default="svg", pattern="^(svg|png)$")
-    color_quantization: int = Field(default=16, ge=2, le=256)
-    simplify_tolerance: float = Field(default=1.0, ge=0.1, le=10.0)
+    image_base64: str = Field(..., description="Base64 encoded PNG/JPG image")
+    color_quantization: int = Field(
+        default=16, ge=2, le=256,
+        description="Number of color layers in the output SVG (2–256)"
+    )
+    simplify_tolerance: float = Field(
+        default=1.5, ge=0.1, le=10.0,
+        description="RDP simplification tolerance — lower = more detail, higher = cleaner paths"
+    )
+    bezier_smoothness: float = Field(
+        default=0.25, ge=0.0, le=1.0,
+        description="Bezier smoothing factor — 0 = sharp corners, 1 = very smooth curves"
+    )
+    output_dir: Optional[str] = Field(
+        default=None,
+        description="Optional directory to save output.svg and output_layers.json"
+    )
+    filename_base: Optional[str] = Field(
+        default="vectorized",
+        description="Base filename for saved output files"
+    )
 
 
 class VectorizeResponse(BaseModel):
     success: bool
-    svg_content: Optional[str] = None
-    png_base64: Optional[str] = None
-    layers_json: Optional[dict] = None
-    metadata: dict
+    svg_content: Optional[str] = Field(default=None, description="Full SVG markup string")
+    png_base64: Optional[str] = Field(default=None, description="Quantized PNG reference (base64)")
+    layers_json: Optional[dict] = Field(default=None, description="Layer metadata JSON")
+    metadata: dict = Field(default_factory=dict)
 
 
 class TrainRequest(BaseModel):
@@ -146,16 +184,29 @@ class AutoTrainResponse(BaseModel):
     final_checkpoint: Optional[str] = None
 
 
-class LayoutAnalysisRequest(BaseModel):
-    image_base64: str
-    detect_text: bool = True
-    detect_icons: bool = True
-    suggest_layout: bool = True
+class LayoutAnalyzeRequest(BaseModel):
+    image_base64: str = Field(..., description="Base64 encoded PNG image")
+    detect_text: bool = Field(default=True, description="Enable text region detection")
+    detect_icons: bool = Field(default=True, description="Enable icon/logo region detection")
+    suggest_layout: bool = Field(default=True, description="Generate composition guides")
+    composition_mode: str = Field(
+        default="thirds",
+        description="Composition mode for suggest_composition: centered | thirds | diagonal | split",
+    )
+    output_dir: Optional[str] = Field(
+        default=None,
+        description="Optional directory to save layout_schema.json",
+    )
 
 
-class LayoutAnalysisResponse(BaseModel):
+class LayoutAnalyzeResponse(BaseModel):
     success: bool
-    layout: dict
-    regions: List[dict]
-    texts: List[dict]
-    icons: List[dict]
+    layout: dict = Field(default_factory=dict)
+    regions: List[dict] = Field(default_factory=list)
+    texts: List[dict] = Field(default_factory=list)
+    icons: List[dict] = Field(default_factory=list)
+    background_zones: List[dict] = Field(default_factory=list)
+    contrast_zones: List[dict] = Field(default_factory=list)
+    image_size: dict = Field(default_factory=dict)
+    summary: str = ""
+    saved_schema: Optional[str] = None

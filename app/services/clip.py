@@ -2,6 +2,7 @@
 CLIP Service - Text-Image similarity scoring
 Uses OpenAI CLIP ViT-L/14 for encoding and similarity computation
 """
+import os
 import torch
 from PIL import Image
 from typing import List
@@ -18,12 +19,18 @@ class CLIPService:
     def __init__(self, model_name: str = "openai/clip-vit-large-patch14"):
         """
         Initialize CLIP Service for text-image alignment scoring.
-        
-        Args:
-            model_name: CLIP model identifier
         """
         self.model_name = model_name
-        self.device = "cuda" if torch.cuda.is_available() else "cpu"
+
+        # Respect FORCE_DEVICE env var, else auto-detect
+        force = os.getenv("FORCE_DEVICE", "").lower()
+        if force == "cpu":
+            self.device = "cpu"
+        elif force == "cuda":
+            self.device = "cuda"
+        else:
+            self.device = "cuda" if torch.cuda.is_available() else "cpu"
+
         self.dtype = torch.float16 if self.device == "cuda" else torch.float32
     
     @property
@@ -41,10 +48,13 @@ class CLIPService:
         return CLIPService._processor
     
     def _load_model(self):
-        """Load CLIP model"""
+        """Load CLIP model with correct dtype for device."""
         try:
-            logger.info(f"Loading CLIP model: {self.model_name}")
-            CLIPService._model = CLIPModel.from_pretrained(self.model_name)
+            logger.info(f"Loading CLIP model: {self.model_name} on {self.device} (dtype={self.dtype})")
+            CLIPService._model = CLIPModel.from_pretrained(
+                self.model_name,
+                torch_dtype=self.dtype,
+            )
             CLIPService._processor = CLIPProcessor.from_pretrained(self.model_name)
             CLIPService._model = CLIPService._model.to(self.device)
             CLIPService._model.eval()

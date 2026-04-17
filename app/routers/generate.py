@@ -1,6 +1,6 @@
 """
 Generation Router - POST /generate
-Gemini-first image generation with local diffusion fallback.
+Smart generation with auto LoRA detection, prompt enhancement, and CLIP quality filtering.
 """
 from fastapi import APIRouter, HTTPException
 import logging
@@ -8,19 +8,23 @@ import base64
 import io
 from pathlib import Path
 from datetime import datetime
+from PIL import Image
 
 from app.models.schemas import GenerateRequest, GenerationResponse
-from app.services.diffusion import DiffusionService
-from app.services.clip import CLIPService
+from app.services.smart_generation import get_smart_service
 from app.services.vectorizer import VectorizerService
-from app.services.neural_inference import get_neural_service, NeuralServiceError
 
 logger = logging.getLogger(__name__)
 router = APIRouter()
 
-diffusion_service = DiffusionService()
-clip_service = CLIPService()
-vectorizer_service = VectorizerService()
+vectorizer_service = None
+
+
+def _get_vectorizer():
+    global vectorizer_service
+    if vectorizer_service is None:
+        vectorizer_service = VectorizerService()
+    return vectorizer_service
 
 
 def _save_generated_images(images, output_subdir: str | None = None) -> list[str]:
@@ -37,7 +41,7 @@ def _save_generated_images(images, output_subdir: str | None = None) -> list[str
     return saved_paths
 
 
-def _decode_base64_to_pil(image_b64: str):
+def _base64_to_pil(image_b64: str):
     img_bytes = base64.b64decode(image_b64)
     return io.BytesIO(img_bytes)
 
@@ -45,113 +49,99 @@ def _decode_base64_to_pil(image_b64: str):
 @router.post("/generate", response_model=GenerationResponse)
 async def generate_image(request: GenerateRequest):
     """
-    Generate logo/poster images from text prompt.
+    Generate logo/poster images from natural language prompt.
 
-    Priority:
-    1) Gemini image API
-    2) Local Diffusion fallback only when Gemini fails
+    Pipeline:
+      1. SmartPromptAnalyzer: auto-detect LoRA type, optimize params
+      2. DiffusionService: generate with SDXL Turbo + LoRA
+      3. CLIP filter: score images, auto-regenerate if quality too low
+      4. Optional: SVG vectorization, file save
+
+    Key features:
+    - User just types natural language; system auto-selects model
+    - CLIP quality filter ensures generated images match prompt
+    - Auto-retry up to 2 times if CLIP score < threshold
     """
-    provider = "gemini"
-    gemini_error = None
-
     try:
-        logger.info("Generating image with Gemini-first strategy. Prompt: %s", request.prompt)
+        smart_svc = get_smart_service()
 
-        images_base64 = []
-        generated_images = []
+        # Resolve lora_type override (None = auto-detect)
+        lora_override = None
+        if request.lora_type is not None:
+            val = request.lora_type.value
+            if val != "base":
+                lora_override = val
 
-        # 1) Gemini first
-        try:
-            neural_service = get_neural_service()
-            gemini_result = neural_service.generate_images(
-                prompt=request.prompt,
-                num_images=request.num_images,
-            )
-            images_base64 = gemini_result.get("images", [])
+        # Run smart generation
+        result = smart_svc.generate(
+            prompt=request.prompt,
+            negative_prompt=request.negative_prompt if request.negative_prompt else None,
+            width=request.width,
+            height=request.height,
+            num_inference_steps=request.num_inference_steps,
+            guidance_scale=request.guidance_scale,
+            seed=request.seed,
+            num_images=request.num_images,
+            mode=request.mode.value,
+            lora_type=lora_override,
+            lora_scale=request.lora_scale,
+            lora_stack=request.lora_stack,
+            enable_clip_filter=request.layout_aware,
+            enable_auto_retry=True,
+        )
 
-            # Convert to PIL only if needed by optional features
-            if request.layout_aware or request.enable_vectorization or request.save_outputs:
-                from PIL import Image
-
-                for img_b64 in images_base64:
-                    buffered = _decode_base64_to_pil(img_b64)
-                    generated_images.append(Image.open(buffered))
-
-        except (NeuralServiceError, RuntimeError, Exception) as e:
-            gemini_error = str(e)
-            provider = "local_diffusion"
-            logger.warning("Gemini image generation failed, fallback to local diffusion: %s", gemini_error)
-
-            # 2) Fallback local diffusion
-            generated_images = diffusion_service.generate(
-                prompt=request.prompt,
-                negative_prompt=request.negative_prompt,
-                width=request.width,
-                height=request.height,
-                num_inference_steps=request.num_inference_steps,
-                guidance_scale=request.guidance_scale,
-                seed=request.seed,
-                num_images=request.num_images,
-                mode=request.mode.value,
-                lora_path=request.lora_path,
-                use_default_lora=request.use_default_lora,
-                lora_scale=request.lora_scale,
+        if not result.get("success") or not result.get("images"):
+            raise HTTPException(
+                status_code=500,
+                detail="Generation failed: no images returned. Check backend logs."
             )
 
-            images_base64 = []
-            for img in generated_images:
-                buffered = io.BytesIO()
-                img.save(buffered, format="PNG")
-                images_base64.append(base64.b64encode(buffered.getvalue()).decode("utf-8"))
+        images_base64 = result["images"]
+        metadata = result["metadata"]
 
-        clip_scores = []
-        if request.layout_aware and generated_images:
-            for img in generated_images:
-                score = clip_service.compute_score(img, request.prompt)
-                clip_scores.append(float(score))
-
-        model_status = diffusion_service.get_status()
-
-        response_data = {
-            "success": True,
-            "images": images_base64,
-            "metadata": {
-                "prompt": request.prompt,
-                "negative_prompt": request.negative_prompt,
-                "requested_width": request.width,
-                "requested_height": request.height,
-                "effective_width": generated_images[0].width if generated_images else request.width,
-                "effective_height": generated_images[0].height if generated_images else request.height,
-                "mode": request.mode.value,
-                "num_images": len(images_base64),
-                "provider": provider,
-                "gemini_error": gemini_error,
-                "lora_requested_path": request.lora_path,
-                "use_default_lora": request.use_default_lora,
-                "active_lora_path": model_status.get("active_lora_path"),
-                "active_lora_scale": model_status.get("active_lora_scale"),
-                "fallback_used": provider != "gemini" or model_status.get("fallback_used"),
-                "loaded_model": model_status.get("loaded_model"),
-                "lora_compatibility_warning": model_status.get("lora_compatibility_warning"),
-            },
-            "clip_scores": clip_scores if clip_scores else None,
-        }
-
-        if request.enable_vectorization and generated_images:
-            svg_result = vectorizer_service.vectorize(generated_images[0])
-            response_data["svg_paths"] = [svg_result.get("svg_content", "")]
-
-        if request.save_outputs and generated_images:
+        # Optional SVG vectorization
+        svg_paths = []
+        if request.enable_vectorization and images_base64:
             try:
-                saved_paths = _save_generated_images(generated_images, request.output_subdir)
-                response_data["metadata"]["saved_outputs"] = saved_paths
+                pil_img = Image.open(_base64_to_pil(images_base64[0]))
+                svg_result = _get_vectorizer().vectorize(pil_img)
+                svg_paths = [svg_result.get("svg_content", "")]
+                metadata["svg_num_paths"] = svg_result.get("num_paths", 0)
+            except Exception as e:
+                logger.warning("Vectorization failed: %s", e)
+                metadata["svg_error"] = str(e)
+
+        # Optional file save
+        saved_paths = []
+        if request.save_outputs and images_base64:
+            try:
+                pil_images = [
+                    Image.open(_base64_to_pil(b64)) for b64 in images_base64
+                ]
+                saved_paths = _save_generated_images(pil_images, request.output_subdir)
+                metadata["saved_outputs"] = saved_paths
             except Exception as save_error:
                 logger.warning("Failed to save outputs: %s", save_error)
-                response_data["metadata"]["save_error"] = str(save_error)
+                metadata["save_error"] = str(save_error)
 
-        return response_data
+        return GenerationResponse(
+            success=True,
+            images=images_base64,
+            svg_paths=svg_paths if svg_paths else None,
+            metadata={
+                **metadata,
+                "lora_requested_path": request.lora_path,
+                "use_default_lora": request.use_default_lora,
+                "active_lora_adapters": result.get("analysis", {}).get("lora_type"),
+                "auto_generated": True,
+            },
+            clip_scores=result.get("clip_scores"),
+            analysis=result.get("analysis"),
+        )
 
+    except HTTPException:
+        raise
     except Exception as e:
-        logger.exception("Generation failed")
+        logger.exception("[Generate] Unhandled exception in generate_image")
         detail = str(e) if str(e) else f"{type(e).__name__} (empty message)"
         raise HTTPException(status_code=500, detail=detail)
