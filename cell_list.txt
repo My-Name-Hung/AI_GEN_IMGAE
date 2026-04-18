@@ -1,0 +1,21 @@
+0: # 🚀 AI Designer Backend — Kaggle Edition 
+1: # Cài các package còn thiếu trên Kaggle 
+2: --- 
+3: import os 
+4: --- 
+5: import os 
+6: --- 
+7: import os 
+8: --- 
+9: import os 
+10: --- 
+11: import os 
+12: --- 
+13: import os 
+14: --- 
+15: # ⭐ CELL QUAN TRỌNG NHẤT 
+16: --- 
+17: !tail -60 /kaggle/working/AI_GEN_IMAGE/backend.log
+18: --- 
+19: import urllib.request 
+20: --- 

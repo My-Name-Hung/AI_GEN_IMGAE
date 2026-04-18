@@ -32,7 +32,7 @@ class LoRAInfo:
         self.alpha = alpha
         self.base_model = base_model
         self.loaded = False
-        self.adapter_name = f"lora_{name}"
+        self.adapter_name = name  # already has "lora_" prefix in lora_type
 
 
 class LoRAManager:
