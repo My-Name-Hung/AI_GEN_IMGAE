@@ -179,31 +179,17 @@ class LoRAManager:
 
         adapter_name = info.adapter_name
 
-        weight_path = info.path / "adapter_model.safetensors"
-
-        from safetensors.torch import load_file
-        state_dict = load_file(str(weight_path))
-
-        # Keys use "base_model.model." prefix from PEFT but diffusers expects "unet."
-        # Remap so pipeline.unet can apply them correctly.
-        PREFIX_FROM = "base_model.model."
-        PREFIX_TO = "unet."
-
-        remapped = {}
-        for key, val in state_dict.items():
-            if PREFIX_FROM in key:
-                new_key = key.replace(PREFIX_FROM, PREFIX_TO, 1)
-            else:
-                new_key = key
-            remapped[new_key] = val
-
-        # Apply directly to the pipeline's UNet LoRA layers
-        self._apply_lora_to_pipeline(pipeline, remapped, float(scale))
-
         if stack and self._loaded_adapters:
+            new_adapters = list(self._loaded_adapters) + [adapter_name]
+            new_weights = [self._active_weights.get(a, 1.0) for a in self._loaded_adapters] + [float(scale)]
+            pipeline.load_lora_weights(str(info.path), adapter_name=adapter_name)
+            pipeline.set_adapters(new_adapters, adapter_weights=new_weights)
+            self._loaded_adapters = new_adapters
             self._active_weights[adapter_name] = float(scale)
         else:
             self._unload_all_from_pipeline(pipeline)
+            pipeline.load_lora_weights(str(info.path), adapter_name=adapter_name)
+            pipeline.set_adapters([adapter_name], adapter_weights=[float(scale)])
             self._loaded_adapters = [adapter_name]
             self._active_weights = {adapter_name: float(scale)}
 
@@ -212,38 +198,6 @@ class LoRAManager:
             "Loaded LoRA '%s' (scale=%.2f) — stacked=%s — adapters: %s",
             lora_type, scale, stack, self._loaded_adapters,
         )
-        return True
-
-    @staticmethod
-    def _apply_lora_to_pipeline(pipeline, state_dict, scale):
-        """Apply a remapped LoRA state_dict to pipeline UNet."""
-        try:
-            from diffusers.models.lora import _loar_apply_matching
-        except ImportError:
-            _loar_apply_matching = None
-
-        unet = getattr(pipeline, "unet", None)
-        if unet is None:
-            logger.error("Pipeline has no 'unet' attribute")
-            return False
-
-        if hasattr(unet, "load_attn_procs"):
-            unet.load_attn_procs(state_dict, adapter_name="default")
-        else:
-            for key, val in state_dict.items():
-                parts = key.split(".")
-                if len(parts) < 3 or parts[-2] not in ("lora_A", "lora_B"):
-                    continue
-                attr_parts = parts[:-2]
-                attr = unet
-                for p in attr_parts:
-                    attr = getattr(attr, p, None)
-                    if attr is None:
-                        break
-                if attr is not None:
-                    lora_layer = getattr(attr, parts[-2], None)
-                    if lora_layer is not None:
-                        lora_layer.weight.data = val.to(device=attr.weight.device, dtype=attr.weight.dtype)
         return True
 
     def _unload_all_from_pipeline(self, pipeline):
