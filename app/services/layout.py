@@ -656,7 +656,7 @@ class _ContrastZoneFinder:
                 combined = (contrast * 0.7 + sharpness * 0.3)
 
                 if combined > 0.2 and std_val > 5:
-                zones.append({
+                    zones.append({
                         "bbox": [int(x0), int(y0), int(x1 - x0), int(y1 - y0)],
                         "center": [int(x0 + (x1 - x0) // 2), int(y0 + (y1 - y0) // 2)],
                         "mean_brightness": round(mean_val, 1),
