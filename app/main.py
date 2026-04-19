@@ -211,6 +211,13 @@ async def lora_unload():
         return {"success": False, "error": str(e)}
 
 
+@app.get("/api/export/formats")
+async def export_formats():
+    """Return all supported export formats."""
+    from app.services.export_service import SUPPORTED_FORMATS
+    return {"formats": SUPPORTED_FORMATS, "default": "png"}
+
+
 @app.get("/")
 async def root():
     """Root endpoint"""
