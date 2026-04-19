@@ -84,7 +84,11 @@ class SmartGenerationService:
             dict with: images (list of base64), metadata, clip_scores, analysis
         """
         # ── Step 1: Analyze prompt ──────────────────────────────────────────
-        analysis = self._analyzer.analyze(prompt)
+        try:
+            analysis = self._analyzer.analyze(prompt)
+        except Exception as e:
+            logger.warning("[SmartGen] Prompt analysis failed: %s — using defaults", e)
+            analysis = self._analyzer.analyze("modern logo design")
 
         # Override with explicit params if provided
         if lora_type is not None:

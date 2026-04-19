@@ -626,7 +626,18 @@ def get_inference_service(force_backend: Optional[str] = None) -> InferenceServi
     if _inference_service is None:
         requested = force_backend or os.getenv("INFERENCE_BACKEND")
         detected = detect_backend()
-        backend = requested or detected
+
+        # Prefer CUDA if available — ignore INFERENCE_BACKEND if it says "cpu"
+        # but the system has a GPU. This prevents accidental CPU-only override
+        # when GPU is available (e.g. Kaggle, Colab, local GPU machines).
+        if detected == "cuda" and requested == "cpu":
+            logger.warning(
+                "INFERENCE_BACKEND=cpu is set but CUDA GPU is available. "
+                "Auto-overriding to CUDA for better performance."
+            )
+            backend = "cuda"
+        else:
+            backend = requested or detected
 
         # If OpenVINO is requested but optimum-intel is missing, fall back to CPU
         if backend == "openvino":

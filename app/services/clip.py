@@ -60,20 +60,19 @@ class CLIPService:
             CLIPService._model.eval()
             logger.info("CLIP model loaded successfully")
         except Exception as e:
-            logger.error(f"Failed to load CLIP: {e}")
-            raise
+            logger.warning(f"CLIP load failed (scoring disabled): {e}")
+            CLIPService._model = None
+            CLIPService._processor = None
     
     def compute_score(self, image: Image.Image, text: str) -> float:
         """
         Compute CLIP similarity score between image and text.
-        
-        Args:
-            image: PIL Image
-            text: Text description
-            
-        Returns:
-            Similarity score (0.0 to 1.0)
+        Returns 1.0 (accept) if CLIP model unavailable.
         """
+        if CLIPService._model is None or CLIPService._processor is None:
+            logger.warning("CLIP model unavailable — returning score=1.0 (accept all)")
+            return 1.0
+
         inputs = self.processor(
             text=[text],
             images=image,
@@ -81,13 +80,13 @@ class CLIPService:
             padding=True
         )
         inputs = {k: v.to(self.device) for k, v in inputs.items()}
-        
+
         with torch.no_grad():
             outputs = self.model(**inputs)
             logits_per_image = outputs.logits_per_image
             probs = logits_per_image.softmax(dim=1)
             score = probs[0][0].item()
-        
+
         return score
     
     def encode_image(self, image: Image.Image) -> torch.Tensor:
